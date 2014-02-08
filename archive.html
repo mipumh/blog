@@ -1,0 +1,20 @@
+---
+layout: base
+title: Sobre este blog
+permalink: /archivo/
+---
+
+<div class="blog-cover" style="background-image:url({{ site.baseurl }}/images/{{ site.inc.cover_image }});">
+    
+    <section>
+        <div class="container">
+            <ul class="posts">
+            {% for post in site.posts %}
+            <li><a href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a>
+            <small>{{ post.date | date_to_string }}</small>
+            </li>
+            {% endfor %}
+        </ul>
+        </div>
+    </section>
+</div>

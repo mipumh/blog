@@ -1,41 +1,36 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Blog"
+  subtitle:     "Noticias y pistas del Máster en Innovación en Periodismo"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Máster de Innovación en Periodismo
+  url:          http://mip.umh.es
+  facebook:     mipumh
+  twitter:      mipumh
+  gplus:        '103906596485859350077'
   
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  product_link: http://mip.umh.es
+  tagline:      "Idea, diseña, emprende"
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
-  
+    mipgithub:  true
+    
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
+    twitter:    true
+    facebook:   true
+    gplus:      true
     hn:         false
     
-  
  # Analytics     
   analytics:
-    google: 
-      # eg. 'UA-123-12'
-      id:       false
-      
+    google: true
       
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
@@ -43,7 +38,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://incorporated.sendtoinc.com
+url:         http://mip.umh.es/blog
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -68,12 +63,12 @@ markdown:      maruku
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
-excerpt_separator: "<!-- more -->"
+excerpt_separator: "<!-- más -->"
 
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /
+baseurl:     /blog
 lsi:         false
 
 maruku:
@@ -114,7 +109,7 @@ redcloth:
 assets:
 
   dirname: assets
-  baseurl: /assets/
+  baseurl: assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets
@@ -122,6 +117,6 @@ assets:
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
-  cache: false
+  cache: true
   gzip: [ text/css, application/javascript ]
   debug: false

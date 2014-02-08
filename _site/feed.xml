@@ -1,0 +1,611 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://mip.umh.es/blog</link>
+    <atom:link href="http://mip.umh.es/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Mon, 03 Feb 2014 19:03:47 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Feb 2014 19:03:47 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Periodismo descodificado</title>
+      <link>http://mip.umh.es/blog/2014/02/03/periodismo-descodificado/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2014/02/03/periodismo-descodificado</guid>
+      <description>&lt;p&gt;&lt;em&gt;Code is everywhere&lt;/em&gt;. No se puede ignorar, pero sí se debe aprovechar. El lenguaje informático se encuentra en la esencia de cualquier aplicación digital y, por supuesto, de la innovación en los contenidos periodísticos. Ante esta realidad, hay quien considera que no se puede ser periodista sin programar y quien cree que se debe seguir ignorando esta revolución. La clave, como casi siempre, se encuentra en el término medio, en dominar sus bases y seguir la pista a las nuevas tendencias.&lt;/p&gt;
+
+&lt;p&gt;2013 fue, en Estados Unidos, el año del &lt;a href=&quot;http://www.codeyear.com/&quot;&gt;código&lt;/a&gt;. En 2012, &lt;a href=&quot;http://gigaom.com/2012/09/05/estonias-plan-to-get-6-year-olds-coding-is-a-stroke-of-genius/&quot;&gt;Estonia se planteó enseñar programación a los niños de 6 años&lt;/a&gt;. El desarrollo de software emergió como una de las grandes &lt;a href=&quot;http://blog.bignerdranch.com/1631-dont-not-learn-how-to-code/&quot;&gt;vías para la solución de problemas&lt;/a&gt; y, ante las numerosas dificultades que afronta la profesión periodística, el debate se extendió &lt;a href=&quot;http://cacm.acm.org/magazines/2011/10/131400-computational-journalism/fulltext#&quot;&gt;entre el ámbito académico&lt;/a&gt;, &lt;a href=&quot;http://www.poynter.org/latest-news/mediawire/174132/software-developer-revives-debate-about-whether-journalists-should-learn-to-code/&quot;&gt;informático&lt;/a&gt; y &lt;a href=&quot;http://www.mediabistro.com/10000words/debate-journalists-code_b23853&quot;&gt;mediático&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aunque este movimiento derivó en &lt;a href=&quot;http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html&quot;&gt;opiniones&lt;/a&gt; y &lt;a href=&quot;http://radar.oreilly.com/2012/05/judge-alsup-codes.html&quot;&gt;comportamientos&lt;/a&gt; extremos, de nada sirve &lt;a href=&quot;http://www.theatlantic.com/education/archive/2013/10/should-journalism-schools-require-reporters-to-learn-code-no/280711/&quot;&gt;alarmarse&lt;/a&gt; o pensar que escribir, locutar o manejar un programa de edición de vídeo es suficiente. Jeff Jarvis, a menudo tan extremista, planteó una visión bastante razonable. En su opinión, &lt;a href=&quot;http://buzzmachine.com/2012/06/17/disrupting-journalism-education/&quot;&gt;el periodista tiene que saber&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Idear nuevas oportunidades y formas de resolver problemas.&lt;/li&gt;
+
+&lt;li&gt;Crear prototipos para materializar estas iniciativas.&lt;/li&gt;
+
+&lt;li&gt;Gestionar proyectos mediante la colaboración con las personas adecuadas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para ello, su relación con &lt;a href=&quot;http://www.niemanlab.org/2012/09/jeff-jarvis-heres-a-blueprint-for-radical-innovation-in-journalism-education/&quot;&gt;las herramientas tecnológicas debe basarse en&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La comprensión de los usos periodísticos de una herramienta.&lt;/li&gt;
+
+&lt;li&gt;La capacidad de adaptar plantillas y código.&lt;/li&gt;
+
+&lt;li&gt;La capacidad de crear algunos productos desde cero.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/amfumero&quot;&gt;Antonio Fumero&lt;/a&gt; también aportó una visión amplia sobre este fenómeno al hablar sobre el &lt;a href=&quot;http://www.periodismociudadano.com/2011/10/03/computational-journalism-%C2%BFperiodismo-o-informatica/&quot;&gt;Computational Journalism&lt;/a&gt; y la &lt;a href=&quot;http://www.periodismociudadano.com/2013/03/04/periodista-y-desarrollador-escribes-o-programas/&quot;&gt;programación en el periodismo&lt;/a&gt;. Y el blog &lt;a href=&quot;http://www.mediabistro.com/10000words/4-free-diy-coding-tutorials-for-the-online-journalist_b17374&quot;&gt;10000Words&lt;/a&gt; destacó cuatro sitios con tutoriales para empezar a formarse en HTML, Java y Ruby.&lt;/p&gt;
+
+&lt;p&gt;Gran parte de estos recursos, y muchos más, se desarrollan en el Máster de Innovación en Periodismo. Desde esta semana, &lt;a href=&quot;https://twitter.com/jmlweb&quot;&gt;José Manuel Lucas&lt;/a&gt; y &lt;a href=&quot;http://universite.umh.es/profesores/fichaprofesor.asp?NP=124077&quot;&gt;Onofre Martínez&lt;/a&gt; proporcionarán las bases del diseño web y de Wordpress, el &lt;a href=&quot;http://mip.umh.es/blog/2014/01/27/wordpress-blog/&quot;&gt;CMS más extendido y versátil&lt;/a&gt;. Y en marzo, &lt;strong&gt;José Manuel Noguera&lt;/strong&gt; explicará los nuevos fenómenos expresivos del periodismo, &lt;a href=&quot;https://twitter.com/JoseAbellan&quot;&gt;José Abellán&lt;/a&gt; proyectará sus herramientas audiovisuales, &lt;a href=&quot;https://twitter.com/@cabralens&quot;&gt;Mar Cabra&lt;/a&gt; desvelará las claves de la extracción y la visualización de datos y &lt;a href=&quot;https://twitter.com/miriamhernanz&quot;&gt;Miriam Hernanz&lt;/a&gt; reflejará las bases de la creación de los webdocs.&lt;/p&gt;
+
+&lt;p&gt;No se trata de formar programadores, sino de profesionales capaces de descodificar la innovación periodística.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>WordPress, no solo un blog</title>
+      <link>http://mip.umh.es/blog/2014/01/27/wordpress-blog/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2014/01/27/wordpress-blog</guid>
+      <description>&lt;p&gt;Cuando se habla de WordPress, normalmente se piensa en un blog, pero como señala el profesor del Máster de Innovación en Periodismo &lt;strong&gt;Miguel Onofre&lt;/strong&gt;, esta herramienta es mucho más que eso. Wordpress es &lt;a href=&quot;http://tecnologia-mundo.blogspot.com.es/2010/08/las-8-plataformas-de-gestion-de.html&quot;&gt;la plataforma para la gestión de contenidos web más usada&lt;/a&gt; en el mundo. Además, su desarrollo se basa en código abierto, es decir, es gratis y puede ser usada sin ningún tipo de restricción.&lt;/p&gt;
+
+&lt;p&gt;Al tratarse de una de las herramientas más extendidas, “el soporte y ayuda que se puede encontrar es continuo y proporcionado por miles de usuarios a través de sus comentarios y sugerencias”, &lt;a href=&quot;http://hownet.es/wpmaster/introduccion-a-wordpress/&quot;&gt;explica&lt;/a&gt; el profesor. También hay muchas empresas y proveedores de servicios especializados en proporcionar soporte a la plataforma. “Si nos decidimos por WordPress, no estaremos solos en el camino”, subraya Onofre, adscrito al Departamento de Física y Arquitectura de Computadoras de la UMH.&lt;/p&gt;
+
+&lt;p&gt;Este sistema de gestión de contenido ha evolucionado desde su lanzamiento inicial en mayo de 2003. Al principio fue una plataforma construida para la publicación de blogs, pero actualmente se utiliza cada vez más para construir y manejar sitios web de manera más fácil y rápida. &lt;a href=&quot;http://elpoderdelasideas.com/web-page/40-hermosas-webs-creadas-en-wordpress/&quot;&gt;Muchas de las páginas más grandes&lt;/a&gt; del Internet han sido construidas usando WordPress.&lt;/p&gt;
+
+&lt;p&gt;La asignatura de &lt;a href=&quot;http://mip.umh.es/programa.htm#diseñoweb&quot;&gt;Diseño Web Avanzado&lt;/a&gt; comprende un bloque dedicado exclusivamente a conocer esta plataforma y, como no podía ser de otra manera, el contenido y temario se publicarán en un WordPress especialmente creado para la asignatura. El objetivo es que el alumno se familiarice desde el principio con el entorno. Este bloque, como el conjunto de la asignatura de Diseño, es &lt;strong&gt;fundamentalmente práctico&lt;/strong&gt;. Por ello, comprenderá la realización de una serie de ejercicios orientados a elaborar una revista colaborativa on-line desarrollada en WordPress.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>¿Quieres ser un periodista web ninja?</title>
+      <link>http://mip.umh.es/blog/2014/01/20/cursos_umh/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2014/01/20/cursos_umh</guid>
+      <description>&lt;p&gt;Cada vez es más importante dominar la publicación de contenidos digitales, gestionar y mantener una comunidad de usuarios, presentar las historias en un formato atractivo y, sobre todo, hacerlo con el diseño adecuado para que sea consumible en cualquier soporte móvil. Ante esa demanda, el Máster de Innovación en Periodismo (MIP) oferta tres cursos de perfeccionamiento en edición avanzada de contenidos digitales.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#diseño&quot;&gt;Diseño web y wordpress para comunicadores&lt;/a&gt;: &lt;strong&gt;del 5 al 28 de febrero&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#narrativas&quot;&gt;Nuevas narrativas y edición multimedia&lt;/a&gt;: &lt;strong&gt;del 5 al 26 de marzo&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#redes&quot;&gt;Gestión avanzada de redes sociales&lt;/a&gt;: &lt;strong&gt;del 2 al 30 de abril&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;¿A quiénes se dirigen?&lt;/strong&gt; Antiguos alumnos, periodistas o estudiantes de últimos cursos que buscan adquirir formación técnica a la última.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Cuándo se celebran?&lt;/strong&gt; Los tres cursos se han dispuesto de forma escalonada (febrero, marzo y abril). Todas las &lt;strong&gt;clases serán presenciales&lt;/strong&gt; en horario de tarde, de &lt;strong&gt;16:00 a 20:00 horas&lt;/strong&gt;, salvo festivos, en el Edificio Innova (&lt;a href=&quot;https://mapsengine.google.com/map/u/0/edit?mid=zwJ9qYpCDTx0.kVCptWFCqS-s&quot;&gt;Nau de la Innovació&lt;/a&gt;) del campus de Elche (Alicante) de la Universidad Miguel Hernández.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Cómo y dónde se imparten?&lt;/strong&gt; Los talleres y seminarios se desarrollarán en grupos reducidos (&lt;strong&gt;20 máximo&lt;/strong&gt;) y contarán con &lt;strong&gt;tutorías de apoyo&lt;/strong&gt; matutinas para el que lo desee fuera de las horas de clase. Cada uno debe llevar su propio portátil para conservar el material (código, programas y edición) trabajado en clase.&lt;/p&gt;
+
+&lt;h4 id=&quot;1_diseo_web_y_wordpress_avanzado&quot;&gt;1. Diseño web y wordpress avanzado&lt;a name='diseño'&gt;.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Objetivos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dominio del &lt;strong&gt;diseño responsable&lt;/strong&gt;, adaptable a cualquier soporte&lt;/li&gt;
+
+&lt;li&gt;Dominio de la &lt;strong&gt;estética&lt;/strong&gt; y conocimiento de los diferentes recursos para el diseño web&lt;/li&gt;
+
+&lt;li&gt;Ser capaz &lt;strong&gt;editar y customizar un Wordpress&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Manejo avanzado&lt;/strong&gt; de sistemas de gestión de contenidos&lt;/li&gt;
+
+&lt;li&gt;Conocer las claves de determinados lenguajes web para el diseño web&lt;/li&gt;
+
+&lt;li&gt;Manejo de software para la &lt;strong&gt;creación de vectores gráficos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Clases (de 16:00 a 20:00):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;05/02/14 - Introducción al diseño web - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;06/02/14 - Introducción al diseño web II - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;07/02/14 - Introducción al HTML y CSS - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;12/02/14 - Tendencias en diseño web - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;13/02/14 - Diseño adaptativo y responsable - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;14/02/14 - Librerías de diseño rápido - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;19/02/14 - Diseño web aplicado I - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;20/02/14 - Recursos útiles para diseño - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;21/02/14 - Taller Wordpress I - Miguel Onofre&lt;/li&gt;
+
+&lt;li&gt;26/02/14 - Taller Wordpress II - Miguel Onofre&lt;/li&gt;
+
+&lt;li&gt;27/02/14 - Taller Wordpress II - JM Lucas&lt;/li&gt;
+
+&lt;li&gt;28/02/14 - Exposición de proyectos web - JM Lucas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Profesores:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;José M. Lucas&lt;/strong&gt; - &lt;a href=&quot;http://twitter.com/jmlweb&quot;&gt;@jmlweb&lt;/a&gt;. Desarrollador web, experto en diseño y programación con HTML, CSS, jQuery, CodeIgniter, FuelCMS. Especializado en desarrollo web front-end.Trabaja con CodeIgniter en el lado back-end, y utiliza otras tecnologías para desarrollar sus proyectos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miguel Onofre&lt;/strong&gt;. Profesor de Arquitectura de Computadores, Sistemas Operativos y Aplicaciones Móviles en la Universidad Miguel Hernández. Desarrollador web.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Precio de matrícula:&lt;/strong&gt; 360 euros (normal) y 320 euros (reducida). &lt;strong&gt;Preinscripción:&lt;/strong&gt; del 03/12/13 hasta el 03/02/14. &lt;strong&gt;Matriculación:&lt;/strong&gt; hasta el 03/02/14. &lt;a href=&quot;http://universite.umh.es/fpogestion/aspx/Preinscripcion/Preinscripcion.aspx?idEdicion=5721&quot;&gt;Realizar inscripción&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;2_nuevas_narrativas_y_edicin_multimedia&quot;&gt;2. Nuevas narrativas y edición multimedia&lt;a name='narrativas'&gt;.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Objetivos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Emplear las claves de los &lt;strong&gt;nuevos lenguajes&lt;/strong&gt; y mecanismos expresivos en el desarrollo de contenidos periodísticos&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Dominar las herramientas informáticas&lt;/strong&gt; esenciales para la elaboración de mensajes adaptados a estas innovaciones&lt;/li&gt;
+
+&lt;li&gt;Conocer a nivel básico el &lt;strong&gt;funcionamiento de un docuweb&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;Explorar las &lt;strong&gt;nuevas formas de edición de vídeo&lt;/strong&gt; y las tendencias audiovisuales en el sector digital&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Clases (de 16:00 a 20:00):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;05/03/14 - Expresión ciberperiodística I - José M. Noguera&lt;/li&gt;
+
+&lt;li&gt;06/03/14 - Producción multimedia I - José Abellán&lt;/li&gt;
+
+&lt;li&gt;07/03/14 - Producción multimedia II - José Abellán&lt;/li&gt;
+
+&lt;li&gt;12/03/14 - Periodismo de datos I - Mar Cabra&lt;/li&gt;
+
+&lt;li&gt;13/03/14 - Periodismo de datos II - Mar Cabra&lt;/li&gt;
+
+&lt;li&gt;14/03/14 - Periodismo de datos III - Mar Cabra&lt;/li&gt;
+
+&lt;li&gt;20/03/14 - Expresión ciberperiodística II - José M. Noguera&lt;/li&gt;
+
+&lt;li&gt;21/03/14 - Expresión ciberperiodística III - José M. Noguera&lt;/li&gt;
+
+&lt;li&gt;26/03/14 - El relato interactivo I - Alberto Fernández&lt;/li&gt;
+
+&lt;li&gt;27/03/14 - El relato interactivo II - Alberto Fernández&lt;/li&gt;
+
+&lt;li&gt;28/03/14 - El relato interactivo III - Alberto Fernández&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Profesores:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alberto Fernández&lt;/strong&gt; - &lt;a href=&quot;http://twitter.com/jalfertor&quot;&gt;@jalfertor&lt;/a&gt;. Redactor del&lt;a href=&quot;http://lab.rtve.es/&quot; title=&quot;RTVE Lab&quot;&gt;Laboratorio de Innovación Audiovisual&lt;/a&gt; de RTVE.es, donde ha sido editor adjunto y responsable de la información internacional durante tres años. Licenciado en Periodismo por la Universidad de Sevilla, es Master de Periodismo Multimedia del grupo Vocento y ha trabajado en EFE, Onda Madrid, el CSIC y la embajada española en Londres. Actualmente coordina el área de webdocs en RTVE.es, la primera en España encargada de la producción y edición de documentales interactivos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mar Cabra&lt;/strong&gt; - &lt;a href=&quot;http://twitter.com/@cabralens&quot;&gt;@cabralens&lt;/a&gt;. Directora de la &lt;a href=&quot;http://www.civio.es/&quot; title=&quot;Civio&quot;&gt;Fundación Ciudadana Civio&lt;/a&gt; y periodista de investigación, miembro del &lt;a href=&quot;http://www.icij.org/&quot; title=&quot;ICIJ&quot;&gt;International Consortium of Investigative Journalists&lt;/a&gt;. Sus trabajos de investigación, premiados a nivel internacional, han sido publicados en medios como The International Herald Tribune, PBS, Le Monde, The Miami Herald, El País y El Mundo, entre otros. Es profesora de varios masters y dedica parte de su tiempo a formar en periodismo de datos y transparencia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;José Abellán&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/joseabellan&quot;&gt;@joseabellan&lt;/a&gt;. Fundador y director de &lt;a href=&quot;http://ciudaddelasombra.net/&quot;&gt;Ciudad de la Sombra&lt;/a&gt;, agencia de comunicación en internet. Investigador y realizador audiovisual interesado en #Narrativa #Gamification #GameDesign #Transmedia #Docencia y #Texto. Ganador de los&lt;a href=&quot;http://www.rtve.es/invi/premios/2009/&quot;&gt;&lt;strong&gt;I Premios Internacionales de Innovación Audiovisual en Internet&lt;/strong&gt;&lt;/a&gt; en la categoría de educación de RTVE.es Cursando el Master en &lt;em&gt;Gamification&lt;/em&gt; y Narrativas Transmedia. Más información en su &lt;a href=&quot;http://www.joseabellan.net/&quot;&gt;blog personal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;José M. Noguera&lt;/strong&gt; - &lt;a href=&quot;http://twitter.com/jmnoguera&quot;&gt;@jmnoguera&lt;/a&gt;. Profesor de Tecnología en la Facultad de Comunicación de la UCAM desde 2006, donde dirige el Departamento de Ciencias de la Comunicación. Ha sido profesor en la Un. Americana de Acapulco (México) y la U. SEK de Segovia. &lt;a href=&quot;http://laazotea.blogspot.com.es/&quot;&gt;Bloguero&lt;/a&gt; y autor de Redes y periodismo (UOC, 2012).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Precio de matrícula:&lt;/strong&gt; 330 euros (normal) y 290 euros (reducida). &lt;strong&gt;Preinscripción:&lt;/strong&gt; del 03/12/13 hasta el 15/02/14. &lt;strong&gt;Matriculación:&lt;/strong&gt; del 02/01/14 hasta 05/03/14. &lt;a href=&quot;http://universite.umh.es/fpogestion/aspx/Preinscripcion/Preinscripcion.aspx?idEdicion=5756&quot;&gt;Realizar inscripción&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;3_gestin_avanzada_de_redes_sociales&quot;&gt;3. Gestión avanzada de redes sociales&lt;a name='redes'&gt;.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Objetivos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conocer y entender la &lt;strong&gt;dinámica de las redes sociales&lt;/strong&gt; en el entorno periodístico&lt;/li&gt;
+
+&lt;li&gt;Conocer y aplicar el funcionamiento de las &lt;strong&gt;aplicaciones orientadas al usuario&lt;/strong&gt; en las redes sociales&lt;/li&gt;
+
+&lt;li&gt;Entender la importancia del &lt;strong&gt;control y la verificación del contenido&lt;/strong&gt; distribuido en las redes sociales&lt;/li&gt;
+
+&lt;li&gt;Diseñar &lt;strong&gt;estrategias de marketing y publicidad&lt;/strong&gt; en el entorno de las redes sociales&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Clases (de 16:00 a 20:00):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;02/04/14 - Campañas de difusión masiva - J. A. Conca&lt;/li&gt;
+
+&lt;li&gt;03/04/14 - Mailchimp y Shortstack - J. A. Conca&lt;/li&gt;
+
+&lt;li&gt;04/04/14 - Marketing de guerrilla - J. A. Conca&lt;/li&gt;
+
+&lt;li&gt;09/04/14 - App Facebook: encuesta - Gabriel Cuesta&lt;/li&gt;
+
+&lt;li&gt;10/04/14 - App Facebook: concurso - Gabriel Cuesta&lt;/li&gt;
+
+&lt;li&gt;11/04/14 - Personalizar apps: Static HTML - Gabriel Cuesta&lt;/li&gt;
+
+&lt;li&gt;14/04/14 - Analítica: qué y cómo - Nieves Montero&lt;/li&gt;
+
+&lt;li&gt;15/04/14 - Estudio de perfiles propios - N. Montero&lt;/li&gt;
+
+&lt;li&gt;16/04/14 - Monitorizar marca y competencia - N. Montero&lt;/li&gt;
+
+&lt;li&gt;29/04/14 - Marketing de Contenidos - Jorge Barón&lt;/li&gt;
+
+&lt;li&gt;30/04/14 - Publicidad social segmentada - Jorge Barón&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Profesores:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Juan Ángel Conca&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jaconca&quot;&gt;@jaconca&lt;/a&gt;. Experto en Comunicación 2.0 y coordinador del curso Executive en Marketing Online en ESUMA. Desde hace años gestiona proyectos de comunicación con entidades -públicas y privadas- y colectivos, y es responsable de Comunicación 2.0 de distintas plataformas y empresas. Además, es docente habitual sobre community management, marketing online y redes sociales.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gabriel Cuesta&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/gabicuesta&quot;&gt;@gabicuesta&lt;/a&gt;. Desarrollador web y de aplicaciones para Facebook. Desde el año 1997 se dedica profesionalmente a Internet, tanto desarrollando webs como juegos en Flash. Es experto en PHP, AJAX, Actionscript y ha desarrollado también muchos sitios utilizando Joomla!, Wordpress y Zen Cart. Conferenciante habitual en Escuelas de Negocio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nieves Montero&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/nievesmontero&quot;&gt;@nievesmontero&lt;/a&gt;. Experta en Marketing digital, búsquedas en la web y posicionamiento online. Recibió su formación en universidades españolas, francesas y estadounidenses. Ha trabajado en empresas del calibre de Yahoo, Twitter o Google. Actualmente es responsable de Marketing Online en Gioseppo e imparte docencia en diversas escuelas de negocios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jorge Barón&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jbaron10&quot;&gt;@jbaron10&lt;/a&gt;. Sociólogo especializado en la consultoría de Comunicación y el Marketing Digital. Desde 1998, ha trabajado en el análisis y la difusión de las TIC en la Comunidad Valenciana, y ha participado en iniciativas como Infoville, Infotienda, Cevalsi o Internauta (formación en el uso de Internet). Es autor de Blogsocialmedia.es y profesor de Marketing online en varias escuelas y entidades.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Precio de matrícula:&lt;/strong&gt; 330 euros (normal) y 290 euros (reducida). &lt;strong&gt;Preinscripción:&lt;/strong&gt; del 15/12/13 al 28/03/14. &lt;strong&gt;Matriculación:&lt;/strong&gt; del 12/12/13 a 02/04/14. &lt;a href=&quot;http://universite.umh.es/fpogestion/aspx/Preinscripcion/Preinscripcion.aspx?idEdicion=5758&quot;&gt;Realizar inscripción&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para más información puede consultar con el director del máster y coordinador de los cursos: Miguel Carvajal (mcarvajal@umh.es). &lt;a href=&quot;http://bit.ly/1hbKSKo&quot;&gt;Más información&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Recursos para periodistas emprendedores</title>
+      <link>http://mip.umh.es/blog/2014/01/19/recursos_emprendedores/</link>
+      <pubDate>Sun, 19 Jan 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2014/01/19/recursos_emprendedores</guid>
+      <description>&lt;p&gt;Hace apenas unos días ha concluído un MOOC, un curso masivo online y abierto, en el &lt;a href=&quot;https://knightcenter.utexas.edu/es/&quot;&gt;Centro Knight&lt;/a&gt; para el Periodismo en la Universidad de Texas en Austin que llevaba por título &lt;a href=&quot;http://open.journalismcourses.org/&quot;&gt;Periodismo para Emprendedores&lt;/a&gt;: el Desarrollo de Proyectos Periodísticos para la Web.&lt;/p&gt;
+
+&lt;p&gt;En dicho curso se han ofrecido una serie de materiales entre los que me gustaría destacar unos cuantos que pueden resultar muy útiles no solo para nuestros alumnos emprendedores del MIP (Máster de Innovación en Periodismo) sino para el resto de periodistas interesados en el tema. Muchos de estos materiales han sido comentados o recomendados por algún profesor del máster, por eso no está de más recopilarlos para el blog.&lt;/p&gt;
+
+&lt;h3 id=&quot;diccionarios_tcnicos_y_traductores&quot;&gt;Diccionarios técnicos y traductores&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.internetglosario.com/&quot;&gt;Glosario de términos informáticos y de internet&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.germes.com/articulos/225-diccionario-financiero-ingles-espanol.html&quot;&gt;Diccionario financiero inglés-español&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;Servicios de &lt;a href=&quot;http://www.linguee.com/&quot;&gt;traducción en línea&lt;/a&gt; para frases en contexto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dos_sitios_web_interesantes&quot;&gt;Dos sitios web interesantes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;El &lt;a href=&quot;http://www.manualdeestilo.com/&quot;&gt;Manual de Estilo&lt;/a&gt; para Nuevos Medios de Fundéu sobre Periodismo y cómo escribir en internet.&lt;/li&gt;
+
+&lt;li&gt;Y la recopilación de &lt;a href=&quot;http://www.newsinnovation.com/models/&quot;&gt;consejos y ejemplos sobre planes de negocios para proyectos periodísticos&lt;/a&gt; de News Innovation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recursos_y_servicios_de_anuncios&quot;&gt;Recursos y servicios de anuncios&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.umbel.com/&quot;&gt;Umbel&lt;/a&gt; es un servicio que verifica la audiencia de los sitios web y medios sociales para atraer anunciantes lo más grandes posible y vender así la publicidad a tarifas más altas.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.comscore.com/&quot;&gt;ComScore&lt;/a&gt; es el servicio de verificación de tráfico que usan las grandes organizaciones de medios.&lt;/li&gt;
+
+&lt;li&gt;La &lt;a href=&quot;http://www.iab.net&quot;&gt;IAB&lt;/a&gt; (Interactive Advertising Bureau) y su capítulo &lt;a href=&quot;www.iabspain.net/&quot;&gt;español&lt;/a&gt; es una organización sin ánimo de lucro que presta ayuda a los sitios que ofrecen anuncios en internet y que por ejemplo contiene un listado de los tamaños estándar que tienen los anuncios para la web.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y por último quisiera destacar &lt;strong&gt;cinco libros&lt;/strong&gt; a mi parecer esenciales sobre negocios y márketing con casos prácticos aplicados a internet:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Tipping-Ensayo-Lectura-Spanish-Edition/dp/161605722X&quot;&gt;El punto clave&lt;/a&gt; (The Tipping Point) de &lt;strong&gt;Malcom Gladwell&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Ideas-pegan-Stick-Spanish-Edition/dp/8483565838&quot;&gt;Ideas que se pegan&lt;/a&gt; de &lt;strong&gt;Chip Heath y Dan Heath&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Obtenga-Si-Getting-Yes-Negociar/dp/8480889985/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1381681474&amp;sr=1-2&amp;keywords=getting+to+yes+books+espanol&quot;&gt;Getting to Yes&lt;/a&gt; de &lt;strong&gt;Roger Fisher, William Ury y Bruce Patton&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/m%C3%A9todo-Lean-Startup-Eric-Ries/dp/842340949X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1381681618&amp;sr=1-1&amp;keywords=the+lean+startup+espanol&quot;&gt;El método Lean Startup: cómo crear empresas de éxito utilizando la innovación continua&lt;/a&gt; de &lt;strong&gt;Eric Ries&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.es/iEmprendedor-Desarrolla-negocio-Internet-Especiales/dp/8441529574&quot;&gt;El libro del iEmprendedor para Desarrollar con éxito tu negocio en Internet&lt;/a&gt; del español &lt;strong&gt;Javier Gosende Grela&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Un programa noticioso</title>
+      <link>http://mip.umh.es/blog/2014/01/17/noticia_umh/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2014/01/17/noticia_umh</guid>
+      <description>&lt;p&gt;Aprovechando la visita de &lt;strong&gt;Ángel Anaya&lt;/strong&gt; y &lt;strong&gt;Laura Blanco&lt;/strong&gt;, creadores de la revista &lt;a href=&quot;http://www.vis-a-vis.es/&quot;&gt;Vis-a-Vis&lt;/a&gt;, los compañeros de UMH TV acudieron al &lt;em&gt;Edificio Innova&lt;/em&gt;, lugar en el que se desarrollan las clases del Máster de Innovación en Periodismo, para cubrir la sesión y hablar con los estudiantes; este es el resultado que se ha emitido hoy en el informativo semanal de la televisión universitaria.&lt;/p&gt;
+&lt;object height='315' width='560'&gt;&lt;param name='movie' value='//www.youtube.com/v/N3qunmkMPCo?version=3&amp;amp;hl=es_ES' /&gt;&lt;param name='allowFullScreen' value='true' /&gt;&lt;param name='allowscriptaccess' value='always' /&gt;&lt;embed allowfullscreen='true' allowscriptaccess='always' height='315' src='//www.youtube.com/v/N3qunmkMPCo?version=3&amp;amp;hl=es_ES' type='application/x-shockwave-flash' width='560' /&gt;&lt;/object&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Conoce a tu audiencia</title>
+      <link>http://mip.umh.es/blog/2014/01/06/audiencia/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2014/01/06/audiencia</guid>
+      <description>&lt;p&gt;Antes de lanzar cualquier proyecto periodístico, resulta muy importante identificar las necesidades de tu audiencia potencial. Así lo subrayan las sesiones impartidas por dos profesores del MIP: &lt;a href=&quot;http://ainhoajulian.com/&quot;&gt;Ainhoa Julián&lt;/a&gt; consultora de marketing online profundiza en las herramientas de analítica Web que permiten medir el efecto de las estrategias de contenidos. Por su parte, &lt;a href=&quot;https://twitter.com/nachoortiz&quot;&gt;Nacho Ortiz&lt;/a&gt;, content manager de Meristation, explica cómo identificar diversos nichos especializados en función de los perfiles de la audiencia a quien se dirige el proyecto.&lt;/p&gt;
+
+&lt;p&gt;Para conocer a la audiencia es necesario plantearse preguntas como éstas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;¿Qué asuntos les interesan?&lt;/li&gt;
+
+&lt;li&gt;¿Dónde pasan su tiempo libre? ¿Y su tiempo de ocio online?&lt;/li&gt;
+
+&lt;li&gt;¿Qué tipo de conversaciones tienen? ¿Con quiénes?&lt;/li&gt;
+
+&lt;li&gt;¿Qué marcas y medios prefieren?&lt;/li&gt;
+
+&lt;li&gt;¿Qué les motiva a leerte, seguirte o consumir tus contenidos?&lt;/li&gt;
+
+&lt;li&gt;¿Qué es lo que les gusta de lo que haces? ¿Y lo que no?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El director de News Analytics en The New York Times, James Robinson, &lt;a href=&quot;http://www.niemanlab.org/2013/12/think-audiences-not-just-metrics/&quot;&gt;insiste&lt;/a&gt; en que lo importante no son los datos de las visitas en una web, sino cómo la gente interactúa con los contenidos y se relaciona con ellos. De este modo, aquellos medios que optan por la estrategia de interactuar con sus lectores o espectadores, consiguen incrementar la calidad de su audiencia, no solo la cantidad.&lt;/p&gt;
+
+&lt;p&gt;Las redes sociales se están convirtiendo en un termómetro muy útil para medir la sintonía o el rechazo de determinadas acciones, propuestas o noticias. A principios de diciembre, Facebook &lt;a href=&quot;http://newsroom.fb.com/News/768/News-Feed-FYI-Helping-You-Find-More-News-to-Talk-About&quot;&gt;anunció&lt;/a&gt; que incrementaba el uso de enlaces a contenidos de calidad que aparecen en las páginas de sus usuarios, con menciones a noticias de fuentes solventes. También Twitter se ha consolidado como un índice que permite valorar cómo reacciona la audiencia ante los programas en el momento en que se emiten, incrementando el poder de la televisión social. El día del estreno de una serie o un reality, los productores ya tienen muy en cuenta su &lt;a href=&quot;https://blog.twitter.com/2013/change-the-channel-directly-from-twitter&quot;&gt;impacto&lt;/a&gt; en Twitter.&lt;/p&gt;
+
+&lt;p&gt;Los grandes medios invierten en redes sociales. Un solo dato: el 20 de diciembre, el Grupo News Corporation de Murdoch &lt;a href=&quot;http://newscorp.com/2013/12/20/news-corp-acquires-social-news-agency-storyful/&quot;&gt;compró&lt;/a&gt; la agencia social de noticias &lt;a href=&quot;http://storyful.com/&quot;&gt;Storyful&lt;/a&gt; Se trata de una agencia cuyos periodistas gestionan vídeos grabados por los usuarios para su difusión en los medios de comunicación.&lt;/p&gt;
+
+&lt;p&gt;La participación en los medios online crece cada vez con más fuerza. Algunos usuarios envían ideas y materiales, otros comparten o rediseñan contenidos… Se han convertido no solo en fuentes de información, sino también en productores y distribuidores de contenidos. Y por primera vez en la historia del periodismo, como apunta &lt;strong&gt;Gumersindo Lafuente&lt;/strong&gt;, las audiencias auditan y &lt;a href=&quot;http://www.jotdown.es/2012/09/gumersindo-lafuente-por-primera-vez-en-la-historia-las-audiencias-controlan-a-los-periodistas/&quot;&gt;controlan&lt;/a&gt; el trabajo de los periodistas.&lt;/p&gt;
+
+&lt;p&gt;Las redes sociales no han matado al periodismo. Le están dando nueva energía, para intentar conectar mejor con los intereses de los usuarios. Por eso, al diseñar cualquier proyecto de comunicación, hemos de invertir mucho esfuerzo en conocer, valorar y mimar a nuestra audiencia.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>José Cervera inaugura el MIP</title>
+      <link>http://mip.umh.es/blog/2013/09/27/cervera-inaugura/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/09/27/cervera-inaugura</guid>
+      <description>&lt;p&gt;El Máster de Innovación en Periodismo abre sus puertas a la primera promoción el próximo &lt;strong&gt;3 de octubre&lt;/strong&gt; en el &lt;a href=&quot;http://www.naudelainnovacio.com/&quot;&gt;Edificio Innova&lt;/a&gt; (&lt;a href=&quot;https://mapsengine.google.com/map/u/0/edit?mid=zwJ9qYpCDTx0.kVCptWFCqS-s&quot;&gt;mapa&lt;/a&gt; con una conferencia inaugural a cargo de &lt;strong&gt;José Cervera&lt;/strong&gt;, periodista y profesor, recién nombrado &lt;a href=&quot;eldiario.es/defensor&quot;&gt;Defensor de la Comunidad&lt;/a&gt; en el &lt;a href=&quot;http://www.eldiario.es/&quot;&gt;eldiario.es&lt;/a&gt;. La Jornada de Bienvenida de la 1ª edición del Máster será abierta y en ella además se explicará el funcionamiento de este pionero programa sobre emprendimiento y periodismo de la Universidad Miguel Hernández.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eldiario.es/autores/jose_cervera/&quot;&gt;José Cervera&lt;/a&gt; es uno de los periodistas más influyentes de la blogosfera hispana gracias a su blog &lt;a href=&quot;http://blog.rtve.es/retiario/&quot;&gt;Retiario&lt;/a&gt;, un espacio de ciencia y tecnología que arrancó en 2004. Su amplia trayectoria profesional (20 Minutos, Cinco Días, Baquia o RTVE.es) y su perfil académico (Profesor en la Universidad Internacional de la Rioja) hacen de Cervera un &lt;strong&gt;experto en los cambios de la industria periodística&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;El &lt;a href=&quot;mip.umh.es&quot;&gt;Máster de Innovación en Periodismo&lt;/a&gt; es un postgrado oficial que pretende servir de plataforma para la &lt;strong&gt;ideación y creación de proyectos en el ámbito de la comunicación digital&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>La revolución del periodismo socializado</title>
+      <link>http://mip.umh.es/blog/2013/08/23/periodismo-social/</link>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/08/23/periodismo-social</guid>
+      <description>&lt;p&gt;Hace tiempo que &lt;em&gt;no estar en la red&lt;/em&gt; significa &lt;em&gt;no existir&lt;/em&gt;. Pero ese mundo conectado que descubríamos hace una década ha virado hacia un ecosistema más social. Plataformas como Facebook y Twitter han revolucionado no sólo la sociedad, la cultura o el periodismo, sino también nuestra forma de consultar información y crear conocimiento. Ahora las audiencias, antes pasivas, producen contenido y enriquecen su consumo, mientras las redes sociales ofrecen innumerables oportunidades de &lt;em&gt;marketing&lt;/em&gt; para los medios. Pero socializar con los usuarios entraña tantas ventajas como riesgos.&lt;/p&gt;
+
+&lt;p&gt;Antes de decidir una estrategia propia conviene conocer cómo han utilizado las redes otros medios y marcas. &lt;a href=&quot;https://twitter.com/jaconca&quot;&gt;Juan Ángel Conca&lt;/a&gt;, experto en Comunicación 2.0 y community management, se encargará de inspirar y mostrar a los alumnos usos innovadores para la comunicación en las redes sociales.&lt;/p&gt;
+
+&lt;p&gt;Con esta participación de los usuarios los medios han multiplicado de forma exponencial el número de fuentes a su alcance, pero también se incrementa el riesgo de publicar información manipulada o falsa. &lt;a href=&quot;http://victorpuig.es/about/&quot;&gt;Víctor Puig&lt;/a&gt;, experto en reputación digital, abordará las claves para la verificación de información extraída de internet y cómo prevenir o evitar situaciones que comprometan la reputación de la marca.&lt;/p&gt;
+
+&lt;p&gt;Esta interacción con los seguidores puede estimularse a través de la &lt;a href=&quot;http://dosydroson2.wordpress.com/ludificaciongamificacion/&quot;&gt;gamificación&lt;/a&gt;, esto es, atribuyendo elementos de juego a contextos que le son ajenos, por ejemplo, con la información de actualidad. Los alumnos aprenderán con &lt;a href=&quot;http://www.gabrielcuesta.com/&quot;&gt;Gabriel Cuesta&lt;/a&gt;, desarrollador web y de aplicaciones para Facebook, cómo crear este tipo de contenidos en la red social para mejorar la interacción de los usuarios.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, es imposible saber si nuestra estrategia social ha funcionado si no monitorizamos la actividad y la conversación. Jorge Barón, experto en &lt;em&gt;Marketing en internet&lt;/em&gt; y &lt;a href=&quot;http://www.blogsocialmedia.es/&quot;&gt;bloguero&lt;/a&gt;, explicará los indicadores habituales en la analítica de medios sociales y las herramientas que se utilizan para su medición. Una asignatura que permitirá a los alumnos corregir la estrategia aplicada hasta el momento y ajustarla para mejorar su efectividad.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Periodismo de datos</title>
+      <link>http://mip.umh.es/blog/2013/07/04/datos/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/07/04/datos</guid>
+      <description>&lt;p&gt;Frente a los mensajes caóticos, elementales y estériles que abundan en internet, &lt;strong&gt;una de las grandes oportunidades de la profesión reside en la investigación, la estructuración y la representación gráfica de la información&lt;/strong&gt;. Lo que se ha denominado periodismo de datos &lt;a href=&quot;http://www.apmadrid.es/noticias/generales/re-medios-pablo-mancini-tenemos-que-preguntarnos-que-papel-ocupan-los-medios-tradicionales-y-el-periodismo-en-este-nuevo-ecosistema-de-la-informacion?Itemid=209&quot; title=&quot;Entrevista a Pablo Mancini en la Asociación de la Prensa de Madrid en la que califica esta tendencia como una moda o una ficción&quot;&gt;no constituye probablemente ninguna novedad&lt;/a&gt;, pero el contexto, los métodos y las herramientas a través de las que desarrolla sí presentan importantes desafíos. La repercusión de filtraciones como las de &lt;a href=&quot;http://takingnote.blogs.nytimes.com/2013/06/24/edward-snowdens-mad-dash/?_r=0&quot; title=&quot;Editorial del New York Times sobre este caso&quot;&gt;Edward Snowden sobre el sistema de espionaje de Estados Unidos&lt;/a&gt; o &lt;a href=&quot;http://internacional.elpais.com/tag/c/91871e200f2c2bf8987c3cdbd09d178a&quot; title=&quot;Especial de El País sobre esta filtración&quot;&gt;los cables de las embajadas norteamericanas&lt;/a&gt; así lo indican y el interés de medios como &lt;a href=&quot;http://www.guardian.co.uk/datahttp://&quot; title=&quot;Sección dedicada al periodismo de datos en este medio&quot;&gt;The Guardian&lt;/a&gt; o &lt;a href=&quot;http://www.lanacion.com.ar/data&quot; title=&quot;Sección dedicada al periodismo de datos en este medio&quot;&gt;La Nación de Argentina&lt;/a&gt; por el &lt;em&gt;data journalism&lt;/em&gt; así lo constatan.&lt;/p&gt;
+
+&lt;p&gt;Por eso, tras casi medio año de inactividad, &lt;a href=&quot;http://cibermensaje.com/el-proyecto/&quot; title=&quot;Página con la explicación de la naturaleza de Cibermensaje&quot;&gt;este proyecto&lt;/a&gt; resurge con la intención de describir brevemente uno de los últimos casos sobre este fenómeno: &lt;strong&gt;la investigación sobre los paraísos fiscales&lt;/strong&gt; impulsada por el International Consortium of Investigative Journalists (&lt;a href=&quot;http://www.icij.org/&quot; title=&quot;Página de inicio de la web de esta entidad&quot;&gt;ICIJ)&lt;/a&gt; y recogida, en España, por &lt;a href=&quot;http://www.elconfidencial.com/&quot; title=&quot;Página de inicio de este cibermedio&quot;&gt;El Confidencial.&lt;span id='more-996' /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El último episodio de este hito, que se inició en noviembre de 2012 y que involucró a &lt;strong&gt;112 periodistas de 58 países durante 15 meses&lt;/strong&gt;, consiste en la apertura de todos los datos empleados a través de &lt;a href=&quot;http://offshoreleaks.icij.org/&quot; title=&quot;Página de inicio de esta base de datos digital&quot;&gt;Offshore Leaks database&lt;/a&gt;, una plataforma digital creada por &lt;a href=&quot;http://www.nacion.com/&quot; title=&quot;Página de inicio de la versión digital de este medio&quot;&gt;La Nación de Costa Rica&lt;/a&gt;. Esta &lt;a href=&quot;http://www.nacion.com/data/Revelan-identidad-empresas-paraisos-fiscales_0_1348265192.html&quot; title=&quot;Texto publicado en este cibermedio donde explican sus detalles&quot;&gt;gigantesca base de datos&lt;/a&gt;, que incluye más de 100.000 entidades financieras opacas y 2,5 millones de empresas registradas, constituye una provechosa herramienta para cualquier periodista y, sobre todo, un ejemplo para futuras investigaciones.&lt;/p&gt;
+
+&lt;p&gt;A través de un sencillo buscador, la aplicación proporciona resultados clasificados en tres campos: “officers &amp;amp; master clients”; “offshore entities”; y “listed addresses”. Cuando se selecciona uno de éstos, se genera automáticamente &lt;strong&gt;una visualización gráfica con mapas conceptuales y listados de nombres y direcciones&lt;/strong&gt;. El funcionamiento resulta sencillo y, gracias &lt;a href=&quot;http://offshoreleaks.icij.org/about/caveats&quot; title=&quot;Página dedicada a la explicación de estas cuestiones de la base de datos&quot;&gt;al glosario y a las indicaciones legales&lt;/a&gt; que proporciona la plataforma, cualquier usuario tiene la oportunidad de interpretar y emplear una gran cantidad de información.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cibermensaje.com/wp-content/uploads/2013/06/Figura-22.jpg&quot; alt=&quot;Figura 2: Ejemplo del funcionamiento de la aplicación con la introducción del término | Fuente: offshoreleaks.icij.org&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figura 2: Ejemplo del funcionamiento de la aplicación con el término Alicante | Fuente: offshoreleaks.icij.org&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.icij.org/offshore/how-icijs-project-team-analyzed-offshore-files&quot; title=&quot;Artículo de la ICIJ en la que se apuntan las claves de la investigación&quot;&gt;La investigación&lt;/a&gt; comenzó cuando una fuente anónima entregó a &lt;a href=&quot;http://www.icij.org/journalists/gerard-ryle&quot;&gt;Gerard Ryle&lt;/a&gt;, director del ICIJ, un disco duro con 260 gigabites de documentos, en diferentes formatos, que entregó a la Unidad de Investigaciones de La Nación. &lt;a href=&quot;http://www.icij.org/blog/2013/06/how-we-built-offshore-leaks-database&quot; title=&quot;Artículo de la ICIJ en la que desarrolla este proceso&quot;&gt;El análisis posterior&lt;/a&gt; de este gran volumen de información, donde se detectaron datos originados en una decena de paraísos fiscales como las Islas Vírgenes Británicas, las Islas Cook y Singapur, constituyó el primer desafío del equipo. Para ello, &lt;strong&gt;se empleó un software de &lt;a href=&quot;http://en.wikipedia.org/wiki/Full_text_search&quot; title=&quot;Artículo de Wikipedia que explica este concepto&quot;&gt;&lt;em&gt;Full Text Retrieval&lt;/em&gt;&lt;/a&gt; (FTR) que permitió indizar cada número, palabra y relación&lt;/strong&gt; para posteriormente efectuar consultas en motores de búsqueda similares a los de Google, pero más complejos y cifrados.&lt;/p&gt;
+
+&lt;p&gt;El siguiente paso consistió en &lt;a href=&quot;http://www.elconfidencial.com/especiales/paraisos-fiscales/2013/06/15/periodismo-de-datos-gargantas-profundas-y-tecnologia-compartida-123091/&quot; title=&quot;Artículo de El Confidencial en el que se detalla este proceso&quot;&gt;la elaboración de la interfaz&lt;/a&gt;. El objetivo era en confeccionar una aplicación sencilla, interactiva y funcional que permitiera una exploración visual de los datos práctica. Para empezar, se empleó &lt;a href=&quot;http://www.mockflow.com/&quot; title=&quot;Página de inicio de esta herramienta&quot;&gt;MockFlow&lt;/a&gt;, una herramienta web colaborativa que permite la dibujar, compartir y retocar bocetos digitales. &lt;strong&gt;El resultado fue una plataforma que representaba los datos en nodos circulares (empresas o personas) unidos por enlaces lineales&lt;/strong&gt;, y que generaba una URL independiente para cada elemento con el fin de facilitar la interconexión y la localización. La visualización final se sustenta en el programa &lt;a href=&quot;http://sigmajs.org/http://&quot; title=&quot;Página de inicio de esta herramienta&quot;&gt;Sigma.js&lt;/a&gt;, una biblioteca con numerosas opciones para producir un diseño personalizado con posibilidades de exploración.&lt;/p&gt;
+
+&lt;p&gt;Para lleva a cabo esta tarea, el proyecto contó con la participación de periodistas como &lt;a href=&quot;http://www.icij.org/journalists/duncan-campbell&quot; title=&quot;Perfil de este periodista en la web del ICIJ&quot;&gt;Duncan Campbell&lt;/a&gt; (Reino Unido), miembro fundador del ICIJ y director de la iniciativa, &lt;a href=&quot;http://www.icij.org/journalists/nicky-hager&quot; title=&quot;Perfil de este periodista en la web del ICIJ&quot;&gt;Nicky Hager&lt;/a&gt; (Nueva Zelanda) o &lt;a href=&quot;http://www.icij.org/journalists/giannina-segnini&quot; title=&quot;Perfil de este periodista en la web del ICIJ&quot;&gt;Giannina Segnini&lt;/a&gt; (Costa Rica) y programadores de software como &lt;a href=&quot;http://www.icij.org/journalists/sebastian-mondial&quot; title=&quot;Perfil de este programador en la web del ICIJ&quot;&gt;Sebastian Mondial&lt;/a&gt; (Alemania), &lt;a href=&quot;http://www.linkedin.com/profile/view?id=248661516&amp;amp;authType=NAME_SEARCH&amp;amp;authToken=UIEF&amp;amp;locale=en_US&amp;amp;srchid=a0979b57-ce53-4aa7-913d-3a1456121032-0&amp;amp;srchindex=1&amp;amp;srchtotal=214&amp;amp;goback=.fps_PBCK_*1_Matthew_Fowler_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;amp;pvs=ps&amp;amp;trk=pp_profile_name_link&quot; title=&quot;Perfil de este programador en Linkedin&quot;&gt;Matthew Fowler&lt;/a&gt; (Reino Unido) o &lt;a href=&quot;http://www.colpin.ipys.org/participante/rigoberto-carvajal&quot; title=&quot;Perfil de este programador en la web de la Conferencia Latinoamericana de Periodismo de Investigación &quot;&gt;Rigoberto Carvajal&lt;/a&gt; (Costa Rica).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En España, esta responsabilidad recayó en profesionales como &lt;a href=&quot;http://www.linkedin.com/pub/mar-cabra/21/bb8/8b9&quot;&gt;Mar Cabra&lt;/a&gt;&lt;/strong&gt;, integrante del ICIJ, &lt;a href=&quot;http://www.apmadrid.es/noticias-destacados/1-con-foto/fallados-los-premios-de-periodismo-apm-2012&quot;&gt;Premio Larra 2012&lt;/a&gt; y una de las principales exponentes del periodismo de datos en España. Hasta diciembre de 2012, fue directora de la &lt;a href=&quot;http://www.civio.es/&quot; title=&quot;Página de inicio de esta iniciativa&quot;&gt;Fundación Ciudadana Civio&lt;/a&gt; y sus trabajos han sido publicados en medios como &lt;a href=&quot;http://global.nytimes.com/&quot; title=&quot;Página de inicio de la versión digital de este medio&quot;&gt;The International Herald Tribune&lt;/a&gt;, &lt;a href=&quot;http://www.lemonde.fr/&quot; title=&quot;Página de inicio de la versión digital de este medio&quot;&gt;Le Monde&lt;/a&gt;, &lt;a href=&quot;http://www.miamiherald.com/&quot; title=&quot;Página de inicio de la versión digital de este medio&quot;&gt;The Miami Herald&lt;/a&gt; y &lt;a href=&quot;http://www.eldiario.es/autores/mar_cabra/&quot;&gt;eldiario.es,&lt;/a&gt; y actualmente es profesora del Máster en Innovación en Perioidsmo (&lt;a href=&quot;http://mip.umh.es/&quot; title=&quot;Página de inicio de esta iniciativa&quot;&gt;MIP&lt;/a&gt;) de la Universidad Miguel Hernández (&lt;a href=&quot;http://www.umh.es/&quot; title=&quot;Página oficial de esta entidad&quot;&gt;UMH&lt;/a&gt;) y del de &lt;a href=&quot;http://www.escuelaunidadeditorial.es/programas/master/master-en-periodismo-de-investigacion-datos-y-visualizacion/profesores/mar-cabra&quot;&gt;Periodismo de Investigación&lt;/a&gt; de &lt;a href=&quot;http://www.unidadeditorial.com/&quot; title=&quot;Página de inicio de esta empresa&quot;&gt;Unidad Editorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Como en esta entrevista, realizada en el programa &lt;a href=&quot;http://www.cadenaser.com/la-octava-planta/&quot; title=&quot;Sección dedicada a este espacio en la versión digital de esta radio&quot;&gt;La Octava Planta&lt;/a&gt; de la &lt;a href=&quot;http://www.cadenaser.com/&quot; title=&quot;Página de inicio de la versión digital de este medio&quot;&gt;Cadena Ser&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/cabralens&quot; title=&quot;Perfil de esta periodista en Twitter&quot;&gt;Mar Cabra&lt;/a&gt; defiende con firmeza la trascendencia del periodismo de datos y la transparencia hasta haber sido bautizada como &lt;a href=&quot;http://noticias.lainformacion.com/espana/mar-cabra-la-periodista-espanola-que-hace-temblar-a-los-defraudadores_HjONbkOB8Fa6mz1ucnjkl3/&quot; title=&quot;Artículo en lainformacion.com sobre esta cuestión&quot;&gt;la periodista española que hace temblar a los defraudadores&lt;/a&gt;. Desde su punto de vista, el desarrollo de este método de trabajo y esta filosofía es &lt;strong&gt;capaz de sustentar &lt;a href=&quot;http://www.mirada21.es/detalle.php?idn=7865&quot; title=&quot;Entrevista a Mar Cabra sobre esta cuestión&quot;&gt;un importante nicho empresarial en España&lt;/a&gt;&lt;/strong&gt; para una profesión a la que observa con optimismo.&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión, &lt;strong&gt;el medio responsable de dar forma y difundir estos datos en España ha sido El Confidencial&lt;/strong&gt; a partir de &lt;a href=&quot;http://www.elconfidencial.com/especiales/paraisos-fiscales/&quot; title=&quot;Sección específica de este cibermedio sobre esta cuestión&quot;&gt;un especial temático&lt;/a&gt; que ha ocupado un lugar relevante en su portada durante semanas. Como han hecho en otros países &lt;a href=&quot;http://www.elconfidencial.com/especiales/paraisos-fiscales/2013/04/04/asi-se-investigo-la-mayor-filtracion-sobre-paraisos-fiscales-junto-a-the-washington-post-bbc-118150/&quot; title=&quot;Información en El Confidencia sobre los detalles de este procedimiento&quot;&gt;medios como The WP, la BBC o Le Monde&lt;/a&gt;, este nativo digital ha publicado una treintena de reportajes y análisis en los que han desentrañado casos nacionales de personas como &lt;a href=&quot;http://www.elconfidencial.com/especiales/paraisos-fiscales/2013/04/11/juan-abello-un-buen-cazador-al-que-le-fallo-la-punteria-en-las-monterias-de-postin-118584/&quot; title=&quot;Reportaje de elconfidencial.com sobre las cuentas de este financiero&quot;&gt;Juan Abelló&lt;/a&gt; o &lt;a href=&quot;http://www.elconfidencial.com/cultura/2013/04/05/pelotazo-lsquomade-inrsquo-tita-118220/&quot; title=&quot;Reportaje de elconfidencial.com sobre las cuentas de esta coleccionista&quot;&gt;Carmen Thyssen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cibermensaje.com/wp-content/uploads/2013/06/Captura-de-pantalla-2013-06-23-a-las-21.34.401.png&quot; alt=&quot;Figura 3: Captura de pantalla del pie del especial sobre paraísos fiscales de El Confidencia | Fuente: elconfidencial.com&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figura 3: Captura del pie del especial sobre paraísos fiscales de El Confidencia | Fuente: elconfidencial.com&lt;/p&gt;
+
+&lt;p&gt;Además de Mar Cabra, que ya defendió este tipo de prácticas &lt;a href=&quot;http://www.elconfidencial.com/espana/la-vida-de-prisa/2013/02/02/no-vale-solo-denunciar-para-cambiar-las-cosas-hay-que-actuar-y-pedir-explicaciones-114077&quot; title=&quot;Artículo publicado en elconfidencial.com&quot;&gt;en una completa entrevista&lt;/a&gt; realizada por &lt;a href=&quot;http://www.rubendiazcaviedes.com/&quot; title=&quot;Página personal de este periodista&quot;&gt;Rubén Díaz Caviedes&lt;/a&gt;, en este proyecto se han implicado con constancia y eficacia profesionales como &lt;a href=&quot;http://www.linkedin.com/pub/carlos-hernanz/7/811/5a7&quot; title=&quot;Perfil de esta periodista en Twitter&quot;&gt;Carlos Herranz&lt;/a&gt;, redactor jefe de este cibermedio. En muchos de ellos, &lt;strong&gt;la infografía y los gráficos han adquirido una importancia considerable&lt;/strong&gt;. En todos los casos, estas representaciones resultan bastante sencillas y eficaces, pero carecen de opciones interactivas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cibermensaje.com/wp-content/uploads/2013/06/2013041150entr_okok.jpg&quot; alt=&quot;Figura 3: Representación gráfica del entramado societario de Ana Isabel Gamazo | Fuente: elconfidencia.com&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figura 4: Representación gráfica del entramado societario de Ana Isabel Gamazo | Fuente: elconfidencia.com&lt;/p&gt;
+
+&lt;p&gt;Como &lt;a href=&quot;http://cibermensaje.com/2013/01/15/entre-usuarios-tablas-y-redes-el-rompecabezas-de-la-audiencia-en-los-cibermedios/&quot; title=&quot;Entrada de este blog titulada &amp;quot;Entre usuarios, tablas y redes: el rompecabezas de la audiencia en los cibermedios&amp;quot;&quot;&gt;ya se prometió&lt;/a&gt;, en una de las próximas entradas se realizará un análisis más amplio sobre el periodismo de datos. No obstante, por el momento, sí se puede recomendar el &lt;a href=&quot;http://interactivos.lanacion.com.ar/manual-data/&quot;&gt;manual digital&lt;/a&gt; elaborado por el European Journalism Centre (&lt;a href=&quot;http://ejc.net/&quot; title=&quot;Web oficial de esta entidad&quot;&gt;EJC&lt;/a&gt;) y traducido por la La Nación y el &lt;a href=&quot;http://manual.periodismodedatos.org/&quot;&gt;libro&lt;/a&gt; impulsado por la &lt;a href=&quot;http://poderomedia.org&quot; title=&quot;Web oficial de esta entidad&quot;&gt;Fundación Poderomedia&lt;/a&gt;. Resulta también conveniente seguir la evolución de esta tendencia en blogs como &lt;a href=&quot;http://233grados.lainformacion.com/blog/periodismo-de-datos/&quot; title=&quot;Etiqueta de periodismo de datos de este blog&quot;&gt;233 Grados&lt;/a&gt; o &lt;a href=&quot;http://www.clasesdeperiodismo.com/tag/periodismo-de-datos/&quot; title=&quot;Etiqueta de periodismo de datos de este blog&quot;&gt;Clases de Periodismo&lt;/a&gt; y encontrar algunas de sus claven el de &lt;a href=&quot;http://blogs.elpais.com/periodismo-con-futuro/periodismo-de-datos/&quot; title=&quot;Etiqueta de periodismo de datos de este blog&quot;&gt;Periodismo con futuro&lt;/a&gt; de &lt;a href=&quot;http://elpais.com/&quot; title=&quot;Página de inicio de la versión digital de este medio&quot;&gt;El País&lt;/a&gt; o el &lt;a href=&quot;http://datadrivenjournalism.net/&quot; title=&quot;Web inicial de este blog&quot;&gt;Data Driven Journalism&lt;/a&gt; de la EJC. Y si se quiere profundizar en sus métodos y herramientas, existen iniciativas como el &lt;a href=&quot;http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo&quot; title=&quot;Sección de esta iniciativa&quot;&gt;grupo de trabajo&lt;/a&gt; del Medialab Prado de Madrid, las &lt;a href=&quot;http://periodismodatos.okfn.es/&quot; title=&quot;Página de inicio de esta iniciativa&quot;&gt;Jornadas de Periodismo de Datos&lt;/a&gt; organizadas por la &lt;a href=&quot;http://okfh.org&quot; title=&quot;Web oficial de esta entidad&quot;&gt;Open Knowledge Foundation&lt;/a&gt;, el vídeo interactivo &lt;a href=&quot;http://datajournalism.stanford.edu/&quot; title=&quot;Web de esta aplicación&quot;&gt;Journalism in the Age of Data&lt;/a&gt; de la &lt;a href=&quot;http://www.stanford.edu/&quot; title=&quot;Web oficial de esta entidad&quot;&gt;Universidad de Stanford&lt;/a&gt; o el &lt;a href=&quot;http://pendientedemigracion.ucm.es/info/cv/descargas/cursos/74106.pdf&quot; title=&quot;[pdf] Programa de esta iniciativa educativa&quot;&gt;curso de verano&lt;/a&gt; de la Universidad Complutense de Madrid (&lt;a href=&quot;http://www.ucm.es/&quot; title=&quot;Web oficial de esta entidad&quot;&gt;UCM&lt;/a&gt;) al que pude asistir el pasado verano.&lt;/p&gt;
+
+&lt;p&gt;Habrá que estar atento al papel que el periodismo de datos desempeñará en la redefinición de la profesión y el mensaje digital. De momento, &lt;strong&gt;tendrá que ir desarrollando sus mecanismos de búsqueda, organización y visualización, así como unas vías de financiación&lt;/strong&gt; que sustenten su elevado coste. Pero lo que está claro es que esta iniciativa ha arrojado algo de luz sobre un asunto oscuro tan como el de los paraísos fiscales. De momento, gran parte de estos trabajos se sustentan en filtraciones, pero es posible prever importantes oportunidades para esta tendencia si se siguen promoviendo políticas de transparencia.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Por qué matricularte en el MIP</title>
+      <link>http://mip.umh.es/blog/2013/06/12/razones/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/06/12/razones</guid>
+      <description>&lt;p&gt;El Máster de Innovación en Periodismo (MIP) está aquí porque la sociedad lo necesita. El sector de &lt;strong&gt;la comunicación ha cambiado radicalmente&lt;/strong&gt;, también el consumo de información: &lt;strong&gt;ya no dependemos de los mismos&lt;/strong&gt; de siempre para enterarnos de las noticias. Las empresas pueden comunicarse con sus públicos &lt;strong&gt;más y mejor que nunca&lt;/strong&gt;, porque ellos se lo piden y porque ya no quieren perder &lt;strong&gt;el tiempo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Surgen necesidades, problemas que resolver y realidades que acercar. Nuevas demandas que atender y nuevas ofertas que comunicar (&lt;strong&gt;contenidos&lt;/strong&gt;, servicios, &lt;strong&gt;relaciones&lt;/strong&gt;). La &lt;strong&gt;tecnología&lt;/strong&gt; ha cambiado y lo hace constantemente, por eso se debe conocer bien.&lt;/p&gt;
+
+&lt;p&gt;Aparte, parece que los pequeños &lt;strong&gt;tenemos menos barreras de entrada&lt;/strong&gt; para acceder a ese nuevo ecosistema creativo. Basta una &lt;strong&gt;idea original&lt;/strong&gt;, con voz &lt;strong&gt;propia&lt;/strong&gt;, para &lt;strong&gt;romper una defensa&lt;/strong&gt; industrial de décadas: los casos en el mundo de la música, el cine o la literatura lo confirman.&lt;/p&gt;
+
+&lt;p&gt;¿&lt;strong&gt;Dónde reside el valor&lt;/strong&gt; en estas nuevas relaciones de intercambio? Comprender la economía creativa, analizar alternativas de ingresos y pensar en la viabilidad de los proyectos. Todos esos aspectos se tratarán en el primer cuatrimestre del MIP, una &lt;strong&gt;fase conceptual&lt;/strong&gt; diseñada para que los estudiantes comiencen a colaborar y a idear.&lt;/p&gt;
+
+&lt;p&gt;Después el programa pivota sobre el &lt;strong&gt;desarrollo de un proyecto en equipo&lt;/strong&gt;: no tiene que ser un medio, ni una revista, ni un producto convencional. Para eso habrá dos asignaturas específicas que funcionarán como &lt;em&gt;una aceleradora&lt;/em&gt; coordinada por expertos que asesorarán a los estudiantes sobre sus proyectos.&lt;/p&gt;
+
+&lt;p&gt;Además, el máster está pensado para aprender nuevas formas de &lt;strong&gt;pensar y resolver problemas con una clara orientación práctica&lt;/strong&gt;. Por eso, también se ofrecerán contenidos técnicos en talleres con las manos sobre el teclado (diseño web, periodismo de datos, audio y vídeo).&lt;/p&gt;
+
+&lt;p&gt;¿Quieres saber más? Escríbenos al mip@umh.es&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Claves del éxito del emprendedor, de Ev Williams</title>
+      <link>http://mip.umh.es/blog/2013/05/31/nueve/</link>
+      <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/05/31/nueve</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ev Williams&lt;/strong&gt; es fundador de &lt;a href=&quot;http://medium.com/&quot;&gt;Medium&lt;/a&gt; y uno de los creadores de &lt;strong&gt;Blogger&lt;/strong&gt; y &lt;strong&gt;Twitter&lt;/strong&gt;. Escribió en diciembre de 2012 cuáles eran para él las claves de un emprendedor exitoso:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Trabaja con buena gente&lt;/strong&gt;. No te arriesgues al elegir con quién vas a montar algo y tampoco al contratar. No toleres a los egocéntricos o a los cenizos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Acepta grandes retos&lt;/strong&gt;. Es sencillo: las cosas difíciles son valiosas; las fáciles, no tanto. Alcanzar la cima reconforta porque es duro. Si fuera fácil, todo el mundo lo haría.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Concéntrate&lt;/strong&gt;. Di no a la mayoría de las cosas: recursos, gente, socios. “Cafés”. Proyectos. Solo unos pocos son realmente importantes (sí, es difícil saber cuáles). No te distraigas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Cuídate&lt;/strong&gt;. Cuando no duermes, comes porquerías, no haces deporte y vives de la adrelanina durante mucho tiempo, tu rendimiento empeora. Tus decisiones fallan. Tu compañía falla.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Quiere a los que te rodean&lt;/strong&gt;. Que tu compañía falle no es un fracaso vital. Que tu vida personal falle, sí.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Más información, menos periodismo</title>
+      <link>http://mip.umh.es/blog/2013/01/14/uno/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/14/uno</guid>
+      <description>&lt;p&gt;Una de las principales claves del último &lt;a href=&quot;http://stateofthemedia.org/&quot; title=&quot;State of the Media&quot;&gt;informe&lt;/a&gt; &lt;strong&gt;PEW Research Institute&lt;/strong&gt; es que los ciudadanos acceden cada vez a más información: el sector de los contenidos en general ocupa más tiempo en la vida de las personas. Sin embargo, es más difícil que los editores, los periodistas y los medios en general influyan y elaboren una información clave.&lt;/p&gt;
+
+&lt;p&gt;Además, el resumen del informe, elaborado por &lt;a href=&quot;http://franbarquilla.com/infografia-en-espanol-del-estado-de-los-medios-del-pew-research-institute/&quot;&gt;Fran Barquilla&lt;/a&gt;, confirma algunas de las tendencias apuntadas durante el último semestre de 2012: funcionan las nuevas fórmulas de suscripción digital (muros de pago, crowdfunding, metered model) y Google y Facebook &lt;em&gt;se comen&lt;/em&gt; la tarta publicitaria digital.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>The Magazine, una revista nativa digital</title>
+      <link>http://mip.umh.es/blog/2013/01/13/dos/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/13/dos</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;http://craigmod.com/journal/subcompact_publishing/&quot; title=&quot;Ensayo sobre las publicaciones digitales&quot;&gt;Craig Mod&lt;/a&gt; analiza por qué &lt;a href=&quot;http://the-magazine.org/&quot; title=&quot;The Magazine&quot;&gt;The Magazine&lt;/a&gt;, la revista digital de &lt;a href=&quot;http://www.marco.org/&quot; title=&quot;Marco Arment&quot;&gt;Marco Arment&lt;/a&gt;, es un producto innovador, ajustado de forma limpia y plena a las demandas del lector digital. ¿Cómo es posible que un desarrollador haya sido capaz de adelantarse a toda una industria editorial?, se pregunta Mod. Porque son hoy magos que entienden y aprovechan mejor que nadie las plataformas y sus lenguajes.&lt;/p&gt;
+
+&lt;p&gt;Arment se ha adelantado a todos para entender cómo lee una revista digital una persona y cómo puede ofrecerse ese servicio desde una tableta  o un ordenador: “The fact that Marco — a programmer — launched one of the most ‘digitally indigenous’ contemporary tablet publications is indicative of two things:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Programmers are today’s magicians. In many industries this is obvious, but it’s now becoming more obvious in publishing. Marco was able to make The Magazine happen quickly because he saw that Newsstand was underutilized and understood its capabilities. He knew this because he’s a programmer. Newsstand wasn’t announced at a publishing conference. It was announced at the WWDC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; The publishing ecosystem is now primed for complete disruption”.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Re-conectar con los lectores</title>
+      <link>http://mip.umh.es/blog/2013/01/12/tres/</link>
+      <pubDate>Sat, 12 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/12/tres</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;http://www.ted.com/talks/amanda_palmer_the_art_of_asking.html?embed=true&quot;&gt;Amanda Palmer&lt;/a&gt; cuenta su historia, y de paso enseña cómo el &lt;em&gt;crowdfunding&lt;/em&gt; puede ayudar a los medios, a los periodistas (a cualquiera que se dedique a contar historias o a transmitir contenido a una audiencia). &lt;strong&gt;Felix Salmon&lt;/strong&gt; lo &lt;a href=&quot;http://reut.rs/14si8C4&quot; title=&quot;Content economics, part 2: payments&quot;&gt;explica&lt;/a&gt; muy bien: reconstruye la relación con tu audiencia; ofrece algo valioso, dalo gratis y luego pídeles con fraqueza que ayuden: que no les duela pagar, que no se sientan obligados a hacerlo porque se les va a castigar.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>La renovación del periodismo</title>
+      <link>http://mip.umh.es/blog/2013/01/11/cuatro/</link>
+      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/11/cuatro</guid>
+      <description>&lt;p&gt;Publica &lt;strong&gt;Juan Luis Manfredi&lt;/strong&gt; una &lt;a href=&quot;http://bit.ly/W1RPSO&quot; title=&quot;La renovación del periodismo&quot;&gt;certera reflexión&lt;/a&gt; sobre el crecimiento de programas de postgrado de Periodismo orientados a la innovación y a la búsqueda de nuevos formatos, tecnologías y financiación.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Modelos sostenibles</title>
+      <link>http://mip.umh.es/blog/2013/01/10/cinco/</link>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/10/cinco</guid>
+      <description>&lt;p&gt;Es una buena noticia leer que &lt;a href=&quot;http://www.eldiario.es/escolar/cuentas-eldiarioes_6_107849233.html&quot;&gt;eldiario.es&lt;/a&gt; funciona, aunque es pronto para entusiasmarse con el modelo. La transparencia en publicar sus cuentas es una buena estrategia de relación con ese grupo de seguidores que paga, colabora o se involucra de alguna forma en el proyecto.&lt;/p&gt;
+
+&lt;p&gt;Hay sitio para nuevos proyectos, alejados de los &lt;em&gt;economicismos&lt;/em&gt; de antaño, sin la obligación de rendir cuentas a un consejo de administración que pone los dividendos por encima de la función de informar.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Una salvación que empieza por ti</title>
+      <link>http://mip.umh.es/blog/2013/01/09/seis/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/09/seis</guid>
+      <description>&lt;p&gt;Escribe &lt;a href=&quot;https://medium.com/technology-liberal-arts/b057af9c483e&quot;&gt;Paul Smalera&lt;/a&gt; con una acertada visión sobre el futuro del periodismo que no “no son los editores o las empresas quienes tienen que salvar el periodismo, sino los periodistas”.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Razones para creer en el periodismo postindustrial</title>
+      <link>http://mip.umh.es/blog/2013/01/08/siete/</link>
+      <pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/08/siete</guid>
+      <description>&lt;p&gt;Una de las cosas más bonitas de soñar, pensar y diseñar el &lt;a href=&quot;http://mipumh.es/&quot; title=&quot;MIP&quot;&gt;Máster de Innovación en Periodismo&lt;/a&gt; es ver que nacen proyectos con filosofías similares por todo el mundo. Este programa debía ser distinto a todo lo anterior, por eso uno de los conceptos que fundamenta nuestra historia es el &lt;strong&gt;periodismo postindustrial&lt;/strong&gt;, algo así como despojarse de un siglo y medio de vicios economicistas.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;En el &lt;a href=&quot;http://bit.ly/XEMUI2&quot; title=&quot;Post Industrial Journalism: Adapting to the Present&quot;&gt;informe&lt;/a&gt; &lt;em&gt;Post-Industrial Journalism. Adapting to the Present&lt;/em&gt;, &lt;strong&gt;C. W. Anderson&lt;/strong&gt;, &lt;strong&gt;Clay Shirky&lt;/strong&gt; y &lt;strong&gt;Emily Bell&lt;/strong&gt; parten de la premisa de que &lt;strong&gt;el periodismo importa&lt;/strong&gt;, su modelo industrial ya no vale &lt;strong&gt;y hay que buscar alternativas&lt;/strong&gt;. Desde una perspectiva estadounidense, los autores analizan el nuevo ecosistema, explican por qué se desintegra la estructura que ha permitido subsidiar el periodismo hasta ahora y muestran algunos modelos innovadores. &lt;strong&gt;Joshua Benton&lt;/strong&gt;, el capitán de Nieman Lab, solo les pone un &lt;a href=&quot;http://www.niemanlab.org/2012/11/post-industrial-journalism-a-new-columbia-report-examines-the-disrupted-news-universe/&quot;&gt;pero en su análisis&lt;/a&gt;: no enfatizan lo suficiente que la audiencia es realmente quien lidera la innovación. Los agregadores de contenido y las redes sociales afinan más rápido que ningún medio para adaptarse a la sintonía de los consumidores.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Antes que los colegas de Columbia University, &lt;strong&gt;Pepe Cervera&lt;/strong&gt; &lt;a href=&quot;http://bit.ly/XEMUI2&quot; title=&quot;Desindustrializar la prensa&quot;&gt;publicó&lt;/a&gt; en junio de 2012 un extenso post con un mensaje claro: &lt;strong&gt;hay que desindustrializar la prensa&lt;/strong&gt;. El autor defiende que el periodismo está en crisis porque se producen noticias en un contexto desfasado, donde el mismo concepto de noticia ya no vale: “Para que el periodismo sobreviva hay que redefinir el producto periodístico mismo, puesto que está diseñado para otra era y otro contexto económico. Hay que reinventar conceptos como la noticia, el periódico y el periodista, eliminando las adherencias que la Era Industrial y la Producción en Masa han dejado en ellos. Para que el periodismo sobreviva es necesario desindustrializar la prensa”.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;En los últimos tres años han surgido varias iniciativas que promueven la &lt;strong&gt;cultura de la innovación&lt;/strong&gt; en el periodismo. Columbia University, sede de los premios Pulitzer, lanzó hace un par de años el primer &lt;a href=&quot;http://www.journalism.columbia.edu/page/276-dual-degree-journalism-computer-science/279&quot; title=&quot;Dual Degree: Journalism and Computer Science&quot;&gt;máster&lt;/a&gt; de Periodismo e Informática y abrió el &lt;a href=&quot;http://towcenter.org/&quot; title=&quot;Tow Center&quot;&gt;Tow Center for Digital Journalism&lt;/a&gt; para explorar cómo la tecnología cambia el periodismo, sus prácticas y su consumo. En la misma línea, nació la &lt;a href=&quot;http://www.mozillaopennews.org/&quot; title=&quot;OpenNews&quot;&gt;Knight-Mozilla Open News&lt;/a&gt; para promover  una comunidad de profesionales con una misión: ayudar al periodismo a superar los retos tecnológicos de la web. En la organización participan periodistas, programadores y diseñadores para emprender, crear y compartir su trabajo.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://source.mozillaopennews.org/en-US/&quot;&gt;Source&lt;/a&gt; es la iniciativa más innovadora de la Knight-Mozilla. A medio camino entre red social y repositorio de proyectos, el sitio concentra lo mejorcito en visualización de datos, desarrollo de aplicaciones y mil ideas innovadoras más. ProPública, una de esos nuevos modelos que pueblan el ecosistema del que hablan los autores del informe &lt;em&gt;Post-industrial Journalism&lt;/em&gt;y también ganadores de un Pulitzer, han sido de los primeros en &lt;a href=&quot;https://github.com/propublica/guides/&quot; title=&quot;ProPublica&quot;&gt;liberar&lt;/a&gt; todos los datos, incluída su guía sobre desarrollo de aplicaciones periodísticas. ¡Emplean &lt;strong&gt;GitHub&lt;/strong&gt;, un nido de programadores! No sólo son los &lt;em&gt;hack and hackers&lt;/em&gt; detrás de los proyectos, son los documentos, archivos y códigos abiertos y cómo explotarlos. Supongan ustedes que en pleno siglo XX lo mejorcito de la prensa mundial pone a disposición de los demás competidores todas las bases de datos de sus hemerotecas.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Hack and Hackers, una filosofía nacida en Sillicom Valley, con capítulos en todo el mundo, también en &lt;a href=&quot;http://hackshackersmad.com/&quot; title=&quot;Rebooting Journalism&quot;&gt;España&lt;/a&gt;, lleva varios años intentando reiniciar el periodismo desde la tecnología. Sirve de lugar de encuentro entre esos perfiles tan diferentes a priori, pero que acaban contando historias apasionantes, como los colegas de &lt;a href=&quot;http://vizzuality.com/&quot; title=&quot;Vizzuality&quot;&gt;Vizzuality&lt;/a&gt;. El &lt;em&gt;adn&lt;/em&gt; de esta filosofía se puede entender bien leyendo la oportuna defensa de la transparencia que realiza &lt;strong&gt;Mar Cabra&lt;/strong&gt; en este &lt;a href=&quot;http://www.apmadrid.es/images/stories/LEYTRANSPARENCIA.pdf&quot; title=&quot;Un cambio para el periodismo:  la ley de transparencia&quot;&gt;artículo&lt;/a&gt; en la revista de FAPE.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Idea, diseña, emprende</title>
+      <link>http://mip.umh.es/blog/2013/01/07/ocho/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://mip.umh.es/blog/2013/01/07/ocho</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Idea, diseña, emprende&lt;/strong&gt;. Con este breve lema un grupo de profesores de &lt;a href=&quot;http://periodismo.umh.es/&quot; title=&quot;Blog de Periodismo UMH&quot;&gt;Periodismo UMH&lt;/a&gt; empezamos hace dos años un proyecto de máster. Queríamos ofrecer algo útil para recién licenciados y para profesionales del sector del Periodismo. Tras decenas de reuniones y debates interminables sobre el futuro de la comunicación, el periodismo, la universidad y la empresa, llegamos a la conclusión de que debíamos organizar un programa muy versátil, fácilmente adaptable a los tiempos y orientado a emprendedores.&lt;/p&gt;
+
+&lt;p&gt;No queríamos montar un quinto de carrera, tampoco un título encerrado en una especialidad temática. Debíamos crear un lugar donde los estudiantes pudieran hacer realidad sus ideas, sus proyectos y sus aspiraciones. Así, tras varios meses diseñando la memoria, en diálogo con los profesionales y las instituciones evaluadoras, nació el Máster de Innovación en Periodismo de la Universidad Miguel Hernández. En julio de 2012 la Agencia Nacional de Evaluación del Ministerio (ANECA) verificó el programa que arrancará este año, en octubre de 2013.&lt;/p&gt;
+
+&lt;p&gt;Además, daremos pistas sobre tendencias y guías útiles para quienes están interesados en la materia principal del Máster: innovación en periodismo.&lt;/p&gt;
+
+&lt;p&gt;En este blog sitio publicaremos novedades del Máster, contaremos algunas noticias relacionadas con las sesiones y actividades del programa. Además, daremos pistas sobre tendencias del sector para interesados en la materia principal: innovación en periodismo.&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
