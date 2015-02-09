@@ -6,7 +6,7 @@ inc:
   logo:         logo.png
   
   # Company information
-  company:      Máster de Innovación en Periodismo
+  company:      Máster en Innovación en Periodismo
   url:          http://mip.umh.es
   facebook:     mipumh
   twitter:      mipumh
@@ -19,7 +19,7 @@ inc:
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    mipgithub:  true
+    shortname:  mipgithub
     
   # Sharing settings
   sharing:
@@ -51,7 +51,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
+highlighter: pygments
 
 relative_permalinks: true
 
@@ -59,49 +59,11 @@ permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
 
-markdown:      maruku
-markdown_ext:  markdown,mkd,mkdn,md
-textile_ext:   textile
-
-excerpt_separator: "<!-- más -->"
-
 safe:        false
 host:        0.0.0.0
 port:        4000
 baseurl:     /blog
 lsi:         false
-
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
-
-rdiscount:
-  extensions: []
-
-redcarpet:
-  extensions: []
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
-
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
-
-redcloth:
-  hard_breaks: true
 
 #
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets

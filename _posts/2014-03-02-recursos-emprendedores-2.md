@@ -12,6 +12,8 @@ author:
   link: https://twitter.com/smmahugo
 type: text
 ---
+(Actualizado el 2 de diciembre de 2014)
+
 Hace unos días recopilábamos una serie de [recursos, libros y materiales útiles para periodistas emprendedores](http://mip.umh.es/blog/2014/01/19/recursos_emprendedores/). Y prometíamos volver con más. Para este segundo capítulo de esta serie de posts hemos listado los **mejores sitios donde los periodistas emprendedores (o no) pueden encontrar buenos materiales gráficos para un proyecto periodístico**. Y es que, si bien los contenidos van a ser siempre fundamentales, otras cuestiones como el diseño o la usabilidad del sitio web o la aplicación pueden marcar la diferencia con el resto de competidores. 
 
 Si hasta la irrupción de la fotografía digital los (buenos) materiales gráficos han resultado siempre caros, lo cierto es que, hoy en día, y gracias a la popularización de los repositorios para imágenes de fotógrafos y aficionados a la fotografía, el problema ha dejado de ser económico. Infinidad de grandes fotógrafos ponen a disposición de otras personas sus imágenes de forma totalmente gratuita. **Lo costoso, en este panorama de sobreabundancia, no es comprar imágenes… es encontrarlas**.
@@ -55,3 +57,16 @@ En [**PD Photo**](http://pdphoto.org/) la mayor parte de sus fotografías son de
 [**Open Source Web Design**](http://www.oswd.org/) es una comunidad de diseñadores que comparten libremente plantillas y diseños gráficos para páginas web y blogs.
 
 Sólo una cosa más antes de terminar el post, **si finalmente decides utilizar alguna de estas fotografías o imágenes que otros han creado y compartido con los demás recuerda dedicarles al menos unas palabras para agradecérselo**. 
+
+-----
+[Dreamstime](http://www.dreamstime.com/free-photos) ofrece en su apartado de Imágenes Gratuitas miles de imágenes gratuitas agrupadas bajo distintas categorías que además se pueden filtrar por distintos parámetros de búsqueda (autor, tamaño, puntuación...) Sólo exige registro previo.
+
+[FreePik](http://www.freepik.es/) es un catálogo que contiene más de un millón y medio de imágenes gratuitas. Puedes descargar fotografías (incluye una galería de deportistas famosos sobre fondo blanco libre de derechos), imágenes vectoriales, ilustraciones, iconos, etc.
+
+[imfreeIM Free](http://www.imcreator.com/free) es un pequeño catálogo de imágenes seleccionadas especialmente por su calidad.
+
+[Free Range Stock](http://freerangestock.com/) dispone de imágenes de gran calidad artística que además están disponibles a alta resolución y que pueden utilizarse tanto para uso personal como comercial. 
+
+Si lo que buscas son imágenes de tecnología, el sitio al que debes acudir es [refe]((http://getrefe.com/). Todas las fotografías de este sitio comparten la misma temática: personas utilizando todo tipo de tecnología.
+
+[Ancestry Images](http://www.ancestryimages.com/) es un sitio web que ofrece de forma gratuita imágenes históricas, mapas, ilustraciones ó retratos. Todas las búsquedas, eso sí, deben hacerse en inglés.

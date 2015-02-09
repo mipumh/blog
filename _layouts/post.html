@@ -33,13 +33,11 @@ layout: base
                 <span class="muted">{{ page.author.bio }}</span>
                 </p>
             </address>
-
         </footer>
-
-        {% if site.inc.disqus.shortname %}
-        <section>
-            {% include _disqus.html %}
-        </section>
-        {% endif %}
+            {% if site.inc.disqus.shortname %}
+            <section>
+                {% include _disqus.html %}
+            </section>
+            {% endif %}
     </div>
 </article>
