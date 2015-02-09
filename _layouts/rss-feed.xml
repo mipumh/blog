@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.inc.title | xml_escape  }}</title>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    <description>{{ site.inc.subtitle | xml_escape }}</description>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+    {% for post in site.posts %}
+    {% unless post.draft %}
+    <item>
+      <title>{{ post.title | xml_escape  }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>{% if post.author %} {{ post.author.name }} {% else %} {% assign authorCount = post.authors | size %} {% if authorCount == 0 %} No author {% elsif authorCount == 1 %} {% assign author = page.authors | first %} {{ author.name }} {% else %} {% for author in post.authors %} {% if forloop.first %} {{ author.name }} {% elsif forloop.last %} and {{ author.name }} {% else %} , {{ author.name }} {% endif %} {% endfor %} {% endif %} {% endif %}</author> <guid>{{ site.url }}{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endunless %}
+    {% endfor %}
+
+  </channel>
+</rss>
