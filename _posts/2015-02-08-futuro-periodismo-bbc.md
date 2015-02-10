@@ -34,4 +34,4 @@ Subrayamos otras tres ideas clave del informe que [destaca el blog 233 grados](h
 * El competidor más directo del periodista ya no es otro periodista: es el protagonista de la historia: políticos, famosos y empresas comunican directamente con el público, 'saltándose' al intermediario.
 * El futuro no es móvil: el presente ya lo es. Un 30% de los menores de 45 años asegura recibir las noticias por el móvil y cada vez serán más.
  
-Para demostrar que el movimiento se demuestra andando, la BBC acaba de lanzar su [BBC Taster](http://www.bbc.co.uk/taster) un espacio para desarrollar ideas innovadoras en el uso de tecnologías, contenidos y nuevas narrativas.
+Para demostrar que el movimiento se demuestra andando, la BBC acaba de lanzar su [BBC Taster](http://www.bbc.co.uk/taster) un espacio para **desarrollar ideas innovadoras en el uso de tecnologías, contenidos y nuevas narrativas**.
