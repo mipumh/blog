@@ -30,7 +30,16 @@
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">
-    <meta property="fb:admins" content="1174442148" />
+    <meta property="fb:admins" content="1174442148"/>
+    <meta property="fb:pages" content="541562072554836"/>
+
+    <!-- Jekyl Seo TAG -->
+
+    <meta name="twitter:card" content="{{ page.excerpt }}"/>
+    <meta name="twitter:site" content="@{{ site.inc.twitter }}"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:description" content="{{ page.excerpt }}"/>
+    <meta name="twitter:creator" content="@{{ page.author.twitter }}"/>
 
     <!-- Facebook Pixel Code -->
     <script>
@@ -58,8 +67,6 @@
     twq('track','PageView');
     </script>
     <!-- End Twitter universal website tag code -->
-
- 
 
 </head>
 <body>
