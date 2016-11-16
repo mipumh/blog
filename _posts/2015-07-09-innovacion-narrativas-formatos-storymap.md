@@ -9,7 +9,7 @@ author:
   gplus:  
   bio: Coordinador Nuevas Narrativas
   image: flx.jpg
-  link: https://twitter.com/cibermensaje
+  link: https://twitter.com/flxarias
 ---
 Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que demostraron los alumnos del Máster en Innovación en Periodismo (MIP) en el taller sobre Webdocs, impartido por [Miriam Hernanz](https://twitter.com/miriamhernanz) (RTVE Lab), del módulo de [Nuevas Narrativas](http://mip.umh.es/programa.htm#narrativas).
 

@@ -1,14 +1,13 @@
 ---
-layout: post
-published: "true"
+layout: page
+title: ¿Quiénes somos?
 author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.png
-  link: https://twitter.com/mcarvajal_
-type: text
+  name: Máster
+  twitter: mipumh
+  gplus:  
+  bio: 
+  image: logo.png
+  link: https://twitter.com/mipumh
 permalink: /about/
 ---
 Este es el blog oficial del [Master en Innovación en Periodismo](http://mip.umh.es) (MIP), un espacio para informar sobre nuestro postgrado y para dar noticias, pistas y tendencias de una industria en transición. El [MIP](http://mip.umh.es) es un título oficial de la Universidad Miguel Hernández (Elche, España) organizado por [Periodismo UMH](http://periodismo.umh.es/) y que anda ya por la [tercera edición](http://mip.umh.es/preinscripcion.htm).
@@ -23,7 +22,7 @@ Con este Máster, el estudiante será capaz de **entender cómo está cambiando 
 
 ## Modalidad Online
 
-La versión online del **Máster de Innovación en Periodismo** comparte el programa de la versión presencial. En la [página web](http://mip.umh.es/online/) ampliamos los puntos clave de este plan formativo: una plataforma dinámica, sencilla e interactiva; unos contenidos útiles, completos y adaptados; y un equipo accesible y preparado para proporcionar una formación eficaz y práctica. El MIP Online funciona a través de [EdX UMH](http://edx.umh.es/), una adaptación de la plataforma digital de aprendizaje desarrollada por el **MIT** y por **Harvard University**. Este sistema _open source_ proporciona una experiencia sencilla, robusta y completa.
+La versión online del **Máster de Innovación en Periodismo** comparte el programa de la versión presencial. En la [página web](http://mip.umh.es/) ampliamos los puntos clave de este plan formativo: una plataforma dinámica, sencilla e interactiva; unos contenidos útiles, completos y adaptados; y un equipo accesible y preparado para proporcionar una formación eficaz y práctica. El MIP Online funciona a través de [EdX UMH](http://edx.umh.es/), una adaptación de la plataforma digital de aprendizaje desarrollada por el **MIT** y por **Harvard University**. Este sistema _open source_ proporciona una experiencia sencilla, robusta y completa.
 
 [Más información »](http://mip.umh.es)
 

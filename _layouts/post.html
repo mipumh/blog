@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+{% include _alert.html %}
 
 {% if page.cover_image %}
 <div class="article-cover">
@@ -15,7 +16,7 @@ layout: base
         <header>
             <div class="meta">
                 Por <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
-                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%d %B, %Y" }}">{{ page.date | date: "%d %B, %Y" }}</time>
+                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%d %B, %Y" }}">{{ page.date | date: "%d %B, %Y" }}</time></address>
             </div>
             <h1 class="title">{{ page.title }}</h1>
             {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}

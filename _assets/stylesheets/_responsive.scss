@@ -6,7 +6,7 @@
     
     .container > header, .container > section, .container > footer {
         padding:0;
-        margin:1.5em 10%;
+        margin:1.5em 2%;
     }
     
     .container > section {
@@ -18,11 +18,11 @@
 @media (max-width: 720px) {
     
     article {
-        padding-top:30px;
+        padding-top:15px;
         
         .container > header, .container > section, .container > footer {
             padding:0;
-            margin:1.5em 10%;
+            margin:1.5em 2%;
         }
         
         .container > footer {
@@ -56,6 +56,10 @@
         p {
             font-size:0.9em;
         }
+        li {
+            font-size:0.9em;
+        }
+
     }
     
     .blog-cover {
