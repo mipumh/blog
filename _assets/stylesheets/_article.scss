@@ -1,10 +1,18 @@
 article {
     background:#fff;
+<<<<<<< HEAD
     padding:60px 0;
     font-size:18px;
 
     .container > header, .container > section, .container > footer {
         margin:0 8em;
+=======
+    padding:40px 0;
+    font-size:18px;
+
+    .container > header, .container > section, .container > footer {
+        margin:0 0em;
+>>>>>>> gh-pages
     }
 
     .social {
@@ -91,7 +99,11 @@ article {
     blockquote {
         border:0;
         font-size:24px;
+<<<<<<< HEAD
         margin:1.2em -4em 1.2em 0;
+=======
+        margin:1.2em 1em 1.2em 0;
+>>>>>>> gh-pages
         padding:0;
 
         p {
@@ -125,7 +137,11 @@ article {
     }
 
     hr {
+<<<<<<< HEAD
         margin:3em 0;
+=======
+        margin:1.5em 0;
+>>>>>>> gh-pages
     }
 
     .meta {
@@ -152,7 +168,10 @@ article {
         margin:1em 0;
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> gh-pages
     .title {
         margin:0.2em 0;
         font-weight:bold;

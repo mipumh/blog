@@ -1,0 +1,30 @@
+---
+layout: post
+title: Aplicar la perspectiva de género también es innovar en periodismo
+excerpt: "IGUAL es una plataforma digital especializada en feminismo desarrollada por Laura Bellver en el Máster en Innovación en Periodismo. Ofrece una completa agenda de actividades, bases de datos y asesoramiento profesional, para dar cabida a las voces feministas del ámbito de la Comunidad Valenciana. 'Alcanzar la igualdad requiere de una labor pedagógica que puede y debe desarrollarse también desde los medios de comunicación, explica su promotora. Igual figura entre los medios que han incorporado la perspectiva de género en sus procesos para innovar a través de contenidos informativos especializados y originales, apenas tratados por los medios tradicionales, que pretenden acabar con los sesgos de género y aportar miradas más diversas."
+author:
+  name: Lorena Escandell
+  twitter: lorenaescandell
+  gplus: lorenaescandell 
+  bio: Community Manager del MIP
+  image: les.jpeg
+  link: https://twitter.com/lorenaescandell
+---
+[IGUAL](https://proyectoigual.wordpress.com) es una plataforma digital especializada en [feminismo](https://es.wikipedia.org/wiki/Feminismo) desarrollada por [Laura Bellver](https://twitter.com/LaBellver) en el [Máster en Innovación en Periodismo](http://mip.umh.es/). Ofrece una completa agenda de actividades, bases de datos y asesoramiento profesional, para dar cabida a las voces feministas del ámbito de la Comunidad Valenciana. "Alcanzar la igualdad requiere de una labor pedagógica que puede y debe desarrollarse también desde los medios de comunicación", explica su promotora. **Igual** figura entre los medios que han incorporado la [perspectiva de género](http://lorenaescandell.blogspot.com.es/2016/09/que-significa-aplicar-la-perspectiva-de_77.html) en sus procesos para innovar a través de **contenidos informativos especializados y originales**, apenas tratados por los medios tradicionales, que pretenden **acabar con los sesgos de género** y **aportar miradas más diversas**. 
+
+![Captura de la web de Proyecto Igual]({{ site.baseurl }}/images/shots/igual0.jpg)
+
+[Pikara Magazine](http://www.pikaramagazine.com/) es otro ejemplo más veterano. "Consideramos que la perspectiva de género es una cuestión de compromiso social pero también una herramienta imprescindible para analizar la realidad y hacer así buen periodismo. No se trata de informar sobre *temas de mujeres* o hacer *periodismo para mujeres* sino de hablar de todo para todo el mundo con **una mirada transformadora, feminista, que repare en las desigualdades, que intente mostrar modelos diversos de mujeres y hombres**", [explican](http://www.pikaramagazine.com/por-que-pikara-2/) sus fundadoras. Entre ellas, figura la profesora de Periodismo de la Universidad del País Vasco [Lucía Martínez Odriozola](https://twitter.com/MomoDice), para quien el enfoque feminista en el periodismo [no es una cuestión de sensibilidades sino de profesionalidad y de rigor en el trabajo](http://www.pikaramagazine.com/2014/03/incluir-la-perspectiva-de-genero-en-el-periodismo-no-es-cuestion-de-sensibilidades/). En esta línea, su compañera [Andrea Momoitio](https://twitter.com/andreamomoitio) añade: “El periodismo tiene que explicar por qué pasan las cosas, no sólo describirlas, y las realidades afectan de manera distinta a hombres y mujeres. La explicación tiene múltiples lecturas que, como periodistas, debemos tratar de vislumbrar.”
+
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/RhLxFq2XDf4?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/RhLxFq2XDf4?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<br>
+
+[La Marea](http://www.lamarea.com/), [Diagonal](https://www.diagonalperiodico.net/), [Eldiario.es](http://www.eldiario.es/) o [Público](http://www.publico.es/) han empezado a incorporar esta nueva forma de mirar y estar en el mundo. "La mirada de la equidad debe estar en todo el medio, debe ser integral, no sólo aplicarse a informaciones relacionadas con la violencia de género o la igualdad", afirma la periodista **Izaskun Sánchez Aroca**. También lo observamos en el trabajo cotidiano de profesionales como [Montserrat Boix](https://twitter.com/montserratboix) o [Ander Izagirre](https://twitter.com/anderiza), aunque son prácticas aún minoritarias.
+
+![Pikara Magazine]({{ site.baseurl }}/images/shots/igual1.jpg) 
+
+"La perspectiva de género es una herramienta que podría ser de fácil aplicación en la práctica totalidad de los textos periodísticos, y que añadiría un plus de información y contribuiría, sin duda, a eliminar la todavía observable [asimetría que se produce en los medios de comunicación al relatar las actividades protagonizadas por hombres y mujeres](http://mip.umh.es/blog/2016/02/27/representacion-mujeres-medios/)", sostiene la profesora de Periodismo de la Universidad Autónoma de Barcelona [Juana Gallego Ayala](http://juanagallego.es/). Para ello, la profesora Gallego recomienda utilizar **el género como categoría de análisis y selección** de los acontecimientos noticiosos, al igual que la novedad, actualidad o proximidad, para interpretar la realidad social con enfoques novedosos. 
+
+Incorporar los **datos desagregados por sexos**, identificar las **diferencias de género** y analizar sus causas de manera diferenciada, usar un **lenguaje inclusivo** y tener la **igualdad de oportunidades** como principio rector constituyen otras formas de aplicar este nuevo enfoque periodístico más amplio, diverso, crítico y, por supuesto, innovador. 
+

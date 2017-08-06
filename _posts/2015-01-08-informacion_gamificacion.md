@@ -21,7 +21,11 @@ En los últimos meses, en España, se han lanzado dos ejemplos notables de este 
 
 [Montelab](http://lab.rtve.es/montelab/). Se trata, como Miguel Campos describe en [una amplia reflexión en la bitácora del Lab RTVE](http://blog.rtve.es/lablogatorio/2014/11/docugame-el-periodismo-tiene-una-vida-extra.html), de una urbanización ficticia afectada por el estallido de la burbuja inmobiliaria. “Podrás ponerte en la piel de alguien que ha comprado una casa en el momento equivocado y en la zona menos apropiada y según las decisiones que tomes podrás salir airoso de la situación, o volver tristemente a la casilla de salida”, adelanta. Para ello, el Lab RTVE  elabora un docugame bien trabajado, actual, divertido, talentoso, cuidado, profundo y original con el que pretenden llegar a un público teóricamente poco interesado por la crisis inmobiliaria y, sobre todo, crear una experiencia que facilite la identificación con los protagonistas de la historia.
 
+<<<<<<< HEAD
 ![](https://dl.dropboxusercontent.com/u/3578704/Fotos_MIP/Imagen%202.jpg)
+=======
+![](http://blog.rtve.es/.a/6a014e6089cbd5970c01bb07b38c94970d-800wi.jpg)
+>>>>>>> gh-pages
 
 [Populonia](http://acuerdo.us/sites/default/files/populonia/es/index.html). Constituye un reportaje que recorre, con una estética similar a la de los videojuegos de estrategia, el impacto del populismo en Francia, Eslovaquia y Hungría. Para desarrollarlo, recibieron una ayuda de 15.600 dólares de la Open Society Initiative for Europe del inversor George Soros. La interactividad no está tan desarrollada como en Montelab, pero consigue organizar eficazmente una gran cantidad de información interesante con un diseño -y una música- muy bien trabajados.
 

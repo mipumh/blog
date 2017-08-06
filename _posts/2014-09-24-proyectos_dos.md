@@ -12,7 +12,11 @@ author:
 ---
 Cada año, y con éste van dos, lanzamos el reto de innovar en periodismo, una propuesta estimulante con la que pretendemos aportar al sector de la comunicación digital ideas y proyectos que se adapten a las nuevas exigencias profesionales y tengan cabida en un mercado cada vez más exigente. 
 
+<<<<<<< HEAD
 ![](https://dl.dropboxusercontent.com/u/3578704/Perfiles_MIP/TFMblog2.jpg "Alumnos del MIP")
+=======
+![]({{ site.baseurl }}/images/Perfiles_MIP/TFMblog2.jpg "Alumnos del MIP")
+>>>>>>> gh-pages
 
 El Trabajo Fin de Máster (TFM) es la traducción de nuestro objetivo, la esencia misma del Máster en Innovación en Periodismo (MIP) de la [Universidad Miguel Hernández de Elche](http://www.umh.es/), pues representa la aplicación de los conocimientos adquiridos durante el curso. La idea es que el alumnado, asesorado por profesionales con experiencia e inspirado en otros casos de éxito, organice, diseñe y lance proyectos periodísticos de carácter innovador que no sólo garanticen su futuro profesional y el de otros sino que, además, puedan enriquecer el sistema con nuevas plataformas de distribución de contenido. 
 
@@ -20,7 +24,11 @@ Y en eso estamos. En la primera edición del MIP hemos formado e impulsado seis 
 
 El periodista [Salvador Campello](https://twitter.com/SalvaElx) ha demostrado que se puede innovar en el ámbito de la comunicación local con su proyecto de desarrollo de la [parte digital de TeleElx](http://www.teleelx.es/). El alumno del MIP ha contribuido a transformar un medio tradicional en un grupo de comunicación multiplataforma con el relanzamiento de la web y una aplicación móvil para iOS y Android. "Pretendemos posicionar a **TeleElx** como canalizador de la comunidad de ilicitanos online, ser un foro de debate y un referente informativo," concluye el periodista. 
 
+<<<<<<< HEAD
 ![](https://dl.dropboxusercontent.com/u/3578704/Perfiles_MIP/salvaelx.jpg
+=======
+![]({{ site.baseurl }}/images/Perfiles_MIP/salvaelx.jpg
+>>>>>>> gh-pages
  "Savador Campello")
 
 **ConectarArte** es una plataforma digital para unir artistas, espacios y públicos en Murcia, desarrollada por la periodista [Julia Albaladejo](https://twitter.com/JuliaAlbaladejo), experta en información cultural. "Es un mundo lleno de posibilidades y por descubrir," destaca la autora. Con el trabajo, pretende dinamizar el sector a partir de estrategias online y offline: un blog con contenidos especializados y de calidad, la venta de entradas y otros productos o la organización de eventos son algunas de las acciones que contempla el TFM. 

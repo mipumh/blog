@@ -10,7 +10,11 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/{{ site.inc.logo }}"/>
+<<<<<<< HEAD
     <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
+=======
+    <link href="blog/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
+>>>>>>> gh-pages
     <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %} 
@@ -28,7 +32,51 @@
     <meta property="og:description" content="{{ page.excerpt }}"/>
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
+<<<<<<< HEAD
     <meta property="og:site_name" content="{{ site.inc.title }}">     
+=======
+    <meta property="og:site_name" content="{{ site.inc.title }}">
+    <meta property="fb:admins" content="1174442148"/>
+    <meta property="fb:pages" content="541562072554836"/>
+
+    <!-- Jekyl Seo TAG -->
+            
+    <meta name="twitter:card" content="summary">    
+    <meta name="twitter:site" content="@mipumh"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:description" content="{{ page.excerpt }}"/>
+    <meta name="twitter:creator" content="@{{ page.author.twitter }}"/>
+    <meta name="twitter:image" content="http://mip.umh.es/blog/images/card.jpg">
+
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1696018580661964');
+    fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1696018580661964&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Twitter universal website tag code -->
+    <script>
+    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+    s.parentNode.insertBefore(t,s))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','nv7bp');
+    twq('track','PageView');
+    </script>
+    <!-- End Twitter universal website tag code -->
+
+>>>>>>> gh-pages
 </head>
 <body>
     
@@ -40,7 +88,12 @@
             </a>
             <a href="{{ site.baseurl }}/" class="home">Blog</a>
             <a href="{{ site.baseurl }}/about/">¿Quiénes somos?</a>
+<<<<<<< HEAD
             <a href="{{ site.inc.product_link }}">Ir al Máster</a>
+=======
+            <a href="{{ site.baseurl }}/informacion-master.html">Sobre nosotros</a>
+            <a href="http://mip.umh.es/blog/2017/05/07/abecedario-innovacion-periodismo/">Abecedario</a>
+>>>>>>> gh-pages
         </nav>
         {% if site.inc.tagline or site.inc.product_url %}<nav class="tagline">
             {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}

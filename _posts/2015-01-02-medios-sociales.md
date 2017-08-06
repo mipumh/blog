@@ -18,7 +18,11 @@ Más que una sección de [eldiario.es](http://www.eldiario.es), es una comunidad
 
 ![](https://db.tt/cNedljii)
 
+<<<<<<< HEAD
 [Pikara Magazine](www.pikaramagazine.com)
+=======
+[Pikara Magazine](http://www.pikaramagazine.com)
+>>>>>>> gh-pages
 
 Es un proyecto creado en noviembre de 2010 para practicar periodismo de calidad con **visión de género**. Medio digital y muy especializado, aborda temas sociales y culturales con un enfoque distinto. "Nos apetecía mucho montar una especie de laboratorio, nuestro propio medio de comunicación en el que dar rienda suelta a este periodismo en el que creíamos e íbamos desarrollando sin las resistencias y las limitaciones que encuentras en un medio tradicional," [explica su directora, June Fernández](http://fisuraproducciones.com/entrevista-pikara-magazine), cuyo **reportaje** [Yo quería sexo pero no así](http://bit.ly/1pF9LS1) ha obtenido el [II Premio de Periodismo Colombine de la Asociación de la Prensa de Almería](http://bit.ly/1Hh04jE).
 

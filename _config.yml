@@ -53,8 +53,11 @@ show_drafts: nil
 limit_posts: 0
 highlighter: pygments
 
+<<<<<<< HEAD
 relative_permalinks: false
 
+=======
+>>>>>>> gh-pages
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
@@ -66,6 +69,19 @@ baseurl:     /blog
 lsi:         false
 
 #
+<<<<<<< HEAD
+=======
+# Twitter Pluggin 
+#
+
+twitter:
+  consumer_key: Yy9GyJBC7YMRA7AFC3pkQ 
+  consumer_secret: zmnZiKD3IwnDLpeRaKqHJhuhrJEzsx6u9VBGHLcGg 
+  access_token: 11989872-w2EYBRMYiN9U91ECajHbcLkV2Yfr0Adx7m2h64BfM
+  access_token_secret: 669CltVD7LQsvVbGebn7HmsDTBObAlOCVufUc7bSGn6Vt
+
+#
+>>>>>>> gh-pages
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
 #
 assets:

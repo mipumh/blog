@@ -30,6 +30,10 @@ Hace unas semanas, cuando vi a [los alumnos](https://www.youtube.com/watch?v=nKK
 
 No lo sé. Como tampoco sé en qué acabarán los míos. Pero quiero pensar que ése es el bendito misterio que contaba [Gabriel García Márquez](http://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez). 
 
+<<<<<<< HEAD
 ![](https://dl.dropboxusercontent.com/u/3578704/Perfiles_MIP/DSC_0608.jpeg "Guatemala, Julio 2012")
+=======
+![]({{ site.baseurl }}/images/Perfiles_MIP/DSC_0608.jpeg "Guatemala, Julio 2012")
+>>>>>>> gh-pages
 
 Imagen: Guatemala, Julio 2012.

@@ -4,11 +4,19 @@ title:  Diez reflexiones tras el Congreso de Periodismo Digital en Huesca
 excerpt: "El viernes cogí el coche rumbo a Alicante desde Huesca, mientras tarareaba la canción Al este del Edén de La Unión y maduraba muchas de las cosas que escuché durante el XV Congreso de Periodismo Digital. Antes del evento, tuve la oportunidad de contar a otros profesores en qué consiste el Máster en Innovación en Periodismo. Era mi primera vez en esta cita, aprendí mucho, lo pasé muy bien y volví con nuevos amigos. Enhorabuena a Fernando García Mongay, a todos los colaboradores, estudiantes y patrocinadores. Estas son diez reflexiones de lo allí vivido."
 author:
   name: Miguel Carvajal
+<<<<<<< HEAD
   twitter: sintomatico
   gplus: 105651624538664882557 
   bio: Director del Máster
   image: yo.png
   link: https://twitter.com/sintomatico
+=======
+  twitter: mcarvajal_
+  gplus: 105651624538664882557 
+  bio: Director del Máster
+  image: yo.png
+  link: https://twitter.com/mcarvajal_
+>>>>>>> gh-pages
 ---
 El viernes cogí el coche rumbo a Alicante desde Huesca, mientras tarareaba la canción "Al este del Edén" de La Unión y maduraba muchas de las cosas que escuché durante el [XV Congreso de Periodismo Digital](http://www.congresoperiodismo.com/). En la víspera del evento, tuve la oportunidad de contar a otros profesores en qué consiste el [Máster en Innovación en Periodismo](http://mip.umh.es). Era mi primera vez en esta cita, aprendí mucho, lo pasé muy bien y volví con nuevos amigos. Enhorabuena a [Fernando García Mongay](https://twitter.com/mongay55), a todos los colaboradores, estudiantes y patrocinadores. Estas son diez reflexiones de lo allí vivido:
 
