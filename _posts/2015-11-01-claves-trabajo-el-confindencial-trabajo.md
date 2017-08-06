@@ -10,14 +10,14 @@ author:
   image: maria-comin.jpg
   link: https://twitter.com/mariaComin
 ---
-El periodista [Alejandro Laso](https://twitter.com/alejandrolaso) ha vuelto a pisar las aulas del [Máster en Innovación en Periodismo (MIP)]( http://mip.umh.es/) de la [Universidad Miguel Hernández](http://www.umh.es). El responsable del área de Innovación y Estrategia de [El Confidencial](www.elconfidencial.com) explicó a los alumnos del MIP diversas claves que han convertido a este medio en uno de los digitales más reconocidos e innovadores. Los seis puntos que presentamos a continuación son algunas de las estrategias que destaca Laso:
+El periodista [Alejandro Laso](https://twitter.com/alejandrolaso) ha vuelto a pisar las aulas del [Máster en Innovación en Periodismo (MIP)]( http://mip.umh.es/) de la [Universidad Miguel Hernández](http://www.umh.es). El responsable del área de Innovación y Estrategia de [El Confidencial](http://www.elconfidencial.com) explicó a los alumnos del MIP diversas claves que han convertido a este medio en uno de los digitales más reconocidos e innovadores. Los seis puntos que presentamos a continuación son algunas de las estrategias que destaca Laso:
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/alaso.jpg)
+![]({{ site.baseurl }}/images/shots/alaso.jpg)
 
 1. **Contenido frente a tecnología**. En El Confidencial decidieron apostar primero por un **contenido de calidad** en lugar de invertir en las tecnologías más avanzadas, pero también costosas. Esta es una de las claves que les permitió consolidarse, según Alejandro Laso, quien matiza que la tecnología también fue otro aspecto fundamental posteriormente.
 
 2. **Cambio organizativo**. En la redacción integran gran diversidad de perfiles. “Los informáticos han dejado de estar apartados y, al final, todos cooperamos”, señala el periodista. Han creado una organización horizontal, con equipos autónomos que cooperan entre ellos. “Los medios de papel tienen un problema en su estructura empresarial; es demasiado rígida y les impide trabajar en innovación. Siempre hay una persona que te bloquea y los proyectos siempre dependen de alguien de arriba. La estructura de El Confidencial es muy distinta, trabajamos de forma totalmente horizontal, hacemos equipos independientes que tienen su misión, su autonomía y así se puede crear una cultura innovadora”, sostiene Alejandro Laso.
-![](https://dl.dropboxusercontent.com/u/3578704/shots/redacci%C3%B3n.jpg)
+![]({{ site.baseurl }}/images/shots/redacci%C3%B3n.jpg)
 
 3. **Dar prioridad al usuario**. Según Laso, “al usuario hay que darle lo que busca. Si no se analizan los datos, no sabremos lo que quiere. No hay que intentar adivinarlo o intuirlo, sino estudiar al usuario”. La Redacción de El Confidencial desarrolla dos vías de conocimiento del usuario. De forma directa a través de los comentarios, interacciones en redes sociales o correos electrónicos; y mediante la relación indirecta. “A través de los patrones de navegación del usuario, nos indican qué cosas les interesan y podemos adelantarnos a lo que están buscando para ofrecerles el contenido que quieren”, subraya Laso.
 

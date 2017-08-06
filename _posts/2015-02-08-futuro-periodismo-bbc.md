@@ -14,7 +14,7 @@ Todo periodista al que le interese su profesión debería leer y extraer sus pro
 
 La BBC se ha convertido en una factoría de contenidos con una marca global, apostando por el _narrowcasting_ (nichos más reducidos), **integrando a las audiencias en el proceso** y manteniendo como seña de identidad su responsabilidad social y **su misión de servicio público**.
 
-![](https://dl.dropboxusercontent.com/u/3578704/Fotos_MIP/viewfromtheinsidev2.jpg)
+![]({{ site.baseurl }}/images/Fotos_MIP/viewfromtheinsidev2.jpg)
 
 Los resultados se presentan en una web [muy completa](http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a) integrada por vídeos, infografías, artículos, seminarios y recomendaciones, así como en [un informe de 48 páginas](http://newsimg.bbc.co.uk/1/shared/bsp/hi/pdfs/28_01_15futureofnews.pdf). El documento, salpicado de citas de profesionales y académicos,  recoge las aportaciones de decenas de periodistas de la BBC. Un equipo dirigido por la periodista [Kelly Parkinson](https://twitter.com/KP_Parkinson) se encargó de procesar las aportaciones de más de un centenar de expertos internacionales. Consta de tres partes: 1. Manteniendo informado a todo el mundo 2. El futuro de las noticias: tecnología, gente e historias 3. La estrategia que debe adoptar la BBC en este escenario.
 
@@ -26,7 +26,7 @@ La introducción, “noticias frente a ruido”, subraya la brecha digital que a
 
 **La audiencia** exige información de calidad, que explique los temas relevantes de forma eficaz. Se apuesta por el periodismo colaborativo, estrechando los lazos con los usuarios e identificando las historias que les interesan. Se llega incluso a replantear la misma definición de noticia y se proponen nuevas narrativas, a través del periodismo de datos. Esta parte se ilustra con ejemplos, como [este especial de USAToday](http://www.usatoday.com/topic/B68DCD3E-7E3F-424A-BDA4-41077D772EA1/ghostfactories/)  sobre una serie de “fábricas fantasma” que acarrean riesgos para la salud o este [premio Pulitzer de The Sun Sentinel](http://www.pulitzer.org/works/2013-Public-Service) sobre policías que infringían las normas de tráfico
 
-![](https://dl.dropboxusercontent.com/u/3578704/Fotos_MIP/_80572084_timeline-small.gif)
+![](https://ichef.bbci.co.uk/news/1024/media/images/80572000/gif/_80572084_timeline-small.gif)
 
 Subrayamos otras tres ideas clave del informe que [destaca el blog 233 grados](http://233grados.lainformacion.com/blog/2015/02/as%C3%AD-ve-la-bbc-el-futuro-del-periodismo.html):
  

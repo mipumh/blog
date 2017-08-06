@@ -38,4 +38,4 @@ Experta en [herramientas digitales](http://bit.ly/1OQQABo) y periodismo móvil. 
 
 Y hasta aquí la lista. Os animo a seguir ampliándola con más nombres y proyectos. ¿Cuáles son vuestras propuestas? 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/rios.jpg)
+![]({{ site.baseurl }}/images/shots/rios.jpg)

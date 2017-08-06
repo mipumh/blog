@@ -14,7 +14,7 @@ En la redacción de [**Bez**](http://www.bez.es/), que se define como **“la op
 
 El diseño y la organización de los entornos de trabajo de los nuevos medios e iniciativas periodísticas ya no encajan del todo con los referentes tradicionales. Cuando pensamos en un medio de comunicación, en nuestra mente aparecen grandes áreas de trabajo repletas de personal, y jefes que se reúnen en una sala para construir la agenda del día. Pero si los productos periodísticos están cambiando,es lógico que **también lo hagan los sistemas de trabajo, la organización y las rutinas laborales.**
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/newsroom%20organization.jpg)
+![]({{ site.baseurl }}/images/shots/newsroom%20organization.jpg)
 
 Un ejemplo de estas transformaciones en el sector de la comunicación es el caso de la [**Fundación Civio**](http://www.civio.es/), en la que, como explica la [**responsable de Proyectos, Eva Belmonte**](http://escuela.civio.es/tag/eva-belmonte/), cada trabajador tiene el horario que considera oportuno, “algo fundamentado en la confianza que existe entre empleador y empleado”. Por tanto, en esta [iniciativa innovadora](http://mip.umh.es/ranking/) las jornadas no están definidas. De hecho, algunos profesionales trabajan habitualmente fuera de la redacción. **Se trata de una organización flexible que responde a las necesidades de cada objetivo, en lugar de seguir un horario establecido.**
 

@@ -33,4 +33,4 @@ Pero la principal contribución de este verdadero laboratorio se encuentra en la
 
 * [twXplorer](http://projects.knightlab.com/projects/twxplorer-lab-project). Se trata de una herramienta, todavía también en fase beta, que potencia [la búsqueda en Twitter](http://www.theatlantic.com/technology/archive/2013/09/a-new-free-tool-lets-you-analyze-and-archive-twitter-simultaneously/279748/). Además de la visualización y el análisis de datos, facilita el archivo de los contenidos de la red de microblogging.
 
-Gran parte de estos programas se emplearon en el taller sobre webdocs y relatos interactivos que Miriam Hernanz, redactora del [RTVE Lab](http://lab.rtve.es/about), impartió en el módulo de [Nuevas Narrativas](http://mip.umh.es/programa.htm#narrativas) del MIP.
+Gran parte de estos programas se emplearon en el taller sobre webdocs y relatos interactivos que Miriam Hernanz, redactora del [RTVE Lab](http://lab.rtve.es/about), impartió en el módulo de [Nuevas Narrativas](http://mip.umh.es/planestudios.html) del MIP.

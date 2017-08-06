@@ -12,7 +12,7 @@ author:
 ---
 La viralidad es una tendencia cada vez más asumida por los medios online. El creciente consumo de información a través de redes sociales nos lleva a replantear las formas de producción y distribución orientadas a estos canales. Como ejemplifica [**este reportaje sobre la información viral en el periodismo**](http://politica.elpais.com/politica/2015/02/06/actualidad/1423226797_792858.html),  pueden ser virales los artículos en forma de lista con vídeos breves y llamativos, algún número en sus titulares, un lenguaje que despierte la curiosidad del lector y una distribución estratégica en Facebook. El grado de [**contagio entre los lectores**](http://www.pnas.org/content/111/24/8788) mediante la acción de compartir el contenido publicado determinará que el artículo se convierta o no de hecho en viral.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/virality.jpg)
+![]({{ site.baseurl }}/images/shots/virality.jpg)
 
 [Delia Rodríguez](https://twitter.com/delia2d), periodista y autora de [Memecracia](http://www.yorokobu.es/memecracia), un libro sobre el que [**ya hablamos en este blog**](http://mip.umh.es/blog/2015/02/18/memecracia-periodismo/)  ha llamado la atención sobre dos peculiaridades de la información en Internet:
 
@@ -28,6 +28,6 @@ Estas particularidades señaladas por la fundadora de [**Verne**](http://verne.e
 - **Ley de Godwin**: A medida que se intensifica una discusión por internet, aumenta la probabilidad de que aparezca una comparación con los nazis como argumento descalificador del rival. El inventor de esta regla "contraviral" quiso poner en evidencia el abuso de esta comparación extrema y simplificadora como argumento.
 - **Filtro burbuja**: Cuando los usuarios se acostumbran a consultas cerradas, sobre todo aquello que esté relacionado solo con sus intereses declarados. De modo que al consultar con frecuencia los mismos temas, los buscadores nos los siguen ofreciendo y desatienden otras posibles novedades o alternativas, limitando la visión del mundo de esos usuarios.
  
-![](https://dl.dropboxusercontent.com/u/3578704/shots/delia-rodriguez-memecracia.jpg)
+![]({{ site.baseurl }}/images/shots/delia-rodriguez-memecracia.jpg)
  
 Para que un contenido se viralice, el volumen de gente con la que lo compartes inicialmente es un factor tan importante como la calidad del contenido o el alcance de los usuarios que lo compartan. Por ello, cuanto más amplia sea nuestra base de contactos que compartan nuestro contenido en las distintas redes sociales, más posibilidades tendrá de convertirse en viral.

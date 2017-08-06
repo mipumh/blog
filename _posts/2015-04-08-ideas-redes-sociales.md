@@ -14,7 +14,7 @@ España es uno de los países del mundo con mayor [consumo](http://bit.ly/19rehP
 
 **“A mejores contenidos, mejor charla y más difusión.”** Es la visión de [Gabriel Cuesta](www.gabrielcuesta.com), desarrollador web y de aplicaciones para Facebook para quien **el tipo de comunidad define las estrategias concretas** que deberemos adoptar. Un ejemplo es la comunidad de  [retrogamers](http://bit.ly/1afpRx4) que ha creado en torno a un canal de YouTube con más de 850 mil visualizaciones. Se vale del perfil de usuario y de la analística web para determinar la política de contenidos. “Incentivo mucho los comentarios sobre los juegos asociados a las vivencias personales de los usuarios y grabo el tipo de vídeos que gustan más,” explica.
 
-![](https://dl.dropboxusercontent.com/u/3578704/Fotos_MIP/gestion_redes_mip_umh.jpg)
+![]({{ site.baseurl }}/images/Fotos_MIP/gestion_redes_mip_umh.jpg)
 
 Ésta es la receta del éxito de [Nieves Montero](https://twitter.com/nievesmontero), experta en marketing digital, búsquedas en la web y posicionamiento online: escuchar a nuestros fans y seguidores; hacer los cambios online y offline necesarios; crear contenidos originales y propios; trabajar las imágenes y los vídeos, incluir nuestro logo; hacer publicidad en Facebook y Twitter; **crear relaciones personales**, pues “la gente quiere ver personas, no marcas,” señala; y no hacer lo que el resto, dar siempre más.
 

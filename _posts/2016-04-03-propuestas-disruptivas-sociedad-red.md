@@ -39,7 +39,7 @@ Definirnos como creadores de contenidos es una trampa (…) Nuestro valor se tra
 
 El periodista puede aportar valor a la comunidad con un sinfín de acciones: generando debate, moderando, planteando preguntas, comprobando hechos, haciendo accesible la información y presentándola adecuadamente. 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/pered1.jpg)
+![]({{ site.baseurl }}/images/shots/pered1.jpg)
 
 ### 2. Perfiles profesionales innovadores
 
@@ -52,7 +52,7 @@ Se precisa de una formación transversal, es decir, que el periodista sea capaz 
 El sentido de una redacción abierta reside en la eficaz articulación entre el medio y la comunidad a la que sirve. La conectividad altera los flujos de información y permite que medios, periodistas y audiencias colaboren de formas inéditas, integrando auténticas comunidades y generando relaciones mutuamente beneficiosas.
 Una redacción no se considera principalmente un lugar, sino una comunidad, donde existen estructuras descentralizadas y multidisciplinares, de profesionales que producen contenidos conectados con los usuarios. [Las organizaciones flexibles tratan de responder a las necesidades de cada profesional](http://mip.umh.es/blog/2015/11/08/pistas-mejorar-organizacion-redacciones/), valorando la dinámica de los flujos de trabajo, la configuración de los equipos y la comunicación interna.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/pered2.jpg)
+![]({{ site.baseurl }}/images/shots/pered2.jpg)
 
 ### 4.	Los usuarios en el centro del proceso
 

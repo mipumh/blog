@@ -33,4 +33,4 @@ Olga Ruiz y María Jesús Espinosa darán clase al alumnado del Máster en Innov
  
 Pronto estarán por aquí y nos contarán más... ¡Hasta pronto!
  
-![](https://dl.dropboxusercontent.com/u/3578704/Perfiles_MIP/extrarradio.jpg "Olga Ruiz y Mª Jesús Espinosa")
+![]({{ site.baseurl }}/images/Perfiles_MIP/extrarradio.jpg "Olga Ruiz y Mª Jesús Espinosa")

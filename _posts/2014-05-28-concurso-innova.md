@@ -22,5 +22,3 @@ Para escoger a los premiados, el jurado valorará, según Miguel Carvajal, direc
 
 **Los aspirantes deberán presentar una propuesta de valor y un prototipo** (mockup, borrador, esquema) o una versión beta del proyecto. Toda la documentación puede cumplimentarse a través de
 formularios en la web oficial del [Máster de Innovación en Periodismo](http://mip.umh.es/concurso.htm). El plazo de entrega finaliza el 30 de junio de 2014 y el fallo del jurado será anunciado durante la primera quincena de julio a través de las redes sociales, este blog y El Confidencial.
-
-![Imagen: En el taller sobre tendencias innovadoras con José Manuel Noguera](http://dl.dropboxusercontent.com/u/3578704/Fotos_MIP/2.jpg)

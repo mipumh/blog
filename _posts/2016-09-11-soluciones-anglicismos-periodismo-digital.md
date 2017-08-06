@@ -14,7 +14,7 @@ La comunicación en Internet es cada día más anglófona: desde nuestra activid
 
 El léxico anglosajón se adopta y se reproduce como propio. Sus conceptos están tan arraigados a la cultura mediática que, en ocasiones, ¡ni siquiera se escriben en _cursiva_! Hemos otorgado poder a esos conceptos; nuestras habilidades y nuestro perfil ya no suenan profesionales si no los pronunciamos con encanto anglosajón, con _postureo_ idiomático. 
 
-[![](https://dl.dropboxusercontent.com/u/3578704/shots/efectolin.png)](http://pictoline.com/988-el-efecto-linkedin/ )
+[![]({{ site.baseurl }}/images/shots/efectolin.png)](http://pictoline.com/988-el-efecto-linkedin/ )
 
 La RAE [ya se ha pronunciado al respecto de los anglicismos en la publicidad](http://elpais.com/elpais/2016/05/18/videos/1463563077_502257.html). ¿Compraríais unas gafas de sol _blind effect_? Suena _cool_, pero no parece muy práctico lucir unas gafas que te dejan ciego por completo. 
 
@@ -22,7 +22,7 @@ Todos sabemos que se abusa de los anglicismos [en el mundo de la mercadotecnia (
 
 He identificado los **anglicismos del periodismo en internet** mas _cool_ acompañados de soluciones en castellano. No se trata de rechazarlos, ni sustituirlos siempre. Simplemente...
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/keep.jpg)
+![]({{ site.baseurl }}/images/shots/keep.jpg)
 
 **Big Data**: Es la gran “masa de datos” que se genera día a día a través de la red y los dispositivos conectados, también a las herramientas disponibles para su análisis.  Sirve como materia prima del periodismo de datos, aunque es un concepto que se aplica en muchos otros sectores. En castellano podemos decir “datos masivos”, “macrodatos” o “datos a gran escala”. 
 
@@ -50,7 +50,7 @@ He identificado los **anglicismos del periodismo en internet** mas _cool_ acompa
 
 **Slow Journalism**: Periodismo sin las cadenas de la inmediatez, sin importar la extensión, con la filosofía de Azorín o Kapuscinski. Se trata del “Periodismo lento” o “Periodismo reposado”. Mi compañero Vicente Coves ya analizó el fenómeno en [“La apuesta por el periodismo lento” (Slow Journalism)](http://mip.umh.es/blog/2015/10/25/periodismo-slow-lento-nieman/).
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/keyboard.jpg)
+![]({{ site.baseurl }}/images/shots/keyboard.jpg)
 
 **Story-telling**: Es lo que llevamos haciendo los periodistas toda la vida, la práctica ancestral de la profesión: contar historias. En castellano, las historias se narran, se relatan o se exponen. Podemos decir “narrativa”, “relatos” o, si los caracteres no son un problema, “el arte de contar historias”. 
 

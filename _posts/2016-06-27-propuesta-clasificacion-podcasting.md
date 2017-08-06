@@ -22,7 +22,7 @@ Por lo tanto, si se desea configurar una tipología de podcasts, se pueden estab
 
 - [Y un segundo grupo formado por aquellos podcasts específicamente elaborados para ser difundidos a través de internet](https://vivoentremuggles.com/)
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/podcasting.jpg)
+![]({{ site.baseurl }}/images/shots/podcasting.jpg)
 
 Esta primera división alude, por tanto, al canal de distribución para el que fue pensado el archivo multimedia en primera instancia. Y, a partir de estos dos grupos, es posible establecer dos tipologías de segundo nivel que aluden a la temática y al género. 
 
@@ -34,4 +34,4 @@ En cuanto a temática es posible hablar de [“podcasts de ciencia”](http://ww
 
 A continuación se presenta un gráfico que resume la propuesta de tipología, con la que se pretende arrojar luz en el ámbito del podcasting:
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/tipologiapodcast.jpg)
+![]({{ site.baseurl }}/images/shots/tipologiapodcast.jpg)

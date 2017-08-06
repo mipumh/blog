@@ -12,7 +12,7 @@ author:
 ---
 En la Sociedad Red cobra fuerza el protagonismo de los usuarios, frente al concepto tradicional de audiencia, como participantes activos en el proceso comunicativo. A través de la participación surge una audiencia con vocación de equilibrar el poder entre elites y ciudadanía,  de involucrarse en los medios y, [por primera vez, con posibilidades de lograrlo](http://mip.umh.es/blog/2015/04/24/comunicar-sociedad-red/).
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/perfiles%20audiencia%20multiplataforma.jpg)
+![]({{ site.baseurl }}/images/shots/perfiles%20audiencia%20multiplataforma.jpg)
 
 Los medios que han entendido la necesidad de situar al consumidor en el centro del proceso de producción y distribución de contenidos, desarrollan estrategias para determinados perfiles de usuarios e implementan iniciativas de participación con objetivos concretos. Un reciente artículo de la _Columbia Journalism Review_ muestra cómo los editores de _engagement_ de varios medios norteamericanos [incentivan la participación de los usuarios con una amplia variedad de iniciativas](http://www.cjr.org/analysis/before_many_americans_had_awoken.php). En este sentido, cabe diferenciar los perfiles de usuarios según el modo en que cada medio interpela a su público. La visión que un medio asume acerca de su audiencia incide en sus estrategias participativas, pues el tipo de participación asociado a un “cliente” o un “consumidor” resulta muy distinto al de un “ciudadano” o un “colaborador”.
 
@@ -24,7 +24,7 @@ Una investigación sobre las [estrategias de participación de las televisiones 
 
 - Los **ciudadanos** tienen una actitud cívica, enfocada al engagement que implica algún beneficio social o cultural. Plantean quejas y sugerencias, formulan preguntas, comentan y participan en debates, acuden al ombudsman del medio e interactúan con iniciativas culturales.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Know-your-taregt-audience.jpg)
+![]({{ site.baseurl }}/images/shots/Know-your-taregt-audience.jpg)
 
 - A los **conversadores** les interesa la actividad social. Les encanta hablar sobre los contenidos que consumen, y aportan su opinión, le gusta relacionarse para conocer mejor la vida de los demás, sienten curiosidad por la vida de los famosos, participan en debates y siguen la actualidad para polemizar sobre temas que les interesan.
 

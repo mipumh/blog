@@ -55,7 +55,7 @@ Los periodistas digitales de Bélgica, España  e Italia mantienen que el ejerci
 
 The term “ambient journalism” is employed to comprehend the complex relations of news consumption and production in the main Spanish news-papers, resulting from the function of social networks in the sphere of digital journalism. We analyze the influence of Twitter, Facebook and News Recommendation Engines (NREs) on the digital editions of El País, El Mundo, La Razón, ABC and La Vanguardia and how they shape the news agenda, especially through analysis of the breaking news stories of these editions.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/hires3.jpg)
+![]({{ site.baseurl }}/images/shots/hires3.jpg)
 
 ###[La comunidad de los diarios digitales españoles en Twitter: análisis de la distribución y del perfil de la red de contactos](http://dialnet.unirioja.es/servlet/articulo?codigo=5166821)
 

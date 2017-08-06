@@ -20,7 +20,7 @@ Antes he empleado conscientemente la palabra "**mercado**". **En los últimos a�
 
 Los estadounidenses han comprendido una realidad: **la prensa se ha quedado sin mercado**. El [Newspaper Death Watch](http://newspaperdeathwatch.com/) (Observatorio de la Muerte de la Prensa) va anotando las últimas cabeceras que van cerrando desde 2007. Su lema es "Chronicling the Decline of Newspapers and the Rebirth of Journalism" (_Contando el declive de la Prensa y el Renacimiento del Periodismo_). Un toque de humor para una situación de cambio que, siendo importante, solo supone el fin de una parte de una industria. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/pad0.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/pad0.jpg)
 
 En España se ha optado por apuntar a causas de todo tipo: la **crisis** económica —que sólo ha acelerado lo inevitable—, la **falta de pericia** de los equipos directivos para mantener los diarios a flote, la aparición de **prensa gratuita**, el interés de los **partidos políticos** por silenciar determinados medios que denunciaron la **corrupción**, etcétera. La respuesta es bastante más sencilla: **el mercado ha cambiado y el sector no se ha adaptado**.
 
@@ -30,7 +30,7 @@ Todos hemos estudiado con la idea de acabar trabajando en "un grande" como **El 
 
 Sin llegar a fenómenos tan grandes, en **[Nabumbu](https://nabumbu.com/es) colaboramos con más de una decena de canales de YouTube** orientados al juguete cuyos creadores viven exclusivamente (y muy bien en algunos casos) de lo que generan. Eso sí, se lo toman muy en serio.
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/pad1.png)
+![image alt text]({{ site.baseurl }}/images/shots/pad1.png)
 
 Estos casos, sin embargo, no demuestran que los periodistas tengan que coger una cámara y ponerse a hacer payasadas divertidas mientras le dan caña al **Grand Thief Auto V**, sino que deben servir para darse cuenta de que existe un medio gratuito con potencial de llegada a todo el planeta llamado **YouTube**, que tiene sus reglas, sus formas, sus algoritmos y un interesante sistema de monetización para arrancar.
 
@@ -46,7 +46,7 @@ Exactamente igual ocurre en **Facebook**. El alcance orgánico de las páginas s
 
 Por poner un ejemplo, **[hay pruebas](https://techcrunch.com/2016/09/06/ultimate-guide-to-the-news-feed/) de que Facebook promueve con más intensidad aquellas publicaciones y piezas que emplean sus últimas tecnologías y desarrollos**. ¡Utilicemos **Facebook Live** ahora que no es masivo y que Mark Zuckerberg quiere imponerse a **Periscope**!
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/pad2.png)
+![image alt text]({{ site.baseurl }}/images/shots/pad2.png)
 
 Por lo tanto, conocer qué es un algoritmo, saber cuáles son los más útiles y cómo funcionan en las grandes plataformas de distribución de contenidos son conocimientos vitales para cualquier comunicador recién licenciado.
 

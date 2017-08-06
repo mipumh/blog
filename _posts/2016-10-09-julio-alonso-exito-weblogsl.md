@@ -14,7 +14,7 @@ Con más de 40 cabeceras y más de [50 millones de usuarios en septiembre](https
 
 Julio Alonso ha impartido la conferencia de apertura del **Máster de Innovación en Periodismo** (MIP) en la Universidad Miguel Hernández de Elche. La clave del éxito de Weblogs, según su fundador, es la especialización y la pasión por los temas que tratan.
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jalonso1.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jalonso1.jpg)
 
 **¿Qué diferencia a Weblogs del resto para ser el principal grupo de medios digitales especializados en España?**
 
@@ -40,7 +40,7 @@ Uno de los elementos clave es **la calidad** y creerte la temática que trabajes
 
 La tendencia es pensar la gente solo lee en móviles y quiere textos cortos. Pues no necesariamente, quiere textos cortos en un momento determinado en el que está mirando titulares de pie en el metro. Pero por la tarde, sentado en el sofá con el móvil quiere leerse un artículo grande. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jalonso2.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jalonso2.jpg)
 
 **¿Es importante tener un modelo de negocio innovador?**
 
@@ -61,7 +61,7 @@ Creemos poco en los modelos con [muro de pago](http://www.redeszone.net/2016/02/
 
 Sobre todo, la competencia. Igual que decimos que es muy fácil entrar, hay **muchísima competencia**. Al final el éxito es una combinación de lo bien que tú lo haces y de la necesidad que tenga el mercado y no esté bien atendida. Si encuentras un nicho de mercado, tienes que pensar en cierto tipo de preguntas: cuál es mi modelo de negocio, hay marcas interesadas en él, es mi especialidad... Es muy difícil lanzar un producto con éxito cuando estás tratando una temática que no te interesa. Si a ti te interesa algo tanto como a tu audiencia, los lectores lo aprecian. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jalonso3.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jalonso3.jpg)
 
 **¿Cree que en España hay una cultura para emprender poco explotada o que ofrece menos facilidades si se compara con otros países?**
 
@@ -81,7 +81,7 @@ A los países de América Latina, en términos de audiencia, no es complicado ll
 
 Esa parte es razonablemente fácil. Obviamente, si quieres avanzar más, tienes que hacer contenidos para ese público, tener equipo editorial allí y **cubrir las novedades específicas del país**. También hacemos una doble publicación en Twitter. Publicamos en horario de España y horario de América Latina, ya que están cambiados. Por este motivo, no se solapan las noticias porque la gente que lo ha visto por la mañana está dormida y no le molesta que lo repitas. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jalonso4.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jalonso4.jpg)
 
 **¿Cuáles son los próximos objetivos para el desarrollo de su empresa?**
 

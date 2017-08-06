@@ -12,7 +12,7 @@ author:
 ---
 Es una periodista vital, que reúne rasgos de emprendedora, hacker y creativa compulsiva. A sus 33 años, [Idoia Sota](https://twitter.com/IdoiaSota) ha participado en el lanzamiento de revistas como **OKS**, **La Otra Crónica** de El Mundo y El País **SModa**. Dirige la publicación [Acuerdo](http://www.acuerdo.us/), que lanzó en abril de 2013, a través de una campaña de crowdfunding. En la actualidad, según explica, Acuerdo “se halla en standby porque quienes lo lanzamos hemos seguido adelante con otros proyectos”. Idoia también ha colaborado en la creación de [Bez](http://www.bez.es/), que vio la luz el pasado 28 de septiembre, dirigido por los periodistas Juan Zafra y Braulio Calleja. Y acaba de fichar como redactora jefe de la edición digital de **La Vanguardia**.
 
-![Idoia Sota](https://dl.dropboxusercontent.com/u/3578704/shots/idoia_1.jpg)
+![Idoia Sota]({{ site.baseurl }}/images/shots/idoia_1.jpg)
 
 Idoia mantuvo un encuentro con los alumnos que inician la III Edición del **Master de Innovación en Periodismo** de la Universidad Miguel Hernández. Su charla dio pie a un intenso coloquio sobre cómo se puede innovar en periodismo. Estas son algunas de las claves de su intervención:
  
@@ -27,4 +27,4 @@ Idoia mantuvo un encuentro con los alumnos que inician la III Edición del **Mas
 - “Estamos compitiendo por la atención de forma brutal, por lo que debemos ofrecer un valor diferencial a los usuarios, a los lectores; **ponerlos en el centro del proceso**”.
 - “No digas “esto nunca se ha hecho”, sino “**cómo puedo hacerlo yo**” de forma exitosa, y nunca pienses “no voy a poder”.
 
-![Idoia Sota](https://dl.dropboxusercontent.com/u/3578704/shots/idoia_2.jpg)
+![Idoia Sota]({{ site.baseurl }}/images/shots/idoia_2.jpg)

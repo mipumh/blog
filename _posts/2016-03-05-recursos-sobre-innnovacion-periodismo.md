@@ -16,8 +16,6 @@ En nuestro [Master de Innovación en Periodismo](http://mip.umh.es/) hacemos un 
 
 * [Journalism Co. UK](https://www.journalism.co.uk/) Esta web sobre noticias, empleo, cursos e investigaciones sobre innovación en los medios fue creada por [John Thompson](https://twitter.com/johncthompson) en el Reino Unido en 1999. Se trata de una excelente fuente para conocer las últimas tendencias y cubren eventos sobre periodismo en toda Europa.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/dierecursos.jpg)
-
 * Blog de Ramón Salaverría](http://www.salaverria.es/), profesor de Periodismo en la **Universidad de Navarra** y reputado investigador sobre medios digitales. En su blog analiza los retos que afronta el periodismo en Internet y las estrategias más innovadoras. Su último libro es **Ciberperiodismo en Iberoamérica**, una monumental obra colectiva [que ha editado para la Fundación Telefónica](http://www.salaverria.es/blog/2016/02/22/ciberperiodismo-en-iberoamerica-nuevo-libro/).
 
 * [Blog del laboratorio de El Confidencial](http://blogs.elconfidencial.com/comunicacion/el-blog-del-laboratorio/), capitaneado por [Alejandro Laso](https://twitter.com/alejandrolaso), profesor del **Master de Innovación en Periodismo de la UMH**. El blog reflexiona sobre cómo la tecnología está reescribiendo el futuro del periodismo, desde la creatividad, el riesgo y las posibilidades que las nuevas herramientas ofrecen a los periodistas y los medios de comunicación. “Innovar es nuestra estrategia”, afirman, “no para ganar la carrera, sino para cambiar las reglas”.   
@@ -28,7 +26,7 @@ En nuestro [Master de Innovación en Periodismo](http://mip.umh.es/) hacemos un 
 
 * [Lablogatorio del Lab de RTVE](http://blog.rtve.es/lablogatorio/). En el **Lab de RTVE**, dirigido  por [Miriam Hernanz](https://twitter.com/miriamhernanz), profesora del **Master de Innovación en Periodismo de la UMH**, diseccionan la realidad desde otra perspectiva, “para luego contártelo de una forma innovadora”. En este blog colectivo encontramos el seguimiento de las novedades en ámbitos como los webdocs, el periodismo de datos, el vídeo online y las narrativas transmedia.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/bombillas.jpg)
+![]({{ site.baseurl }}/images/shots/bombillas.jpg)
 
 * [Tow Center for Digital Journalism](http://towcenter.org/) Este instituto de la Escuela de Periodismo de la Universidad de Columbia (Nueva York) analiza los procesos que están transformando el periodismo digital, desde la perspectiva de los profesionales y los consumidores. Dirigido por la periodista [Emily Bell](https://twitter.com/emilybell) y financiado por la Fundación Tow, el centro ofrece cursos formativos y la posibilidad de formar parte de su selecto grupo de fellows. Entre sus proyectos más recientes destaca esta [Guía sobre el Periodismo Automatizado](http://towcenter.org/research/guide-to-automated-journalism/).
 

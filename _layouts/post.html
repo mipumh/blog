@@ -10,35 +10,45 @@ layout: base
     </div>
 </div>
 {% endif %}
-<article>
 
-    <div class="container">
-        <header>
-            <div class="meta">
-                Por <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
-                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%d %B, %Y" }}">{{ page.date | date: "%d %B, %Y" }}</time></address>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-xs-12">
+        <article>
+            <div class="container">
+                <header>
+                    <div class="meta">
+                        Por <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
+                        <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%d %B, %Y" }}">{{ page.date | date: "%d %B, %Y" }}</time></address>
+                    </div>
+                    <h1 class="title">{{ page.title }}</h1>
+                    {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+                </header>
+
+                <section>
+                    {{ content }}
+                    {% include _social.html %}
+                </section>
+
+                <footer>
+                    <address>
+                       {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}">{% endif %}
+                        <p>Escrito por <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
+                        <span class="muted">{{ page.author.bio }}</span>
+                        </p>
+                    </address>
+                </footer>
+                    {% if site.inc.disqus.shortname %}
+                    <section>
+                        {% include _disqus.html %}
+                    </section>
+                    {% endif %}
             </div>
-            <h1 class="title">{{ page.title }}</h1>
-            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-        </header>
+        </article>
+        </div>
 
-        <section>
-            {{ content }}
-            {% include _social.html %}
-        </section>
-
-        <footer>
-            <address>
-               {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}">{% endif %}
-                <p>Escrito por <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
-                <span class="muted">{{ page.author.bio }}</span>
-                </p>
-            </address>
-        </footer>
-            {% if site.inc.disqus.shortname %}
-            <section>
-                {% include _disqus.html %}
-            </section>
-            {% endif %}
+        <div class="col-lg-4 col-xs-12">
+            {% include _feedpost.html %}
+        </div>
     </div>
-</article>
+</div>

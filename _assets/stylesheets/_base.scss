@@ -43,7 +43,7 @@ a {
 }
 
 .container {
-    max-width:900px;
+    max-width:1100px;
     margin:0 auto;
 }
 
@@ -68,7 +68,7 @@ a {
 }
 
 .index {
-    margin:0 5em;
+    margin:0 0em;
     
     > div{
         display:table-cell;
@@ -86,6 +86,88 @@ a {
         margin-top:0;
         margin-right:30px;
     }
+}
+
+.blog-newcover {
+    @extend .article-cover;
+    height: 120px;
+    background-color:#111;
+    background-size:cover;
+    background-position:center center;
+    z-index:1;
+
+    section {
+        text-align: left;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom:0;
+        background-color:rgba(0,0,0,0.4);
+        background-image: linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
+        background-image: -o-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
+        background-image: -moz-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
+        background-image: -webkit-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
+        background-image: -ms-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
+
+        background-image: -webkit-gradient(
+        	linear,
+        	left bottom,
+        	left top,
+        	color-stop(0, rgba(0,0,0,0.15)),
+        	color-stop(1, rgba(0,0,0,0))
+        );
+        padding: 100px 0;
+        z-index:10;
+
+        a {
+            color:#fff;
+            border:0;
+            width:36px;
+            height:36px;
+            border:2px solid rgba(255,255,255,1);
+            display:inline-block;
+            padding:10px 0;
+            border-radius:42px;
+            margin:1.5em 1em 0em 0;
+            transition:0.2s all ease;
+            line-height:0;
+            text-align:center;
+        
+            &:hover {
+                transition:0.2s all ease;
+                background:#fff;
+                
+                .icon-rss {
+                    background-position:1px -11px;
+                }
+                
+                .icon-twitter {
+                    background-position:0px -15px;
+                }
+                
+                .icon-facebook {
+                     background-position:0px -14px;
+                 }
+            }
+        }
+    }
+    
+    h1 {
+        font-size:2.7em;
+        line-height:1.4em;
+    }
+    
+    h3 {
+        font-size:1.3em;
+    }
+    
+    h1, h3 {
+        color:#fff;
+        margin:0;
+        font-weight:600;
+    }
+    
 }
 
 .blog-cover {
@@ -111,11 +193,11 @@ a {
         background-image: -ms-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
 
         background-image: -webkit-gradient(
-        	linear,
-        	left bottom,
-        	left top,
-        	color-stop(0, rgba(0,0,0,0.15)),
-        	color-stop(1, rgba(0,0,0,0))
+            linear,
+            left bottom,
+            left top,
+            color-stop(0, rgba(0,0,0,0.15)),
+            color-stop(1, rgba(0,0,0,0))
         );
         padding: 100px 0;
         z-index:10;

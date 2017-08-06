@@ -28,8 +28,6 @@ Pero el GIF no sirve exclusivamente para acompañar a la información. Algunos m
 
 Otro ejemplo es el caso de Ficazo, un medio de divulgación científica basado en la animación. Todo su contenido se distribuye a través de las redes sociales, aunque cuentan con una [página web](http://ficazo.com/) a modo de archivo.
 
-![](http://45.media.tumblr.com/94b36c320faafa61a49a5caa98ab31f8/tumblr_o25leprVyZ1tvf4mjo1_500.gif)
-
 De acuerdo con Adam Leibsohn, COO de [GIPHY](http://giphy.com/), la mayor plataforma online de GIFs animados, este “renacer” se debe principalmente a **dos motivos**: las palabras son demasiado lentas para el ritmo de la conversación online y, cada vez más, nos comunicamos a través del contenido. En cambio el GIF, señala, es uno de los formatos más “eficientes, efectivos, mobile y social”:
 
 - Es menos pesado que un vídeo y más sencillo de editar.

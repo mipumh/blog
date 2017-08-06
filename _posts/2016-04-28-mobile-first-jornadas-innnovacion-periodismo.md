@@ -14,7 +14,7 @@ Durante dos días, los asistentes a las **Jornadas Internacionales de Innovació
 
 **Juan Miguel Aguado** lleva investigando la comunicación móvil desde 2002, que se dice pronto. Es una mente portentosa, capaz de sintetizar prodigiosos análisis de tendencias con una soltura alucinante; como muestra, [los cinco retos que planteó a los periodistas para desarrollar con éxito contenidos móviles](http://periodismo.umh.es/2016/04/26/los-cinco-desafios-de-la-movilidad-en-el-periodismo-segun-juan-miguel-aguado/). Juan Miguel nos advirtió que el viaje hacia el “periodismo ambiental” no ha hecho más que empezar. Por eso, cuando terminó su charla con esta diapositiva, todos nos sentimos un poco abrumados:
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/jpumh1.jpg)
+![]({{ site.baseurl }}/images/shots/jpumh1.jpg)
 
 De **Joao Canavilhas** me quedo con su estupendo sentido del humor, su gusto por la metáfora, que deja caer como quien no quiere la cosa, para conectar una cosa con otra y su capacidad para estar al día. “No perdáis la pista de [Observador](http://observador.pt/)”, un nativo digital en Portugal que “está haciendo cosas interesantes”. 
 
@@ -22,7 +22,7 @@ Me impresionaron la creatividad y el talento de **Javier Moya** y **Ángel Anaya
 
 **Carmela Ríos** lo vive todo intensamente. Respira periodismo por los cuatro costados y, con su trabajo al frente del video social y redes en El Mundo, está revolucionando la redacción, ahora que afrontan tiempos convulsos (ERE incluido). Carmela [nos dio pistas para ejercer su particular “gimnasia narrativa](http://www.diarioinformacion.com/elche/2016/04/26/hay-cana-fuente-poner-tuits/1754165.html)” con la que experimentar la mejor forma de contar cada historia. Y siempre con mucha pasión.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/jpumh2.jpg)
+![]({{ site.baseurl }}/images/shots/jpumh2.jpg)
 
 Érase un ciclón, un torrente de actividad, llamado **Millán Berzosa**. Disimula su ascendencia castellano leonesa y colombiana bajo un acento neutro, con dejes aragoneses. Google ha elegido bien a su representante de News Lab para España y Portugal, pues [combina experiencia en los medios y en la universidad](http://www.diarioinformacion.com/elche/2016/04/28/millan-i-berzosa-criterio-editorial/1754954.html). Millán nos animó a que las Facultades de Periodismo pongamos en marcha laboratorios de innovación. Ya estamos tardando, pero... un poco de tiempo y financiación nos vendría bien.
 
@@ -37,7 +37,7 @@ Mientras recuerdo los buenos ratos compartidos con estos ocho grandes expertos, 
 3. Usar el lenguaje apropiado para cada soporte, ya sean tabletas, móviles o wearables.
 4. Poner al usuario en el centro de la ecuación.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/jpumh3.jpg)
+![]({{ site.baseurl }}/images/shots/jpumh3.jpg)
 
 Si quieres ver alguna sesión concreta, o comprobar que no te he mentido, puedes hacerlo en el streaming:
 [Día 1](https://www.youtube.com/watch?v=Khr3TBGwQfg)

@@ -12,7 +12,7 @@ author:
   image: flx.jpg
   link: https://twitter.com/cibermensaje
 ---
-La versión online del **Máster de Innovación en Periodismo** ya está en marcha. Este programa oficial, que sitúa las ideas y las técnicas del periodismo más innovador a un solo clic, estrena [nueva página web](http://mip.umh.es/online/) con sus puntos clave: una plataforma dinámica, sencilla e interactiva; unos contenidos útiles, completos y adaptados; y un equipo accesible y preparado para proporcionar una formación eficaz y práctica.
+La versión online del **Máster de Innovación en Periodismo** ya está en marcha. Este programa oficial, que sitúa las ideas y las técnicas del periodismo más innovador a un solo clic, estrena [nueva página web](http://mip.umh.es/master-oficial-a-distancia-periodismo-online.html) con sus puntos clave: una plataforma dinámica, sencilla e interactiva; unos contenidos útiles, completos y adaptados; y un equipo accesible y preparado para proporcionar una formación eficaz y práctica.
  
 ## El entorno virtual más efectivo
 
@@ -38,4 +38,4 @@ Además de la coordinación general, cada asignatura cuenta con un profesor resp
 
 Como en la edición presencial, el MIP cuenta con un claustro de profesores compuesto por una treintena de los profesionales y docentes más punteros en la innovación periodística. Sus clases maestras, talleres y sesiones elementales se incluyen dentro de ocho módulos sucesivos: audiencias, contenidos, tecnología, modelos de negocio, diseño web, nuevas narrativas, redes sociales y proyectos.
 
-El programa comienza el 28 de octubre de 2015, [la matrícula está abierta](http://mip.umh.es/preinscripcion.htm) y el resto de condiciones (matrícula, verificación de ANECA...) son las mismas que en la edición presencial.
+El programa comienza el 28 de octubre de 2015, [la matrícula está abierta](http://mip.umh.es/preinscripcion.html) y el resto de condiciones (matrícula, verificación de ANECA...) son las mismas que en la edición presencial.

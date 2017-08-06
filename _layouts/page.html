@@ -11,22 +11,33 @@ layout: base
 </div>
 {% endif %}
 
-<article>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-xs-12">
+            <article>
+                <div class="container">
 
-    <div class="container">
-        <header>
-            <h1 class="title">{{ page.title }}</h1>
-            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-        </header>
+                <header>
+                    <h1 class="title">{{ page.title }}</h1>
+                    {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+                </header>
 
-        <section>
-            {{ content }}
-        </section>
+                <section>
+                    {{ content }}
+                </section>
 
-            {% if site.inc.disqus.shortname %}
-            <section>
-                {% include _disqus.html %}
-            </section>
-            {% endif %}
+                    {% if site.inc.disqus.shortname %}
+                    <section>
+                        {% include _disqus.html %}
+                    </section>
+                    {% endif %}
+                </div>
+            </article>
+        </div>
+
+        <div class="col-lg-4 col-xs-12" style="padding: 40px 0;">
+            {% include _form.html %}
+            {% include _feedhome.html %}
+        </div>
     </div>
-</article>
+</div>

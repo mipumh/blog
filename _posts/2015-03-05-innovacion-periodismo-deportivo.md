@@ -30,7 +30,7 @@ Pero en este terreno también hay nuevos proyectos. [Meta Deporte](http://metade
 
 ##Contenidos especializados
 
-En esta línea, medios como [El desmarque](http://www.eldesmarque.com/) están innovando con nuevas agendas y nichos. Javier Padilla, [profesor del MIP](http://mip.umh.es/profesores.htm) y uno de sus impulsores, comentaba que querían cambiar [la forma de informar sobre los equipos locales en internet](http://periodismodeportivodecalidad.blogspot.co.uk/2015/02/javier-padilla-creamos-el-desmarque.html).
+En esta línea, medios como [El desmarque](http://www.eldesmarque.com/) están innovando con nuevas agendas y nichos. Javier Padilla, [profesor del MIP](http://mip.umh.es/profesores.html) y uno de sus impulsores, comentaba que querían cambiar [la forma de informar sobre los equipos locales en internet](http://periodismodeportivodecalidad.blogspot.co.uk/2015/02/javier-padilla-creamos-el-desmarque.html).
 
 El ámbito geográfico también constituye una importante mina de innovación. [Fosbury](http://fosbury.cat/#!menu) se presenta como una prometedora publicación en catalán exclusivamente para tabletas. En Andalucía, aunque con un formato web más clásico, [Time Out](http://www.timeoutmagazine.es/) está tratando de centrarse en un panorama deportivo local más allá del futbolístico. Pero los nichos no se acaban aquí. [Sportics](http://sportics.es/), por ejemplo, se está abriendo un hueco en la relación entre deporte y tecnología
  

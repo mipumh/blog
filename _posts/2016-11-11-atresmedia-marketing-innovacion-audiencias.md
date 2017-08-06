@@ -19,7 +19,7 @@ Muy poco. En los últimos 20 años, que es lo que llevo trabajando en esto, no h
 
 En [Atresmedia](http://www.atresmedia.com/), para solventar esto, [hemos creado Atresdata](http://www.atresmediapublicidad.com/television/atresmedia-lanza-atresdata_2016031000144.html), una herramienta que usando el Kantar Worldpanel, te permite dividir audiencias en el perfil sociodemográfico y en el target de consumo y de comportamiento. Supone una gran ayuda para planificar la publicidad. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jjandres0.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jjandres0.jpg)
 
 **¿Qué ventajas presenta Atresdata en cuanto a la segmentación de audiencias?**
 
@@ -29,7 +29,7 @@ Comparar cosas como **el consumo y el comportamiento**, y no solo perfiles socio
 
 La medición online es totalmente distinta. Una cosa son los audímetros y otra [comScore](http://www.comscore.com/). En febrero de 2015, Kantar compró una parte de comScore, y a partir de ahí han hecho proyectos para conseguir algo realmente importante, la medición conjunta de televisión y online. En España, el proyecto se conoce como [CMAM](http://www.kantarmedia.com/ie/our-solutions/audience-measurement/cross-media/cross-media-audience-measurement-cmam) y permitirá conocer la audiencia global de nuestros productos, allá donde se emitan. Nuestras series online cada vez tienen más presencia y audiencia. *Mar de plástico* y *Velvet* llegan a unos 2 millones de visionados online, por lo que se necesita conocer a la audiencia que consume a través de internet. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jjandres1.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jjandres1.jpg)
 
 **¿Está envejeciendo la audiencia que consume TV tradicionalmente, frente a otros soportes y medios interactivos?**
 
@@ -47,7 +47,7 @@ También **emitimos en pauta única**. Es decir, emitimos a la vez el mismo spot
 
 Dentro de las renuncias, encontramos la segmentación, llegar perfiles más concretos. Pero eso se lo dejamos a los 800.000 medios en España que te pueden ofrecer eso. Solo hay dos grandes grupos que te pueden ofrecer cobertura. Y nosotros queremos ser el mejor. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jjandres2.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jjandres2.jpg)
 
 **¿Es el _branded content_ el nuevo modelo de publicidad?**
 
@@ -67,7 +67,7 @@ A partir de ahí, estamos trabajando en jugar con **la contextualización**. Hem
 
 También contextualizamos el bloque de spots publicitarios con el momento del día de la emisión. Por ejemplo, el bloque de Navidad, en el que todos los anuncios tienen que ver con regalos navideños. O lo que nosotros llamamos "El Momentazo", que es poner un anuncio de cervezas en el momento en que va a empezar el partido de fútbol **La contextualización del producto con el momento del consumo televisivo tiene mucho sentido.**
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/jjandres3.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/jjandres3.jpg)
 
 **Cada vez tiene más importancia la TV social ¿qué ha supuesto la creación de Atresmedia Conecta?**
 

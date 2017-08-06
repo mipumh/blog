@@ -12,7 +12,7 @@ author:
 ---
 La representación de las mujeres en los medios de comunicación sigue siendo inferior a la de los hombres, incluso en los medios digitales, según el último Proyecto de Monitoreo Global de Medios ([GMMP](http://whomakesthenews.org)). Este estudio de alcance mundial, coordinado por la [Universidad Autónoma de Barcelona](http://www.uab.cat/) en España, si bien reconoce los avances experimentados en los últimos años, señala que la situación no ha mejorado en la medida que se ha incrementado la presencia de las mujeres en la sociedad, ni siquiera con la incorporación de nuevos actores al espacio mediático. 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/GMMP.jpg)
+![]({{ site.baseurl }}/images/shots/GMMP.jpg)
 
 “Las mujeres siguen siendo marginadas en la agenda de los medios, además de ser mostradas en el ámbito doméstico o social, identificadas por sus relaciones familiares y con escasa presencia como profesionales del ámbito público o expertas. La voz de la autoridad en las noticias sigue siendo la de los hombres con posición jerárquica y poder público, y el resto de la ciudadanía plural es invisibilizada o tratada como víctima,” concluye el [Informe Nacional](http://cdn.agilitycms.com/who-makes-the-news/Imported/reports_2015/national/Spain.pdf). 
 

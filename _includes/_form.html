@@ -1,0 +1,39 @@
+<h4>Solicitar información</h4>
+
+<div id="thank-you-message" class="collapse" role="alert">
+  <strong>¡Muchas gracias!</strong> Has enviado correctamente la información.
+</div>
+
+                <form action="http://getsimpleform.com/messages?form_api_token=ae1ae331cc4c2dc68fa536847966b841" method="post">
+                <input type="hidden" name="redirect_to" value='{{ site.url }}{{ page.url }}#thank-you'/>
+    
+                    <form>
+                    <fieldset>
+                        <!-- Text input-->
+                          <div class="form-group">
+                            <input name="Formulario del blog" type="text" class="form-control" id="nombre" placeholder="Nombre y apellidos" required data-validation-required-message="Por favor, escribe tu nombre.">
+                          </div>
+                          <div class="form-group">
+                            <input name="email" id="email" type="email" class="form-control" placeholder="email@correo.com" required data-validation-required-message="Escriba una dirección de correo válida.">
+                          </div>
+                          <div class="form-group">
+                            <input name="telefono" id="movil" type="text" class="form-control" placeholder="Nº teléfono">
+                          </div>
+                            <div class="form-group">
+                            <input name="ciudad" id="ciudad" type="text" class="form-control" placeholder="Ciudad (País)">
+                          </div>
+                            <div class="form-group">
+                                <select class="form-control" name="modalidad">
+                                  <option selected>Elige modalidad</option>
+                                  <option value="presencial" id="presencial">Presencial</option>
+                                  <option value="online" id="online">Online</option>
+                                </select>                          
+                            </div>
+                            <div class="form-group">
+                            <input name="libre" id="libre" type="text" class="form-control" placeholder="¿Alguna duda en particular?">
+                          </div>
+    
+                      <button id="button" class="btn btn-success btn-block">Enviar formulario</button>
+                    </fieldset>
+                    </form>
+                </form>

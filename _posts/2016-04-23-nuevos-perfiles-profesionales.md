@@ -12,7 +12,7 @@ author:
 ---
 El periodista Daniel Muñoz (1991) se graduó por la UMH hace apenas 3 años. El mismo día que defendió su Trabajo de Fin de Grado empezó a trabajar en [“El Confidencial”](http://www.elconfidencial.com/), [uno de los medios más innovadores del panorama nacional](http://mip.umh.es/ranking/). Desde [el Laboratorio de Innovación](http://mip.umh.es/blog/2015/11/01/claves-trabajo-el-confindencial-trabajo/)  de este medio, Muñoz desempeña el puesto de jefe de Producto, un área que sirve de nexo entre la estrategia de negocio, el desarrollo tecnológico y la estrategia editorial. 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/dmunoz.jpg)
+![]({{ site.baseurl }}/images/shots/dmunoz.jpg)
 
 [“Una exclusiva entonces todavía por destapar”](http://www.elconfidencial.com/economia/papeles-panama/) le obligó a participar a través de Skype en las [“Jornadas de Empleo en Periodismo UMH”](http://periodismo.umh.es/2016/03/07/las-jornadas-de-empleo-de-periodismo-2016-se-celebraran-los-dias-17-y-18-de-marzo/). Durante su intervención en esta charla organizada por el Observatorio Ocupacional de la UMH en colaboración con el Grado de Periodismo, aconsejó a los estudiantes que tengan una mente abierta, que aprovechen las prácticas profesionales, que sean versátiles y aprendan a desenvolverse en el terreno tecnológico. 
 

@@ -39,7 +39,7 @@ Empezó a ejercer en [El Mundo](http://www.elmundo.es/) en los años 80, cuando 
 
 Realizadora de documentales y paquetes multimedia. Española afincada en México, ha dirigido y producido trabajos para [National Geographic](http://www.nationalgeographic.com.es/), [Associated Press](http://www.ap.org/), [Discovery Channel](http://www.discoverychannel.es/), [Human Rights Watch](https://www.hrw.org/es), [MediaStorm](http://mediastorm.com/) y [RTVE](http://www.rtve.es/). En la actualidad, [trabaja en](http://elpais.com/autor/alba_mora_roca/a) [El País América](https://twitter.com/elpais_america) e imparte clases de producción de **vídeo digital media** y **storytelling interactivo**. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/image_0.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/image_0.jpg)
 
 ###Maria Cristina Fernandes
 
@@ -53,6 +53,6 @@ Se trata de una de las profesionales más veteranas e influyentes de México. Ha
 
 Una de las pioneras en trabajar de forma analítica con bases de datos. [En palabras del Consejo Redactor del Premio Gabriel García Márquez](http://premioggm.org/giannina-segnini/), se trata de "una periodista que **aprendió el lenguaje técnico de los ingenieros para ensanchar las fronteras del periodismo**, y una editora visionaria que representa una referencia para todos sobre cómo se hace buen periodismo trabajando en equipo." Profesora de la [Universidad de Columbia](http://www.columbia.edu/), en Nueva York, ha sido editora de la Unidad de Investigación del diario [La Nación](http://www.nacion.com/), de Costa Rica. Consultora y formadora en **nuevos medios y tecnología**, y periodismo de datos, está [convencida](http://masinvestigacion.es/entrevista-a-giannina-segnini/) de que *el buen periodismo es cosa de equipo* y que el éxito de éste depende de la calidad de personal que lo integra. Además, sostiene que los medios de comunicación deberían “eliminar las pesadas estructuras burocráticas que retrasan o convierten en un calvario la ejecución de proyectos de innovación, mientras que las *start-ups* experimentan con mayor flexibilidad.” 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/image_1.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/image_1.jpg)
 
 Giannina Segnini (La Nación)

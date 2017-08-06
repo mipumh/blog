@@ -32,7 +32,7 @@ Periodista de datos, consultora y docente del [Knigh Center of Journalism in de 
 
 Editora de [CNET en Español](https://twitter.com/CNET_Es), ha sido [directora de Redes Sociales en Univisión, coordinadora de Noticias Internacionales en BuzzFeed, productora digital en The Washington Post y supervisora de español de Google](http://www.miquelpellicer.com/2015/08/mariana-marcaletti-entrevista-buzzfeed). Integrante del equipo multimedia del Grupo Clarín, ha colaborado para la BBC, The Independent y La Nación, entre otras publicaciones. [Es autora de Latin American Radar, plataforma digital sobre Latinoamérica]( https://www.linkedin.com/in/marianamarcaletti).
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/vero_brunati.jpeg)
+![]({{ site.baseurl }}/images/shots/vero_brunati.jpeg)
 
 ###[Veronica Brunati](https://twitter.com/verobrunati)
 

@@ -37,17 +37,15 @@ Durante el #DemoDay, los alumnos del [Master de Innovación en Periodismo](http:
 - Incluye ejemplos que te ayuden a ilustrar la exposición y la desahoguen.
 - Revisa la ortografía y la gramática. Un fallo de este tipo puede dar muy mala imagen.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Demo%20day%204.jpg)
+![]({{ site.baseurl }}/images/shots/demoday.jpg)
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Demo%20day%203.jpg)
+![]({{ site.baseurl }}/images/shots/demoday1.jpg)
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Demo%20day%202.jpg)
+![]({{ site.baseurl }}/images/shots/demoday2.jpg)
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Demo%20day1.jpg)
+![]({{ site.baseurl }}/images/shots/demoday4.jpg)
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/demo%20day.jpg)
+![]({{ site.baseurl }}/images/shots/demoday5.jpg)
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Demo%20day%205.jpg)
-
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Demo%20day%206.jpg)
+![]({{ site.baseurl }}/images/shots/demoday6.jpg)
 

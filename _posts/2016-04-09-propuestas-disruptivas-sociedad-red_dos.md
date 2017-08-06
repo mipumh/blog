@@ -19,7 +19,7 @@ En cierto modo, la mayor esperanza para el periodismo reside en reconocer la opo
 
 Las redes permiten tomar el pulso a los intereses y preocupaciones de los usuarios, más allá de las agendas mediáticas: "Hoy no se puede hacer periodismo sin las redes sociales, aunque el periodismo no puede agotarse en ellas", afirma [José Luis Orihuela](https://twitter.com/jlori). Si los hechos noticiosos se convierten en asuntos compartidos, los periodistas necesitan aprender a escuchar, a filtrar y a participar con eficacia en las múltiples conversaciones que se generan en las redes sociales.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Foto1.jpg)
+![]({{ site.baseurl }}/images/shots/Foto1.jpg)
 
 ### 6. Tecnologías que desarrollen formatos, aplicaciones y coberturas
 
@@ -35,7 +35,7 @@ El consumo de contenidos a través de dispositivos móviles está creciendo de f
 La experimentación con las posibilidades tecnológicas del entorno móvil abre la puerta a la consolidación de formatos innovadores. A este respecto, [los profesores Aguado y Castellet](http://surlejournalisme.com/rev/index.php/slj/article/view/181) proponen usar jerarquías informativas de contenidos asociados a la geolocalización, el uso de la realidad aumentada para la integrar el papel y el dispositivo móvil, así como explorar la viabilidad de las aplicaciones como formato específico y no solo como soporte de acceso a formatos periodísticos.
  
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Foto2.jpg)
+![]({{ site.baseurl }}/images/shots/Foto2.jpg)
  
 
 ### 8. Gestión de datos masivos
@@ -51,7 +51,7 @@ Los medios exploran diversos modelos de negocio, con replanteamientos y búsqued
 Algunos proyectos promueven la independencia informativa para captar recursos económicos entre sus lectores. Otros han optado por lanzar webs que se financian a través de micro-pagos o diversos sistemas de *crowdfunding*, con el apoyo de miles de lectores. Se trata de iniciativas que buscan afianzar un periodismo independiente de los núcleos de poder, basado en el talento y con una decidida apuesta por los valores democráticos que impregnan la cultura profesional. Se trata de experimentar con diversas vías de ingresos: *branded content*, *crowdfunding*, ingresos internos de las apps, ingeniería de datos sobre perfiles de usuarios, etc.
 
  
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Foto3.jpg)
+![]({{ site.baseurl }}/images/shots/Foto3.jpg)
 
 
 ### 10. Transparencia y contrapoder

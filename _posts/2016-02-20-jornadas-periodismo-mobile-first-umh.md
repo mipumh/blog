@@ -13,7 +13,7 @@ author:
 ---
 No es nada nuevo que los usuarios de Internet emplean cada vez más los móviles. Según un informe de Cisco, en 2020 habrá 5.5 billones de usuarios de móviles en todo el mundo **y el 75% de los contenidos online serán de vídeos para el móvil**. En España, la tasa de penetración de _smartphones_ ha pasado del 63% al 91% en los últimos tres años, según datos de Ofcom. Sin embargo, muchos medios no se mueven con la suficiente agilidad para adaptar sus contenidosa este escenario. Otros, en cambio, van un paso por delante. Más allá del **mobile first** , los medios más disruptivos ya apuestan por productos exclusivamente diseñados para el móvil y desarrollan modelos de negocio orientados al **mobile only**.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/cisco.png)
+![]({{ site.baseurl }}/images/shots/cisco.png)
 
 El _mobile first_ exige no sólo adaptar lenguaje y contenidos, si no también saber anticiparse a lo que vendrá mañana. Porque se trata de contar con el usuario en cualquier dispositivo en el que pueda acceder a la información.
 
@@ -41,7 +41,7 @@ Este es un avance del programa:
 
 [Ángel Anaya](https://twitter.com/Angel_Anaya), Revista Vis-á-Vis
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/folleto_jornadas.jpg)
+![]({{ site.baseurl }}/images/shots/folleto_jornadas.jpg)
 
 **Miércoles 27 de abril**
 
@@ -61,6 +61,6 @@ Alex García, [Radio Gladys Palmera](https://twitter.com/GladysPalmera)
 
 [Ana Ormaechea](https://twitter.com/aormaechea), Prodigioso Volcán
 
-**El programa completo** puedes [descargarlo aquí (pdf)](https://dl.dropboxusercontent.com/u/3578704/shots/Folleto%20reducido.pdf)
+**El programa completo** puedes [descargarlo aquí (pdf)]({{ site.baseurl }}/images/shots/Folleto%20reducido.pdf)
 
 **La inscripción** puedes [realizarla aquí](http://www.umh.es/recibos). Una vez entre en esta dirección, selecciona el tipo de recibo "Congresos, Jornadas y Conferencias" y después el subtipo "Jornadas de Periodismo".

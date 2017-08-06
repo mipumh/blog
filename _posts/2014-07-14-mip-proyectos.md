@@ -16,7 +16,7 @@ Los másteres suelen ser incubadoras de ideas, sobre todo aquellos con un perfil
 
 Con el lema _Aquí tú cuentas_, Eldato.es es un producto de referencia social y participativo, que trata de suplir la falta de interacción con el público de los modelos tradicionales. Según su autora, es un plan de negocio viable y sostenible que, a medio plazo, puede llegar a emplear a varios profesionales.
 
-![](https://dl.dropboxusercontent.com/u/3578704/Fotos_MIP/mipideasmaster.jpg)
+![]({{ site.baseurl }}/images/Fotos_MIP/mipideasmaster.jpg)
 
 **FeelSpain Magazine** propone soluciones editoriales interactivas para empresas del sector turístico. Liderado por [Isabel Ferrández](https://twitter.com/isabelferrandez), [Rocío Morales](https://twitter.com/rocioymb), **David Aníbal Rubio de Antón** y [Luis Casalins](https://twitter.com/Sitolcp), el proyecto se basa en la creación de un aplicación para ipad, tablets y móviles que permite a los hoteles mejorar la experiencia de sus usuarios y usuarias, ofreciéndoles una guía con contenidos periodísticos sobre servicios de su interés en la zona. 
 

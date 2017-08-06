@@ -15,7 +15,7 @@ La innovación es el foco de las X Jornadas Internacionales de Periodismo celebr
 
 Esta obra inicia una colección de publicaciones del [**Máster de Innovación en Periodismo**](http://mip.umh.es/), ya en su tercera edición presencial y la primera en la modalidad online. En él, el director del Máster, Miguel Carvajal, presenta el [**Ranking de Innovación Periodística en España 2014**](http://mip.umh.es/ranking). Este ranking surgió con el objetivo de reivindicar la verdadera innovación y valorar el trabajo de aquellos medios que están innovando, es decir, que proponen soluciones originales y novedosas a los problemas del sector. “La innovación no consiste en rodearse de tecnología”, afirma Carvajal; “la innovación es buscar una solución a un reto, el reto de la audiencia, el reto del soporte, el reto de las rutinas de trabajo, el reto de la financiación y del modelo de negocio o el reto de la transparencia”.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/portada_libro_innovar.png)
+![]({{ site.baseurl }}/images/shots/portada_libro_innovar.png)
 
 ##Descargar libro
 

@@ -14,7 +14,7 @@ author:
 
 “Los resultados constatan la trascendencia del enlace en la transformación del lenguaje digital y periodístico, la inmadurez de este fenómeno en determinados aspectos formales, la contradicción entre la relevancia que se le otorga y su implantación práctica y el efecto de sus distintas manifestaciones en el consumo informativo”, explica el autor. Para el estudio, ha aplicado una triple metodología: el análisis de contenido sobre más de 2.400 textos periodísticos publicados en internet, la entrevista semiestructurada a nueve editores de los medios digitales de mayor audiencia en España y la experimentación con diversos prototipos sobre un grupo de usuarios. 
 
-![Imagen: Hipertexto](https://dl.dropboxusercontent.com/u/3578704/shots/hypertext_mip_umh.jpg)
+![Imagen: Hipertexto]({{ site.baseurl }}/images/shots/hypertext_mip_umh.jpg)
 
 Imagen de [Doyle Parners](http://www.doylepartners.com/project/hypertext#about).
 

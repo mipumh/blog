@@ -24,4 +24,4 @@ Desde su lanzamiento en 2012, Porcentual es una referencia en la visualización 
 
 Le veremos pronto en el MIP...
 
-![](https://dl.dropboxusercontent.com/u/3578704/Perfiles_MIP/Manuel%20Benito.jpg "Manuel Benito")
+![]({{ site.baseurl }}/images/Perfiles_MIP/Manuel%20Benito.jpg "Manuel Benito")

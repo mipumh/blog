@@ -11,9 +11,9 @@ author:
   link: https://twitter.com/lorenaescandell
 ---
 
-[**Chicas Poderosas**](www.chicaspoderosas.org) es una iniciativa para aumentar la presencia de periodistas latinas en la innovación digital. Desde 2013, trata de **involucrar a más mujeres en el desarrollo de aplicaciones, producción de contenidos interactivos y la integración de nuevas herramientas en las redacciones**. Es una apuesta clara por un [periodismo de análisis de datos, visualización y nuevas narrativas](www.cccb.org/es/multimedia/videos/periodismo-de-datos-visualizacion-de-datos-con-chicas-poderosas/211119), afirma su fundadora, [**Mariana Santos**](https://twitter.com/marysaints).
+[**Chicas Poderosas**](http://www.chicaspoderosas.org) es una iniciativa para aumentar la presencia de periodistas latinas en la innovación digital. Desde 2013, trata de **involucrar a más mujeres en el desarrollo de aplicaciones, producción de contenidos interactivos y la integración de nuevas herramientas en las redacciones**. Es una apuesta clara por un [periodismo de análisis de datos, visualización y nuevas narrativas](http://www.cccb.org/es/multimedia/videos/periodismo-de-datos-visualizacion-de-datos-con-chicas-poderosas/211119), afirma su fundadora, [**Mariana Santos**](https://twitter.com/marysaints).
 
-Directora interactiva de [Fusion](http://fusion.net) y colaboradora de la [Knight International Journalism Fellowship](http://www.icfj.org/our-work/knight/overview), llegó a ser [la única mujer  del equipo interactivo](http://www.urosario.edu.co/Plaza-Capital/CIUDADANIA/Entrevista-con-Mariana-Santos,-lider-del-evento-qu) de [The Guardian](http://www.theguardian.com). Para **Santos** , [la ausencia de mujeres en las áreas tecnológicas de los medios significa dejar de lado historias y voces](http://www.chicaspoderosas.org/about/?lang=es), y destaca la necesidad de invertir esta dinámica [con equipos mixtos y multidisciplinares para contar mejores historias y reinventar el periodismo tradicional](http://www.marysaints.com/ABOUT).
+Directora interactiva de [Fusion](http://fusion.net) y colaboradora de la [Knight International Journalism Fellowship](http://www.icfj.org/our-work/knight/overview), llegó a ser [la única mujer  del equipo interactivo](http://www.urosario.edu.co/Plaza-Capital/CIUDADANIA/Entrevista-con-Mariana-Santos,-lider-del-evento-qu) de [The Guardian](http://www.theguardian.com). Para **Santos** , [la ausencia de mujeres en las áreas tecnológicas de los medios significa dejar de lado historias y voces](http://www.chicaspoderosas.org/about/?lang=es), y destaca la necesidad de invertir esta dinámica [con equipos mixtos y multidisciplinares para contar mejores historias y reinventar el periodismo tradicional](http://marysaints.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UOvUiDZZzZU" frameborder="0" allowfullscreen></iframe>
 
@@ -24,21 +24,21 @@ Con todo, existen numerosos ejemplos de periodistas que han dejado de lado [los 
 
 [**Idoia Sota**](https://twitter.com/idoiasota)
 
-Participó en el lanzamiento de revistas como **OKS** , [La Otra Crónica](http://www.elmundo.es/loc.html) de [El Mundo](http://www.elmundo.es) y [El País SModa](http://smoda.elpais.com). Dirige [Acuerdo](http://nohacefaltapapel.com/2014/05/26/asi-nacio-acuerdo-un-medio-europeo-para-producir-reportajes-digitales-interactivos/#more-1010), colaboró en la creación de [Bez](http://www.bez.es) y acaba de fichar como jefa de redacción del digital de [La Vanguardia](www.lavanguardia.com/index.html). "Es una periodista vital, que reúne rasgos de emprendedora, hacker y creativa compulsiva," [ha escrito](http://mip.umh.es/blog/2015/10/04/diez-ideas-periodismo-innovador-idoia-sota) el profesor [José A. García Avilés](https://twitter.com/jagaraviles).
+Participó en el lanzamiento de revistas como **OKS** , [La Otra Crónica](http://www.elmundo.es/loc.html) de [El Mundo](http://www.elmundo.es) y [El País SModa](http://smoda.elpais.com). Dirige [Acuerdo](http://nohacefaltapapel.com/2014/05/26/asi-nacio-acuerdo-un-medio-europeo-para-producir-reportajes-digitales-interactivos/), colaboró en la creación de [Bez](http://www.bez.es) y acaba de fichar como jefa de redacción del digital de [La Vanguardia](http://www.lavanguardia.com/index.html). "Es una periodista vital, que reúne rasgos de emprendedora, hacker y creativa compulsiva," [ha escrito](http://mip.umh.es/blog/2015/10/04/diez-ideas-periodismo-innovador-idoia-sota) el profesor [José A. García Avilés](https://twitter.com/jagaraviles).
 
 [**Miriam Hernanz**](https://twitter.com/miriamhernanz)
 
 Comenzó su carrera en [elmundo.es](http://www.elmundo.es) y formó parte del equipo que fundó [RTVE.es](http://www.tve.es) en 2008. Desde entonces, coordinó la sección de Nacional hasta poner en marcha el [Lab RTVE.es](http://www.rtve.es/lab) en 2011, un laboratorio de innovación audiovisual que experimenta con nuevas narrativas.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/miriam.jpg)
+![]({{ site.baseurl }}/images/shots/miriam.jpg)
 
 [**Marilín Gonzalo**](https://twitter.com/marilink)
 
 Especializada en medios digitales. Ha sido subdirectora de [AgoraNews](http://agoranews.es/), directora de contenidos de [Hipertextual](http://hipertextual.com), una de las mayores redes de blogs en español, y formó parte de la organización del primer [Red Innova](http://www.redinnova.com) Madrid. Abrió la sección de tecnología de [eldiario.es](http://www.eldiario.es/turing), [Diario Turing](http://www.eldiario.es/turing), y es jefa de Producto de este medio. Desde 2004, escribe sobre tecnología, medios y cultura en [marilink.net](http://www.marilink.net). 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/marilink.jpg)
+![]({{ site.baseurl }}/images/shots/marilink.jpg)
 
-[**Vanesa Jiménez**](https://es.linkedin.com/in/vanesajimenez)
+**Vanesa Jiménez**
 
 Ahora, en [CTXT](http://ctxt.es). Antes, directora de [lainformacion.com](http://www.lainformacion.com), subdirectora de [ELPAÍS.com](http://elpais.com) y responsable de Información de [elmundo.es](http://www.elmundo.es).
 

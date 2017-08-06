@@ -17,7 +17,7 @@ En el primer post de una serie para seguir la evolución del periodismo en Latin
 
 -	**[Clases de Periodismo](https://twitter.com/cdperiodismo)** es un periódico digital, una escuela online para periodistas. Este espacio fue fundado en 2008 por la periodista peruana [Esther Vargas]( https://twitter.com/esthervargasc) y brinda la formación necesaria para mejorar el trabajo periodístico. [Clases de Periodismo](http://www.clasesdeperiodismo.com/) difunde buenas prácticas profesionales, avances tecnológicos y experiencias en las redacciones de medios de comunicación, con especial foco en América Latina y España. Su equipo lo integran periodistas y estudiantes que generan contenidos para una comunidad que no deja de crecer.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/Hangouts.jpg)
+![]({{ site.baseurl }}/images/shots/Hangouts.jpg)
 
 -	**[Hangouts de Periodismo](http://hangoutsdeperiodismo.co/)** es una plataforma que impulsa la reflexión, la formación y la innovación entre periodistas, comunicadores, estudiantes, academia y medios de comunicación de Iberoamérica. Se centra en difundir contenidos virtuales y presenciales que permitan afrontar los desafíos, entender lo que sucede y aprovechar la formación. Su impulsor es [Mauricio Jaramillo](https://twitter.com/mauriciojaramil), periodista especializado en periodismo digital y tecnologías: “Hangouts de Periodismo surgió cuando, después de 3 años de talleres por Latinoamérica, entendí que los periodistas tenemos grandes vacíos y necesidad de actualizarnos. Y no solo en las herramientas tecnológicas, sino en el entendimiento de las nuevas audiencias, los retos y oportunidades en Internet, la experimentación en lenguajes y formatos, la ética y las tendencias en emprendimiento y modelos de negocio”.
 
@@ -25,7 +25,7 @@ En el primer post de una serie para seguir la evolución del periodismo en Latin
 
 -	**[SembraMedia](https://twitter.com/SembraMedia)**. Esta comunidad y directorio de emprendedores de medios digitales cuenta con colaboradores en más de 12 países latinoamericanos. Los miembros de su Consejo Directivo contribuyen con su experiencia como periodistas, ejecutivos, profesores y consultores. [Janine Warner](https://twitter.com/janinewarner) es la directora ejecutiva y co-fundadora del proyecto.  A pesar de algunos casos exitosos, muchos periodistas emprendedores de América Latina se encuentran aislados. [SembraMedia](http://www.sembramedia.org/) les ayuda mediante una comunidad en línea donde los emprendedores pueden conectarse, intercambiar recursos, estudiar administración de negocios y aprender de la experiencia de otros. Han creado [este directorio de medios digitales](http://www.sembramedia.org/directorio-de-medios/) y llevan a cabo numerosas iniciativas para emprendedores. 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/SembraMedia.png)
+![]({{ site.baseurl }}/images/shots/SembraMedia.png)
 
 -	**[Fundación Gabriel García Márquez para el Nuevo Periodismo Iberoamericano](http://www.nuevoperiodismo.org/)**. Trabaja por la excelencia del periodismo y su contribución a la democracia y desarrollo de los países iberoamericanos y del Caribe, a través de talleres y seminarios de formación e intercambio entre periodistas y colaboración en redes profesionales. Su director general y cofundador  es [Jaime Abello Banfi](https://twitter.com/Jaime_Abello). Cada año, la [FNPI](http://www.fnpi.org/) organiza una oferta de actividades integrada por talleres, seminarios, conferencias, publicaciones, premios, redes de intercambio y recursos digitales para compartir conocimiento.  Estas actividades se enmarcan en cuatro líneas de actuación:
 1. Narración periodística. 
@@ -33,7 +33,7 @@ En el primer post de una serie para seguir la evolución del periodismo en Latin
 3. Investigación y cobertura sobre temas clave para América Latina.
 4. Innovación y medios digitales.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/FPNI.png)
+![]({{ site.baseurl }}/images/shots/FPNI.png)
 
 -	**[Red Ética Segura](https://twitter.com/EticaSegura)**. Es una iniciativa de la **Fundación Gabriel García Márquez para el Nuevo Periodismo Iberoamericano**, con el objetivo de abrir un espacio de reflexión y debate acerca de los desafíos éticos que afrontan los periodistas en un contexto de profundas transformaciones de la práctica, el negocio y la función social del periodismo. La Red funciona como punto de encuentro para periodistas en Iberoamérica donde compartir, discutir, publicar y consultar contenidos relacionados con la ética periodística. Mediante noticias, recursos, foros de debate y actividades en línea, [Ética Segura](http://eticasegura.fnpi.org/) busca convertirse en un referente para ampliar la discusión y fortalecer los principios básicos del periodismo de calidad. 
 

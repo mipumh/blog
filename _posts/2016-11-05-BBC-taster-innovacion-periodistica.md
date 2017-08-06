@@ -22,17 +22,17 @@ Entre los **contenidos** que ofrece BBC Taster, destacan los siguientes:
 
 * **Plataformas**. Se clasifican como "immersive stories", pero en realidad son proyectos que experimentan con nuevas formas de distribuir contenidos periodísticos. [Newsbeat](http://newsbeat-explains.ch.bbc.co.uk/), por ejemplo, distribuye contenidos que sólo se despliegan cuando pulsa el usuario.
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/bbctaster0.png)
+![image alt text]({{ site.baseurl }}/images/shots/bbctaster0.png)
 
 * **Realidad virtual**. En estos momentos, solo hay un ejemplo, un [recorrido histórico sobre unas revueltas en Irlanda](http://www.bbc.co.uk/taster/projects/easter-rising-voice-of-a-rebel), pero es tan poco común todavía en el periodismo que merece la pena profundizar. 
 
 * **Juegos y quiz**. Es quizás la categoría más explotada. Y no es casualidad si tenemos en cuenta [el auge de estos formatos en el periodismo](http://mip.umh.es/blog/2016/05/14/periodismo-quiz-jugar-pregunta/). En ocasiones, no van más allá de cuestionarios. Pero en otras se atreven a mezclar los videojuegos con los perfiles en redes sociales. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/bbctaster1.png)
+![image alt text]({{ site.baseurl }}/images/shots/bbctaster1.png)
 
 * **Vídeos interactivos**. La mayoría son formatos más clásicos, pero todos tienen algo original. El último, por ejemplo, es una investigación sobre los chantajes a las que muchos musulmanes están sufriendo por motivos sexuales. La arquitectura es sencilla, pero llama la atención el uso de una estética y una iconografía propia de los móviles:
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/bbctaster.png)
+![image alt text]({{ site.baseurl }}/images/shots/bbctaster.png)
 
 Probablemente, lo más novedoso de este proyecto es que se atreva a compartir trabajos que todavía están en **fase beta**. De hecho, constantemente advierten de que los contenidos están en fase experimental y que algo puede fallar. 
 

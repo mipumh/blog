@@ -17,7 +17,7 @@ Este libro reúne, por primera vez en nuestro país, **entrevistas a un amplio n
 
 Buena parte de los profesionales entrevistados trabajan en los medios seleccionados en el primer **[Ranking de Innovación Periodística](http://mip.umh.es/ranking/)**, elaborado por investigadores del Grupo de Investigación de la Comunicación (GICOV) de la Universidad Miguel Hernández.
 
-![Libro como innovar en periodismo](https://dl.dropboxusercontent.com/u/3578704/shots/libro-como-innovar.jpg)
+![Libro como innovar en periodismo]({{ site.baseurl }}/images/shots/libro-como-innovar.jpg)
 
 ##Descargar libro
 

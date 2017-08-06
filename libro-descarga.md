@@ -14,7 +14,7 @@ permalink: libro-descarga.html
 ---
 Muchas gracias por tu interés en el libro del Máster en Innovación en Periodismo.
 
-[**Descargar el PDF**](https://dl.dropboxusercontent.com/u/3578704/Libro_Como_Innovar_Periodismo_MIP.pdf)
+[**Descargar el PDF**](http://mip.umh.es/libros/Libro_Como_Innovar_Periodismo_MIP.pdf)
 
 Si tiene algún problema o no se descarga el documento de forma adecuada, no dude en escribirnos.
 

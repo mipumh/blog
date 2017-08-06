@@ -19,14 +19,14 @@ Según los entrevistados, la innovación se desarrolla principalmente en cinco �
 
 Las percepciones de trabajadores y directivos subrayan la **importancia de la iniciativa individual** de los “agentes del cambio” en las redacciones, junto con el **liderazgo** y la puesta en marcha de **equipos interdisciplinares** (integrados por periodistas y técnicos) que implementan productos y servicios. De este modo, según algunos entrevistados, **los medios más innovadores fomentan la interacción entre los distintos departamentos**, así como **flujos de trabajo flexibles** que favorecen una cultura innovadora en la organización informativa.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/concept.jpg)
+![]({{ site.baseurl }}/images/shots/concept.jpg)
 
 Como destaca un editor, “la innovación debe ser algo transversal en toda la empresa, donde todos se involucren y se implique el máximo número de personas del escalafón”. Algunos entrevistados consideran que se trata de un proceso que la mayor parte de las veces surge desde la dirección, pero que **debería implementarse “de abajo arriba”**, es decir, que naciera desde la base de los profesionales de la redacción.
 Un profesional sostiene que “la innovación parte de la idea de que tenemos que ser distintos a toda costa. Es un método de supervivencia a largo plazo y de mejora y dotación de valores a la propia marca”. Un responsable de redes sociales considera que innovar es “hacer cosas que los demás no hacen o hacer lo que hacen los demás pero de forma totalmente distinta”. Una periodista apunta que “un medio es innovador cuando dedica una parte importante de sus recursos a la experimentación, a ensayar y a producir nuevas narrativas”. La innovación entendida como proceso asume numerosos factores estructurales y pragmáticos, derivados de [las aportaciones de los profesionales en diferentes áreas de la actividad productiva](http://mip.umh.es/blog/2016/07/03/fases-desarrollo-proyectos-periodisticos ).
 
 La innovación surge de la práctica y se deriva de las circunstancias y del contexto facilitado por los directivos, mediante estructuras flexibles. Algunos entrevistados consideran que la innovación implica la capacidad para **responder a las oportunidades y amenazas del mercado**, y así “lograr anticiparse a los competidores, identificar oportunidades y arriesgar”. Quienes trabajan en un entorno donde se fomenta la innovación (con el design thinking, el lanzamiento de proyectos interdisciplinares, la experimentación, etc.), se muestran más dispuestos a arriesgar.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/concept2.jpg)
+![]({{ site.baseurl }}/images/shots/concept2.jpg)
 
 Existe una generalizada falta de innovación en las redacciones en España porque, “**los directivos son reacios al cambio** y les cuesta transformar las estructuras o las prácticas informativas que se han consolidado durante años”, afirma un periodista. La mayor parte de los directivos interactúa con grupos reducidos de similar nivel en la organización, y apenas tienen contacto con otros ámbitos de la redacción, por lo que tienden a aferrarse a los modelos establecidos y se resisten a introducir los cambios. 
 

@@ -12,9 +12,7 @@ author:
 ---
 Hace un par de semanas presenté un trabajo sobre modelos de negocio en el periodismo en [un congreso de empresa informativa celebrado en Nueva York](http://www.wmemc.org/). Allí me entrevisté con colegas, expertos en la materia, visité algunos medios y, sobre todo, escuché y pensé mucho. De aquel viaje traigo unos cuantos souvenirs. El primero: puedes estar a la última en la industria periodística sin necesidad de irte a Nueva York, basta con [seguir este boletín](http://mediagazer.com/). El segundo: en general, seguimos haciendo diagnósticos equivocados sobre los diarios, porque seguimos intentando rescatar un modelo de negocio de una industria ya cadáver.
 
-Durante el viaje celebré el décimo aniversario de mi tesis doctoral sobre un grupo de prensa español. Y tan solo diez años después, cualquiera podría refutar bastantes de mis conclusiones. Pero no por falta de argumentos, escasez de datos o defecto en la metodología, simplemente porque la industria a la que se refería aquel trabajo ya casi no existe. Ahora es más un documento de historia que de economía del periodismo. En aquel entonces (2006) en [El Mundo iban con esto](http://www.elmundo.es/elmundo/2007/01/25/comunicacion/1169683033.html):
-
-![](https://dl.dropboxusercontent.com/u/3578704/shots/shot_2016-05-29_23-06-35.png) 
+Durante el viaje celebré el décimo aniversario de mi tesis doctoral sobre un grupo de prensa español. Y tan solo diez años después, cualquiera podría refutar bastantes de mis conclusiones. Pero no por falta de argumentos, escasez de datos o defecto en la metodología, simplemente porque la industria a la que se refería aquel trabajo ya casi no existe. Ahora es más un documento de historia que de economía del periodismo. 
 
 Por eso, es **imposible que podamos encontrar la solución si no comprendemos cuál es el problema**. La pregunta no es qué hacer para resucitar a la prensa industrial, sino **cómo hacer periodismo sostenible en un nuevo escenario** sin las hipotecas del anterior régimen. Si la mentalidad y la cultura no cambian, la transformación es estéril. Ya pueden levantar redacciones diáfanas con mobiliario de diseño o contratar a los cien mejores periodistas del país. Al final, **la cabra tira al monte**, se encierra en su despacho, estira sus tirantes de marca, enciende uno de sus puros **y se hincha orgullosa como un león**. 
 
@@ -30,7 +28,7 @@ Antes de pensar qué valor quieres aportar con el proyecto, conviene pensar qué
 
 Calculada la dimensión que puedes permitirte, ahora debes preguntarte qué valor puedes aportar. En el terreno de los contenidos, en general, hay dos grandes polos: producción de contenido propio, original, de calidad, por un lado; y por otro, facilitar el descubrimiento del contenido, como hacen las plataformas tecnológicas y las redes sociales: no tienen contenido propio, pero todos quieren ponerlo ahí. Si te quedas en el medio, lo tienes difícil. Este problema se refleja muy bien en la famosa teoría de la curva sonriente, [aplicada a los contenidos por Ben Thompson](https://stratechery.com/2014/publishers-smiling-curve/):
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/smiling.png)
+![]({{ site.baseurl }}/images/shots/smiling.png)
 
 ## Capacidad
 

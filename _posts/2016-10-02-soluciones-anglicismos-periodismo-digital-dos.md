@@ -24,7 +24,7 @@ Es la persona que gestiona la actividad en los medios sociales e interactúa con
 
 Este  profesional se encarga de diseñar y coordinar la estrategia en los medios sociales de un medio o una marca. Podemos denominarlo "gestor de medios sociales" o “responsable de medios sociales”. 
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/cool2.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/cool2.jpg)
 
 **Copywriter**
 
@@ -42,7 +42,7 @@ Alude al retorno que un usuario, lector o receptor devuelve tras recibir un mens
 
 Se considera la piedra filosofal buscada por los medios y las marcas en internet. Normalmente, *engagement* se utiliza para hablar de interacciones, pero si buscamos una traducción más precisa, se trata de un tipo de participación que exige cierto "compromiso" por parte de los usuarios. El *engagement* puede ser implicación, entusiasmo, conexión, vinculación, enganche o empatía hacia una marca (o medio). También se emplea para expresar fidelización. ¿Por qué no usar alguno de estos términos para definir nuestra relación con el usuario?
 
-![image alt text](https://dl.dropboxusercontent.com/u/3578704/shots/cool1.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/cool1.jpg)
 
 **Influencers**
 

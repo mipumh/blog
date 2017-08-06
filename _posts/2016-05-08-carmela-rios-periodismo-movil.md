@@ -12,13 +12,13 @@ author:
 ---
 Responsable de Redes Sociales del diario [El Mundo](http://www.elmundo.es), [Carmela Ríos](https://twitter.com/CarmelaRios) es veterana en el [uso de Twitter como herramienta de trabajo](http://sociedad.elpais.com/sociedad/2012/05/08/actualidad/1336500842_216221.html). De hecho tuiteó [el cierre de CNN + y el 15M](http://www.huffingtonpost.es/carmela-rios/si-se-puede-hacer-periodi_b_7491558.html). Convencidísima de que [#SiSePuede hacer periodismo en redes sociales](http://www.huffingtonpost.es/carmela-rios/si-se-puede-hacer-periodi_b_7491558.html), en su blog [Jugaba en el Betis](http://carmelarios.com) da pistas sobre nuevas narrativas y periodismo móvil.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/gimna.jpg)
+![]({{ site.baseurl }}/images/shots/gimna.jpg)
 
 Autora del libro **[Cómo el 15M cambió la información: Una guía de periodismo móvil](http://www.casadellibro.com/libro-como-el-15m-cambio-la-informacion/9788416176274/2546964)**, suyo es el concepto **[gimnasia narrativa]( https://carmelarios.com/2014/09/27/que-es-la-gimnasia-narrativa-el-desafio-de-los-medios-digitales/)**, que definió como “elegir la mejor forma, en lenguaje y soporte, de contar cada noticia” en las XI Jornadas Internacionales de Innovación en Periodismo *[Mobile first, comunicación multipantalla](http://mip.umh.es/blog/2016/02/20/jornadas-periodismo-mobile-first-umh)*, del Grado de Periodismo y el Máster de Innovación en Periodismo de la Universidad Miguel Hernández (UMH) de Elche.
 
 Para Carmela Ríos, “las redes sociales alumbran nuevos contenidos periodísticos, el periodismo móvil nos entrena en nuevas narrativas y la imagen es un lenguaje esencial para comunicar”. Afirma que informar en redes sociales tiene numerosas ventajas: la posibilidad de comunicar en directo, crear fotogalerías e incluso microvídeos, trabajar las fuentes a través de listas y tener mayor interactividad con el público. Y destaca herramientas como Vine, Periscope e Instagram. De ésta última dice que es la thermomix de las aplicaciones de fotografía.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/instacar.jpg)
+![]({{ site.baseurl }}/images/shots/instacar.jpg)
 
 Estos son sus algunos consejos para las coberturas móviles: 
 

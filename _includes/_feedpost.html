@@ -1,0 +1,56 @@
+<article>
+    <div class="card">
+      <div class="card-block">
+        <a href="https://twitter.com/{{ site.inc.twitter }}" class="btn btn-primary"><i class="icon icon-twitter"></i></a> 
+        <a href="http://facebook.com/{{ site.inc.facebook }}" class="btn btn-primary"><i class="icon icon-facebook"></i></a>
+        <a href="{{ site.baseurl }}/feed.xml" class="btn btn-primary"><i class="icon icon-rss"></i></a>
+      </div>
+    </div>
+
+<h4>Entradas recientes</h4>
+    
+{% for post in site.posts limit: 6 %}
+<h4 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h4>
+            <div class="meta">
+                <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%d %B, %Y" }}">{{ post.date | date: "%D" }}</time>
+            </div>
+<hr>    
+{% endfor %}
+
+<div class="card card-inverse" style="background-image: linear-gradient(45deg,#040505 0,#0275d8 100%);">
+  <a href="http://mip.umh.es/blog/2016/10/26/manual-libro-como-innovar-periodismo/" target="_blank" style="hover: 15px;">
+    <div class="card-block">
+        <h3 class="card-title">Descarga gratis el libro <i>Cómo innovar en periodismo</i></h3>
+    <p class="card-text">Este libro reúne entrevistas a 27 profesionales que han pasado por el Máster</p>
+    </div>
+  </a>
+</div>
+
+<div class="card card-inverse" style="background-image: linear-gradient(45deg,#040505 0,#3D8863 100%);">
+  <a href="http://mip.umh.es/blog/2017/03/20/mobile-first-libro-jornadas-periodismo/" target="_blank" style="hover: 15px;">
+    <div class="card-block">
+        <h3 class="card-title"><i>Mobile First, comunicación multipantalla</i>, libro de descarga gratuita </h3>
+    <p class="card-text">Contribuciones a las XI Jornadas Internacionales de Innovación en Periodismo de la UMH</p>
+    </div>
+  </a>
+</div>
+
+<div class="card card-inverse" style="background-image: linear-gradient(45deg,#040505 0,#f91d36 100%);">
+  <a href="http://mip.umh.es/blog/2015/11/23/innovacion-libro-jornadas-periodismo/" target="_blank" style="hover: 15px;">
+    <div class="card-block">
+        <h3 class="card-title">Descarga gratis el libro <i>Innovar en Periodismo</i></h3>
+    <p class="card-text">Análisis, experiencias y casos sobre innovación en periodismo en las X Jornadas de Periodismo UMH</p>
+    </div>
+  </a>
+</div>
+
+<div class="card card-inverse" style="background-color: #333; border-color: #333;">
+  <a href="http://mip.umh.es/ranking/" target="_blank" style="hover: 15px;">
+    <div class="card-block">
+    <h3 class="card-title">Ranking de Innovación Periodística 2014</h3>
+    <p class="card-text">Descubre este informe que analiza las iniciativas periodísticas más innovadoras en España</p>
+    </div>
+  </a>
+</div>
+</article>

@@ -22,17 +22,17 @@ De la jornada [‘Modelos editoriales innovadores’](http://conversacionescon.e
 
 5-. El futuro hacia el que se encamina la innovación en el ámbito de la comercialización, para Salaverría, es la adaptación de los medios a un ecosistema en el que las grandes tecnológicas, tras dominar la distribución y el gran mercado publicitario, quieren ahora apropiarse del contenido periodístico, con apuestas como las [Accelerated Mobile Pages](https://www.ampproject.org/)  de Google o los [Instant Articles](https://instantarticles.fb.com/) de Facebook. De este modo, buscan acelerar el proceso de visualización mejorando el tiempo de espera de las noticias en dispositivos móviles, y favorecer así la experiencia de usuario.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/galba0.jpg)
+![]({{ site.baseurl }}/images/shots/galba0.jpg)
 
 6-. Se puede innovar en un contenido periodístico alejándose de la saturación informativa imperante en el universo digital. Lo hace [bez.es](http://www.bez.es/) apostando por un formato de seis historias al día, compatibilizando valores del periodismo tradicional - la rigurosidad, la profundidad y el análisis - con los valores que determinan la realidad digital - contenido multimedia, móvil y social.
 
 7-. La innovación también puede llegar desde la combinación de un tipo de producto con soporte tradicional como la edición de un libro-revista, en este caso de temática internacional -a través de crónicas y reportajes de larga distancia y lectura reposada sin relación con la actualidad, con el valor añadido del sello de producto para coleccionistas. Es lo que hace [Revista 5W](http://www.revista5w.com/) con su recién editado primer número en papel de 225 páginas. Se trata de proyectos que pueden financiarse a través de la fidelización de una comunidad  de socios-lectores que apoyan el producto. 
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/galba.jpg)
+![]({{ site.baseurl }}/images/shots/galba.jpg)
 
 8-. La **colaboración**, el construir confianza a través del sentimiento de equipo entre distintas empresas para trabajar sobre un mismo producto periodístico, es la base de la innovación que supone la economía colaborativa aplicada al periodismo. Así ha ocurrido con la exclusiva de los **Papeles de Panamá** en España, con la colaboración entre el [International Consortium of Investigative Journalists](https://www.icij.org), [El Confidencial](http://www.elconfidencial.com/economia/papeles-panama/) y [La Sexta](http://www.lasexta.com/noticias/papeles-panama/), demostrándose que un periodismo de calidad también puede conseguir audiencia.
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/galba2.jpg)
+![]({{ site.baseurl }}/images/shots/galba2.jpg)
 
 9-. En conclusión, los rasgos comunes a proyectos innovadores de referencia que citó el profesor Salaverría, basados en el libro de **Lucy Küng** [Innovators in Digital News](http://www.lucykung.com/latest-news/new-book-innovators-in-digital-news-published-23rd-july-2015/) son: la singularidad del propósito que persiguen, la presencia de un liderazgo fuerte que marca el camino, una estrategia clara e inequívoca, la combinación de competencias periodísticas, tecnológicas y comerciales, un espíritu pionero y una cultura pro-digital.
 
