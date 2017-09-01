@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ana Ormaechea&#58 "El podcast en España no está profesionalizado; en EEUU, sí"
-excerpt: "El podcast: la radio a la carta del s.XXI. Los hay de todo tipo, desde la historia de iniciación intimista de una millenial, hasta una serie de no ficción sobre un crimen, pasando por los que divulgan la ciencia o destripan la serie de moda. Pero el recorrido es mucho más extenso y Ana Ormaechea, fundadora de la plataforma de podcasts [_Cuonda_](http://www.cuonda.com/), ha sido la encargada de arrojar una chispa de luz a un tema que, todavía, parece no estar explotado en su totalidad."
+excerpt: "El podcast: la radio a la carta del s.XXI. Los hay de todo tipo, desde la historia de iniciación intimista de una millenial, hasta una serie de no ficción sobre un crimen, pasando por los que divulgan la ciencia o destripan la serie de moda. Pero el recorrido es mucho más extenso y Ana Ormaechea, fundadora de la plataforma de podcasts Cuonda, ha sido la encargada de arrojar una chispa de luz a un tema que, todavía, parece no estar explotado en su totalidad."
 author:
   name: Thais Peñalver
   twitter: ThaisC21
@@ -14,7 +14,7 @@ El podcast: la radio a la carta del s.XXI. Los hay de todo tipo, desde la histor
 
 **Pregunta. ¿Por qué el podcast está menos desarrollado en España en comparación con otros países?**
 
-**respuesta.** Porque, de momento, no hay una profesionalización, como ocurre en EEUU, donde hay muchísima gente viviendo de esto. Allí hubo un gran podcast que rompe el mercado, [_Serial_](https://serialpodcast.org/), consigue millones de descargas y simboliza su conversión en fenómeno _mainstream_. En España, los podcasts se hacen en el tiempo libre, como hobby. Le falta ese paso; una vez ocurra esto, podremos encontrar financiación. Y en ese momento, todo se profesionalizará más rápido. Quizás nos falte ese gran _Serial_ que explote aquí y ayude a generar ese ecosistema.
+**Respuesta.** Porque, de momento, no hay una profesionalización, como ocurre en EEUU, donde hay muchísima gente viviendo de esto. Allí hubo un gran podcast que rompe el mercado, [_Serial_](https://serialpodcast.org/), consigue millones de descargas y simboliza su conversión en fenómeno _mainstream_. En España, los podcasts se hacen en el tiempo libre, como hobby. Le falta ese paso; una vez ocurra esto, podremos encontrar financiación. Y en ese momento, todo se profesionalizará más rápido. Quizás nos falte ese gran _Serial_ que explote aquí y ayude a generar ese ecosistema.
 
 ![image alt text]({{ site.baseurl }}/images/shots/anaormaechea.jpg)<sup>Seminario de la fundadora de Cuonda Podcast en el Máster en Innovación en Periodismo.
 
