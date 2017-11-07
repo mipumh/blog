@@ -40,7 +40,7 @@ GEM
       jekyll-sitemap (= 0.8.1)
       jemoji (= 0.4.0)
       kramdown (= 1.5.0)
-      liquid (= 2.6.2)
+      liquid (= 4.0.0)
       maruku (= 0.7.0)
       mercenary (~> 0.3)
       pygments.rb (= 0.6.1)
@@ -184,6 +184,3 @@ DEPENDENCIES
   sass
   twitter
   uglifier
-
-BUNDLED WITH
-   1.13.6
