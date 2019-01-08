@@ -19,21 +19,7 @@ Buena parte de los profesionales entrevistados trabajan en los medios selecciona
 
 ![Libro como innovar en periodismo]({{ site.baseurl }}/images/shots/libro-como-innovar.jpg)
 
-##Descargar libro
-
-<form role="form" action="//umh.us5.list-manage.com/subscribe/post?u=75b8bda4a5f5eae9a009046a2&amp;id=9d8bbca445" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-<div class="input-group input-group-lg">
-<input type="email" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email">
-<br>
-<span class="input-group-btn">
-<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Enviar</button>
-</span>
-</div>
-<div id="mce-responses">
-<div class="response" id="mce-error-response" style="display:none"></div>
-<div class="response" id="mce-success-response" style="display:none"></div>
-</div>
-</form>
+##Lo sentimos, ya finalizó el plazo de descarga gratuita.
 
 <br>
 

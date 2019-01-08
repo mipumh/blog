@@ -100,8 +100,6 @@ La mayor parte de las herramientas que se desarrollan a continuación sirven, en
 
 Muy sencilla y limitada, pero muy útil para hacer algo rápido como, por ejemplo, anunciar este post y llamar a la participación ;)
 
-{% tweet 750306512040525824 %}
-
 ####[powtoon](https://www.powtoon.com/)
 Se ha convertido en un clásico de la creación de animaciones. La versión gratuita limita los recursos y obliga a mostrar su marca de agua, pero la profesional puede resultar perfectamente asumible para un proyecto especializado o un medio que apueste por este tipo de innovación. Cuenta con plantillas prediseñadas para editar, aunque quizás su punto fuerte sea la gran cantidad de consejos y tutoriales que ofrece.
 

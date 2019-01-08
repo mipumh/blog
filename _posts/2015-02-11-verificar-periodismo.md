@@ -11,20 +11,20 @@ author:
   image: yo.png
   link: https://twitter.com/mcarvajal_
 ---
-
-{% tweet 542857907071512576 %}
-
 Una usuaria tuitea [una noticia falsa](http://www.elconfidencial.com/alma-corazon-vida/2014-11-28/los-perros-van-al-cielo-el-papa-insinua-que-hay-paraiso-para-todos-los-animales_511788/) de **El Confidencial**. En esta ocasión el prestigioso digital ha sido víctima de la atribución de una cita falsa en cadena: un medio reporta unas supuestas declaraciones del Papa, otros se hacen eco y juntos otorgan apariencia de verdad a un [bulo](http://www.emergent.info/pope-francis-pets-in-heaven). El propio New York Times también cometió el error, aunque [rectificó varios días más tarde](http://www.nytimes.com/2014/12/12/world/europe/dogs-in-heaven-pope-leaves-pearly-gate-open-.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=2&assetType=nyt_now).
 
 Desgraciadamente, no siempre son tan insulsas las falsedades, ni todos rectifican. Medios que _matan_ a protagonistas de la actualidad, publican fotos falsas de presidentes moribundos en el quirófano o imprimen diarios con necrológicas imaginarias. No solo se trata de fichajes de futbolistas, son informaciones de todo orden que nunca fueron contrastadas. Un defecto, por supuesto, nada nuevo, pero ahora con los estoroides de las redes sociales. 
 
 El periodista **Craig Silverman** presentó ayer el informe ["Mentiras, malditas mentiras y contenido viral"](http://towcenter.org/wp-content/uploads/2015/02/LiesDamnLies_Silverman_TowCenter.pdf), un documento de **164 páginas** en el que analiza **cómo los medios digitales generan rumores y falsedades o contribuyen a propagarlos**. Muchas veces, señala Silverman, estos bulos se propagan tratando de informar sobre ellos; otras veces se difunden por error, pero luego no se rectifican; y, en ocasiones, se publican para buscar más tráfico. Para Silverman, la fiebre del contenido viral está cargándose la credibilidad del periodismo.   
 
-{% tweet 565608093158236160 %}
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="es"><p lang="en" dir="ltr">Truth is the first casualty of the war for Web traffic: <a href="http://t.co/J9XRQwH0jB">http://t.co/J9XRQwH0jB</a> <a href="https://twitter.com/simonhoupt?ref_src=twsrc%5Etfw">@simonhoupt</a> on a new report by  <a href="https://twitter.com/CraigSilverman?ref_src=twsrc%5Etfw">@CraigSilverman</a> <a href="https://twitter.com/hashtag/cdnmedia?src=hash&amp;ref_src=twsrc%5Etfw">#cdnmedia</a></p>&mdash; James Bradshaw (@jembradshaw) <a href="https://twitter.com/jembradshaw/status/565608093158236160?ref_src=twsrc%5Etfw">11 de febrero de 2015</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Silverman está empeñado (para conocerle un poco más, [esta entrevista](http://silviacobo.com/craig-silverman-regret-the-error-el-blog-cambio-mi-vida/) de **Silvia Cobo**) en que la profesión periodística sepa contrastar y verificar la información, por eso publicó en 2013 el [Manual de Verificación del Periodista](http://verificationhandbook.com/book_es/chapter1.php), recientemente traducido al castellano. En su cruzada por recuperar la raíz del periodismo, fundó [Emergent](http://www.emergent.info/) en septiembre de 2014, una plataforma dedicada en exclusiva a desmentir rumores y señalar quién los propaga y quién los rectifica.
 
-{% tweet 565546313446871041 %}
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">I tracked how news sites cover rumors &amp; unverified claims. Here&#39;s my report on bad practices &amp; how to do better: <a href="http://t.co/ZfkDHhrfvQ">http://t.co/ZfkDHhrfvQ</a></p>&mdash; Craig Silverman (@CraigSilverman) <a href="https://twitter.com/CraigSilverman/status/565546313446871041?ref_src=twsrc%5Etfw">11 de febrero de 2015</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Uno de esos rumores](http://www.emergent.info/pope-francis-pets-in-heaven) es _el del paraíso para perros_. A partir del **análisis de 1500 noticias sobre más de 100 bulos** publicados en el último cuatrimestre de 2014, Silverman ha destripado cuál es el círculo vicioso de la propagación de estos rumores y cómo los medios digitales los alimentan obsesionados por generar tráfico y visitas desde las redes sociales:
 

@@ -39,6 +39,3 @@ El periodista Daniel Muñoz (1991) se graduó por la UMH hace apenas 3 años. El
 3.	**Especialización**. Sabemos que es una de las claves para encontrar trabajo. Y en este terreno no podemos olvidar la especialización tecnológica, ya que, además, está muy demandada hoy en día porque hay pocos perfiles profesionales que cumplan esta característica.
 4.	**Ten una mentalidad abierta**. Debes estar predispuesto a adaptarte con rapidez y aprender cosas nuevas.
 5.	**Analiza las tendencias profesionales** que van surgiendo y trabaja tu marca personal. Es una buena forma de estar actualizado y conocer la industria periodística.
-
-{% tweet 652091361353711616 %}
-

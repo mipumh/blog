@@ -20,19 +20,11 @@ Como en anteriores ediciones, los proyectos aportan **soluciones innovadoras a n
 
 * [Francisco Gómez](https://twitter.com/Fran_GomezN) ha lanzado [CheckSportTV](http://www.twitter.com/Fran_GomezN), un proyecto de comunicación audiovisual enfocado al deporte en la Región de Murcia, con vídeo-reportajes sobre entidades y deportistas murcianos. 
 
-{% tweet 880361164450009089 %}
-
 * [Mar Melero](http://www.instagram.com/mmarmelero) es la creadora de [Lecturofilia](http://www.youtube.com/lecturofilia), un proyecto audiovisual que difunde la lectura entre el público *millennial* a través del modelo *youtuber*.
-
-{% tweet 877219877752381440 %}
 
 * [Adopta un Corrupto](https://www.facebook.com/AdoptaUnCorrupto/) es el proyecto de [Beatriz Martínez](https://twitter.com/BeaKensington), cuyo objetivo es explicar de forma sencilla y accesible para el gran público los casos de corrupción en España. 
 
-{% tweet 866692426714546181 %} 
-
 * [Sergi Escrivá](https://twitter.com/SergiEscriva_14) ha lanzado [Novelda Fúticks](http://medium.com/noveldafuticks), un proyecto periodístico independiente para gestionar la comunicación de entidades deportivas, que tiene como punto de partida el Novelda C.F. 
-
-{% tweet 863464776197967873 %}
 
 ![image alt text]({{ site.baseurl }}/images/shots/demoday20171.jpg)<sup>Ariadna López Gallego es la creadora de ‘Merkit’
 
@@ -54,11 +46,7 @@ Como en anteriores ediciones, los proyectos aportan **soluciones innovadoras a n
 
 * [Cristian Miconi](https://twitter.com/c_miconi) ha creado [A la cola del Pelotón](https://twitter.com/acdpeloton), un cuidado podcast con todas las noticias, análisis y resultados del ciclismo profesional, para escucharlo en cualquier momento.
  
-{% tweet 880482848691630080 %}
-
 * [Olímpicos 365](https://twitter.com/Olimpicos365) es un proyecto nativo en redes sociales elaborado por [Aitor Soler](https://twitter.com/Aitor_Soler). La iniciativa, especializada en deportes y deportistas olímpicos, pretende dar visibilidad a las historias de entrenamiento, superación y sacrificio de los atletas olímpicos. 
-
-{% tweet 873924022756663299 %}
 
 * [María Montesinos](https://www.linkedin.com/in/mar%C3%ADa-montesinos-gomis-99a520109/) es la creadora de [Murcia Divergente](http://murciadivergente.es/), un magazine nativo digital dirigido a la sociedad alternativa de Murcia, con un estilo solidario y transgresor.
 

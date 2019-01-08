@@ -20,23 +20,7 @@ Siempre atentas a la transformación que sufre la industria periodística, las [
 
 En un contexto en el que la audiencia recupera el primer plano, los investigadores analizan la comunicación multipantalla, y los profesionales buscan superar los retos que plantean las nuevas tecnologías. La obra **"Mobile First, comunicación multipantalla"**, la tercera de una colección de publicaciones del [Máster de Innovación en Periodismo](http://mip.umh.es/), recoge las reflexiones de profesionales y académicos conscientes de la gimnasia narrativa necesaria para ofrecer **periodismo original, listo para consumir, en cualquier momento y desde la palma de la mano**.
 
-##Descargar libro
-
-**Si quieres obtener el pdf, completa el formulario, por favor:**
-                
-<form role="form" action="//umh.us5.list-manage.com/subscribe/post?u=75b8bda4a5f5eae9a009046a2&amp;id=f570e20e9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-<div class="input-group input-group-lg">
-<input type="email" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email">
-<br>
-<span class="input-group-btn">
-<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Enviar</button>
-</span>
-</div>
-<div id="mce-responses">
-<div class="response" id="mce-error-response" style="display:none"></div>
-<div class="response" id="mce-success-response" style="display:none"></div>
-</div>
-</form>
+##Lo sentimos, ya finalizó el período de descarga gratuita.
 
 <br>
 

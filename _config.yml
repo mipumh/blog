@@ -4,7 +4,7 @@ inc:
   subtitle:     "Noticias y pistas del Máster en Innovación en Periodismo"
   cover_image:  blog-cover.jpg
   logo:         logo.png
-  
+
   # Company information
   company:      Máster en Innovación en Periodismo
   url:          http://mip.umh.es
@@ -13,80 +13,19 @@ inc:
   gplus:        '103906596485859350077'
   
   # Product Information
-  product_link: http://mip.umh.es
+  product_link: http://mip.umh.es/?utm_source=blog&utm_campaign=blog
   tagline:      "Idea, diseña, emprende"
-  
-  # Comments
-  disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  mipgithub
-    
-  # Sharing settings
-  sharing:
-    twitter:    true
-    facebook:   true
-    gplus:      true
-    hn:         false
-    
- # Analytics     
-  analytics:
-    google: true
-      
-  # Google Fonts
-  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700'
-  
-  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://mip.umh.es/blog
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-include:     ['.htaccess']
-exclude:     []
-timezone:    nil
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: http://mip.umh.es/blog
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Show future posts
-future:      false
-show_drafts: nil
-limit_posts: 0
-highlighter: pygments
+# Build settings
+markdown: kramdown
 
+plugins: [jekyll-paginate]
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
-
-safe:        false
-host:        0.0.0.0
-port:        4000
-baseurl:     /blog
-lsi:         false
-
-#
-# Twitter Pluggin 
-#
-
-twitter:
-  consumer_key: Yy9GyJBC7YMRA7AFC3pkQ 
-  consumer_secret: zmnZiKD3IwnDLpeRaKqHJhuhrJEzsx6u9VBGHLcGg 
-  access_token: 11989872-w2EYBRMYiN9U91ECajHbcLkV2Yfr0Adx7m2h64BfM
-  access_token_secret: 669CltVD7LQsvVbGebn7HmsDTBObAlOCVufUc7bSGn6Vt
-
-#
-# jekyll-assets: see more at https://github.com/ixti/jekyll-assets
-#
-assets:
-
-  dirname: assets
-  baseurl: assets/
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: none
-  cache: true
-  gzip: [ text/css, application/javascript ]
-  debug: false

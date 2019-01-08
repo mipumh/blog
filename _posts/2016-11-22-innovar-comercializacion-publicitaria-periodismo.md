@@ -14,8 +14,6 @@ La inversión publicitaria digital se destina de manera mayoritaria a otros cana
 
 Otros renuncian a la publicidad, como el holandés [De Correspondent](https://decorrespondent.nl/home) o el francés [Mediapart](https://www.mediapart.fr/es/espanol), y apuestan por un modelo de ingresos centrado en los lectores. En la mayoría de los casos, se adopta una [estrategia de múltiples fuentes de monetización](http://mip.umh.es/blog/2016/01/31/vias-ingresos-periodismo-monetizacion/), porque resulta más difícil solo con el público generar suficientes recursos para sostener la actividad. 
 
-{% tweet 803157275984666624 %}
-
 Aunque los datos señalan que crece la inversión publicitaria, **Facebook y Google**, entre otros, recogen hoy **casi 8 de cada 10 euros invertidos en publicidad digital**. El porcentaje restante deben pelearlo con uñas y dientes los medios con otros canales de contenido y entretenimiento en la red y, además, deben sortear el fenómeno del ad-blocking. **Unos han reaccionado de manera defensiva con la creación de consorcios mediáticos** para [aglutinar espacios publicitarios](https://www.theguardian.com/gnm-press-office/2015/mar/18/worlds-leading-digital-publishers-launch-new-programmatic-advertising-alliance-pangaea) o con la [introducción de **anti ad-blockers**](http://digiday.com/publishers/slate-washington-post-bloomberg-others-combat-ad-blocking/). 
 
 ![imagealt]({{ site.baseurl }}/images/shots/adblock1.png)

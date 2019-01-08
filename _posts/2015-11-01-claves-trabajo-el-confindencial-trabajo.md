@@ -26,5 +26,3 @@ El periodista [Alejandro Laso](https://twitter.com/alejandrolaso) ha vuelto a pi
 5. También apuestan por **analizar la aceptación de cada información** y que cada artículo enlace con otros contenidos del medio. Analizan los datos positivos pero también los aspectos que hay que mejorar. Aceptan que se potencien aquellas informaciones que logren mejores respuestas de los usuarios, y que, si las cifras de interacción de los usuarios no son positivas, se debe analizar qué falla para intentar corregirlo.
 
 6. **Desarrollo de un CMS propio**. El CMS les da autonomía y libertad para adecuarlo a sus necesidades. Lo modifican continuamente según las circunstancias. “Si no lo evolucionas, tienes que desecharlo”, defiende Alejandro Laso. La versatilidad de este sistema ahorra tiempo a los redactores, factor que el periodista considera esencial: “Es importante que el CMS no se quede obsoleto para no perder competitividad”.
-
-{% tweet 652091361353711616 %}

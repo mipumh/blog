@@ -17,23 +17,7 @@ Esta obra inicia una colección de publicaciones del [**Máster de Innovación e
 
 ![]({{ site.baseurl }}/images/shots/portada_libro_innovar.png)
 
-##Descargar libro
-
-**Si quieres obtener el pdf, completa el formulario, por favor:**
-                
-<form role="form" action="//umh.us5.list-manage.com/subscribe/post?u=75b8bda4a5f5eae9a009046a2&amp;id=be6b6bf6c4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-<div class="input-group input-group-lg">
-<input type="email" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email">
-<br>
-<span class="input-group-btn">
-<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Enviar</button>
-</span>
-</div>
-<div id="mce-responses">
-<div class="response" id="mce-error-response" style="display:none"></div>
-<div class="response" id="mce-success-response" style="display:none"></div>
-</div>
-</form>
+##Lo sentimos, ya finalizó el período de descarga gratuita.
 
 <br>
 

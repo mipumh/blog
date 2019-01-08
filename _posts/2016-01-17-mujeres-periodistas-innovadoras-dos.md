@@ -13,8 +13,6 @@ author:
 
 _Las periodistas más innovadoras e influyentes en los medios digitales_ figura entre [los diez mejores artículos](http://mip.umh.es/blog/2015/12/28/diez-mejores-post-2015/) del Máster en Innovación en Periodismo de 2015. En el post, cito a una serie de periodistas que han superado los estereotipos y prejuicios que aún persisten en la profesión y lideran la innovación y el cambio en periodismo. Entre ellas, se encuentran [Mariana Santos](https://twitter.com/marysaints), [Idoia Sota](https://twitter.com/idoiasota), [Miriam Hernanz](https://twitter.com/miriamhernanz) [Marilín Gonzalo](https://twitter.com/marilink), [Vanesa Jiménez](https://es.linkedin.com/in/vanesajimenez) y [Silvia Cobo](https://twitter.com/silviacobo). Se trata de un ejercicio de visibilización y puesta en valor necesario que nos hemos propuesto ampliar con [las sugerencias de nuestra comunidad en Twitter](https://twitter.com/mipumh/status/666165500699873280). La mayoría de ellas compagina la actividad profesional en medios con la investigación y la divulgación. 
 
-{% tweet 666219411980886016 %}
-
 ###[Ana Ormaechea](https://twitter.com/aormaechea)
 Emprendedora digital y consultora de medios. Fundadora de la comunidad de podcast en español [Cuonda](http://www.cuonda.com), cofundadora de [Tablet Army](http://tabletarmy.com), start up especializada en publicaciones digitales para tabletas y otros dispositivos móviles, y de los premios [Tab Innovation](http://www.tabinnovation.com). Ha desarrollado la versión en IPad de la revista [Muy Interesante](http://www.muyinteresante.es). Fundadora de la versión española de [Hacks & Hackers](http://hackshackers.com/), meet-up norteamericana que reúne a desarrolladores y periodistas para trabajar en el futuro del periodismo.
 

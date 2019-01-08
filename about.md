@@ -10,7 +10,7 @@ author:
   link: https://twitter.com/mipumh
 permalink: /about/
 ---
-Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en modalidad 100% online y en versión presencial. En este blog seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
+Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es/?utm_source=blogabout&utm_campaign=about) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en modalidad 100% online y en versión presencial. En este blog seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
 
 ## Editor
 
@@ -24,11 +24,9 @@ El plan de estudios consta de asignaturas con **seminarios y talleres prácticos
 
 Con este Máster, el estudiante será capaz de **entender cómo está cambiando la industria** para **detectar oportunidades** en el ámbito de la comunicación digital o para contar las historias de una manera más atractiva. Además, recibirá formación para conocer en profundidad el **comportamiento de la audiencia**, nuevos **modelos de periodismo**, **cómo monetizar la actividad informativa**, así como otros asuntos clave para **emprender un proyecto**: marketing digital, diseño web y Wordpress y posicionamiento en redes sociales, [entre otros aspectos](http://mip.umh.es/planestudios.html).
 
-## Modalidad Online
+## Máster 100% a distancia en campus virtual
 
-La edición online del **Máster de Innovación en Periodismo** se apoya en una plataforma para acceder a los vídeos del 100% de las clases (consumo a la carta), con foros y encuentros virtuales en directo con los profesores y compañeros. 
-
-[Más información de la modalidad online»](http://mip.umh.es/master-oficial-a-distancia-periodismo-online.html)
+Este postgrado se imparte 100% en modalidad online. Los estudiantes acceden a la plataforma virtual para asistir a las clases en vídeos, con foros y encuentros virtuales en directo con los profesores y compañeros. 
 
 * **[Blog](http://mip.umh.es/blog)** - Dirección del blog.
 * **[Twitter](https://twitter.com/mipumh)** - Cuenta oficial del Máster.

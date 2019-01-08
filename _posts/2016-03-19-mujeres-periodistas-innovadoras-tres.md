@@ -14,8 +14,6 @@ author:
 
 Hace unos meses, a propósito del proyecto [Chicas Poderosas](http://www.chicaspoderosas.org), iniciamos este ejercicio genealógico de carácter colaborativo para visibilizar a las mujeres que están presentes en la creación y expansión de los nuevos modelos de comunicación, con el objetivo de dar valor y reconocimiento a sus aportaciones en un ámbito tradicionalmente masculino. Tras la [segunda entrega](http://mip.umh.es/blog/2016/01/17/mujeres-periodistas-innovadoras-dos/), hemos seguido recibiendo propuestas para ampliar la lista. 
 
-{% tweet 689045654530842624 %}
-
 ###[Tíscar Lara](https://twitter.com/tiscar)
 
 Directora de Comunicación de la Escuela de Organización Industrial [(EOI)](https://twitter.com/eoi), donde ha impulsado proyectos de [Mobile Learning](http://www.eoi.es/blogs/mlearning/) y [Conocimiento Abierto](http://www.eoi.es/savia). Docente, investigadora y divulgadora, su especialidad es la comunicación digital y el uso educativo de las TIC. 
