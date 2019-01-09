@@ -19,8 +19,7 @@ inc:
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: http://mip.umh.es/blog
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: mipumh
 
 # Build settings
 markdown: kramdown
