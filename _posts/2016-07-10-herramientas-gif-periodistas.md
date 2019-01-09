@@ -22,7 +22,7 @@ Para clarificar este listado, vamos a dividir en cuatro los principales tipos de
  
 ### 1. Imágenes estáticas
 
-Es el más simple y quizás el menos frecuente. Pero no deja de ser efectivo si se usa bien. Seguramente habrá decenas de aplicaciones, pero aquí destacamos cinco:
+Es el más simple, y quizás el menos frecuente. Pero no deja de ser efectivo si se usa bien. Seguramente habrá decenas de aplicaciones, pero aquí destacamos cinco:
 
 #### [picasion](http://picasion.com/es)
 No puede ser más limitado y, por lo tanto, más sencillo. Sólo hay que seleccionar una a una las imágenes del ordenador, una URL o una webcam para fusionarlas en un GIF en el que solo se puede modificar el tamaño y la velocidad. Y no deja marca de agua.

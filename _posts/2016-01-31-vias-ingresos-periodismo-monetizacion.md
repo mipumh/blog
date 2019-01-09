@@ -28,29 +28,17 @@ El cliente paga una cantidad económica mensual o anual por acceder al contenido
 
 **Muro de pago** (_hard paywall_). Esta estrategia exige a los lectores pagar para consumir el contenido digital de manera estricta. Los diarios del grupo **News Corporation** han sido los más firmes en esta estrategia y, de hecho, han conseguido una base de suscriptores fiel y en crecimiento, a costa de limitar su capacidad de convertirse en referente global. [The Times parece que está en beneficios gracias a sus suscriptores](http://www.pressgazette.co.uk/content/why-financial-meltdown-guardian-could-signal-victory-19th-century-paywall-model-times-over) en su quinto año con muro de pago.
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_09-45-01.png)
-
 **Muro de pago poroso** (_soft paywall_). El lector puede consumir gratuitamente el contenido de manera controlada hasta alcanzar un tope, en función del número de páginas vistas, el tiempo de estancia o el canal de acceso (las _rendijas sociales_ de enlaces en Twitter, Facebook o email). Esta ventana abierta facilita la adquisición de tráfico para competir en escala como plataforma publicitaria y sirve de escaparate del producto para atraer nuevos suscriptores. Medios más prestigiosos con vocación global emplean este sistema: **Wall Street Journal**, **The Economist** o **The New York Times**, que con una agresiva estrategia de marketing [alcanzó a finales de 2015 el millón de suscriptores](https://www.nytimes.com/2015/10/30/business/media/new-york-times-co-reports-9-million-profit-in-3rd-quarter.html). El **Financial Times** también emplea este muro de pago, aunque de manera más rígida que el neoyorquino.
-
-![]({{ site.baseurl }}/images/shots/shot_2015-10-26_21-06-13.png)
 
 **Freemium**. Esta estrategia para adquirir suscriptores es popular en servicios de software o entretenimiento, como **Spotify**. El cliente accede gratis a gran parte del contenido, pero si quiere algunos servicios extra o ciertos privilegios debe suscribirse. Si la pasarela gratuita es atractiva, el proyecto genera base de clientes y futuros pagadores. El muro de pago poroso es, en realidad, un tipo de estrategia freemium. 
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_22-44-40.png)
-
 **Quioscos digitales**. En algunos países, los grupos de prensa tradicionales se han asociado para lanzar  plataformas digitales para distribuir sus productos en versión PDF y captar dos tipos de ingresos: suscriptores y/o venta de ejemplares. Es el caso de [Orbyt](http://quiosco.elmundo.orbyt.es/) y de [Kiosco y Más](https://www.kioskoymas.com/inicio) en España ([140.000 suscripciones](http://digimedios.es/index.php/archivo/kiosko-y-mas-alcanza-los-140-000-suscriptores/?utm_content=buffer08afa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) en 2014). Algunos diarios asociados a esta plataforma emplean muros de pago porosos, como los regionales de **Vocento** y **Prensa Ibérica**.
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_10-20-22.png)
 
 ### 2. Miembros, amigos, socios
 
 Los usuarios aportan una cantidad dineraria de manera regular, de forma mensual o anual, con el objetivo de apoyar o formar parte de la comunidad del medio en cuestión y reciben a cambio acceso privilegiado, anticipos del contenido o trato especial como socios. Esta modalidad podría integrarse en la categoría de suscriptores, pero la distingo por la retórica comercial y, sobre todo, porque el contenido en general es gratuito también para los no miembros. 
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_10-22-23.png)
-
 En España, [eldiario.es](http://www.eldiario.es/hazte_socio/) representa el ejemplo más popular. También **The Guardian** ha implementado este modelo o está intentándolo, justo cuando [descubre con números rojos](http://www.usatoday.com/story/money/columnist/wolff/2016/01/31/wolff-guardian-bet-shows-digital-risks/79468896/) que su pureza periodística y su expansión global no le bastan para ser un modelo de negocio rentable. Apelar al corazón, la ideología o la conciencia pública es un argumento de venta que no todos pueden emplear y exige una comunidad muy identificada con los valores del proyecto. 
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_10-24-23.png) 
 
 ### 3. Donaciones (puntuales o periódicas)
  
@@ -64,19 +52,13 @@ Los creadores anuncian su proyecto en una plataforma de crowdfunding (propia o a
 
 El cliente adquiere un ejemplar, una edición o una copia del producto periodístico a cambio de dinero. La venta en quiosco tradicional se ha trasladado al comercio electrónico, tanto de plataformas propias como ajenas. Esta clásica modalidad además ha generado varias estrategias entre los grupos de prensa tradicionales, como el mencionado quiosco digital para dispositivos móviles, donde se pone a disposición del lector la posibilidad de comprar un ejemplar (véase "suscriptores"). Un ejemplo más exótico es el de [Magpile](http://magpile.com/), una tienda online, construida por usuarios y editores de grandes revistas, para adquirir ejemplares.
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_23-16-32.png)
-
 ### 6. Micropagos por artículos
 
 El lector paga por leer un artículo. Esta modalidad, al menos en España, ha suscitado muchas dudas. Esta fuente de ingresos exige contenido valioso, una apuesta global del sector y una experiencia de usuario solo a la altura del _tech world_. De hecho, la primera startup que ha conseguido hacer algo decente se ha llevado el gato al agua: [Blendle](https://blendle.com/) ha alcanzado en dos años un crecimiento tan notable en Holanda y Alemania que ha recibido capital del New York Times y de **Axel Springer** y [ya prepara su estreno en Estados Unidos](http://www.politico.eu/article/the-dutch-tech-whiz-who-could-save-journalism/).
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_23-21-59.png)
-
 ### 7. Micropago por descarga de aplicaciones
 
 Similar al modelo anterior, el cliente paga para descargar una aplicación con servicios y contenido premium o por mejoras de la propia aplicación. Por ejemplo, **Quartz** [ha anunciado el lanzamiento de una aplicación móvil](http://www.niemanlab.org/2016/01/quartz-sees-its-readers-behaviors-evolving-so-its-evolving-with-them-its-launching-its-first-major-app/) y probablemente experimentarán con algún tipo de servicio de pago para diversificar las fuentes de ingresos, aparte de los contenidos patrocinados, _branded content_ y eventos.
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_10-45-05.png)
  
 ## Mediante la publicidad
 
@@ -88,8 +70,6 @@ Los anunciantes, bien directamente o mediante centrales, compran espacio del med
 
 Sin embargo, hay otro tipo de publicidad display más innovadora, más creativa, con interactividad o con una estética menos agresiva. Por ejemplo, **Vis-a-Vis** [es una revista mensual gratuita](http://www.applesfera.com/eventos/las-revistas-digitales-espanolas-vis-a-vis-y-mine-galardonadas-en-los-digital-magazine-awards-de-londres) para tabletas con anuncios que alcanzan tiempos de permanencia espectaculares. 
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_23-49-23.png)
-
 **The Objective** _ha reinventado_ la galería fotográfica y aprovecha esta apuesta editorial para insertar publicidad visual, más elegante y eficaz que el banner. 
 
 ### 9. Publicidad programática 
@@ -99,20 +79,14 @@ La [industria publicitaria](http://www.pepecerezo.com/3685/programatica/) digita
 ### 10. Contenido recomendado
 
 Variante de la anterior, las centrales sirven enlaces a contenido externo de forma automatizada en el espacio del medio. [Outbrain](http://www.outbrain.com/es) y [Taboola](https://www.taboola.com/) son dos de los proveedores de este tipo de anuncios. En 2015 [Matched Content](http://adsense.blogspot.com.es/2015/04/introducing-matched-content.html) (Google) y Yahoo Recommends también lanzaron sus productos en este sector. Ejemplo de eldiario.es:
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_00-11-12.png)
  
 ### 11. Publicidad nativa
  
 El medio ofrece espacio dentro del bloque editorial para insertar publicidad del anunciante con una estética más integrada y sutil. Esta modalidad publicitaria responde mejor al dispositivo de lectura (se le suele llamar _responsive_) y, según los comerciales, _molesta menos_ al usuario. Cuando los creativos entienden que no molestar es mejor, también descubren que parecerse al contenido periodístico otorga mayor credibilidad al mensaje, y así surge el siguiente tipo de publicidad. Ejemplo del hiperlocal [Billy Penn](https://billypenn.com/):
- 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_02-01-02.png)
 
 ### 12. Contenido pagado (sponsored content)
  
 Publicidad con apariencia de contenido "editorial", pagada por un anunciante. Con el mismo objetivo que la publicidad nativa, el anunciante paga por entrar en el terreno de confianza del lector. El editor suele diferenciar de manera más o menos explícita el contenido patrocinado del resto, bien por emplear una trama de un color diferente, bien por advertirlo directamente.
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_00-15-20.png)
 
 ### 13. Publirreportaje (igual que el anterior)
  
@@ -122,8 +96,6 @@ El antecedente impreso del _contenido pagado_ es un anuncio con apariencia de pi
 
 De modo similar al contenido pagado, en este caso el anunciante paga por aparecer de manera nativa en el timeline de las redes sociales del editor (Facebook, Twitter, Instagram, Youtube). Es la gran alternativa para los medios con un capital de seguidores en las redes sociales: su _engagement_ resulta muy atractivo para los anunciantes. **Bleacher Report**, **NowThis**, **Pictoline**, **Aj+**, **Buzzfeed**, **Vox**, **Gawker** son nativos especializados en esta modalidad. Pero también **National Geographic** y **New Yoker** [generan ingresos mediante este sistema](http://observer.com/2015/11/new-yorker-instagram-followers-debate-ads-after-mags-paid-post/). Ejemplo:
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_00-20-52.png)
-
 ### 15. Patrocinio de contenido periodístico de interés público
  
 Una institución sin ánimo de lucro financia la actividad periodística de una sección o de un equipo de periodistas del medio, siempre y cuando traten temas de interés público alineados con la agenda de dicha organización. A veces el periodismo de calidad está patrocinado, como esta [colaboración entre Planeta Futuro, la Fundacion del matrimonio Gates, El Pais y el European Journalism Centre](http://elpais.com/especiales/2015/planeta-futuro/pesca-europea-en-africa/). [The Guardian anunció en enero](https://www.theguardian.com/info/2016/jan/25/content-funding) que también acudirá a esta modalidad.
@@ -132,8 +104,6 @@ Una institución sin ánimo de lucro financia la actividad periodística de una 
  
 El anunciante paga para aparecer en la cabecera de la newsletter de contenido periodístico. La gran ventaja de este formato es la exclusividad del espacio: al generar escasez (solo un patrocinador), si el medio cuenta con una buena base de suscriptores podrá cobrar más por el patrocinio. El renacimiento de las newsletters durante los últimos años confirma que es un canal de distribución eficaz, breve, para contenido _curado_, que asegura contacto con el usuario y facilita su segmentación. La newsletter de Quartz es famosa con sus 150.000 suscriptores, pero se trata de la punta del iceberg de un fenómeno global: Financial Times, New York Times, **Politico**, [The Skimm](http://www.theskimm.com/), hay múltiples ejemplos. El Español también ha lanzado su newsletter **El Despertador** y ya tiene puntuales patrocinadores, clara influencia de Quartz.
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_00-31-06.png)
-
 ### 17. Contenido o enlaces patrocinados en newsletters
 
 En esta variante de la anterior, el anunciante paga por aparecer de manera nativa en el contenido de la newsletter, con apariencia editorial, bien para generar tráfico, atención o ventas. El famoso **Politico**, un diario digital de referencia en Washington, cuenta con una newsletter de prestigio con la que cobra [50.000 dólares a la semana por una simple mención](https://www.washingtonpost.com/blogs/erik-wemple/wp/2015/11/30/politicos-mike-allen-pushes-back-against-his-own-e-mails/?tid=a_inl).  
@@ -141,8 +111,6 @@ En esta variante de la anterior, el anunciante paga por aparecer de manera nativ
 ### 18. Branded content
  
 El _branded content_ es una modalidad de contenido patrocinado y también, por qué no, una modalidad de _publicidad_ nativa. El anunciante acuerda con el medio el desarrollo de un contenido editorial, no estrictamente comercial, asociado con los valores o identidad de su marca. El contenido (vídeo, texto, campaña transmedia) genera visibilidad, notoriedad y conocimiento del ámbito de la marca. ¿Quién elabora el branded content? Hay múltiples alternativas y estrategias, pero la iniciativa la lleva quien paga. Algunos medios son más exigentes según el lugar de exposición. Medios de prestigio como [The Economist](http://www.ft.com/intl/cms/s/0/ba032684-18de-11e5-8201-cbdb03d71480.html) o [New York Times](http://www.businessinsider.com/new-york-times-on-importance-of-branded-content-and-international-ad-sales-2015-10) han apostado por esta modalidad de ingresos. Por ejemplo, [dos tercios de los ingresos](http://digiday.com/publishers/two-thirds-wireds-revenue-digital-brand-content/#sthash.zRQiet1I.uxfs&st_refDomain=t.co&st_refQuery=/xY9PqMySli) de Wired son por _branded content_.
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_10-12-21.png)
 
 ### 19. Anuncios en vídeos
 
@@ -170,8 +138,6 @@ Similar a la venta de leads, en este caso el medio cobra una comisión por el ci
 
 De modo similar a la afiliación, la empresa contratadora ("el anunciante") paga por encontrar candidatos a su oferta de empleo en el sitio del medio. Un buen ejemplo es la sección _Who's hiring in media?_ del magnífico agregador y curador [Mediagazer](http://mediagazer.com/), una fuente de consulta diaria para interesados en la industria periodística:
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_00-53-25.png)
-
 ### 25. Compra grupal de cupones descuento
  
 Los anunciantes pagan al medio por insertar cupones de descuento para los compradores interesados en su producto. 
@@ -183,8 +149,6 @@ Esta categoría recoge aquellas actividades secundarias, más o menos ajenas al 
 ### 26. Sindicación de contenido con terceros
 
 Un cliente paga por adquirir parte del contenido del medio con el fin de distribuirlo en su plataforma. Este es el negocio habitual de las agencias de noticias, pero en el contexto digital contemporáneo los editores también juegan en esta división. Sindicar el contenido será una estrategia cada vez más habitual: algunos medios se contemplan a sí mismos como _hubs_ que producen contenido para otras plataformas. La capacidad de rentabilizar su trabajo poniéndolo en otra ventana es un valor atractivo. **El Confidencial** , por ejemplo, licencia su información en el canal [msn.com](http://www.msn.com/es-es/noticias/el-confidencial):
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-02_00-59-08.png)
 
 Aunque no es sindicación propiamente, conviene mencionar la estrategia de los editores con las plataformas **Instant Articles** (Facebook), **Apple News** (Apple) o **Discover** (Snapchat). Estas compañías ponen a disposición de los editores ventanas para que publiquen su contenido y comercialicen sus historias, garantizan un porcentaje o el total de los ingresos publicitarios y aseguran la distribución del contenido. 
 
@@ -212,13 +176,9 @@ Los medios más relevantes del panorama digital tienen muy claro que se debe [ap
 
 El medio pone a disposición de los usuarios una tienda online para la venta de productos complementarios o relacionados con los valores de su comunidad como una vía de ingreso alternativa. [The New York Time, Monocle, Slate](http://digiday.com/publishers/publisher-stores-drive-commerce-preserving-reader-trust/#sthash.g7XxFCb0.uxfs&st_refDomain=t.co&st_refQuery=/ADlFzWg9Rx), [La Marea](http://www.lamarea.com/kiosco/index.php#!/Libros-y-otras-publicaciones/c/5894318/offset=0&sort=nameAsc) o [JotDown](http://www.jotdown.es/store) cuentan con este tipo de tiendas online. 
 
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_23-55-39.png)
-
 ### 32. Venta de datos, informes especializados
 
 El medio pone a la venta parte de su trabajo periodístico en bruto para organizaciones, empresas o instituciones interesadas en este tipo de estudios o bases de datos. **ProPublica** es uno de los [ejemplos más interesantes](https://projects.propublica.org/data-store/).
-
-![]({{ site.baseurl }}/images/shots/shot_2016-02-01_10-27-19.png)
 
 Algunas de estas opciones pueden parecer inviables si el problema se enfoca desde el prisma de un periódico impreso con centenares de trabajadores y un modelo de negocio en declive. Como decía un analista de [Press Gazette](http://www.pressgazette.co.uk/content/why-financial-meltdown-guardian-could-signal-victory-19th-century-paywall-model-times-over), "es imposible aguantar un staff de más de 900 periodistas solo con ingresos de una web gratuita". 
 
