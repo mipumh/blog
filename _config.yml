@@ -17,6 +17,10 @@ inc:
   tagline:      "Idea, diseña, emprende"
   google_font: 'Droid+Sans:400,700'
 
+# Analytics     
+  analytics:
+    google: true
+ 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: http://mip.umh.es/blog
 
