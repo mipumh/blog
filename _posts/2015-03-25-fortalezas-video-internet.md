@@ -7,12 +7,12 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 La periodista visual del periódico [The New York Times](http://www.nytimes.com/) Alexandra García lleva a cabo reportajes interactivos y ha sido galardonada con una beca Nieman de la [Nieman Foundation for Journalism](http://nieman.harvard.edu/). En su intervención en el [XVI Congreso de Periodismo Digital de Huesca](http://www.congresoperiodismo.com/), explicó que **lo importante a la hora de crear contenido audiovisual para la web es aprovechar realmente las características del vídeo online y "hacer cosas que sólo son posibles en la web"**. La reportera hizo hincapié en la necesidad de dar con el enfoque que mejor se adapte a cada formato.
 
-![]({{ site.baseurl }}/images/Fotos_MIP/nytimes_alexandra.png)
+![]({{ site.baseurl }}/images/Fotos_MIP/nytimes_alexandra.jpg)
 
 En este sentido, expuso varios casos que ilustraban cómo lleva a cabo esta tarea. Uno de estos ejemplos se centró en la serie de vídeos que, bajo el título [Scene In](http://www.washingtonpost.com/wp-srv/special/artsandliving/scene-in/)_,_ realizó para [The Washington Post](http://www.washingtonpost.com/wp-srv/special/artsandliving/scene-in/), donde trabajó durante nueve años. En estas producciones, mostraba la moda característica de las diferentes zonas de Nueva York. Un proyecto en el que la propia gente de cada barrio contactaba con la periodista visual para que acudiera a su área para reflejar las diferentes tendencias. **En esta serie de vídeos, se consiguió, según explicó Alexandra Garcia, "una cercanía y participación imposibles de lograr en la televisión".**
 

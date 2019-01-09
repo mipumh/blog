@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.png
+  image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
 ¿Cuántos suscriptores ha ganado el New York Times en marzo? ¿Cuáles son las nuevas herramientas para contar mejores historias? ¿Qué casos de éxito se pueden aplicar en una redacción? ¿Cuáles son los perfiles profesionales más demandados? Preguntas como estas surgen de forma constante, conocer las respuestas nos ayuda a anticipar los cambios y a discriminar lo relevante. Por eso, aquí recopilo diez recursos (7 boletines de correo, 2 podcasts y 1 robot) que te ayudarán a seguir la transformación de la industria periodística con criterio: para identificar ideas, conceptos útiles y estar a la vanguardia.

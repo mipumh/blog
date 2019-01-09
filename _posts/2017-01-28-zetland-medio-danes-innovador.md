@@ -54,9 +54,9 @@ Tenemos el ideal de que queremos formar parte del movimiento que intenta convenc
 
 Hasta ahora en nuestro modelo nuestros usuarios comparten el contenido y eso sirve como una especie de prueba para otros usuarios que acceden a nuestras piezas pero que no son suscriptores, pero hemos descubierto que eso no es suficiente para nosotros. La barrera es muy alta para alguien que nunca ha conocido a Zetland. si de pronto le decimos "tienes que pagar 13 euros al mes"; así que ayer lanzamos un nuevo modelo de prueba gratuita por dos semanas. No sabemos cómo serán los resultados pero somos conscientes de que tenemos que bajar un poco la barrera a esos potenciales usuarios.
 
-![image alt text]({{ site.baseurl }}/images/shots/zetland2.png)
+![image alt text]({{ site.baseurl }}/images/shots/zetland2.jpg)
 
-![image alt text]({{ site.baseurl }}/images/shots/zetland3.png)
+![image alt text]({{ site.baseurl }}/images/shots/zetland3.jpg)
 
 **Háblame un poco acerca del show en directo. ¿Cómo combinar una marca de periodismo de calidad con espectáculos lúdicos estilo cabaret?**
 

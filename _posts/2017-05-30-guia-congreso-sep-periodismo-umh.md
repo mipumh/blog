@@ -22,7 +22,7 @@ Estos son los datos, temas y nombres propios que protagonizan el XXIII Congreso 
 
 Más de 200 expertos se reúnen en el[ XXIII Congreso Internacional de la Sociedad Española de Periodística](http://sep2017.umh.es/), organizado por la Universidad Miguel Hernández de Elche durante el 9 y 10 de junio. Se trata de uno de los congresos de periodismo con más solera en España, que aglutina a los profesores que imparten docencia en las titulaciones de Periodismo y este año lo organiza[ Periodismo UMH](https://periodismo.umh.es/). Esta reunión científica, pilotada por el equipo de profesores del[ Máster de Innovación en Periodismo de la UMH](http://mip.umh.es/), analizará la transformación que experimentan los medios y las claves para desarrollar un periodismo de calidad que sea viable e innovador.  Podrá seguirse con la etiqueta [#SEPUMH](https://twitter.com/search?f=tweets&q=%23SEPUMH&src=typd). Las sesiones plenarias se retransmitirán por streaming que se anunciará la mañana del congreso en [@PeriodismoUMH](https://twitter.com/PeriodismoUMH).
 
-![image alt text]({{ site.baseurl }}/images/shots/cartel.png)
+![image alt text]({{ site.baseurl }}/images/shots/cartel.jpg)
 
 ### PARTICIPANTES
 
@@ -44,7 +44,7 @@ Los 200 participantes, en su mayoría profesores universitarios, proceden de och
 
 El horario de presentación de las comunicaciones [puede descargarse aquí](http://sep2017.umh.es/comunicaciones.pdf).
 
-![image alt text]({{ site.baseurl }}/images/shots/fidler.png)
+![image alt text]({{ site.baseurl }}/images/shots/fidler.jpg)
 
 <sup>**El investigador Roger Fidler.**
 
@@ -76,4 +76,4 @@ La [Sociedad Española de Periodística](http://www.periodistica.es/), fundada e
 
 La organización de este congreso en la **Universidad Miguel Hernández** no sería posible sin la ayuda de la SEP, la colaboración de los patrocinadores y el trabajo desinteresado de numerosas personas que integran[ el Comité Organizador y el Comité Científico](http://sep2017.umh.es/#comites). ¡A todos ellos les damos las gracias!
 
-![image alt text]({{ site.baseurl }}/images/shots/radioumh.png)
+![image alt text]({{ site.baseurl }}/images/shots/radioumh.jpg)

@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.png
+  image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
 Desde que empezamos la aventura del Máster en Innovación en Periodismo hemos tenido claro que idear, desarrollar y lanzar un proyecto periodístico es la mejor forma de **adquirir las habilidades que los medios demandan**. Así como otros  postgrados se enfocan en el área temática o en el soporte, nosotros nos especializamos en formar periodistas capaces de comprender [**cómo está cambiando la industria para buscar soluciones**](http://mip.umh.es/blog/2016/05/29/preguntas-modelo-de-negocio-periodismo/) a los problemas que hoy en día afronta el periodismo.

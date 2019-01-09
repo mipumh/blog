@@ -13,7 +13,7 @@ author:
 ---
 No es nada nuevo que los usuarios de Internet emplean cada vez más los móviles. Según un informe de Cisco, en 2020 habrá 5.5 billones de usuarios de móviles en todo el mundo **y el 75% de los contenidos online serán de vídeos para el móvil**. En España, la tasa de penetración de _smartphones_ ha pasado del 63% al 91% en los últimos tres años, según datos de Ofcom. Sin embargo, muchos medios no se mueven con la suficiente agilidad para adaptar sus contenidosa este escenario. Otros, en cambio, van un paso por delante. Más allá del **mobile first** , los medios más disruptivos ya apuestan por productos exclusivamente diseñados para el móvil y desarrollan modelos de negocio orientados al **mobile only**.
 
-![]({{ site.baseurl }}/images/shots/cisco.png)
+![]({{ site.baseurl }}/images/shots/cisco.jpg)
 
 El _mobile first_ exige no sólo adaptar lenguaje y contenidos, si no también saber anticiparse a lo que vendrá mañana. Porque se trata de contar con el usuario en cualquier dispositivo en el que pueda acceder a la información.
 

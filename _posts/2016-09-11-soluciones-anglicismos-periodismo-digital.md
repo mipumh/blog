@@ -7,14 +7,14 @@ author:
   twitter: Auditurus
   gplus:  
   bio: Periodista y alumni del MIP
-  image: jrnar.png
+  image: jrnar.jpg
   link: https://twitter.com/Auditurus
 ---
 La comunicación en Internet es cada día más anglófona: desde nuestra actividad _online_ hasta los social media, pasando por el _storytelling_. La moda _cool_ ha calado fuerte en todos los sectores que viven la transformación digital. Y el periodismo no es una excepción. 
 
 El léxico anglosajón se adopta y se reproduce como propio. Sus conceptos están tan arraigados a la cultura mediática que, en ocasiones, ¡ni siquiera se escriben en _cursiva_! Hemos otorgado poder a esos conceptos; nuestras habilidades y nuestro perfil ya no suenan profesionales si no los pronunciamos con encanto anglosajón, con _postureo_ idiomático. 
 
-[![]({{ site.baseurl }}/images/shots/efectolin.png)](http://pictoline.com/988-el-efecto-linkedin/ )
+[![]({{ site.baseurl }}/images/shots/efectolin.jpg)](http://pictoline.com/988-el-efecto-linkedin/ )
 
 La RAE [ya se ha pronunciado al respecto de los anglicismos en la publicidad](http://elpais.com/elpais/2016/05/18/videos/1463563077_502257.html). ¿Compraríais unas gafas de sol _blind effect_? Suena _cool_, pero no parece muy práctico lucir unas gafas que te dejan ciego por completo. 
 

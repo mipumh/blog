@@ -21,7 +21,7 @@ author:
 
 **R.** La plataforma se inauguró ese día a propósito porque pensábamos que era un momento de mucha exposición mediática. Empezaba una campaña electoral esa misma noche y lanzamos Politibot a mediodía. El sondeo del CIS era interesante porque nos permitía obtener datos de usuarios. Por ello, hicimos una especie de juego para preguntarle al usuario cada vez que entraba al bot. Cada nuevo usuario recibía un mensaje que decía "¿Quieres saber cómo vota la gente como tú?". Además, preguntaba edad, género y localización. Estos datos se guardarían y serían relevantes en otras ocasiones para ofrecerles algún contenido específico. Básicamente, consistía en un intercambio de datos por información política personalizada.  
 
-![image alt text]({{ site.baseurl }}/images/shots/politibot0.png)
+![image alt text]({{ site.baseurl }}/images/shots/politibot0.jpg)
 
 **P. ¿Cuáles son las claves del éxito de Politibot? ¿Hacia dónde va a evolucionar?**
 
@@ -31,7 +31,7 @@ author:
 
 **R.** El periodismo político en España está muy centrado en las declaraciones -lo que dice Pedro Sánchez y lo que le responde Susana Díaz-. Por ello, nosotros intentamos que, aunque cada vez se hace más y no somos los únicos, Politibot estuviera muy centrado en dar contexto a problemas concretos y en intentar ofrecer datos al usuario. Desde el principio, tuvimos muy claro que tener gráficos sobre, por ejemplo, el desempleo o la sanidad, era una de las señas de identidad del proyecto y así continuamos haciéndolo. Lo esencial es el contenido que puedes consumir en la plataforma, sin salir de ahí, sin irte a ningún otro enlace.
 
-![image alt text]({{ site.baseurl }}/images/shots/politibot1.png)
+![image alt text]({{ site.baseurl }}/images/shots/politibot1.jpg)
 
 **P. ¿Es un proyecto pionero a nivel mundial?**
 

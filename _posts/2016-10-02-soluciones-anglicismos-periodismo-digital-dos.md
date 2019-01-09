@@ -7,7 +7,7 @@ author:
   twitter: Auditurus
   gplus:  
   bio: Periodista y alumni del MIP
-  image: jrnar.png
+  image: jrnar.jpg
   link: https://twitter.com/Auditurus
 ---
 [En la primera parte de este artículo](http://mip.umh.es/blog/2016/09/11/soluciones-anglicismos-periodismo-digital/) hablamos sobre la existencia de una moda _cool_ imparable a la hora de tratar los conceptos clave del periodismo en internet. En este ámbito es obligado referirse al llamado "universo 2.0", que se construye a partir de la participación de los usuarios. Por eso, ahora buscamos soluciones en castellano a los anglicismos que hacen referencia a los usuarios que integran el mundo digital. 

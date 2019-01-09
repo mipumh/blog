@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 Cuando nos enfrentemos al reto de diseñar una web, ya se trate de llevar a cabo la ejecución nosotros mismos o de encargar su desarrollo a un experto, lo primero que debemos preguntarnos es qué objetivos queremos alcanzar con nuestra página. Sin embargo, muchas veces nos empeñamos en empezar a construir la casa por el tejado y pensamos primero en cuestiones relacionadas con el color, las imágenes y otras claves estéticas. 

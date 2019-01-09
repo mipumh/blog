@@ -1,6 +1,6 @@
 ---
 published: true
-cover_image: rok2.png
+cover_image: rok2.jpg
 layout: post
 title: Proyectos en la frontera de la innovación periodística&#58 el Knight Lab
 excerpt: "Tener un laboratorio de innovación periodística ya no es ninguna novedad. Las batas blancas y las probetas por sí solas no sirven: la fórmula del éxito ahora radica en los resultados de sus experimentos. Buenos ejemplos hay en todos los ámbitos, pero en la frontera que une la universidad con la profesión destaca uno por encima de los demás: el Knight Lab."

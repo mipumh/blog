@@ -14,13 +14,13 @@ El **cierre de la publicación satírica Orgullo y Satisfacción**, anunciado pa
 
 Los creadores de Orgullo y Satisfacción habilitaron [una sola vía de financiación](http://mip.umh.es/blog/2016/01/31/vias-ingresos-periodismo-monetizacion/): la venta electrónica de suscripciones y número sueltos. Lo hicieron así para **evitar la dependencia y la presión editorial de socios financieros y anunciantes**, como exponen los propios dibujantes en [el anuncio del cierre](http://www.orgulloysatisfaccion.com/cerramos/). Con este método, consiguieron la prometedora cifra de 40.000 ejemplares vendidos en su primera edición, un número que atrajo un especial interés por el tema que trataba: la coronación de Felipe VI. También influyó en estos datos positivos la [polémica por la censura de RBA sobre una portada de El Jueves](http://www.elperiodico.com/es/noticias/politica/dibujantes-jueves-acusan-rba-censura-portada-rey-3292359) crítica con la Casa Real, hecho que llevó a algunos dibujantes a abandonar la revista y fundar Orgullo y Satisfacción.
 
-![image alt text]({{ site.baseurl }}/images/shots/orgys0.png)
+![image alt text]({{ site.baseurl }}/images/shots/orgys0.jpg)
 
 Sin embargo, a largo plazo las suscripciones no fueron suficientes para mantener la revista. Según señala [Albert Monteys en una entrevista para Playground](http://www.playgroundmag.net/cultura/Cierra-publicacion-satirica-Orgullo-Satisfaccion_0_1894610538.html), la iniciativa solo consiguió una base estable de 4.500 compradores al mes, muy lejos de la cifra de 12.000 suscriptores que se había marcado como límite para la viabilidad. El incómodo formato PDF empleado por la publicación y la periodicidad mensual, que hace que los chistes lleguen ya caducos a los lectores, impidieron retener una base de audiencia que no encontraba suficiente valor añadido en el proyecto. Además, los fundadores de la revista han manifestado que **les resultaba difícil encargarse de todo el proceso de publicación, incluyendo el área de negocio y comercialización, ya que su objetivo siempre había sido la calidad de los dibujos**.
 
 A continuación, recopilamos los modelos de negocio de diversos medios españoles que trabajan con la sátira y el humor político:
 
-![image alt text]({{ site.baseurl }}/images/shots/orgys1.png)
+![image alt text]({{ site.baseurl }}/images/shots/orgys1.jpg)
 
 **El Jueves**
 
@@ -32,7 +32,7 @@ En 2016, la web de El Jueves fue rediseñada casi por completo. Con las nuevas u
 
 Las vías de ingresos son la **venta de ejemplares** en papel, la **suscripción a la edición digital** para iOS y Android, y **la publicidad display** en la web.
 
-![image alt text]({{ site.baseurl }}/images/shots/orgys2.png)
+![image alt text]({{ site.baseurl }}/images/shots/orgys2.jpg)
 
 **Revista Mongolia**
 
@@ -42,7 +42,7 @@ El atractivo principal de Mongolia es su **estilo comunicativo agresivo y su hum
 
 Sus vías de ingresos son las **suscripciones**, la venta directa de **ejemplares**, la venta de **merchandising** propio a través de la página web **y la organización de eventos**, como las entrevistas a políticos o el musical de Mongolia.
 
-![image alt text]({{ site.baseurl }}/images/shots/orgys3.png)
+![image alt text]({{ site.baseurl }}/images/shots/orgys3.jpg)
 
 **El Mundo Today**
 

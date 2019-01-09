@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 La economía generada en torno a los contenidos digitales ha experimentado una etapa de enorme crecimiento en la [última década](http://www.ametic.es/DescargarDocumento.aspx?idd=4884). Factores como la democratización en el acceso a los dispositivos móviles inteligentes, el aumento de la velocidad de conexión en los hogares, el desarrollo de nuevas plataformas de creación de contenidos y la popularización de las redes sociales han disparado la alta penetración de Internet. 

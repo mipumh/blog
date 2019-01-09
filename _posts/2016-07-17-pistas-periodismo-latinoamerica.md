@@ -25,7 +25,7 @@ En el primer post de una serie para seguir la evolución del periodismo en Latin
 
 -	**[SembraMedia](https://twitter.com/SembraMedia)**. Esta comunidad y directorio de emprendedores de medios digitales cuenta con colaboradores en más de 12 países latinoamericanos. Los miembros de su Consejo Directivo contribuyen con su experiencia como periodistas, ejecutivos, profesores y consultores. [Janine Warner](https://twitter.com/janinewarner) es la directora ejecutiva y co-fundadora del proyecto.  A pesar de algunos casos exitosos, muchos periodistas emprendedores de América Latina se encuentran aislados. [SembraMedia](http://www.sembramedia.org/) les ayuda mediante una comunidad en línea donde los emprendedores pueden conectarse, intercambiar recursos, estudiar administración de negocios y aprender de la experiencia de otros. Han creado [este directorio de medios digitales](http://www.sembramedia.org/directorio-de-medios/) y llevan a cabo numerosas iniciativas para emprendedores. 
 
-![]({{ site.baseurl }}/images/shots/SembraMedia.png)
+![]({{ site.baseurl }}/images/shots/SembraMedia.jpg)
 
 -	**[Fundación Gabriel García Márquez para el Nuevo Periodismo Iberoamericano](http://www.nuevoperiodismo.org/)**. Trabaja por la excelencia del periodismo y su contribución a la democracia y desarrollo de los países iberoamericanos y del Caribe, a través de talleres y seminarios de formación e intercambio entre periodistas y colaboración en redes profesionales. Su director general y cofundador  es [Jaime Abello Banfi](https://twitter.com/Jaime_Abello). Cada año, la [FNPI](http://www.fnpi.org/) organiza una oferta de actividades integrada por talleres, seminarios, conferencias, publicaciones, premios, redes de intercambio y recursos digitales para compartir conocimiento.  Estas actividades se enmarcan en cuatro líneas de actuación:
 1. Narración periodística. 
@@ -33,7 +33,7 @@ En el primer post de una serie para seguir la evolución del periodismo en Latin
 3. Investigación y cobertura sobre temas clave para América Latina.
 4. Innovación y medios digitales.
 
-![]({{ site.baseurl }}/images/shots/FPNI.png)
+![]({{ site.baseurl }}/images/shots/FPNI.jpg)
 
 -	**[Red Ética Segura](https://twitter.com/EticaSegura)**. Es una iniciativa de la **Fundación Gabriel García Márquez para el Nuevo Periodismo Iberoamericano**, con el objetivo de abrir un espacio de reflexión y debate acerca de los desafíos éticos que afrontan los periodistas en un contexto de profundas transformaciones de la práctica, el negocio y la función social del periodismo. La Red funciona como punto de encuentro para periodistas en Iberoamérica donde compartir, discutir, publicar y consultar contenidos relacionados con la ética periodística. Mediante noticias, recursos, foros de debate y actividades en línea, [Ética Segura](http://eticasegura.fnpi.org/) busca convertirse en un referente para ampliar la discusión y fortalecer los principios básicos del periodismo de calidad. 
 

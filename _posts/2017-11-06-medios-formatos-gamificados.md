@@ -34,7 +34,7 @@ A continuación presentamos **una selección de diez newsgames exitosos** que mu
 
 ### [Can You Beat Usain Bolt?](https://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html), The New York Times
 
-![image alt text]({{ site.baseurl }}/images/shots/gamificacion_4.png)
+![image alt text]({{ site.baseurl }}/images/shots/gamificacion_4.jpg)
 
 Este sencillo formato gamificado de The New York Times invita a los usuarios a comprobar la velocidad de Usain Bolt en la salida de la carrera de cien metros lisos en los Juegos Olímpicos de Río 2016 y a tratar de superarle. Un reto nada fácil.
 
@@ -54,7 +54,7 @@ Te conviertes en un pirata somalí que tiene que guiar un barco que tiene que na
 
 El realizador Marcus Bösch creó este newsgame para la televisión pública alemana ZDF en 2015. El usuario va afrontando diversas situaciones reales que muestran cómo sus datos personales son captados y manejados por empresas, y experimenta en qué medida pueden llegar a controlar su vida e influir en sus decisiones.
 
-![image alt text]({{ site.baseurl }}/images/shots/gamificacion_13.png)
+![image alt text]({{ site.baseurl }}/images/shots/gamificacion_13.jpg)
 
 ### [Which sport are you made for?](http://www.bbc.com/news/uk-28062001), BBC News
 
@@ -84,7 +84,7 @@ Los usuarios juegan a comprarse un piso en 2007 y superar las vicisitudes a las
 
 Este juego de corrupción política, lanzado en 2013 en Estados Unidos, permite que el usuario asuma un destacado cargo político y vaya tomando las decisiones éticas necesarias para afrontar una amplia gama de problemas relacionados con la corrupción. Una vez finalizado, se evalúan la calidad y eficacia de sus decisiones. Su fascinación reside en la capacidad de "ponerse en la piel" de un político y comprobar lo difícil que resulta decidir correctamente. 
 
-![image alt text]({{ site.baseurl }}/images/shots/gamificacion_28.png)
+![image alt text]({{ site.baseurl }}/images/shots/gamificacion_28.jpg)
 
 ### [Uber Game](http://ig.ft.com/uber-game/), The Financial Times
 

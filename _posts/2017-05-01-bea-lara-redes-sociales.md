@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.png
+  image: mabor.jpg
   link: https://twitter.com/mamenbor
 ---
 Beatriz Lara Pascual es periodista por la Universidad Miguel Hernández de Elche. Ha desarrollado su labor en diversos medios, entre ellos Weblogs SL. Actualmente trabaja en *branded content* para el grupo Prensa Ibérica e integra el equipo fundador de [Relevo Magazine](http://relevomagazine.com/).
@@ -44,7 +44,7 @@ Surgió en la Universidad Miguel Hernández, cuando aún estábamos estudiando m
 
 Hace unos meses, surgió la idea de reunirnos, porque los dos vivimos en Madrid, y hablar del proyecto otra vez. Levábamos sin vernos desde que habíamos terminado en la facultad. Pensamos que podíamos lanzar el proyecto, y después de seis meses de trabajo, de investigación, de modelos de financiación… decidimos lanzarlo porque teníamos los contactos. De momento, el proyecto no está pensado para obtener enormes beneficios pero sí buscamos que sea rentable, para poder pagar a los colaboradores y a nosotros mismos cuando vayamos a los sitios. Al final, consiste en montar una web que no cuesta dinero, aunque sí tiempo, unos seis meses. 
 
-![image alt text]({{ site.baseurl }}/images/shots/bealara3.png)<sup>**Imagen Relevo Magazine**
+![image alt text]({{ site.baseurl }}/images/shots/bealara3.jpg)<sup>**Imagen Relevo Magazine**
 
 **¿Cómo está funcionando este proyecto?**
 

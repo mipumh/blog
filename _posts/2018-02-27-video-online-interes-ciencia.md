@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 En el artículo ["El insoportable peso de la levedad científica"](http://www.rac.es/ficheros/doc/01128.pdf), publicado en la revista [Claves de la Razón Práctica](http://www.revistasculturales.com/revistas/15/claves-de-razon-practica/) (Núm. 249, nov. - dic. 2016), el [catedrático de Bioquímica y Biología Molecular Carlos López Otín](https://www.youtube.com/watch?v=wk-zjhdmbbk)se pregunta: **“¿Por qué no interesa la ciencia a los españoles?**” El interrogante está dentro del siguiente contexto: el experto advierte que errar sobre un determinado escritor de literatura clásica se concibe como algo mucho más grave que desconocer las bases nitrogenadas que puede contener el ADN humano que, sin embargo, es responsable de todas nuestras instrucciones genéticas.
@@ -28,7 +28,7 @@ No obstante, la Fundación Española para la Ciencia y la Tecnología comete, a 
 
 De hecho, los videos digitales son los elementos más compartidos en las redes sociales, llegan a audiencias de diferentes gustos y facilitan la interacción con los que las visualizan. Tanto en internet en general, como si pensamos en las redes sociales en particular, el vídeo es uno de los contenidos que más interesa a los usuarios y el que más ha crecido en los últimos años.[ Según la consultora norteamericana Cisco, en 2014 supuso 64% de todo el tráfico en internet](http://www.europapress.es/economia/noticia-video-representara-70-todo-trafico-internet-espana-2021-cisco-20170608193017.html). La red ha potenciado el desarrollo de múltiples formas de vídeo online, que van desde una mera trasposición de contenidos creados para la televisión hasta otros diseñados expresamente para internet. En cuanto al vídeo online de contenido científico, **se trata de un formato accesible** para [divulgar información científica al gran público que cada vez logra mayor impacto](http://www.cbpuschmann.net/pubs/acad-youtube.pdf).
 
-![image alt text]({{ site.baseurl }}/images/shots/vodc_2.png)
+![image alt text]({{ site.baseurl }}/images/shots/vodc_2.jpg)
 
 En España, se hace periodismo científico desde los primeros decenios del siglo XX. [Manuel Calvo Hernando](https://elpais.com/sociedad/2012/08/16/actualidad/1345142996_545809.html), uno de los padres del periodismo científico en España, ya lo proclamaba hace tiempo: **"Ni en la divulgación en general, ni el periodismo científico en particular, podemos pasar por alto sus dimensiones artísticas, lúdicas, entretenidas: es decir, debemos presentar el conocimiento al público como un goce para el ser humano"**. La cuestión está en que hoy en día, como comentaba ayer con mis[ alumnos de Periodismo Científico](http://www.umh.es/contenido/pdi/:asi_g_1851_R1/datos_es.html), el reto es todavía más importante. No se trata solo de enfrentarse a la tarea de “traducir” los contenidos complejos que en ocasiones proporciona la ciencia y ofrecerlos asequibles al gran público, sino que también se deben dominar los nuevos entornos protagonistas de la divulgación científica. 
 

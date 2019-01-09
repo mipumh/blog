@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 Si estás pensando en cursar un master, te conviene ponerte al día sobre las ayudas, becas y sistemas de financiación existentes. Las convocatorias para realizar masters pueden provenir de organismos públicos, como es el caso del [Ministerio de Educación, Cultura y Deporte](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9041) o la [Generalitat Valenciana](http://www.viu.es/download/estudiante/becas-y-ayudas/Convocatoria%20Generalitat%2013-14.pdf), dirigidas a estudiantes nacionales y de la Comunitat.

@@ -18,7 +18,7 @@ El concepto de innovación ha despertado el interés de la industria y la academ
 
 Entre las conclusiones del Congreso, destaca que la innovación es una estrategia de supervivencia para las empresas de comunicación y una posible solución ante la desafección ciudadana hacia los medios. Porque la innovación fomenta el periodismo independiente y de calidad, genera vías de ingresos alternativas y abre nuevos canales de interacción entre los ciudadanos y los periodistas. **Reconectar con la sociedad es, por tanto, la mayor innovación.** 
 
-![image alt text]({{ site.baseurl }}/images/shots/radiomer.png)
+![image alt text]({{ site.baseurl }}/images/shots/radiomer.jpg)
 
 ###Índice del libro
 

@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.png
+  image: damaso.jpg
   link: https://twitter.com/Monde97
 ---
 **[Pere Rusiñol](https://twitter.com/pererusi?lang=es)** es socio y redactor de la revista *[ Alternativas Económicas](https://alternativaseconomicas.coop/)* y responsable de la sección **Reality News** en *[Mongolia](https://www.revistamongolia.com/)*. Anteriormente, trabajó en *[ El País](https://elpais.com/)* y en *[Público](https://www.publico.es/)*, donde comprendió que los pilares que sustentaban el Periodismo necesitaban una reforma urgente. Así nace su participación en medios que han querido probar un modelo de negocio distinto, desligado de los grandes anunciantes y de los bancos; un modelo que, según Rusiñol, "sólo va a ir a más".

@@ -15,7 +15,7 @@ El 2016 terminó con dos conceptos sobre la mesa que (pre)ocuparán al periodism
 
 La pregunta que surge es ¿cómo se puede combatir la propagación de las noticias falsas? Uno de los primeros en dar un paso adelante fue **Facebook**, anunciando en las primeras semanas de 2017 el lanzamiento del **"[Facebook Journalism Project](https://media.fb.com/2017/01/11/facebook-journalism-project/)**". Como ya planteamos en el artículo **“[Oportunidades y desafíos para cibermedios en la era del Mobile First: Instant Articles de Facebook y los nuevos formatos móviles](http://raco.cat/index.php/Hipertext/article/view/310534/405630)”**, la principal plataforma social desde la cual se accede a noticias es Facebook, donde el 44% de usuarios de esta red lo usa para informarse, superando de lejos a Twitter, que ocupa el cuarto lugar con un 10% ([News Digital Report](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/Digital-News-Report-2016.pdf), 2016).
 
-![image alt text]({{ site.baseurl }}/images/shots/platform0.png)<sup>**Consumo de noticias y otros contenidos a través de las redes sociales. News Digital Report 2016 del Reuters Institute.**
+![image alt text]({{ site.baseurl }}/images/shots/platform0.jpg)<sup>**Consumo de noticias y otros contenidos a través de las redes sociales. News Digital Report 2016 del Reuters Institute.**
 
 El proyecto **Facebook Journalism Project** de la compañía de Mark Zuckerberg se basa en tres pilares: 
 

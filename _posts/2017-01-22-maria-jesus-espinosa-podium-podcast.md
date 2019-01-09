@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.png
+  image: mabor.jpg
   link: https://twitter.com/mamenbor
 ---
 María Jesús Espinosa de los Monteros es jefa de proyecto de [Podium Podcast](http://www.podiumpodcast.com/), la red de contenidos sonoros de Prisa Radio, que fue galardonada con un Premio Ondas a la mejor plataforma radiofónica de emisión online en 2016. Los productos de Podium Podcast están pensados exclusivamente para internet con narrativas radiofónicas de calidad. Además, María Jesús dirige [Búfalos Nocturnos](http://www.podiumpodcast.com/los-bufalos-nocturnos/temporada-1/libros-que-dan-frio/?ssm=tw-buf) y escribe en [El País Cultura](http://cultura.elpais.com/), [Babelia](http://cultura.elpais.com/cultura/babelia.html) y [Jot Down](http://www.jotdown.es/). Anteriormente, formó parte de El Extrarradio, del cual es fundadora junto a [Olga Ruíz](https://twitter.com/OlgaRuiz). Es profesora del Máster de Innovación en Periodismo. En esta entrevista, María Jesús destila las claves del crecimiento del podcasting en España.

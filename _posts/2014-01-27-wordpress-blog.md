@@ -8,7 +8,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 Cuando se habla de WordPress, normalmente se piensa en un blog, pero como señala el profesor del Máster de Innovación en Periodismo **Miguel Onofre**, esta herramienta es mucho más que eso. Wordpress es [la plataforma para la gestión de contenidos web más usada](http://tecnologia-mundo.blogspot.com.es/2010/08/las-8-plataformas-de-gestion-de.html) en el mundo. Además, su desarrollo se basa en código abierto, es decir, es gratis y puede ser usada sin ningún tipo de restricción. 

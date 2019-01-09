@@ -16,7 +16,7 @@ En el ámbito periodístico, la innovación puede entenderse como "la capacidad 
 
 El [Grupo de investigación GICOV](http://gicov.umh.es) de la Universidad Miguel Hernández de Elche elaboró el [Ranking de Innovación Periodística](http://mip.umh.es/ranking/) en España, [mediante la selección de los 25 casos más innovadores del periodismo en 2014](http://www.elprofesionaldelainformacion.com/contenidos/2015/may/03.pdf). En dicho trabajo elaboramos una matriz que permite cuantificar el **índice de innovación de las iniciativas periodísticas** en nuestro país, arrojando un total de 196 innovaciones en los 25 casos de la muestra. 
 
-![image alt text]({{ site.baseurl }}/images/shots/gicov_0.png)
+![image alt text]({{ site.baseurl }}/images/shots/gicov_0.jpg)
 
 Los resultados del [Ranking de Innovación Periodística](http://mip.umh.es/ranking/) revelan que en España la innovación se lleva a cabo en la periferia de la industria mediática tradicional, gracias al empuje de las empresas tecnológicas, la irrupción de nativos digitales y los laboratorios creados en algunos medios. Entre las iniciativas más innovadoras destacan la **Fundación Civio**, institución de servicio público que apadrina varias webs de investigación; **El Confidencial**, un medio nativo digital fundado en 2001; **eldiario.es**, basado en un sistema de socios que contribuyen económicamente a que el proyecto sea viable; y la **Revista Vis-à-vis**, una publicación interactiva diseñada para iPads.
 

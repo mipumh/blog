@@ -30,7 +30,7 @@ Estas mutaciones en la industria traen consigo **el cuestionamiento de las secci
 
 * La falta de recursos y la promoción de la filosofía colaborativa en la profesión provoca que las redacciones sean menos numerosas y [más horizontales en su organigrama](http://mip.umh.es/blog/2015/11/08/pistas-mejorar-organizacion-redacciones/). **Ahora no parece tan necesario contar con una estructura de trabajo rígida** que facilite las labores de coordinación del medio.
 
-![image alt text]({{ site.baseurl }}/images/shots/josvap0.png)<sup>El País sigue manteniendo las secciones al modo tradicional
+![image alt text]({{ site.baseurl }}/images/shots/josvap0.jpg)<sup>El País sigue manteniendo las secciones al modo tradicional
 
 Parecería lógico entonces que los productos periodísticos en internet no permanecieran anclados a un sistema de clasificación que se ha vuelto obsoleto. Sin embargo, prácticamente todas las ediciones digitales de los diarios tradicionales y muchos nativos digitales continúan utilizando secciones. **En el otro extremo, algunos medios han introducido propuestas innovadoras en la organización de los contenidos mediante la jerarquización en torno a temas de interés.** 
 
@@ -40,7 +40,7 @@ Quartz es un nativo digital nacido en septiembre de 2012 en el seno de la compa�
 
 En lo referente a la organización de la información en la web, **Quartz ha sido pionero en prescindir de las secciones entendidas como compartimentos estancos**. Para Gideon Lichfield, uno de sus editores, las secciones son "miembros fantasma" heredados de los periódicos en papel. Por ello, el medio divide los contenidos en lo que ellos llaman **obsesiones**: grandes temas de interés que se encuentran en constante revisión para recoger siempre las preocupaciones de su audiencia.
 
-![image alt text]({{ site.baseurl }}/images/shots/josvap1.png)
+![image alt text]({{ site.baseurl }}/images/shots/josvap1.jpg)
 <sup>"Language" es una de las obsesiones de Quartz
 
 

@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.png
+  image: damaso.jpg
   link: https://twitter.com/Monde97
 ---
 [Irene Gómez Peña](https://twitter.com/irenegomezpena?lang=es) es responsable de Desarrollo de Audiencias para los tres principales medios del [Grupo Henneo](https://www.henneo.com/) (*[20Minutos.es](https://www.20minutos.es/)*, *[LaInformación](https://www.lainformacion.com/)* y el *[Heraldo de Aragón](https://www.heraldo.es/)*). En su dilatada trayectoria profesional, Gómez Peña ha pasado por otros varios medios en nuestro país, tales como *[El Confidencial](https://www.elconfidencial.com/?gclid=CjwKCAjw3qDeBRBkEiwAsqeO7l-Uh6inNsGD3sEPCPtKv_MPw034g6Cy7_xQDNJfK2S3rdnqa-CpEhoCjoIQAvD_BwE)*, *[el diario ABC](https://www.abc.es/)* o la agencia *[Europa Press](https://www.europapress.es/)*. Consciente de la rapidez con la que está cambiando el mundo del periodismo, se define como una periodista "transformada a la analítica, al SEO y al *Data Science*". Desde 2013 imparte clase en el Máster en Innovación en Periodismo.

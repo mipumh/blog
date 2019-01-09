@@ -6,7 +6,7 @@ author:
   twitter: mipumh
   gplus:  
   bio: 
-  image: logo.png
+  image: logo.jpg
   link: https://twitter.com/mipumh
 permalink: informacion-master.html
 ---

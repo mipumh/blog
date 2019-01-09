@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 La [Fundación Civio](http://bit.ly/civio), [El Confidencial](http://bit.ly/confiden), [Vis-à-Vis](http://bit.ly/revvisavis), [eldiario.es](http://bit.ly/eldiarioes) y [Acuerdo](http://bit.ly/acuerdous) son las cinco iniciativas periodísticas más innovadoras del año 2014 en España. Estos resultados, incluidos en el [Ranking de Innovación Periodística 2014](http://mip.umh.es/ranking/) elaborado por el Grupo de Investigación de la Comunicación ([GICOV](http://gicov.umh.es/)) de la **Universidad Miguel Hernández (UMH)**, confirman que el caldo de cultivo de la innovación y la experimentación en el panorama periodístico nacional se cuece fuera de la industria mediática tradicional. 

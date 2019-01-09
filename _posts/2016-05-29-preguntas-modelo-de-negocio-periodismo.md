@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.png
+  image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
 Hace un par de semanas presenté un trabajo sobre modelos de negocio en el periodismo en [un congreso de empresa informativa celebrado en Nueva York](http://www.wmemc.org/). Allí me entrevisté con colegas, expertos en la materia, visité algunos medios y, sobre todo, escuché y pensé mucho. De aquel viaje traigo unos cuantos souvenirs. El primero: puedes estar a la última en la industria periodística sin necesidad de irte a Nueva York, basta con [seguir este boletín](http://mediagazer.com/). El segundo: en general, seguimos haciendo diagnósticos equivocados sobre los diarios, porque seguimos intentando rescatar un modelo de negocio de una industria ya cadáver.
@@ -28,7 +28,7 @@ Antes de pensar qué valor quieres aportar con el proyecto, conviene pensar qué
 
 Calculada la dimensión que puedes permitirte, ahora debes preguntarte qué valor puedes aportar. En el terreno de los contenidos, en general, hay dos grandes polos: producción de contenido propio, original, de calidad, por un lado; y por otro, facilitar el descubrimiento del contenido, como hacen las plataformas tecnológicas y las redes sociales: no tienen contenido propio, pero todos quieren ponerlo ahí. Si te quedas en el medio, lo tienes difícil. Este problema se refleja muy bien en la famosa teoría de la curva sonriente, [aplicada a los contenidos por Ben Thompson](https://stratechery.com/2014/publishers-smiling-curve/):
 
-![]({{ site.baseurl }}/images/shots/smiling.png)
+![]({{ site.baseurl }}/images/shots/smiling.jpg)
 
 ## Capacidad
 

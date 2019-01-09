@@ -8,7 +8,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 **"La idea no es acercar la ciencia a la sociedad, sino mostrar a la gente que vive rodeada de ciencia".** Esta revelación del químico y divulgador [José M. López Nicolas](https://twitter.com/ScientiaJMLN?lang=es) es un buen lema para concentrar la esencia del evento [Naukas Bilbao 2016](http://naukas.com/2016/07/18/programa-provisional-de-charlas-naukas-bilbao-2016/). La revista se ha convertido en una de las plataformas de divulgación científica más importantes en lengua castellana: **ciencia contada por expertos y periodistas que comunican de forma atractiva y con gancho.** Profesores, comunicadores y expertos pueden tomar nota de estas charlas de **10 estrictos minutos**, capaces de trasladar resultados, investigaciones o reflexiones críticas bien argumentadas, todo sin olvidar la diversión.
@@ -39,7 +39,7 @@ A lo largo de los dos días de jornada, **han pasado por el escenario Naukas má
 
 Entre píldora y píldora, las jornadas también incluyeron cuatro intervenciones con formato entrevista. Los protagonistas fueron el astronauta Pedro Duque, la directora del [Centro de Investigaciones Oncológicas](https://www.cnio.es/es/index.asp) María Blasco, Francisco Javier Cáceres, de la [Asociación Española de la Industria de la Ciencia](http://www.ineustar.com/) y el ingeniero Raúl Torres, cofundador de [PDL Space](http://www.pldspace.com/), la primera empresa española de propulsión espacial, con sede en el [Parque Científico de la  Universidad Miguel Hernández (UMH) de Elche. ](http://www.parquecientificoumh.es/)[ ](http://www.parquecientificoumh.es/)
 
-![image alt text]({{ site.baseurl }}/images/shots/nauimage_2.png)
+![image alt text]({{ site.baseurl }}/images/shots/nauimage_2.jpg)
 
 Torres puso sobre la mesa la **falta de inversión en ciencia y tecnología** en España. Pero matizó: **"No es un problema de dinero, sino de voluntad y confianza**". El ingeniero adelantó que se encuentran involucrados en un proyecto importante relacionado también con la propulsión, esta vez a nivel europeo: "Nuestro objetivo es convertirnos en la primera empresa europea, de carácter privado, dedicada a la construcción y diseño de lanzadores. Y para esto necesitamos la confianza de los inversores". 
 

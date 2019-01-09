@@ -12,13 +12,13 @@ author:
 ---
 La televisión informativa todavía es un medio importante pero ha perdido la hegemonía que alcanzó en la segunda mitad del siglo XX. En los últimos años asistimos a un declive en el consumo de los informativos tradicionales, al tiempo que se ha incrementado el visionado de vídeos a través de YouTube, Vimeo y redes sociales. El consumo televisivo en países como Estados Unidos y Reino Unido ha disminuido un 3% de media cada año desde 2012. **La audiencia de muchos programas de noticias tiene una edad elevada**; en Estados Unidos, la edad media de los espectadores de CNN es 61 años, de la MSNBC es 63, de la CBS y ABC, 64, y de Fox News es 68 años, según datos de Nielsen. En España, TVE-1 y La 2 son las que cuenta con una audiencia más envejecida. Telecinco y Antena 3 son las favoritas de las mujeres, mientras que los hombres prefieren Cuatro y La Sexta, según datos de Kantar Media.  
 
-![image alt text]({{ site.baseurl }}/images/shots/infotv_0.png)
+![image alt text]({{ site.baseurl }}/images/shots/infotv_0.jpg)
 
 El declive del consumo televisivo entre los jóvenes es más pronunciado tanto para la televisión en general como para los informativos en particular; en realidad, el hecho de que mucha gente mayor de 65 años consuma televisión regularmente oculta el dato de que **los informativos televisivos están dejando de interesar a la gran mayoría de la audiencia menor de 30 años**. Y esta tendencia resulta letal para el futuro del medio.
 
-![image alt text]({{ site.baseurl }}/images/shots/infotv_1.png) 
+![image alt text]({{ site.baseurl }}/images/shots/infotv_1.jpg) 
 
-![image alt text]({{ site.baseurl }}/images/shots/infotv_2.png)
+![image alt text]({{ site.baseurl }}/images/shots/infotv_2.jpg)
 
 Pese a todo, los noticiarios de televisión siguen siendo un medio de referencia, al que muchas personas acuden para mantenerse informadas. Sin embargo, si los responsables de las cadenas no reaccionan ante el descenso del consumo de noticias televisivas y el incremento del consumo de vídeo online, en especial a través del móvil, **los informativos pueden volverse irrelevantes en menos de diez años**.
 

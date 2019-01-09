@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 En la redacción de [**Bez**](http://www.bez.es/), que se define como **“la opción de los lectores que toman decisiones"**, los periodistas comparten espacio con el arte. Según explica una de sus impulsoras, [**Idoia Sota**](https://twitter.com/idoiasota?lang=es), esta redacción está físicamente abierta al público, de manera que **se puede acceder a contemplar las exposiciones temporales que acompañan a los redactores durante su jornada de trabajo**.

@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.png
+  image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
 Ponemos en marcha el [Ranking de Innovación Periodística 2016](http://bit.ly/ranking2016) con el lanzamiento de un **cuestionario para recibir candidaturas de medios o iniciativas periodísticas**. El objetivo global de esta investigación es estudiar la innovación en periodismo y reconocer así el trabajo de periodistas y editores. En enero de 2015 se publicó la [primera edición](http://mip.umh.es/ranking/) de este Ranking, que destacó la audacia y la experimentación de proyectos periodísticos más allá de la industria mediática tradicional.

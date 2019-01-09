@@ -12,7 +12,7 @@ author:
 ---
 [La gamificación del periodismo]( http://mip.umh.es/blog/2015/01/08/informacion_gamificacion/), la aplicación de elementos propios de los juegos a la información, presenta una de sus manifestaciones más evidentes -y efectivas- en la generación de quiz. Por eso presentamos aquí dos herramientas que, con un poco de ingenio, pueden explotar la viralidad -y de paso la permanencia en página- de cualquier proyecto periodístico.
 
-![]({{ site.baseurl }}/images/shots/apeplay.png)
+![]({{ site.baseurl }}/images/shots/apeplay.jpg)
 
 ### Apester
 

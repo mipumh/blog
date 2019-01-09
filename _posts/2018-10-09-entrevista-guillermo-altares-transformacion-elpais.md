@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.png
+  image: damaso.jpg
   link: https://twitter.com/Monde97
 ---
 [Guillermo Altares](https://twitter.com/galtares) (Madrid, 1968) es editorialista en el equipo de Opinión del diario  *El País*. Anteriormente fue redactor jefe de[ elpais.com](https://elpais.com/) y[ Babelia](https://elpais.com/cultura/babelia.html), el suplemento cultural del periódico. Con más de 30 años de profesión a sus espaldas (20 de ellos en el rotativo dirigido por Soledad Gallego-Díaz), ha tenido que enfrentarse en sus propias carnes al giro radical que supusieron internet y las herramientas digitales en el panorama periodístico. Imparte la conferencia inaugural del[ Máster en Innovación en Periodismo](http://mip.umh.es/) de la UMH en un momento de[ cambios en su medio](https://elpais.com/sociedad/2018/09/07/actualidad/1536329256_006319.html): la incorporación de la primera mujer directora,[ Soledad Gallego Díaz](https://elpais.com/autor/soledad_gallego_diaz/a), la redefinición de algunas secciones y la puesta en marcha de[ un laboratorio](https://elpais.com/politica/2018/03/02/actualidad/1520017017_633593.html) para desarrollar narrativas innovadoras.

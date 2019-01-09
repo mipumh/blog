@@ -24,7 +24,7 @@ La economía del periodismo es un tema de conversación recurrente en los foros 
 
 La innovación es el foco de las X Jornadas Internacionales de Periodismo de 2015 celebradas en la Universidad Miguel Hernández. Profesionales y académicos recaban experiencias, analizan casos y plantean retos a periodistas de los medios más innovadores en nuestro país. El libro “Innovar en Periodismo” es el resultado de esas reflexiones.
 
-![]({{ site.baseurl }}/images/shots/portada_libro_innovar.png)
+![]({{ site.baseurl }}/images/shots/portada_libro_innovar.jpg)
 
 ### [**Diez claves de la industria periodística en Estados Unidos que debes conocer**](http://mip.umh.es/blog/2015/05/11/diez-datos-industria-periodismo/)
 

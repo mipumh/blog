@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.png
+  image: mabor.jpg
   link: https://twitter.com/mamenbor
 ---
 
@@ -17,7 +17,7 @@ author:
 
 La idea de Datadista es **enfocarse en la disciplina del periodismo de datos, la investigación y el uso de nuevas narrativas.** Básicamente, porque queremos centrarnos en lo importante y no generar ruido. Creemos que eso es importante para la sociedad, sobre todo, en cuestiones que nos jugamos mucho en los próximos años y las próximas décadas, sobre lo que nosotros queremos poner el foco. Y el uso de narrativas porque pensamos que hay muchos temas que son complejos o no se están contando de una forma muy atractiva para el resto o directamente se han perdido, como grandes casos de corrupción como la Gurtel  o los EREs de Andalucía. Si no estás muy puesto en esos temas, y te dedicas a leer sobre ellos, no entiendes nada de lo que está pasando. 
 
-![image alt text]({{ site.baseurl }}/images/shots/adelga_0.png)<sup>Foto de VozPopuli.
+![image alt text]({{ site.baseurl }}/images/shots/adelga_0.jpg)<sup>Foto de VozPopuli.
 
 **Uno de los retos más complicados es hacer que los reportajes con muchos datos sean interesantes y asequibles para la audiencia. ¿Qué recursos utilizas para que así sea?**
 

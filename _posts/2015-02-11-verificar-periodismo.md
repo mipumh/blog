@@ -8,7 +8,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.png
+  image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
 Una usuaria tuitea [una noticia falsa](http://www.elconfidencial.com/alma-corazon-vida/2014-11-28/los-perros-van-al-cielo-el-papa-insinua-que-hay-paraiso-para-todos-los-animales_511788/) de **El Confidencial**. En esta ocasión el prestigioso digital ha sido víctima de la atribución de una cita falsa en cadena: un medio reporta unas supuestas declaraciones del Papa, otros se hacen eco y juntos otorgan apariencia de verdad a un [bulo](http://www.emergent.info/pope-francis-pets-in-heaven). El propio New York Times también cometió el error, aunque [rectificó varios días más tarde](http://www.nytimes.com/2014/12/12/world/europe/dogs-in-heaven-pope-leaves-pearly-gate-open-.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=2&assetType=nyt_now).

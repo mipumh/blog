@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.png
+  image: damaso.jpg
   link: https://twitter.com/Monde97
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/frankel_0.jpg)

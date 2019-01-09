@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.png
+  image: damaso.jpg
   link: https://twitter.com/Monde97
 ---
 Ya han pasado cuatro años desde la creación de _[Maldita.es](https://maldita.es/)_, el proyecto matriz de iniciativas como *Maldito Bulo* o *Maldita Hemeroteca*, entre otras. **[Julio Montes](https://twitter.com/Montesjulio?lang=es)**, cocreador de la plataforma junto a **[Clara Jiménez](https://twitter.com/cjimenezcruz?lang=es)**, llega [de nuevo](http://mip.umh.es/blog/2018/04/09/entrevista-julio-montes-maldita-hemeroteca-maldito-bulo/) al [MIP](http://mip.umh.es/) de la UMH en un momento de crecimiento para *Maldita*: [nuevas vías de financiación](https://dircomfidencial.com/medios/maldita-es-busca-financiacion-para-ampliar-su-lucha-contra-las-noticias-falsas-20180601-0402/) (acaban de lanzar un crowdfunding), aumento de la plantilla y proyectos tecnológicos avalados por compañías como Google o Twitter.  La **desinformación** sigue estando de moda, con Facebook [envuelta en escándalos](https://www.lanacion.com.ar/escandalo-en-facebook-t63872) y con [más de un tercio de los usuarios españoles usando WhatsApp como fuente de noticias](https://reutersinstitute.politics.ox.ac.uk/risj-review/trust-misinformation-and-declining-use-social-media-news-digital-news-report-2018) —según Montes, "el lugar más difícil donde desmentir bulos"—. Para potenciar un periodismo veraz y transparente, proyectos como *Maldita.es* cada vez tienen más importancia. 

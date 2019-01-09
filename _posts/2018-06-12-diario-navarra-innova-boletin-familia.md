@@ -24,7 +24,7 @@ Para confeccionarlo nos hemos inspirado en las tendencias del sector, como expli
 
 * Valoran el contacto con nuestros periodistas, que sean accesibles, que les escuchen y tengan en cuenta sus aportaciones.
 
-![image alt text]({{ site.baseurl }}/images/shots/casares_0.png)
+![image alt text]({{ site.baseurl }}/images/shots/casares_0.jpg)
 <sup>**La periodista de Diario de Navarra Sonsoles Echavarren.**
 
 El boletín pretende ser algo más que un listado de artículos vinculados: aspira a convertirse en un producto editorial independiente, valioso en sí mismo, que favorezca la relación con los lectores. ¿Qué aporta este boletín? ¿Qué hace Sonsoles Echavarren cada semana?
@@ -58,7 +58,7 @@ El **Christian Science Monitor** también emplea sus [ocho newsletters gratuita
 
 Numerosos medios internacionales están acompasando su apuesta por las newsletters con la definición de[ nuevos puestos en las redacciones.](https://digiday.com/careers/newsletter-editors-new-important-person-newsrooms/) En el caso del **New York Times**, donde su editora de newsletters, **Elisabeth Goodridge**, trabaja sin un equipo propio y se dedica a conectar las diferentes áreas de la empresa en busca de ideas. En el Times también descubrieron que quienes reciben una newsletter tienen el doble de probabilidades de convertirse en suscriptores del periódico que los simples lectores habituales. Por ello el diario mantiene 50 newsletters, que alcanzan una audiencia de 13 millones de personas.
 
-![image alt text]({{ site.baseurl }}/images/shots/casares_3.png)
+![image alt text]({{ site.baseurl }}/images/shots/casares_3.jpg)
 
 Las newsletters ofrecen, en opinión de **Goodridge**, enormes ventajas para los medios: ayudan a mantener la interacción con los ciudadanos dentro de nuestras fronteras (lejos de Facebook o Google) y los usuarios los aprecian como productos cerrados, igual que los periódicos. "Una buena newsletter ofrece la misma experiencia",[ afirma Goodridge,](https://digiday.com/media/new-york-times-now-13-million-subscribers-50-email-newsletters/) “uno se siente muy bien al poder borrar un correo electrónico”.
 

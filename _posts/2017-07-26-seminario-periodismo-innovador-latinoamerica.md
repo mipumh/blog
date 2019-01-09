@@ -9,7 +9,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.png
+  image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
 El Máster en Innovación en Periodismo ofrece un seminario a distancia para analizar el desarrollo de la innovación en el periodismo latinoamericano, con objeto de intercambiar experiencias y conocer más de cerca la realidad periodística en los distintos países. La sesión tendrá lugar durante la [5ª edición del Máster de Innovación en Periodismo de la Universidad Miguel Hernández](http://mip.umh.es/master-oficial-a-distancia-periodismo-online.html). 

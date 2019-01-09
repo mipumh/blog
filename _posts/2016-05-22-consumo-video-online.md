@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 El término televisión conectada (TVC) hace referencia a la conexión de una televisión con internet y, por lo tanto, a todas las opciones que la red ofrece. En España, se ha apreciado una subida del uso habitual de la TVC respecto a años anteriores, según el [II Estudio Anual IAB Spain TV Conectada y video online](http://docplayer.es/4230191-Ii-estudio-anual-iab-spain-tv-conectada-y-video-online-noviembre-2014-iabestudiotvc-version-completa.html). Los contenidos audiovisuales que se consumen a través de este sistema son principalmente cine y series de televisión extranjeras, pero también informativos y televisión a la carta. 
@@ -20,6 +20,6 @@ En el terreno periodístico, [el informe del Reuters Institute](http://www.digit
 
 La revolución del vídeo online abre, por tanto, [una nueva era para las noticias en vídeo](http://www.ap.org/research/videonewsinsights/whitesmoke/english.html) que compiten con el resto de soportes para disputarse las horas del día y así, el consumidor cuenta con una gama informativa que desborda su tiempo libre. En cuanto a la elección de las plataformas, no es única. Tanto en Reino Unido, como en Alemania y España, los devoradores de información prefieren combinar diferentes medios: la radio por la mañana, la televisión a mediodía y, por la tarde, se opta por el acceso con los móviles y tabletas a sitios web de información o redes sociales. 
 
-![]({{ site.baseurl }}/images/shots/piim2.png)
+![]({{ site.baseurl }}/images/shots/piim2.jpg)
 
 Estos recientes informes sobre consumo informativo apuntan a que la inclusión del video en la noticia se ha vuelto esencial, de manera que se intenta, además de dar una mejor información y atraer nuevos usuarios, interactuar con la “generación YouTube”. Con la popularización del consumo en las tabletas y móviles, las noticias deben presentar un determinado formato y adaptarse a cada dispositivo. No hay que olvidar que [la tecnología juega un papel vital, al igual que la calidad de los videos](http://www.bloomberg.com/content-service/content/uploads/sites/6/2015/06/Digital-Video-Whitepaper_Bloomberg-Media.pdf). Los contenidos deben estar pensados para ser consumidos desde en un smartphone, una phablet, una tablet, una pantalla de ordenador o en una televisión conectada, tal y como recomiendan los expertos en las [Jornadas Internacionales de Innovación en Periodismo sobre Mobile First](http://mip.umh.es/blog/2016/04/28/mobile-first-jornadas-innnovacion-periodismo/).

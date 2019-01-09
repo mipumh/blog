@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 [La estampa de las grandes redacciones, pobladas de mesas rebosantes de papeles y en las que los periodistas proponen sus temas a un categórico redactor jefe se desdibuja](http://mip.umh.es/blog/2015/11/08/pistas-mejorar-organizacion-redacciones/). La forma de trabajar de muchas iniciativas que han surgido en los últimos años es más virtual. A través del ordenador, la tableta o el teléfono móvil, con las herramientas apropiadas, se organizan las reuniones para distribuir las tareas y se crean los contenidos de forma colaborativa. Incluso la dirección en la toma de decisiones está virando hacia un flujo mucho más horizontal. 

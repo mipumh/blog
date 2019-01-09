@@ -22,7 +22,7 @@ El nuevo profesional de la comunicación debe saber quién, cómo y dónde consu
 
 Si has pensado en emprender y tienes un amigo economista o similar especializado en el mundo *offline*, te habrá guiado para que crees un plan de negocios con tu idea. Esto es, qué es tu proyecto, quién es tu competencia, un DAFO, unos Excel que muestren proyecciones a 5 años y otras cosas propias de la ciencia ficción (siempre, insisto, cuando hablamos de Internet).
 
-![El desmarque]({{ site.baseurl }}/images/shots/2pad0.png)
+![El desmarque]({{ site.baseurl }}/images/shots/2pad0.jpg)
 
 En la Red las cosas funcionan de otra manera. [El Desmarque](http://www.eldesmarque.com/) no tuvo su primer plan de negocio hasta pasados los primeros 4 años. Se fundó con 43 euros —que costeó un servidor en Lycos— y nos centramos en crecer. Diez mil, veinte mil, treinta mil lectores diarios. Al poco tiempo, cuarenta mil. Así hasta alcanzar los casi 400.000 usuarios únicos diarios que hemos alcanzado este verano.
 

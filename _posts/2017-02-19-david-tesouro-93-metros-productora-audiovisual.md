@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.png
+  image: mabor.jpg
   link: https://twitter.com/mamenbor
 ---
 David Tesouro es realizador, editor y operador de cámara de **_93 metros_, una productora** especializada en tecnologías innovadoras. Su carrera profesional se ha centrado en el periodismo y también se ha dedicado a la ficción. Ha sido galardonado, junto a otros compañeros, con el premio Tiflos de periodismo digital de la ONCE por "El mundo en tres sentidos" y con el Premio Boehringer de Periodismo Médico por “El mal del cerebro”. Ha escrito y dirigido ‘El gran día de los feos’, primera serie española de distribución exclusiva a través de aplicación móvil.
@@ -34,7 +34,7 @@ Sí, en **detrimento de un contenido trabajado** y de la calidad técnica y est�
 
 Desde un punto de vista comercial, mejoran los tiempos de **permanencia del usuario**. A mayor  interactividad o más opciones donde elegir, el usuario está más tiempo. Eso es algo que importa mucho a la hora de medir audiencias en internet. Además volviendo a la idea de que el periodismo queda simplificado, lo que responde a que la gente tiene poco tiempo y poca paciencia, la interactividad es una buena forma de combatir eso. En temas complejos como el caso de *Suicidios*, la interactividad le permite al usuario afinar y elegir lo que le interesa dentro de un producto mayor. 
 
-![image alt text]({{ site.baseurl }}/images/shots/93metros1.png)
+![image alt text]({{ site.baseurl }}/images/shots/93metros1.jpg)
 
 **¿Qué ha supuesto la producción de [Clandestino](http://93metros.com/blog/project/amazonas-clandestino/)  y la relación con Discovery Max?**
 

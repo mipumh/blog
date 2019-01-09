@@ -26,7 +26,7 @@ author:
 
 El CdR organiza encuentros sobre Periodismo de investigación, talleres sobre periodismo asistido por ordenador y sobre cobertura electoral. También publican recomendaciones para el ejercicio del periodismo de investigación. 
 
-![image alt text]({{ site.baseurl }}/images/shots/latino0.png)
+![image alt text]({{ site.baseurl }}/images/shots/latino0.jpg)
 
 * El **[Centro de Formación en Periodismo Digital](http://www.centroperiodismodigital.org/sitio/)** (CFPD) es una entidad de la Universidad de Guadalajara, la segunda institución educativa de carácter público más importante de México. Con el auspicio del Centro Internacional para Periodistas, el CFPD inició su actividad en septiembre de 2008 como un centro especializado en periodismo digital, dirigido por **[la profesora Rosalía Orozco](https://twitter.com/@orozmur)**. El [CFPD](https://twitter.com/CFPD_UDGVirtual) es un centro académico único en su tipo en México, pues no sólo ofrece talleres, sino también la licenciatura y el posgrado en Periodismo Digital. También imparte cursos a distancia sobre periodismo de investigación, redacción periodística y narrativas multimedia. Sus objetivos son contribuir a **la profesionalización de los periodistas de habla hispana y propiciar el periodismo de calidad en internet**. 
 

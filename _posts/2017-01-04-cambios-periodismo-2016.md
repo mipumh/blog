@@ -34,7 +34,7 @@ Este artículo recuerda en un lenguaje sencillo y directo que **uno de los funda
 
 Considera que la noticia del año es el crecimiento sostenido de los modelos de negocio basados en el pago por acceder a los contenidos. [Tanto el New York Times](http://www.politico.com/media/story/2016/12/behind-the-times-surge-to-25-million-subscribers-004876) como el Washington Post [han duplicado su base de suscriptores](http://digiday.com/publishers/washington-post-grew-digital-subscriptions-145-percent/) en tiempos de pérdida de confianza en la información y aumento de las noticias falsas. Además, los medios de nicho también han consolidado su base de socios o miembros, como [eldiario.es que ha alcanzado los 20.000 socios](http://www.eldiario.es/escolar/20000-socios-eldiarioes_6_590800959.html) o el sitio especializado en tecnología [The Information](http://talkingbiznews.com/1/tech-site-the-information-to-add-new-products/).
 
-![image alt text]({{ site.baseurl }}/images/shots/recomend1.png)
+![image alt text]({{ site.baseurl }}/images/shots/recomend1.jpg)
 
 ### Factoría de webdocs del RTVE Lab
 
@@ -56,7 +56,7 @@ Uno de sus últimos proyectos de 2016, en colaboración con El Confidencial, ha 
 
 Una de las innovaciones periodísticas más importantes ha sido **la tecnología en 360º**. El perfeccionamiento de este tipo de narrativas ha conseguido mejorar la capacidad de los periodistas para contar historias. Los vídeos que a partir de ahora veremos con más frecuencia **permitirán al espectador situarse en cualquier ángulo del relato**, lo que proporcionará una mayor credibilidad y visibilidad de la noticia en cuestión.  Son cada vez más los programas, reportajes y documentales interactivos que utilizan este recurso. Como ejemplo, cabe señalar [las cámaras de Intel](https://www.xataka.com/fotografia-y-video/asi-funciona-el-sistema-de-camaras-que-nos-permitira-ver-las-jugadas-del-proximo-barca-madrid-a-360-grados) que están empezando a utilizarse en algunos partidos de fútbol, y los **documentales grabados en la selva** o en zonas de conflicto a vista de dron. 
 
-![image alt text]({{ site.baseurl }}/images/shots/recomend2.png)
+![image alt text]({{ site.baseurl }}/images/shots/recomend2.jpg)
 
 ### Squid
 

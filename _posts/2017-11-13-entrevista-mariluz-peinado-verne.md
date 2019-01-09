@@ -48,7 +48,7 @@ author:
 
 **R.** *El País* tiene una redacción muy amplia en México y gran parte de nuestros lectores viene de Latino América, entonces hay temas que son globales, pero otros locales. Como *El País* tiene una delegación tan grande allí decidimos probar. Así, te das cuenta de que los temas no funcionan igual aquí que en México, pero las temáticas sí son muy parecidas. Por ejemplo, racismo funciona aquí y clasismo allí. Feminismo sin duda también funciona allí o la reivindicación cultural de las lenguas indígenas. Además, el consumo de *Facebook* en México es brutal. Allí la gente utiliza esta red social para todo de manera personal y profesional. La usan mucho más que *WhatsApp*, por ejemplo. La experiencia es muy buena.
 
-![image alt text]({{ site.baseurl }}/images/shots/verne17_2.png)
+![image alt text]({{ site.baseurl }}/images/shots/verne17_2.jpg)
 
 **P.** ¿Qué perfil de lectores tiene *Verne*? ¿Desarrolláis alguna estrategia específica para fidelizar a vuestra comunidad de lectores?
 

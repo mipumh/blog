@@ -7,12 +7,12 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora de Diseño Web
-  image: alicia.png
+  image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
 He escuchado a **varios expertos y periodistas que reniegan de la pirámide invertida**. La tachan de algo obsoleto sin cabida en el periodismo actual. Por ello, he creído conveniente rescatar algunas ideas del informe [“Cómo escribir para la web” de Guillermo Franco](https://knightcenter.utexas.edu/Como_escribir_para_la_WEB.pdf) pues,  a pesar de que ya han pasado unos años desde su publicación, continúa siendo **uno de los manuales más completos para redactar en la web**.
 
-![](http://4.bp.blogspot.com/-7MJ6BdSA5xg/U3feiMhS2sI/AAAAAAAAAcM/sVEKoMCh4Xk/s1600/1+Patr%C3%B3n+de+lectura+F.png)
+![](http://4.bp.blogspot.com/-7MJ6BdSA5xg/U3feiMhS2sI/AAAAAAAAAcM/sVEKoMCh4Xk/s1600/1+Patr%C3%B3n+de+lectura+F.jpg)
 
 Guillermo Franco dedica un capítulo completo a poner en valor la clásica estructura de la pirámide invertida y demuestra que **redactar los contenidos de mayor a menor importancia satisface las necesidades de los usuarios**. 
 
