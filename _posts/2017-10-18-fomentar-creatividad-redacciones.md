@@ -31,25 +31,25 @@ Sin embargo, aunque el factor humano es importante, también resulta decisivo qu
 
 En su libro [Strategic Management in the Media](https://uk.sagepub.com/en-gb/eur/strategic-management-in-the-media/book245855) (2017), la investigadora del Oxford-Reuters Institute for the Study of Journalism, [Lucy Küng](https://twitter.com/KuengLucy), construye sobre la obra de Amabile para aportar consejos prácticos a los editores de medios que busquen aumentar la creatividad en sus empresas mediante el incremento de la motivación intrínseca. A continuación, repasamos **los cinco principios** expuestos por Lucy Küng.
 
-###1. Fomentarla de forma explícita e implícita
+### 1. Fomentarla de forma explícita e implícita
 
 Si se requiere que los profesionales del medio de comunicación trabajen de forma creativa, es necesario que los que están al mando les comuniquen este objetivo y les expliquen por qué es importante para la empresa. Para ello, **tanto el mensaje explícito como las acciones de los ejecutivos que puedan dejar entrever las prioridades de la empresa deben jugar a favor de la creatividad.** Por ejemplo, las contribuciones creativas que surjan deben ser celebradas públicamente, ya que si, por el contrario, son ignoradas o poco apreciadas, los trabajadores percibirán que la importancia real que la creatividad tiene para sus jefes no equivale a la aparente. Los profesionales podrán hacer suyo el objetivo de la creatividad y su motivación intrínseca aumentará solo si sus superiores consiguen comunicarlo de forma efectiva.
 
-###2. Autonomía de los trabajadores y grupos de trabajo
+### 2. Autonomía de los trabajadores y grupos de trabajo
 
 La autonomía es otro factor que impulsa la motivación intrínseca. Es necesario que los **profesionales y grupos de trabajo que desarrollan proyectos se sientan libres de elegir sus propias formas de resolver los retos** creativos que se les plantean. Además, deben situarse fuera de rutinas empresariales innecesarias que puedan constreñir su imaginación. En este sentido, **Gideon Lichfield** describía la cultura empresarial de Quartz como *permiSIva* (sic), ya que el medio norteamericano permite a sus trabajadores la libertad de proponer y desarrollar ideas sin precedentes en la empresa.
 
 ![image alt text]({{ site.baseurl }}/images/shots/qzsem2.jpg)
 
-###3. Asignación de recursos
+### 3. Asignación de recursos
 
 El dinero y el tiempo son dos recursos cuya asignación afecta directamente a la creatividad dentro de las empresas mediáticas. En relación con los recursos económicos, si se destina un presupuesto demasiado reducido a un proyecto, la tarea resultará irrealizable, mientras que, si la cantidad es demasiado elevada, se reducirá la concentración y la disciplina de los trabajadores. En lo referente al tiempo, es necesario establecer plazos límite, ya que estos ayudan a concretar las tareas, pero también **se debe dejar tiempo suficiente para que los profesionales puedan experimentar.**
 
-###4. Establecimiento de retos
+### 4. Establecimiento de retos
 
 La creatividad se impulsa mediante el establecimiento de objetivos bien definidos, es decir, metas claras, sin ambigüedades y factibles. En trabajadores con habilidades creativas desarrolladas, **la existencia de retos o tareas que desafíen sus capacidades y les obliguen a buscar nuevas soluciones aumenta la motivación intrínseca** y, con ella, la originalidad de sus procesos, organización y productos. No obstante, el grado de complejidad de los retos debe calibrarse con cautela, ya que un objetivo demasiado ambicioso puede resultar abrumador y conducir a la desmotivación.  
 
-###5. Composición de equipos
+### 5. Composición de equipos
 
 La formación de equipos multidisciplinares es una tendencia al alza en las redacciones de los medios innovadores. Este tipo de grupos de trabajo mejora el producto periodístico y aumenta la creatividad, al **reunir a profesionales con diferentes especialidades y perspectivas**. De este modo, podemos apreciar que, en contextos de organización empresarial, la creatividad no es solo fruto de las habilidades y capacidades de individuos aislados, sino también de las contribuciones coordinadas de grupos multidisciplinares.
 

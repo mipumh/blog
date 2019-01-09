@@ -16,23 +16,23 @@ La fotografía (rara vez profesional) es probablemente el elemento más habitual
 
 Por eso aquí destacamos cinco herramientas que permiten explotar este formato. No necesitas grandes conocimientos técnicos, sino una buena idea, [unos pocos consejos generales](https://xn--diseocreativo-lkb.com/crear-banners-redes-sociales/), cierto sentido de la estética y, sobre todo, paciencia y ganas de probar. Y como no podía ser de otra forma se presentan con cinco carteles, elaborados con cada una de ellas, donde se recogen algunas de sus claves:
 
-###1. [Canva](https://www.canva.com/es_es/)
+### 1. [Canva](https://www.canva.com/es_es/)
 
 ![image alt text]({{ site.baseurl }}/images/shots/herra_0.jpg)
 
-###2. [Pablo](https://pablo.buffer.com/)
+### 2. [Pablo](https://pablo.buffer.com/)
 
 ![image alt text]({{ site.baseurl }}/images/shots/herra_1.jpg)
 
-###3. [Fotor](https://www.fotor.com/)
+### 3. [Fotor](https://www.fotor.com/)
 
 ![image alt text]({{ site.baseurl }}/images/shots/herra_2.jpg)
 
-###4. [Adobe Spark](https://spark.adobe.com/)
+### 4. [Adobe Spark](https://spark.adobe.com/)
 
 ![image alt text]({{ site.baseurl }}/images/shots/herra_3.jpg)
 
-###5. [Picmonkey](https://www.picmonkey.com/es/)
+### 5. [Picmonkey](https://www.picmonkey.com/es/)
 
 ![image alt text]({{ site.baseurl }}/images/shots/herra_4.jpg)
 

@@ -32,61 +32,61 @@ El diseño de los newsgames exige una dedicación y un presupuesto considerables
 
 A continuación presentamos **una selección de diez newsgames exitosos** que muestran el enorme potencial de este formato:
 
-###[Can You Beat Usain Bolt?](https://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html), The New York Times
+### [Can You Beat Usain Bolt?](https://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html), The New York Times
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_4.png)
 
 Este sencillo formato gamificado de The New York Times invita a los usuarios a comprobar la velocidad de Usain Bolt en la salida de la carrera de cien metros lisos en los Juegos Olímpicos de Río 2016 y a tratar de superarle. Un reto nada fácil.
 
-###[7 ways to defy death](https://www.washingtonpost.com/graphics/health/defy-death/), The Washington Post
+### [7 ways to defy death](https://www.washingtonpost.com/graphics/health/defy-death/), The Washington Post
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_7.jpg)
 
 El norteamericano medio tiene una expectativa de vida de 80 años. Pero esto puede cambiar conforme los científicos descubren nuevos métodos para prolongar la vida. En este juego, el usuario afronta una serie de retos conforme va envejeciendo y ha de decidir la forma de superarlos. Además, se ofrece información sobre siete técnicas científicas que están aplicándose para mejorar la expectativa de vida.
 
-###[Cutthroat Capitalism](https://www.wired.com/2009/07/cutthroat-capitalism-the-game/),	Wired
+### [Cutthroat Capitalism](https://www.wired.com/2009/07/cutthroat-capitalism-the-game/),	Wired
 
 Te conviertes en un pirata somalí que tiene que guiar un barco que tiene que navegar hasta encontrar un carguero, secuestrarlo y negociar un rescate. Este newsgame publicado por la revista Wired en 2011 no estuvo exento de polémica, pues retrataba las actividades de los piratas somalíes en una época en la que eran frecuentes los secuestros y extorsiones. El usuario vive su experiencia personal y afronta cada una de sus decisiones.
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_10.gif)
 
-###[Der Metadatensauger](http://www.heute-show.de/zdf/metadatensauger/index.html), ZDF
+### [Der Metadatensauger](http://www.heute-show.de/zdf/metadatensauger/index.html), ZDF
 
 El realizador Marcus Bösch creó este newsgame para la televisión pública alemana ZDF en 2015. El usuario va afrontando diversas situaciones reales que muestran cómo sus datos personales son captados y manejados por empresas, y experimenta en qué medida pueden llegar a controlar su vida e influir en sus decisiones.
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_13.png)
 
-###[Which sport are you made for?](http://www.bbc.com/news/uk-28062001), BBC News
+### [Which sport are you made for?](http://www.bbc.com/news/uk-28062001), BBC News
 
 Es un quiz muy práctico que permite al usuario, en tan solo un minuto, saber para qué tipo de deporte está mejor dotado. Mediante 13 preguntas, el jugador puede saber a qué especialidad deportiva se ajustan mejor a sus condiciones físicas y mentales, con un simpático toque de humor en el diseño de las herramientas.
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_16.jpg)
 
-###[HeartSaver](https://projects.propublica.org/graphics/heartsaver), ProPublica
+### [HeartSaver](https://projects.propublica.org/graphics/heartsaver), ProPublica
 
 Se trata de una narrativa gamificada creada en 2013 con una eminente finalidad didáctica. En el menor tiempo posible, el usuario debe evacuar a un hospital de Nueva York a varias personas que sufren un ataque de corazón en plena vía pública. El juego explora las posibilidades de supervivencia de estos pacientes ante una situación tan delicada, al tiempo que muestra la mejor forma de atenderles contrarreloj.
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_19.jpg)
 
-###[Retoricum](https://www.elconfidencial.com/elecciones-generales/2016-06-21/juego-elecciones-generales-espana-26j_1220038/), El Confidencial
+### [Retoricum](https://www.elconfidencial.com/elecciones-generales/2016-06-21/juego-elecciones-generales-espana-26j_1220038/), El Confidencial
 
 Con un diseño muy cuidado, Retoricum es un juego creado por el equipo del Confidencial.LAB durante las elecciones generales de 2016. A través de una interfaz que recuerda a las máquinas recreativas, el usuario debe adivinar cómo terminan una serie de frases memorables pronunciadas por los líderes políticos durante la campaña. Incluye elementos de progreso, un contador de puntos y feedback, con una gamificación que combina elementos estructurales, estéticos y de contenido. 
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_22.jpg)
 
-###[Montelab](http://lab.rtve.es/montelab/), RTVE Lab
+### [Montelab](http://lab.rtve.es/montelab/), RTVE Lab
 
 Los usuarios juegan a comprarse un piso en 2007 y superar las vicisitudes a las que se enfrentan muchas familias. El jugador podrá elegir el tipo de familia que encaja más consigo mismo, comprar o alquilar una vivienda y vigilar los marcadores que indican el valor del inmueble. También tendrá que hacer frente a la falta de servicios en urbanizaciones alejadas de la civilización, a constructoras quebradas o decidir si ayudar o no a un vecino que ha sido desahuciado. El espectador irá tomando decisiones que influirán en el desarrollo de la narración y afectarán a sus marcadores de calidad de vida; y conocerá a los afectados por esta crisis que dejó a cientos de familias viviendo en urbanizaciones inacabadas en las afueras de grandes ciudades.
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_25.jpg)
 
-###[Tallanasty](http://media.miamiherald.com/static/media/projects/ethics_game/), Miami Herald
+### [Tallanasty](http://media.miamiherald.com/static/media/projects/ethics_game/), Miami Herald
 
 Este juego de corrupción política, lanzado en 2013 en Estados Unidos, permite que el usuario asuma un destacado cargo político y vaya tomando las decisiones éticas necesarias para afrontar una amplia gama de problemas relacionados con la corrupción. Una vez finalizado, se evalúan la calidad y eficacia de sus decisiones. Su fascinación reside en la capacidad de "ponerse en la piel" de un político y comprobar lo difícil que resulta decidir correctamente. 
 
 ![image alt text]({{ site.baseurl }}/images/shots/gamificacion_28.png)
 
-###[Uber Game](http://ig.ft.com/uber-game/), The Financial Times
+### [Uber Game](http://ig.ft.com/uber-game/), The Financial Times
 
 Mediante este formato innovador, lanzado en octubre de 2017, el usuario se pone en la piel de un conductor de Uber que debe recoger a varios clientes y completar distintos trayectos. El newsgame incluye extensa información sobre los condicionantes económicos de estos profesionales; se basa en docenas de entrevistas realizadas por los periodistas del Financial Times a conductores de Uber.
 

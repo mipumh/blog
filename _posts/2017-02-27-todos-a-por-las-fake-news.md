@@ -19,29 +19,29 @@ Las noticias falsas (popularizadas como fake news, pero, a menudo, simples bulos
 
 Algunos proyectos periodísticos, y entre ellos varios españoles, han hecho frente a esta tendencia. En el fondo, una de las funciones esenciales del periodismo siempre ha sido combatir las mentiras. La novedad es que ahora han surgido iniciativas específicas para abordar esta tendencia que ha servido para que [medios como los franceses colaboren con Google y Facebook](https://www.marketingdirecto.com/anunciantes-general/medios/medios-franceses-lanzan-iniciativa-frenar-fake-news-junto-facebook-google) y ha puesto de moda [conceptos como el de la postverdad](http://internacional.elpais.com/internacional/2016/11/16/actualidad/1479316268_308549.html). Repasamos a continuación algunas de ellas:
 
-###[La chistera](http://blogs.elconfidencial.com/espana/la-chistera/2016-12-22/metodologia-lachistera-factchecking-verificacion-datos-verdades-mentiras-imprecisiones_1307758/) (El Confidencial)
+### [La chistera](http://blogs.elconfidencial.com/espana/la-chistera/2016-12-22/metodologia-lachistera-factchecking-verificacion-datos-verdades-mentiras-imprecisiones_1307758/) (El Confidencial)
 
 Es el decano de este tipo de proyectos. Surge a finales de 2015, durante la campaña de las elecciones del 20-D, cuando [analizaron directo](http://www.elconfidencial.com/multimedia/album/espana/la-chistera/2016-06-03/la-chistera-express-verificamos-verdades-y-mentiras-de-los-politicos-en-campana_1203555/) las afirmaciones de los principales candidatos a durante los debates. En la última sesión de control al Gobierno desarrollaron [un enorme trabajo](http://blogs.elconfidencial.com/espana/la-chistera/2016-12-22/lachistera-verdades-mentiras-unicornios-xiilegislatura-politica-espana_1307747/). Se nutre de otra tendencia algo anterior, la del *fact checking*, pero en el fondo es lo mismo: "Verificar la veracidad de las afirmaciones de los personajes públicos". Y lo hacen de manera sencilla y visual: calificando los datos como verdaderos, imprecisos, falsos o insostenibles (o “unicornios”).
 
-###[Maldito bulo](https://twitter.com/malditobulo) (Maldita Hemeroteca)
+### [Maldito bulo](https://twitter.com/malditobulo) (Maldita Hemeroteca)
 
 Basado en Twitter y Facebook, este proyecto ha maldecido ya decenas de contenidos falsos desde que se creó en noviembre de 2016. Y casi siempre con ese rotundo "NO" antes de desmentir generalmente imágenes y vídeos. Incluso [ha conseguido un espacio en El Objetivo de La Sexta](http://www.vanitatis.elconfidencial.com/television/programas-tv/2017-01-30/el-objetivo-maldita-hemeroteca-maldito-bulo-maldita-hemeroteca_1323360/), como su iniciativa matriz, Maldita hemeroteca.
 
-###[El cazabulos](https://twitter.com/elcazabulos) (eldiario.es)
+### [El cazabulos](https://twitter.com/elcazabulos) (eldiario.es)
 
 Aliado con **Maldito bulo**, este proyecto de eldiario.es se apoya en Twitter y en la participación de los usuarios para cazar noticias falsas. De momento, una de sus principales presas han sido ellos mismos:
 
-###[El tragabulos](https://www.facebook.com/eltragabulos) (Verne, El País)
+### [El tragabulos](https://www.facebook.com/eltragabulos) (Verne, El País)
 
 La mecánica es similar, pero en este caso enfocado a los bulos de Whatsapp y con Facebook, Telegram y la web de Verne como plataformas de difusión. Sus primeras verificaciones [se remontan a octubre de 2014](http://verne.elpais.com/verne/2014/10/08/articulo/1412780742_000158.html). En las últimas semanas, El tragabulos ha arrojado algo de luz sobre las cadenas de información falsa con un toque de humor y bastantes emojis:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Feltragabulos%2Fposts%2F1308871945822721&width=500" width="500" height="759" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-###[Hechos](http://elpais.com/agr/hechos/a) (El País)
+### [Hechos](http://elpais.com/agr/hechos/a) (El País)
 
 Con una actividad menor, pero sin duda con mayor profundidad en el análisis, este proyecto investiga algunas de las falsedades más relevantes. A menudo, con Trump como protagonista:
 
-###[Guerra a la mentira](http://lab.rtve.es/webdocs/guerra-mentira/es/) (RTVE Lab)
+### [Guerra a la mentira](http://lab.rtve.es/webdocs/guerra-mentira/es/) (RTVE Lab)
 
 En lugar de un contenido seriado, el Laboratorio de RTVE puso su sello en esta cruenta batalla mediante un webdoc (paralelo a [un documental de En Portada](http://www.rtve.es/television/en-portada/guerra-mentira/)) en el que explotan lenguajes como el del chat:
 

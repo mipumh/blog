@@ -14,7 +14,7 @@ Encontrar buenas historias ya es sólo un requisito. Necesitas explotar todos lo
 
 Qué mejor forma que ilustrar estos cambios que con los trabajos realizados por los alumnos del MIP en el módulo de Nuevas narrativas. Aquí se seleccionan algunos ejemplos.
 
-###1. Plataformas de longform
+### 1. Plataformas de longform
 
 **a) Shorthand**
 
@@ -50,7 +50,7 @@ Irene Santoro ([The Taste of a Story](https://readymag.com/u70245198/utrecht-one
 
 ![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF5.gif)
 
-###2. Periodismo de datos
+### 2. Periodismo de datos
 
 **a) Datawrapper**
 
@@ -70,7 +70,7 @@ Pero Infogram también permite crear informes o tableros sumamente visuales y, e
 
 ![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF8.gif)
 
-###3. Contenidos interactivos
+### 3. Contenidos interactivos
 
 **a) Thinglink**
 

@@ -30,13 +30,13 @@ La televisión afronta un proceso de transformación constante, que se ha visto 
 
 En este contexto de cambio, planteamos una serie de tendencias que, sin ánimo de ser exhaustivos, **están reconfigurando el panorama de la información audiovisual**:
 
-###1. Se consolida la cuarta pantalla.
+### 1. Se consolida la cuarta pantalla.
 
 A la televisión, al cine y al ordenador (las tres pantallas tradicionales) les ha salido un fuerte competidor: el móvil. Vídeos, noticias, anuncios, series y películas se consumen en cualquier parte gracias al móvil. De hecho, ya se producen contenidos exclusivos para móviles, una tendencia que irá en aumento. En 2020, según datos de Cisco, **el 80% de los contenidos que se generen en internet serán vídeos**. El vídeo para ser consumido en los móviles es breve e integra todo tipo de contenidos: información, juegos,  publicidad, entretenimiento, etc. Las piezas para móviles también exigen una narrativa propia, compuesta por planos más cortos, con pocos movimientos de cámara y rótulos, de modo que puedan entenderse sin escuchar el audio. Incluso surgen informativos exclusivamente producidos para ser consumidos en el móvil, [como es el caso de "Stay Tuned", de NBC News en Snapchat](http://variety.com/2017/tv/news/nbc-news-snapchat-daily-newscast-stay-tuned-1202499627/).
 
 ![image alt text]({{ site.baseurl }}/images/shots/infotv_3.jpg)
 
-###2. Crece la espectacularización de los contenidos. 
+### 2. Crece la espectacularización de los contenidos. 
 
 El tratamiento de la actualidad se somete a los dictados de la televisión espectacular, donde predominan los despliegues ante los grandes acontecimientos (elecciones, olimpiadas, efemérides, catástrofes…) y la cobertura múltiple de las noticias que atraen a la opinión pública (atentados, conflictos políticos, desastres naturales, competiciones deportivas). Se incrementa la **espectacularización**, mediante la personalización de los temas, el uso de directos innecesarios o el mayor protagonismo de los periodistas, y también en la forma, a través del impacto de las videopantallas, las conexiones múltiples y los efectos de edición que repiten las secuencias hasta la saciedad. A menudo, **este despliegue informativo sirve para mostrar el "poderío" y los recursos del canal**, pero no necesariamente se traduce en una cobertura de mayor calidad.
 
@@ -47,7 +47,7 @@ El tratamiento de la actualidad se somete a los dictados de la televisión espec
 
 <sup>Conexión múltiple con 25 periodistas realizada por un canal de Atlanta (Estados Unidos) para cubrir un temporal.
 
-###3. Predominan los contenidos de infoentretenimiento.
+### 3. Predominan los contenidos de infoentretenimiento.
 
 Se trata de una tendencia que fusiona información y entretenimiento a través del drama, la apelación a las emociones y el recurso a piezas de contenido intrascendente. Los informativos se vuelven cada vez más entretenidos, pues buscan mantener enganchado al espectador a toda costa. 
 
@@ -57,7 +57,7 @@ Se trata de una tendencia que fusiona información y entretenimiento a través d
 
 ![image alt text]({{ site.baseurl }}/images/shots/infotv_7.jpg)
 
-###4. La tecnología dinamiza la producción y presentación de los informativos. 
+### 4. La tecnología dinamiza la producción y presentación de los informativos. 
 
 En nuestro país, los noticiarios a menudo imitan el estilo de los formatos norteamericanos, con la incorporación de platós interactivos, la abundancia de efectos de postproducción o el incremento del ritmo y movimiento en los planos. Se apuesta por el **diseño virtual y multipantalla**, mediante la incorporación de la escenografía virtual, decorados digitales, videopantallas, infografías y grafismo interactivo. Esta creciente tecnificación de la producción provoca que los informativos sean más ágiles, con mayor capacidad de adaptación a las necesidades de cada cobertura. 
 
@@ -65,7 +65,7 @@ Los cambios formales y las innovaciones tecnológicas deberían servir para faci
 
 ![image alt text]({{ site.baseurl }}/images/shots/infotv_8.jpg)
 
-###5. Auge de los formatos factuales. 
+### 5. Auge de los formatos factuales. 
 
 El género factual alude a aquellos reportajes basados en un tratamiento "blando" de la realidad, con productos como *Callejeros viajeros,* *En Tierra hostil,* *Comando actualidad*, En el punto de mira, Fuera de cobertura o España Directo *(con todas sus variantes autonómicas).* Muchos de estos programas se fundamentan en **reporteros que “viven” en primera persona determinados hechos y los muestran durante su desarrollo**. La interacción del reportero con los distintos personajes permite una mayor involucración en las historias: la cámara muestra de primera mano lo que sucede. De este modo, predomina un estilo documental que refuerza la sensación de verosimilitud, al tiempo que conecta con los intereses del espectador. Sus protagonistas suelen ser personas corrientes, que viven situaciones cargadas de interés humano. 
 
