@@ -19,7 +19,7 @@ Los dos cursos se han dispuesto de forma escalonada desde marzo hasta junio, de 
 
 ![image alt text]({{ site.baseurl }}/images/shots/card_nuevas.jpg)
 
-###Curso "Nuevas narrativas para periodistas" (abierta inscripción)
+### Curso "Nuevas narrativas para periodistas" (abierta inscripción)
 
 - Duración: del 23 de abril al 11 de junio de 2018
 - Horario: libre, vídeos a la carta
@@ -59,7 +59,7 @@ Los dos cursos se han dispuesto de forma escalonada desde marzo hasta junio, de 
 - Asociación de la Prensa de Alicante
 - Asociación de la Prensa de Madrid
 
-###Curso "Guía básica del periodismo innovador" (plazo inscripción cerrado)
+### Curso "Guía básica del periodismo innovador" (plazo inscripción cerrado)
 
 ![image alt text]({{ site.baseurl }}/images/shots/card_guia.jpg)
 
@@ -97,11 +97,11 @@ Los dos cursos se han dispuesto de forma escalonada desde marzo hasta junio, de 
 
 <a href="http://universite.umh.es/fpogestion/aspx/Preinscripcion/Preinscripcion.aspx" class="btn btn-success btn-lg m-b-1"><i class="fa fa-download"></i> Completa el formulario</a>
 
-###Cómo funciona el campus virtual
+### Cómo funciona el campus virtual
 
 <object width="560" height="315"><param name="movie" value="//www.youtube.com/v/9JZ1RkBvI4A?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/9JZ1RkBvI4A?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-###Cómo puedo inscribirme
+### Cómo puedo inscribirme
 
 1. Abre el [formulario de inscripción](http://universite.umh.es/fpogestion/aspx/Preinscripcion/Preinscripcion.aspx)
 2. Selecciona "PERFECCIONAMIENTO"

@@ -45,7 +45,7 @@ Con una actividad menor, pero sin duda con mayor profundidad en el análisis, es
 
 En lugar de un contenido seriado, el Laboratorio de RTVE puso su sello en esta cruenta batalla mediante un webdoc (paralelo a [un documental de En Portada](http://www.rtve.es/television/en-portada/guerra-mentira/)) en el que explotan lenguajes como el del chat:
 
-###Y un [decálogo](http://libertadinformacion.cc/contra-la-posverdad-10-formulas-para-hacer-frente-a-las-noticias-falsas/) (PDLI)
+### Y un [decálogo](http://libertadinformacion.cc/contra-la-posverdad-10-formulas-para-hacer-frente-a-las-noticias-falsas/) (PDLI)
 
 A estos proyectos hay que sumar el decálogo que la Plataforma en Defensa de la Libertad de Información (PDLI) ha lanzado tras [el acto "Noticias falsas: disfrazar la mentira de realidad"](http://www.publico.es/sociedad/fake-news-destruir-bulo-dificil.html), organizado para debatir y analizar el sobre esta tendencia. La responsabilidad se reparte (aunque desigualmente) entre cinco:
 

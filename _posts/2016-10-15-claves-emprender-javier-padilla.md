@@ -38,7 +38,7 @@ Y eso es mucho. Allá por 1998, yo pagaba por tener un estudio de radio en el ce
 
 Dicho de otra forma, la **democratización de los canales** y las herramientas ha hecho que ya no sea un privilegio tener un canal de comunicación de alta calidad. Ahora todo el mundo puede emitir desde su casa en calidad HD, ya sea en audio o vídeo. Entonces, **¿no es sensato pensar que el periodista, formado específicamente para ello, será el rey creando contenidos en este nuevo mercado?**
 
-###Los algoritmos son tus amigos
+### Los algoritmos son tus amigos
 
 Hablaba en párrafos anteriores de algoritmos. Los profesionales de la comunicación tienen que entenderse mucho y muy bien con ellos. ¿Por qué **El Desmarque** consigue tener una audiencia fiel y estable a pesar de los altibajos de la actualidad? Porque nos entendemos bien con los buscadores. Ellos tienen sus fórmulas y nosotros las manejamos. **Google** cuenta con más de 150 factores para posicionar un artículo, así que un redactor que entra en cualquier sede de El Desmarque recibe una formación específica para hacerse amigo de las arañas de rastreo.
 

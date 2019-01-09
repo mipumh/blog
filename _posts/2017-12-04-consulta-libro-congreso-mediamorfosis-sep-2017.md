@@ -20,23 +20,23 @@ La digitalización supone un importante desafío, pero no es el único reto al q
 
 La obra se estructura en cinco bloques temáticos:
 
-###Desarrollo histórico y tendencias en el ecosistema mediático actual
+### Desarrollo histórico y tendencias en el ecosistema mediático actual
 
 Bajo este título se han recopilado los trabajos que analizan las estrategias de algunos grupos de comunicación relevantes en el panorama internacional y sus procesos de integración. Asimismo, se aborda la evolución de determinados medios de comunicación que constituyen un modelo de referencia en el sistema de medios digitales, como es el caso del  *Huffington Post* o la revista *HOLA.* También se estudian, desde el punto de vista de la tecnología y la producción, las dinámicas informativas en las redes sociales y algunas experiencias de participación ciudadana en periodismo local.
 
-###Producción de contenidos y nuevas narrativas
+### Producción de contenidos y nuevas narrativas
 
 El bloque dedicado a la producción de contenidos incluye estudios de casos concretos de periodismo digital con carácter tanto local como nacional. Los trabajos explican cómo las nuevas narrativas se adaptan al periodismo móvil y a la distribución multiplataforma. También se incluyen trabajos que reflexionan en torno al éxito de ejemplos incipientes de periodismo inmersivo y de otros formatos móviles para noticias, sin olvidar el papel de los laboratorios de innovación periodística que han aflorado en España en los últimos años.
 
-###Canales de distribución, audiencias y modelos de negocio
+### Canales de distribución, audiencias y modelos de negocio
 
 Algunas de las comunicaciones presentadas estudian el uso de las redes sociales para dinamizar a las audiencias de programas de televisión con éxito, como es el caso de *El Intermedio* o *El Hormiguero*. También se analiza la innovación en el medio radiofónico, concretamente desde el terreno de la información deportiva y se asientan las bases para determinar qué necesita una idea para poder ser considerada innovadora.
 
-###Retos éticos y profesionales: relevancia pública del periodismo
+### Retos éticos y profesionales: relevancia pública del periodismo
 
 El apartado dedicado a los retos profesionales recoge trabajos que reflexionan en torno a los nuevos desafíos del periodismo. En este sentido, los textos analizan cómo la comunicación política y las plataformas de *redes sociales* despliegan estrategias para copar las agendas de los medios de comunicación. Otros trabajos publicados en este bloque temático ponen el foco en la precariedad laboral que sufren las redacciones de los medios de comunicación y cómo esta situación genera una pérdida de calidad de las informaciones.
 
-###Enseñanza y periodismo especializado
+### Enseñanza y periodismo especializado
 
 El último bloque recoge diferentes experiencias de proyectos de innovación docente en enseñanzas relacionadas con el mundo de la comunicación. Asimismo, las investigaciones reflexionan sobre los retos a los que se enfrenta la docencia de determinadas materias impartidas en las facultades de comunicación españolas, como es el caso de la redacción periodística, la comunicación audiovisual o el periodismo especializado.
 

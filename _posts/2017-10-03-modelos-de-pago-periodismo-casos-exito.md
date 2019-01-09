@@ -32,7 +32,7 @@ El modelo de socios/miembros del holandés ha gustado tanto en el sector que var
 
 Por tanto, hay una clara tendencia al pago por el periodismo y, además, en algunos países, [el 53% de los suscriptores digitales nunca lo fueron de una edición impresa](https://www.americanpressinstitute.org/publications/reports/survey-research/paying-for-news/). ¿Qué les hace diferentes a esos a quienes les funciona el modelo de pago? Subrayo seis aspectos que son comunes a estos casos exitosos.
 
-###Una propuesta de valor única e inimitable
+### Una propuesta de valor única e inimitable
 
 El contenido elaborado por este tipo de proyectos busca hacerse imprescindible, como explicó muy bien en la [conferencia de apertura del máster el periodista Ismael Nafría](https://twitter.com/mipumh/status/913781057345982464) en el caso del **NYT**. Trabajan con una agenda temática propia bien definida, por su especialización temática o bien por su enfoque editorial. Fundamentan su contenido periodístico en investigaciones con fuentes propias o en periodismo de análisis apoyado en la *auctoritas* de la firma. 
 
@@ -40,7 +40,7 @@ Elaboran temas desde ángulos propios, cultivan una voz difícilmente imitable o
  
 La redacción de estos proyectos puede centrarse en esta labor, porque prescinden de la inabarcable y desagradecida tarea de la cobertura incremental de noticias que no añaden valor o, si lo hacen, mueren al segundo. Se verá poco a este tipo de medios en esas alertas apresuradas, cogidas por los pelos, que circulan las primeras en Twitter. **Prefieren llegar bien, a llegar antes**.
 
-###Músculo periodístico con esqueleto tecnológico
+### Músculo periodístico con esqueleto tecnológico
 
 Los medios que mejor están sorteando el tsunami digital son aquellos que han invertido en equipo humano, en músculo periodístico, para elaborar ese contenido único e inimitable. Pero también han descubierto que en la era digital la tecnología es fundamental para poner su producto delante del usuario: saben que el CMS de su medio es muy importante, porque aligera tareas, ahorra esfuerzos y sirve para potenciar la distribución del contenido. 
 
@@ -48,7 +48,7 @@ Entienden que las herramientas de marketing son cruciales para convertir esos us
 
 Por eso, **parte del éxito del Washington Post se debe a la adopción de la cultura tecnológica de Amazon**: nadie conoce tanto cómo funciona la intención de compra de los usuarios. Este enfoque les ha permitido [diversificar sus vías de ingresos](http://mip.umh.es/blog/2016/01/31/vias-ingresos-periodismo-monetizacion/) gracias a la comercialización de su plataforma CMS **Arch** entre grupos de prensa regional de Estados Unidos.  
 
-###Elegir es descartar: la elección del usuario objetivo determina lo demás
+### Elegir es descartar: la elección del usuario objetivo determina lo demás
 
 Estos medios han elegido su modelo de cliente, lo conocen perfectamente, han desarrollado perfiles de sus posibles variaciones y de los caminos para llegar a ellos. No se lanzan de manera indiscriminada al ancho mar, no son un restaurante de comida rápida. Ellos saben cuál es su tipo de lector ideal y renuncian a todo lo demás, especialmente a lo que estorba. 
 
@@ -56,7 +56,7 @@ Los directivos de WAN – IFRA señalan en su último informe que [la búsqueda 
 
 El New York Times lo sabe bien y centra su objetivo en convertir a lectores en suscriptores. Todo lo demás es renunciable. **Si tu cocinero sabe que quieres vender solomillos para ese tipo de cliente top y, en lugar de buena carne, le traes restos triturados de escasa calidad, acabará produciendo hamburguesas.** Elegir un tipo de lector como objetivo de negocio es fundamental: de ahí parte todo lo demás. 
 
-###Por sus obras los conoceréis. Periodistas y firmas con aval
+### Por sus obras los conoceréis. Periodistas y firmas con aval
 
 Los medios con un modelo de pago consolidado cuidan el posicionamiento de su marca; sus valores no son gratuitos, nacen de viejas trayectorias y méritos periodísticos. En el caso de los medios más jóvenes, ese caudal de intangibles que les permiten cobrar por el contenido lo aportan sus periodistas. 
 
@@ -64,7 +64,7 @@ Por eso, los digitales que han logrado cimentar una base de suscriptores compart
 
 Aparte de editores prestigiosos, estos medios cuidan los intangibles de su marca, alineados con la estrategia primordial: si los suscriptores, socios o miembros son los reyes de la casa, planifican el producto con más claridad, se liberan de hipotecas, **concentran las energías en cultivar su relación y preservan la credibilidad de su marca, ese vínculo emocional con los lectores**.
 
-###Estrategia de marketing bien definida
+### Estrategia de marketing bien definida
 
 Estos medios comprenden que el meollo de un modelo de negocio exitoso no consiste en saber cómo ganar más dinero sino en cómo [generar valor al público adecuado](http://mip.umh.es/blog/2016/05/29/preguntas-modelo-de-negocio-periodismo/). Para lograrlo usan diversas estrategias comerciales: unos instalan un muro de pago estricto (*hard paywall*), que exige a los lectores pasar por caja para disfrutar del contenido. Otros emplean un muro de pago poroso (*soft paywall* o *metered model*), donde los usuarios leen gratuitamente las páginas hasta alcanzar un tope de artículos. Otros optan por un sistema *freemium*, donde el cliente accede gratis a parte del contenido y debe suscribirse si quiere algunos servicios extra o ciertos privilegios. 
 
@@ -74,7 +74,7 @@ Además, **forma parte de su plan de marketing una clara estrategia de distribuc
 
 En este punto, los medios de pago deben lidiar con la plataformas tecnológicas (Google, Facebook, Twitter, Snapchat, Instagram), que persisten en su intento de "reconciliarse" con el periodismo. Google quiere a ayudar a los editores a vender más suscripciones desde su plataforma. Los directivos de Facebook también quieren facilitar la generación de suscriptores en su red social. De momento, NYT, FT y WSJ no participarán en esta iniciativa; sí lo harán Washington Post, The Economist y los grupos regionales Tronc y Hearst.
 
-###Misión: un objetivo para guiarlos a todos
+### Misión: un objetivo para guiarlos a todos
 
 En este contexto, cuando algunos viejos editores han abandonado la industria periodística porque ya no ganan tanto como antes, emerge con más fuerza el concepto de misión: **la misión es la filosofía que impulsa el proyecto, más allá de la rentabilidad**. Es el motor que justifica la actividad, aquello que une al equipo y les otorga sentido de pertenencia o, al menos, un refuerzo del papel desempeñado. Los medios con modelos de pago exitosos se caracterizan por tener una clara misión para no confundir su estrategia. Ese objetivo empresarial facilita la gestión del proyecto y genera un objetivo común. 
 

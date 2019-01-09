@@ -20,7 +20,7 @@ En julio de 2017 hicimos un llamado a través de [Puroperiodismo](http://www.pur
 
 Habilitamos un [formulario](http://www.puroperiodismo.cl/?p=28077), difundimos y nos sentamos a esperar. En tres meses hemos recibido 25 iniciativas de 13 países. Muchas han sido de Argentina (7), pero también de Venezuela (5), Perú (3) y Cuba (2). No es una muestra representativa ni pretende serlo. De hecho, no hemos recibido propuestas desde España o Portugal (aprovecho de pasar el dato). Pero sí es un intento por tomar el pulso de las ideas y los latidos innovadores que se están sintiendo en Latinoamérica.
 
-###Qué hemos destacado
+### Qué hemos destacado
 
 Comenzamos con ["En malos pasos"](http://www.puroperiodismo.cl/?p=28137), una iniciativa de la productora Dromómanos que recorre los siete países más violentos de América Latina. Para eso piden ayuda para que desde la comunidad envíen historias, aporten datos, contextualicen o simplemente reaccionen al trabajo que están llevando a cabo el español **José Luis Pardo** y la mexicana **Alejandra Sánchez Inzunza**, líderes del proyecto, quienes estuvieron presentes en la última edición del [Festival Gabo](https://premioggm.org/noticias/2017/10/tres-claves-para-cubrir-asesinatos-sin-ser-amarillista/).
 

@@ -14,7 +14,7 @@ author:
 
 ![]({{ site.baseurl }}/images/shots/apeplay.png)
 
-###Apester
+### Apester
 
 [Apester](http://apester.com/) es una plataforma para crear cuestionarios muy visuales en una caja que se puede embeber en cualquier web. Permite crear, entre otras aplicaciones, sondeos, quiz o test de personalidad en los que se puede jugar con imágenes y vídeos. Y todo eso a pesar de ese nombre tan dudoso al traducirlo al castellano.
 
@@ -26,7 +26,7 @@ En el Máster en Innovación en Periodismo, gracias a las sesiones de [Miriam He
 
 <br>
 
-###Play Buzz
+### Play Buzz
 
 [Play Buzz]( https://www.playbuzz.com/) sirve para lo mismo, pero difiere en la presentación y las opciones disponibles. Apester [está más extendido, pero aparece menos en los sitios más populares y en lugares como España]( https://www.similartech.com/compare/apester-vs-playbuzz).
 

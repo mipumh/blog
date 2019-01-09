@@ -14,7 +14,7 @@ Todo comenzó con una pregunta mental: ¿cómo puedo localizar a los periodistas
 
 La respuesta parecía obvia: había que crear **un proyecto de periodismo de datos sobre periodistas de datos** (entiéndase la redundancia). El proceso tenía que seguir las fases habituales: [búsqueda, extracción, limpieza, análisis, visualización](http://mip.umh.es/blog/2014/05/08/recursos_datos_cinco/)… Y había que testar cuanto antes el proyecto. Así se lanzó [periodistasdedatos.com](http://periodistasdedatos.com/), un listado para visibilizar, estudiar y fomentar la colaboración entre los profesionales de esta especialidad que ya cuenta con 334 miembros.
 
-###Dos meses, tres listas y nueve categorías
+### Dos meses, tres listas y nueve categorías
 
 Pero me he saltado unos cuantos pasos intermedios. A principios de mayo le formulé la pregunta inicial a [Miguel Carvajal](https://twitter.com/mcarvajal_) y la cogió al vuelo sin dudar. Ya tenía desarrollador y compañero de fatigas. Sin pensarlo mucho más, tiré del hilo en Twitter a partir listas, búsquedas, etiquetas (#periodismodatos, #periodismodedatos, #ddj...) y proyectos formativos y periodísticos centrados en datos. El primer resultado fue **una lista de 219 miembros**:
 
@@ -59,7 +59,7 @@ Mientras tanto, la web había empezado a germinar. Poco a poco, la librería de 
 
 <br>
 
-###Primeros resultados
+### Primeros resultados
 
 Dos días después de presentar la primera versión de la web, habíamos recibido más de veinte peticiones. Ahora, cuando el proyecto apenas ha cumplido una semana, tenemos otras tantas en lista de espera. 
 

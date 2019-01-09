@@ -33,6 +33,6 @@ El seminario tiene un formato abierto para que cualquier persona interesada pued
 
 Si deseas apuntarte, por favor, envíanos tus datos en el siguiente formulario con objeto de recibir la documentación que se distribuirá por correo a los participantes:
 
-###Inscripción al seminario
+### Inscripción al seminario
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHg_ONWN7bv9UmKNaJQQea5hnJdonbflfKjiQQ7cgp5y8SzA/viewform?embedded=true" width="560" height="560" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>

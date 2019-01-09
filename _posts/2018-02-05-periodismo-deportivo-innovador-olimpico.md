@@ -28,7 +28,7 @@ Tal es el caso de Eurosport, la cadena de televisión que cuenta con los derecho
 
 ![image alt text]({{ site.baseurl }}/images/shots/pdepor_1.jpg)
 
-###_Explainer_ de Eurosport durante la cobertura de los Juegos Olímpicos de Invierno
+### _Explainer_ de Eurosport durante la cobertura de los Juegos Olímpicos de Invierno
 
 También la previa de grandes eventos se construye con datos y gráficos. Tal como hizo The Washington Post en su cobertura de los Juegos Olímpicos de Río en 2016, la producción de infografías, visualizaciones de datos y creatividad en vídeo se agrupa y se sirve en una sola página para contextualizar la previa, la crónica e incluso el día después de la competición. De esta forma, [se prepara convenientemente al lector mientras se le aportan las claves para poder hacer un mejor seguimiento de las diferentes pruebas](http://periodismodeportivodecalidad.blogspot.com.es/2016/08/las-claves-del-proceso-creativo-de-los.html).
 
@@ -38,7 +38,7 @@ Igualmente, los medios deportivos tienden a buscar la diferenciación en su cobe
 
 ![image alt text]({{ site.baseurl }}/images/shots/pdepor_2.jpg)
 
-###Cuenta robotizada de The Washington Post durante los Juegos Olímpicos de 2016
+### Cuenta robotizada de The Washington Post durante los Juegos Olímpicos de 2016
 
 Desde hace varios años, medios como The Associated Press, The Washington Post o Reuters robotizan noticias y crónicas, y para ello el ámbito deportivo ejerció de proyecto piloto antes que otras áreas informativas. Esta tecnología, que ya utilizan 15 agencias en Europa [según un estudio del Reuters Institute](http://www.niemanlab.org/2017/07/a-new-report-examines-the-state-of-automated-journalism-in-europe-and-whats-holding-it-back/),  se emplea con el objetivo de descargar de tareas a los reporteros para que trabajen más las fuentes primarias, investiguen y produzcan contenidos exclusivos, y también para lograr que **las coberturas informativas resultantes sean diferentes, de más calidad y se ocupen de historias que interesen a la gente**, más allá del medallero o el marcador final.
 

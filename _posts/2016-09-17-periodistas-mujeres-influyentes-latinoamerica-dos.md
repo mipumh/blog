@@ -27,7 +27,7 @@ Para contribuir a **dar visibilidad y poner en valor el trabajo de tantas y tant
 
 Investigadora del [Investigative Reporters and Editors](https://www.ire.org/), dirige la Unidad de Análisis de Datos de [Ojo Público](http://ojo-publico.com/ojopublico/), medio digital de **periodismo de investigación y nuevas narrativas** que fundó en 2014. Es coautora del manual [La navaja suiza del reportero. Herramientas de investigación en la era de los datos](http://www.cbc.org.pe/wp-content/uploads/2016/05/Manual_OjoPublico_01041.pdf). Ha trabajado en el Global Investigative Journalism Network ([GIKN](http://gijn.org/)) en Noruega, el [Programa de Periodismo Digital de la Fundación Kiplinger en la Universidad de Ohio](http://www.kiplingerprogram.org/) y en la Unidad de Investigación del diario [El Comercio](http://www.elcomercio.com/). Tiene el [Data Journalism Award](http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/) 2015 a la mejor investigación del año por [Cuentas Juradas](http://cuentasjuradas.ojo-publico.com/), la primera aplicación periodística que reveló el patrimonio de los alcaldes de Perú. Es cofundadora de [HacksHackers Lima](http://www.meetup.com/es-ES/Hacks-Hackers-Lima/). 
 
-###Juanita León
+### Juanita León
 
 Fundadora y directora de [La Silla Vacía](http://lasillavacia.com/content/quienes-somos-55168), medio digital sobre política colombiana, [Premio Gabriel García Márquez 2013](http://premioggm.org/ediciones-anteriores/2013-2/ganadores/proyecto-rosa/) en la categoría **innovación periodística**. "[Hemos innovado en la relación con la audiencia, en formatos narrativos, en formas de contar historias, en el modelo de negocio](http://www.cromos.com.co/cultura/juanita-leon-queriamos-ser-un-laboratorio-de-innovacion-periodistica-18012)…", cuenta León en relación al proceso de creación, desarrollo y consolidación de este medio, que fundó con capital semilla del [Open Society Foundations](https://www.opensocietyfoundations.org/). Ha trabajado en [The Wall Street Journal Americas](http://www.wsj.com/public/page/espanol-inicio.html) en Nueva York, el diario [El Tiempo](http://www.eltiempo.com/) y la revista Semana (Colombia). Ha participado en la creación de la edición diaria [Semana.com](http://www.semana.com/) y en el lanzamiento de la revista [Flypmedia.com](https://twitter.com/flypmedia) en Nueva York. 
 
@@ -41,7 +41,7 @@ Realizadora de documentales y paquetes multimedia. Española afincada en México
 
 ![image alt text]({{ site.baseurl }}/images/shots/image_0.jpg)
 
-###Maria Cristina Fernandes
+### Maria Cristina Fernandes
 
 Editora de Política [en el diario Valor](http://www.valor.com.br/colunistas/Maria%20Cristina%20Fernandes), de Brasil, durante 15 años. Es analista política y autora del e-book *[Os candidatos](http://www.companhiadasletras.com.br/detalhe.php?codigo=61679)*. Integró el equipo que fundó la revista [Época](http://epoca.globo.com/), editora de [Gazeta Mercanti](http://www.gazetaonline.com.br/)l, subdirectora de la revista [Veja](http://veja.abril.com.br/) y reportera de [Jornal do Comércio](http://www.jornaldocommercio.com.br). Es docente de Política Comparada en la Universidad de París y de Política Latinoamericana en la de Londres. 
 
@@ -55,4 +55,4 @@ Una de las pioneras en trabajar de forma analítica con bases de datos. [En pala
 
 ![image alt text]({{ site.baseurl }}/images/shots/image_1.jpg)
 
-Giannina Segnini (La Nación)
+<sup>Giannina Segnini (La Nación)

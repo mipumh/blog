@@ -12,13 +12,13 @@ author:
 ---
 _[Continuamos](http://mip.umh.es/blog/2016/10/15/claves-emprender-javier-padilla/) con una serie de recomendaciones, basadas en mi experiencia personal, que te permitirán llevar a cabo con éxito tu propio proyecto en el ámbito de la comunicación:_
 
-###Céntrate en la distribución
+### Céntrate en la distribución
 
 Al hilo de las afirmaciones anteriores sobre el mercado, el periodista actual ha pasado a tener otra función muy importante: la de **distribuir los contenidos que crea**. No dediques el 100% del tiempo a crear una gran historia que se quedará aislada en tu blog. **Dedica el 50% a escribir** —o grabar un vídeo, podcast…— **y el resto del tiempo a distribuir**, crear **alianzas** con otros soportes, etcétera.
 
 El nuevo profesional de la comunicación debe saber quién, cómo y dónde consume su mercancía. Así podrá mejorarla con el tiempo y seguir creciendo.
 
-###Pasa del plan de negocios
+### Pasa del plan de negocios
 
 Si has pensado en emprender y tienes un amigo economista o similar especializado en el mundo *offline*, te habrá guiado para que crees un plan de negocios con tu idea. Esto es, qué es tu proyecto, quién es tu competencia, un DAFO, unos Excel que muestren proyecciones a 5 años y otras cosas propias de la ciencia ficción (siempre, insisto, cuando hablamos de Internet).
 
@@ -26,7 +26,7 @@ Si has pensado en emprender y tienes un amigo economista o similar especializado
 
 En la Red las cosas funcionan de otra manera. [El Desmarque](http://www.eldesmarque.com/) no tuvo su primer plan de negocio hasta pasados los primeros 4 años. Se fundó con 43 euros —que costeó un servidor en Lycos— y nos centramos en crecer. Diez mil, veinte mil, treinta mil lectores diarios. Al poco tiempo, cuarenta mil. Así hasta alcanzar los casi 400.000 usuarios únicos diarios que hemos alcanzado este verano.
 
-###La importancia del nicho
+### La importancia del nicho
 
 El Desmarque eligió el deporte local y dejó las grandes capitales para el final. ¿Por qué? Porque **más del 60% de las búsquedas que se hacen sobre fútbol en España no son para buscar cosas del Madrid o del Barcelona**. La gente quiere conocer historias del Betis, del Sevilla, del Málaga, del Levante, del Sporting, del Dépor… Y si sumas todos esos nichos, hay cientos de miles de lectores.
 
@@ -36,7 +36,7 @@ El principal "pecado" que cometen algunos emprendedores es elegir un nicho exces
 
 ![image alt text]({{ site.baseurl }}/images/shots/2pad1.jpg)
 
-###La capacidad de soportar la incertidumbre
+### La capacidad de soportar la incertidumbre
 
 Siempre digo que no entrenan a nadie en ninguna escuela para soportar un bajón de ánimos importante o, peor, una depresión. He visto a personas con ideas brillantes bajarse del carro por no ser capaces de aguantar más presión o incertidumbre. Por eso es importante ahondar en **la cultura del desánimo y el fracaso** para conocer sus fórmulas, sus caminos y hablar de los mismos sin tabúes. 
 
@@ -44,7 +44,7 @@ Nos enseñan a ponernos una escayola cuando se nos rompe un brazo pero, ¿**qué
 
 El entorno del que te rodeas para emprender es fundamental y siempre recomiendo a mis alumnos que inicien el recorrido con un compañero. Emprender en solitario es una tarea muy difícil. No se suele hablar mucho de este factor en los libros de emprendimiento, y yo lo colocaría en el puesto número 1.
 
-###No es el dinero, es la visión
+### No es el dinero, es la visión
 
 Otro de los mitos es el de la **financiación**. La teoría dice que para montar un medio es necesario irse a un banco y pedir 10 o 15 mil euros solo para arrancar, alquilar una oficina y comprar unos equipos básicos. Hacemos un plan de negocios donde, llegados al mes X, hemos sido capaces de alcanzar el famoso *break even* (gastos e ingresos se igualan, básicamente) y todo va a ir como la seda. El del banco, con suerte, se lo cree y te da el dinero. Mal.
 
@@ -52,7 +52,7 @@ Lo mejor es crear tu **Producto Mínimo Viable** con recursos propios. Tira de g
 
 Es la fórmula del triunfo y, como habréis podido entender, está más basada en la visión que en el dinero con el que inicies el viaje.
 
-###Estudia todos los días
+### Estudia todos los días
 
 El periodismo es, ahora más que nunca, una profesión viva donde las herramientas cambian cada poco tiempo. Hay que estar al día de las mismas, saber cómo se manejan, qué trucos se pueden emplear para trabajar menos horas y ser más eficiente (esto nos gusta a todos). Se acabó aquello de aprender mecanografía o recibir formación cada 5 o 6 años cuando cambiaba el sistema de autoedición antiguo en las redacciones "del papel". Ahora, [las claves para lanzar un proyecto periodístico](http://mip.umh.es/blog/2016/07/03/fases-desarrollo-proyectos-periodisticos/) deben integrar facetas que se estudiaban de forma aislada durante la carrera.
 
@@ -60,7 +60,7 @@ El periodismo es, ahora más que nunca, una profesión viva donde las herramient
 
 ![image alt text]({{ site.baseurl }}/images/shots/2pad2.jpg)
 
-###Lo bueno es enemigo de lo mejor
+### Lo bueno es enemigo de lo mejor
 
 No os quedéis parados en la elección de uno u otro sistema de gestión de contenidos. **Corred y romped cosas rápido** (ésta no es mía, sino de Mark Zuckerberg, que lo mantiene como mantra en Facebook). Si una idea no funciona, se coge otra. Y así hasta que se logre hacer funcionar la maquinaria. 
 

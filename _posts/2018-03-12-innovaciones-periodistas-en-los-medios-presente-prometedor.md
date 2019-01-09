@@ -52,7 +52,7 @@ También se detectan formatos publicitarios innovadores. En la *Revista Vis-à-V
 
 En definitiva, las innovaciones permiten que los medios puedan ampliar mercados, consolidar sus marcas, captar nuevos nichos de audiencia, seleccionar equipos interdisciplinares y **desarrollar una estrategia cohesionada**. En el ecosistema actual, donde los medios tradicionales ven cómo su modelo de negocio se tambalea y muchos nativos digitales siguen sin lograr un modelo sostenible, **es necesario explorar iniciativas que permitan innovar en cualquier ámbito de la actividad periodística**.
 
-###Artículo completo:
+### Artículo completo:
 
 García-Avilés, J.A., Carvajal Prieto, M. y Arias Robles, F. (2018) "Implantación de la innovación en los cibermedios españoles: análisis de las percepciones de los periodistas". *Revista Latina de Comunicación Social*, 73, pp. 369 a 384. 
 
