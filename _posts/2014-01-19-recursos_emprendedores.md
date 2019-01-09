@@ -21,18 +21,18 @@ Hace apenas unos días ha concluído un MOOC, un curso masivo online y abierto, 
 
 En dicho curso se han ofrecido una serie de materiales entre los que me gustaría destacar unos cuantos que pueden resultar muy útiles no solo para nuestros alumnos emprendedores del MIP (Máster de Innovación en Periodismo) sino para el resto de periodistas interesados en el tema. Muchos de estos materiales han sido comentados o recomendados por algún profesor del máster, por eso no está de más recopilarlos para el blog.
 
-###Diccionarios técnicos y traductores
+### Diccionarios técnicos y traductores
 
 * [Glosario de términos informáticos y de internet](http://www.internetglosario.com/).
 * [Diccionario financiero inglés-español](http://www.germes.com/articulos/225-diccionario-financiero-ingles-espanol.html).
 * Servicios de [traducción en línea](http://www.linguee.com/) para frases en contexto.
 
-###Dos sitios web interesantes
+### Dos sitios web interesantes
 
 * El [Manual de Estilo](http://www.manualdeestilo.com/) para Nuevos Medios de Fundéu sobre Periodismo y cómo escribir en internet.
 * Y la recopilación de [consejos y ejemplos sobre planes de negocios para proyectos periodísticos](http://www.newsinnovation.com/models/) de News Innovation.
 
-###Recursos y servicios de anuncios
+### Recursos y servicios de anuncios
 
 * [Umbel](http://www.umbel.com/) es un servicio que verifica la audiencia de los sitios web y medios sociales para atraer anunciantes lo más grandes posible y vender así la publicidad a tarifas más altas. 
 * [ComScore](http://www.comscore.com/) es el servicio de verificación de tráfico que usan las grandes organizaciones de medios.
