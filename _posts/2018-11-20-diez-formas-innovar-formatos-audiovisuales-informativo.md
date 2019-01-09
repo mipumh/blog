@@ -10,8 +10,6 @@ author:
   image: alba.jpg
   link: https://twitter.com/albagortega
 ---
-****
-
 Las **XIV Jornadas Internacionales de Innovación en Periodismo**, organizadas por la Universidad Miguel Hernández de Elche el 29 y 30 de octubre, reunieron a expertos y profesionales del mundo audiovisual para analizar la transformación de los informativos televisivos. El evento, codirigido por los profesores Isabel González Mesa y José Alberto García Avilés, y organizado por el equipo de profesores de Periodismo de la UMH, contó con la participación de profesionales de TVE, PlayGround, À Punt, TV3, EBU y la BBC. A continuación presentamos las 10 conclusiones de las Jornadas y que desarrollaremos en el libro **_ Reinventar los informativos_** que preparamos con todas las aportaciones.
 
 ###1. Ir donde esté el espectador
