@@ -19,7 +19,6 @@ inc:
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: http://mip.umh.es/blog
-twitter_username: mipumh
 
 # Build settings
 markdown: kramdown
