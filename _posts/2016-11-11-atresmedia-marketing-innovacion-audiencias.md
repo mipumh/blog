@@ -17,7 +17,7 @@ Javier Andrés Ortega dirige el departamento de Marketing de Atresmedia Publicid
 
 Muy poco. En los últimos 20 años, que es lo que llevo trabajando en esto, no ha habido modificaciones sustanciales. Es verdad que los paneles se van equilibrando en función de cómo cambia la sociedad. Por ejemplo, antes se equilibraba la audiencia en función de la clase social y desde enero de 2015, se ha sustituido por un **índice socioeconómico**. Pero, realmente, el funcionamiento sigue siendo el mismo: una serie de audímetros colocados en 4.600 hogares que representan a 12.000 personas. Es un sistema que a nivel cuantitativo y cualitativo, para dar datos de grandes audiencias o segmentaciones de público funciona muy bien. Así como el mundo online avanza para dar datos de los targets no solo en variables sociodemográficas, la tele se queda un poco atrás, porque solo ofrece estas variables. A pesar de estas variables que comparten los individuos, sus comportamientos pueden ser radicalmente distintos. 
 
-En [Atresmedia](http://www.atresmedia.com/), para solventar esto, [hemos creado Atresdata](http://www.atresmediapublicidad.com/television/atresmedia-lanza-atresdata_2016031000144.html), una herramienta que usando el Kantar Worldpanel, te permite dividir audiencias en el perfil sociodemográfico y en el target de consumo y de comportamiento. Supone una gran ayuda para planificar la publicidad. 
+En [Atresmedia](http://www.atresmedia.com/), para solventar esto, hemos creado Atresdata, una herramienta que usando el Kantar Worldpanel, te permite dividir audiencias en el perfil sociodemográfico y en el target de consumo y de comportamiento. Supone una gran ayuda para planificar la publicidad. 
 
 ![image alt text]({{ site.baseurl }}/images/shots/jjandres0.jpg)
 

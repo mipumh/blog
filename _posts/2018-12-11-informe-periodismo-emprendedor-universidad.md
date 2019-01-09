@@ -6,7 +6,7 @@ excerpt: "SembraMedia, la organización y plataforma de apoyo al éxito de empre
 author:
   name: José Antonio González Alba
   twitter: jagonzalezalba
-  gplus: 6359f4950faf7851 
+  gplus:  
   bio: Embajador de Sembramedia España
   image: galba.jpg
   link: https://twitter.com/jagonzalezalba
