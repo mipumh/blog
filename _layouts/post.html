@@ -14,22 +14,23 @@ layout: base
         <div class="col-lg-8 col-xs-12">
         <article>
                 <header>
+                    <h1 class="title">{{ page.title }}</h1>
+                    {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
                     <div class="meta">
                     {% if page.periscopio == "si" %}
 
                         Firma invitada: <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
-                        <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%d %B, %Y" }}">{{ page.date | date: "%d %B, %Y" }}</time></address>
+                        <time pubdate datetime="{{ page.date | date: "%d/%m/%YB" }}" title="{{ page.date | date: "%d/%m/%Y" }}">{{ page.date | date: "%d/%m/%Y" }}</time></address>
 
                         {% else %}
 
-                        Por <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
-                        <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%d %B, %Y" }}">{{ page.date | date: "%d %B, %Y" }}</time></address>
+                        <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
+                        <time pubdate datetime="{{ page.date | date: "%d/%m/%Y" }}" title="{{ page.date | date: "%d/%m/%Y" }}">{{ page.date | date: "%d/%m/%Y" }}</time></address>
 
                     {% endif %}
 
                     </div>
-                    <h1 class="title">{{ page.title }}</h1>
-                    {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+
                 </header>
 
                     {% if page.periscopio == "si" %}
@@ -45,7 +46,7 @@ layout: base
                 <footer>
                     <address>
                        {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}">{% endif %}
-                        <p>Escrito por <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
+                        <p><strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
                         <span class="muted">{{ page.author.bio }}</span>
                         </p>
                     </address>
