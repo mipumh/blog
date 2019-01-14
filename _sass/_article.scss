@@ -17,7 +17,7 @@ article {
         }
     }
 
-    .container > footer {
+    footer {
         border-top:1px solid #ddd;
         border-bottom:1px solid #ddd;
         padding-top:1.5em;
@@ -27,8 +27,6 @@ article {
     }
 
     header {
-        margin-top:2em;
-        margin-bottom:2em;
 
         &::after {
             content:" ";
