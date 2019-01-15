@@ -4,31 +4,13 @@
         display:none;
     }
     
-    .container > header, .container > section, .container > footer {
-        padding:0;
-        margin:1.5em 2%;
-    }
-    
-    .container > section {
-        padding-bottom:0em;
-    }
-
 }
 
 @media (max-width: 720px) {
     
     article {
         padding-top:20px;
-        
-        .container > header, .container > section, .container > footer {
-            padding:0;
-            margin:1.5em 2%;
-        }
-        
-        .container > footer {
-            padding:2em 0;
-        }
-        
+                
         .full, pre {
             margin:1em 0;
         }
