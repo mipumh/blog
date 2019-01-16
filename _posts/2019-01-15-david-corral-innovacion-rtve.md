@@ -62,7 +62,9 @@ Además, hay que adaptarse a los usuarios y a sus hábitos o preferencias, para 
 
 **R:** Nosotros éramos la dirección. El canal era un claro ejemplo de compañerismo, porque lo que tiene la información continua es el roce que se genera, y al final eso te hace estar siempre involucrado en una mesa con tus compañeros y plantear tus aportaciones. Yo diría que hubo una iniciativa tanto de abajo-arriba como de arriba-abajo. Es un programa que tenía muchísima postproducción, cuando las emisiones del canal 24 horas no tenían ninguna, y era porque la gente de postproducción se implicaba y de hecho entraban de madrugada para hacerlas. Los presentadores aprovechaban las salidas para hacer videos innovadores. Incluso llegaron a proyectar en una pantalla de la plaza Callao de Madrid la agenda cultural, y uno podía ver los conciertos que había esa semana, lo que rompía mucho con la línea gráfica del canal.
 
-![image alt text]({{ site.baseurl }}/images/shots/image_2.jpg) ![image alt text]({{ site.baseurl }}/images/shots/corral_3.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/corral_2.jpg) 
+
+![image alt text]({{ site.baseurl }}/images/shots/corral_3.jpg)
 
 **P: Por último, ¿cree que son los medios los que tienen que cambiar sus informativos para seguir atrayendo al público joven o son los jóvenes a lo que se les debería educar para fomentar su interés por estar informados?**
 
