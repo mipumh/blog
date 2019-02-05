@@ -16,7 +16,7 @@ En este artículo mencionamos una serie de proyectos, recopilaciones de blogs y 
 
 Vamos a por los tres primeros casos.
 
-### 1. Vídeos
+**1. Vídeos**
 
 Si hablamos de vídeos, hablamos de **YouTube**. El rey de los vídeos a la carta cuenta con cientos de canales sobre ciencia que comparten muy buena divulgación. Desde científicos que realizan experimentos en vivo, hasta clases que nos teletransportan a la etapa de instituto para repasar conceptos básicos, y no tanto, de química, física o matemáticas. Aquí nos vamos a centrar en uno, pero como decimos, son muchos los buenos ejemplos. El elegido es [Quantum Fracture](https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw), canal creado en 2013  por el [físico José Luis Crespo](https://www.youtube.com/watch?v=UAuX_CjYYww), que además de ser un divulgador excepcional cuenta con un tono de voz muy televisivo. Se trata de un canal de animaciones dedicado a mostrar de manera breve y sencilla aspectos del universo. Actualmente aglutina 1,4 millones de suscriptores y el año pasado su creador recibió [el premio al mejor divulgador científico de internet.](https://www.thewatmag.com/descubrimientos/7-razones-por-las-que-quantum-fracture-ha-ganado-el-premio-a-mejor-divulgador-cientifico)
 
@@ -35,7 +35,7 @@ Siguiendo con YouTube, son también muy abundantes las recopilaciones sobre los 
 
 Y sin dejar el vídeo, también aprovechamos para recomendar algunas iniciativas de creación de contenido, como el evento [Cultube](https://workshops.ift.uam-csic.es/cultube), que congrega a youtubers en diversas áreas de creación y divulgación audiovisual para impartir charlas compartiendo sus experiencias y [Ciencia Clip](http://cienciaclip.naukas.com/), un concurso promovido por Naukas ([sobre los que ya hemos hablado ampliamente en este blog](http://mip.umh.es/blog/2016/09/25/fans-divulgacion-cientifica/)) acerca de vídeos de divulgación científica protagonizados por jóvenes estudiantes. 
 
-### 2. Luchando contra las noticias falsas sobre ciencia
+**2. Luchando contra las noticias falsas sobre ciencia**
 
 Muchos científicos combaten desde sus blogs y redes sociales las pseudociencias y noticias falsas, desmienten teorías sin base científica y aportan argumentos y explicaciones que rebaten las falacias. En este terreno destacan diversos blogs y autores, entre ellos, queremos subrayar el blog  del [profesor de Química de la Universidad de Murcia José Manuel López Nicolás](https://about.me/josemln), que hace un trabajo de divulgación excelente y que publicó hace ya tres años la obra ["Vamos a contar mentiras. Alimentos y cosméticos desmontados por la ciencia](https://francis.naukas.com/2016/03/19/resena-vamos-a-comprar-mentiras-de-jose-manuel-lopez-nicolas/)" (el enlace a la reseña lleva a otro blog muy sesudo, el de [La Ciencia de la Mula Francis](https://francis.naukas.com/), del doctor en Matemáticas Francisco R. Villatoro). 
 
@@ -45,7 +45,7 @@ No obstante, el caso en el que nos queremos centrar en este apartado es el del p
 
 Aprovechamos para subrayar que en la batalla contra la desinformación médica, son varias las asociaciones que trabajan para que se proteja al paciente (**[@Farma_Ciencia](https://twitter.com/Farma_Ciencia)**; **[@apetp_](https://twitter.com/apetp_)**; **[@redunecontacto](https://twitter.com/redunecontacto)** y **[la Sociedad para el Avance del Pensamiento Crítico](http://www.escepticos.es/)**, entre otras) y cuya labor ha sido fundamental para la creación del reciente '**Plan de Protección de la Salud frente a las Pseudoterapias'**, centrado en la complicada tarea de "**generar y difundir información basada en el conocimiento y la evidencia científica",** tal y como explican desde [Xataka](https://www.xataka.com/medicina-y-salud/universidades-hospitales-limpios-pseudociencia-asi-como-gobierno-espanol-quiere-apostar-ciencia-evidencia).
 
-### 3. Microblogging
+**3. Microblogging**
 
 Como ocurre en el caso de los vídeos y YouTube, si hablamos de microblogging, hablamos de Twitter. Y para conocer los influencers de Twitter en el terreno de la divulgación científica, lo mejor es acudir a [un artículo científico](http://ojs.udg.edu/index.php/CommunicationPapers/article/view/386) que publicó en 2018 un equipo de investigadores de la Fundación 3CIN, la Universidad de Salamanca y la Universidad de Valladolid en la revista [Communication Papers](http://www.communicationpapers.com/). El grupo ha estudiado la comunicación de la ciencia en Twitter en España y ha detectado a los individuos e instituciones que tienen más influencia en este terreno, así como los asuntos que generan mayor tráfico.
 
