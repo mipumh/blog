@@ -45,8 +45,7 @@ Hoy en día cualquiera puede publicar contenido, todo el mundo quiere ser parte 
 Algo que hemos visto mucho en las masacres en Estados Unidos es que, en cuanto alguien publica un vídeo (por ejemplo, una persona que está escondida bajo la mesa grabando lo que ocurre en un tiroteo), aparecen decenas de periodistas preguntándole a ese testigo si pueden usar su vídeo para publicarlo. Al final, preocuparte por la persona es algo sencillo, y lo cierto es que no se está haciendo. Y no sólo debe darse en casos de terrorismo, si alguien ha perdido todas sus pertenencias por una inundación, también merecerá un trato cuidadoso. 
 
 ![image alt text]({{ site.baseurl }}/images/shots/bowler_1.jpg)
-
-Derek Bowler durante su intervención en las XIV Jornadas Internacionales de Periodismo.
+<sup>Derek Bowler durante su intervención en las XIV Jornadas Internacionales de Periodismo.
 
 **P. ¿Cómo logra acceder a estos testigos? ¿Las publicaciones llegan a usted una vez se han vuelto virales o acuden ustedes en su búsqueda?**
 
@@ -70,7 +69,7 @@ Es cierto que ha habido intereses detrás de la desinformación. Tenemos el caso
 
 **R**. "Innovación" es una palabra que no le gusta a mucha gente, aunque suene genial presentarse como un disruptor digital. **La innovación no trata sólo de Inteligencia Artificial o Realidad Virtual, sino también de tener consistencia en tu redacción**. Muchos medios tienen como objetivo convertirse en “inventores”, y lo cierto es que algunos lo consiguen, porque tienen mucho presupuesto. Pero lo que estoy viendo es que las empresas más eficaces son las que se están concentrando en su gente. La innovación debe empezar con el propio periodismo; creo que los que mejor lo están haciendo son aquellos que invierten en mejorar la calidad de sus trabajadores, para que puedan crear nuevas maneras de contar las historias. Porque eso es lo que queremos, encontrar nuevas formas de contar lo que se ha contado siempre, sólo que enganchando a la audiencia más joven.
 
-**"Mucha de la innovación actual en periodismo surge de gente que, precisamente, no se dedica al periodismo"**
+>"Mucha de la innovación actual en periodismo surge de gente que, precisamente, no se dedica al periodismo"
 
 **P**. ¿Y qué aprendió sobre ello en su paso por el Googles News Lab?
 
