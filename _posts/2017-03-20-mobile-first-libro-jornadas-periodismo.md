@@ -20,7 +20,7 @@ Siempre atentas a la transformación que sufre la industria periodística, las [
 
 En un contexto en el que la audiencia recupera el primer plano, los investigadores analizan la comunicación multipantalla, y los profesionales buscan superar los retos que plantean las nuevas tecnologías. La obra **"Mobile First, comunicación multipantalla"**, la tercera de una colección de publicaciones del [Máster de Innovación en Periodismo](http://mip.umh.es/), recoge las reflexiones de profesionales y académicos conscientes de la gimnasia narrativa necesaria para ofrecer **periodismo original, listo para consumir, en cualquier momento y desde la palma de la mano**.
 
-##Lo sentimos, ya finalizó el período de descarga gratuita.
+Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/Q6nokbkCJdJCQbqSA).
 
 <br>
 
@@ -60,3 +60,5 @@ la APP del diario Información**, Montserrat Jurado Martín, Universidad Miguel 
 * **Innovaciones en el modelo de negocio: recuperar la marca, el tiempo y el espacio para generar más ingresos publicitarios,** Miguel Carvajal Prieto, Universidad Miguel Hernández
 
 La innovación en el periodismo y la comunicación se sitúan en el centro del debate. En los estudios de Periodismo de la UMH somos conscientes de la necesidad de adaptarse a los cambios, de despertar vocaciones emprendedoras y de publicar buenas historias, sin perder de referencia la calidad en los contenidos. **Desde el nacimiento del Máster de Innovación en Periodismo**, nuestro lema continúa en alza: [Idea, diseña, emprende](http://mip.umh.es/blog/2013/01/07/ocho/).
+
+Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/Q6nokbkCJdJCQbqSA).

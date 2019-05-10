@@ -19,7 +19,7 @@ Buena parte de los profesionales entrevistados trabajan en los medios selecciona
 
 ![Libro como innovar en periodismo]({{ site.baseurl }}/images/shots/libro-como-innovar.jpg)
 
-##Lo sentimos, ya finalizó el plazo de descarga gratuita.
+Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/mjAmw89FPzrnK1Gj9).
 
 <br>
 
@@ -78,7 +78,7 @@ Como se dice en estas páginas, innovar en periodismo consiste en trabajo más q
 
 * **Miriam Hernanz**, directora, RTVE Lab
 
-* **Paolo Fava**, editor de _newsletters, El Español
+* **Paolo Fava**, editor de _newsletters_, El Español
 
 * **Pau Llop**, director, Next Media y Bottup
 
@@ -87,5 +87,6 @@ Como se dice en estas páginas, innovar en periodismo consiste en trabajo más q
 * **Pere Rusiñol**, socio, Revista Mongolia
  
 
- 
+ Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/mjAmw89FPzrnK1Gj9).
+
 
