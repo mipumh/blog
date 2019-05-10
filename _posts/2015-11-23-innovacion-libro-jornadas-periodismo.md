@@ -17,7 +17,7 @@ Esta obra inicia una colección de publicaciones del [**Máster de Innovación e
 
 ![]({{ site.baseurl }}/images/shots/portada_libro_innovar.jpg)
 
-##Lo sentimos, ya finalizó el período de descarga gratuita.
+Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/KN5AHXC2zJNj3SwZ9).
 
 <br>
 
@@ -56,3 +56,5 @@ También se incluyen una serie de artículos a cargo de especialistas:
 - **Economía del periodismo: modelos de negocio en la era de las plataformas**, Miguel Carvajal, Universidad Miguel Hernández.
 
 Se puede afirmar que la necesidad agudiza el ingenio: buena parte de los proyectos más innovadores son promovidos por quienes perdieron su trabajo a raíz de la crisis económica que asola España desde 2008. Como se refleja en el Ranking de Innovación Periodística, entre los más innovadores destacan diversos medios nativos digitales,  iniciativas de nicho, proyectos basados en fundaciones, revistas para iPad y startups tecnológicas.
+
+Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/KN5AHXC2zJNj3SwZ9).
