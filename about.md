@@ -10,11 +10,11 @@ author:
   link: https://twitter.com/mipumh
 permalink: /about/
 ---
-Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es/?utm_source=blogabout&utm_campaign=about) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en modalidad 100% online y en versión presencial. En este blog seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
+Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es/?utm_source=blogabout&utm_campaign=about) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en **modalidad 100% online**. En este blog seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
 
 ## Editor
 
-<section class="index"><img src="{{ site.baseurl }}/images/jga.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/jagaraviles" title="José Alberto García Avilés" target="_blank">José A. Gª Avilés</a></strong><br><span class="muted">Periodista y profesor titular de Periodismo en la Universidad Miguel Hernández, de Elche. Doctor en Comunicación y Bachelor en Artes Liberales por la Universidad de Dublín.</span></p></div></section>
+<section class="index"><img src="{{ site.baseurl }}/images/jga.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/jagaraviles" title="José Alberto García Avilés" target="_blank">José A. Gª Avilés</a></strong><br><span class="muted">Periodista y Profesor Catedrático de Periodismo en la Universidad Miguel Hernández de Elche. Doctor en Comunicación y Bachelor en Artes Liberales por la Universidad de Dublín.</span></p></div></section>
 
 ## ¿En qué consiste el Máster?
 	
