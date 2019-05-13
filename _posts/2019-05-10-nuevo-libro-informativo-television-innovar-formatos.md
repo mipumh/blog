@@ -33,7 +33,9 @@ Finalmente, recogemos **las diez principales conclusiones** que podemos extraer 
 
 Agradecemos a todos los ponentes su colaboración en estas Jornadas, así como a los profesionales y académicos que nos han hecho llegar sus propuestas.  Ojalá estas ideas sirvan para seguir alimentando el debate sobre cómo reinventar unos formatos que satisfagan las necesidades de las audiencias en el ecosistema mediático actual.
 
-Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/LogmcEhSTBAPL4Ek9).
+Si te interesa, aquí puedes obtener el libro gratuitamente:
+
+<a href="https://forms.gle/LogmcEhSTBAPL4Ek9" class="btn btn-primary btn-lg btn-block" target="_blank">Descargar</a>
 
 **La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales**
 
@@ -100,4 +102,6 @@ Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https:
 
 ### 4. CONCLUSIONES
 
-Si te interesa, [pinchando aquí puedes descargar el libro gratuitamente](https://forms.gle/LogmcEhSTBAPL4Ek9).
+Si te interesa, aquí puedes obtener el libro gratuitamente:
+
+<a href="https://forms.gle/LogmcEhSTBAPL4Ek9" class="btn btn-primary btn-lg btn-block" target="_blank">Descargar</a>
