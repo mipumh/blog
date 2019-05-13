@@ -43,7 +43,7 @@ Si te interesa, aquí puedes obtener el libro gratuitamente:
 
 ### 1. PONENCIAS
 
-- Panorama de la información televisiva. Borja Teherán, crítico de televisión, lainformacion.com
+- Panorama de la información televisiva. Borja Terán, analista de televisión, lainformacion.com
 
 - Claves para divulgar: el informativo infantil y juvenil InfoK. Miquel Piris, periodista del InfoK, CCMA
 
