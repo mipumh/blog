@@ -48,7 +48,7 @@ En estos poco más de 100 días, éste es el balance del Local Data Lab:
 
 ### ¿Qué repercusión ha tenido?
 
-Sin duda, es la tarea pendiente. Las condiciones ya están más claras en la web [ENLACE AL (RE)PUBLICA]. Pero de momento el Local Data Lab se ha difundido en:
+Sin duda, es la tarea pendiente. Las [condiciones ya están más claras en la web](https://localdatalab.umh.es/republica). Pero de momento el Local Data Lab se ha difundido en:
 
 * Media decena de [publicaciones de Tele Elx](https://teleelx.es/2019/04/20/asi-hemos-votado-los-ilicitanos-en-las-generales-de-la-ultima-decada/), la televisión líder de la ciudad y uno de los referentes en la web ilicitana.
 
