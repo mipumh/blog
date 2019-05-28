@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El periodismo de datos será local(izado) (2)&#58 el Local Data Lab
-excerpt: "Lo que ahora conocemos como periodismo de datos no se entiende sin el Datablog de The Guardian, un repositorio que cumple una década difundiendo visualizaciones y datasets. Y Jonathan Gray y Paul Bradshaw, dos de los grandes popes de este mundillo, trabajan en Londres y Birmingham respectivamente. No es ninguna sorpresa, por lo tanto, que el periodismo británico esté ahora en la vanguardia de uno de los grandes filones de esta especialidad: los datos locales."
+excerpt: "Un grupo de correo, un seminario sin créditos ECTS, una guerrilla de periodismo local, un taller de análisis de datos, un par de mini hackatones, un laboratorio. El Local Data Lab UMH aún no ha cumplido 4 meses, así que no es fácil definirlo. Quizás se entienda mejor con estas preguntas frecuentes."
 author:
   name: Félix Arias
   twitter: cibermensaje
