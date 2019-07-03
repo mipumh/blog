@@ -2,7 +2,7 @@
 layout: post
 title: Cuatro cosas que podemos aprender del modelo de negocio de El Confidencial
 subtitle: El éxito de su estrategia tiene más que ver con una propuesta de valor clara a un mercado bien definido, en equilibrio con los recursos, la marca y la misión de la empresa
-excerpt: "Verificar está de moda. Desde hace más de diez años, numerosas empresas periodísticas han surgido con el único fin de luchar contra la desinformación. En Estados Unidos, cabeceras como Snopes, Politifact o FactCheck.org llevan desmintiendo bulos desde la década del 2000 y esta costumbre se ha internacionalizado con el paso del tiempo, desde Latinoamérica hasta el Reino Unido. No obstante, el fenómeno de la verificación no llegó a España hasta hace unos pocos años, principalmente gracias al programa El Objetivo de LaSexta. Después se sumaron Maldita.es, La Chistera de El Confidencial o Newtral, y, hace poco más de un mes, con motivo del Día Internacional del Fact-checking, arrancó la primera plataforma de verificación en Catalán (Verificat)."
+excerpt: "Que los medios deben repensar sus modelos de negocio no es ninguna novedad. Como señala Daniel Muñoz, jefe de Producto de El Confidencial, la huida del mercado publicitario hacia otras plataformas obliga a las empresas periodísticas a prestarle más atención que nunca a sus lectores. Pero esta nueva tendencia global hacia los modelos de pago de los usuarios puede suponer un giro al vacío si no se desarrolla un cambio global del modelo."
 author:
   name: Dámaso Mondéjar
   twitter: Monde97
