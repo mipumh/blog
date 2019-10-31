@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cuatro cosas que podemos aprender del modelo de negocio de El Confidencial
-subtitle: El éxito de su estrategia tiene más que ver con una propuesta de valor clara a un mercado bien definido, en equilibrio con los recursos, la marca y la misión de la empresa
+subtitle: "El éxito de su estrategia tiene más que ver con una propuesta de valor clara a un mercado bien definido, en equilibrio con los recursos, la marca y la misión de la empresa"
 author:
   name: Dámaso Mondéjar
   twitter: Monde97
