@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Virginia Luzón, experta en nuevos formatos (UAB)&#58 "Vivimos en una burbuja informativa, al igual que en otra en la ficción, que puede resultar algo perversa"
-excerpt: "Virginia Luzón es profesora de Teoría y técnica de televisión y de Narrativa audiovisual en la Facultad de Comunicación de la Universidad Autónoma de Barcelona, donde actualmente es vicerrectora de Comunicación y Promoción. Ha trabajado como periodista en Televisión Española, TV3 y las productoras Líneas de ideas, Quart Televisió y CNR Televisión. La profesora Luzón investiga desde hace años sobre nuevos formatos audiovisuales. Recientemente ha impartido un seminario en la Universidad Miguel Hernández de Elche titulado 'La fragmentación en la distribución audiovisual y la narrativa. Cuando un algoritmo decide entre las fronteras difusas de los géneros'."
 author:
   name: Alba Ortega
   twitter: albagortega
