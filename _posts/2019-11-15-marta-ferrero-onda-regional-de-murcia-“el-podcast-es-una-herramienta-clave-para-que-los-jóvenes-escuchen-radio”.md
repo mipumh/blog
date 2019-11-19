@@ -5,7 +5,7 @@ title: >-
   para que los jóvenes escuchen radio”
 author:
   name: Marina Cantó
-  twitter: jagaraviles
+  twitter: marinaCL7
   gplus:  
   bio: Estudiante Periodismo UMH
   image: marina.png
