@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Diccionario de los modelos de negocio periodísticos (Parte I)
-categories: >-
-  modelos de negocio para el periodismo, economía de los medios de comunicación,
-  fuentes de ingresos para el periodismo
 author:
   name: Cristian R. Marín
   twitter: crms74
