@@ -70,3 +70,5 @@ El Tour de Francia, la competición ciclista más veterana, nació en 1903. Su t
 ![]({{ site.baseurl }}/images/shots/the-story-behind-an-identity-theft.jpg)
 
 **[The story behind an identity theft](https://pointer.kro-ncrv.nl/artikelen/het-verhaal-achter-een-identiteitsroof#lang=en) Pointer**
+
+“Al acecho detrás de un simple correo electrónico en nuestra bandeja de entrada, detectamos una red de sitios web falsos, empresas de direcciones fantasma y más de cien víctimas en todo el mundo”. La investigación desmantela una red de cuentas falsas y el rastro digital conduce hasta dos estafadores daneses. Este formato interactivo revela, de forma muy original, cómo los periodistas fueron rastreando las pistas, paso a paso, hasta desvelar la estafa. [Pointer](https://pointer.kro-ncrv.nl/) es la unidad de periodismo de datos de la [radiotelevisión pública holandesa KRO-NCRV](https://www.kro-ncrv.nl/). 
