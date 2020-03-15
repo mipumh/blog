@@ -8,7 +8,7 @@ title: >-
 author:
   name: Raul Magallón
   twitter: raulmagallon
-  bio: Profesor UC3
+  bio: Profesor UC3M
   image: magallon.jpg
   link: https://twitter.com/raulmagallon  
 ---
