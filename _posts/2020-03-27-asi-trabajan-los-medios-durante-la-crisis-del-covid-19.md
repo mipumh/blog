@@ -17,7 +17,7 @@ Para cualquier medio de comunicación, cubrir una pandemia sanitaria y un estado
 
 En muchos medios, todas las secciones destinan la mayor parte de sus recursos a la cobertura de la emergencia sanitaria y sus repercusiones en distintas facetas de nuestra vida. Una parte del músculo periodístico se dedica a la información sobre el día a día de la crisis, y otra parte profundiza en los temas de agenda propia, con contenidos de análisis, explicativos y testimoniales. Por ejemplo, [El País ha duplicado el equipo de la sección de Sociedad](https://elpais.com/sociedad/2020-03-14/el-pais-redobla-su-cobertura-de-la-crisis-en-todos-los-soportes.html), que elabora la mayor parte de las noticias sobre incidencias y recomendaciones comunicadas por las autoridades sanitarias, así como todo el contenido relacionado con la salud pública. A la cobertura de los periodistas especializados en información sanitaria se unen las informaciones de otros redactores de sociedad, ciencia, política, economía, cultura y deportes, así como las crónicas de los corresponsales.
 
-![]({{ site.baseurl }}/images/shots/redaccion-el-diario-montanes.jpg)
+![]({{ site.baseurl }}/images/shots/montanes.jpg)
 
 <sup>**Redacción de El Diario Montañés en Santander (El Diario Montañés)**
 
