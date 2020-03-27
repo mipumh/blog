@@ -9,7 +9,7 @@ author:
   image: jga.jpg
   link: https://twitter.com/jagaraviles
 ---
-Redacciones vacías, planes de contingencia, equipos que trabajan desde casa, medidas de higiene extraordinarias… Medios y periodistas se están volcando para ofrecer la información sobre el estado de alarma generado por la pandemia del Coronavirus en nuestro país. El periodismo ejercido con responsabilidad desempeña un valioso servicio público para mantener informados a la sociedad. En esta crisis, la cobertura y la agenda informativa han cambiado, así como las necesidades de comunicación. Ante el riesgo de contagio, los medios modifican sus procesos de trabajo y establecen protocolos para no exponer la salud de los profesionales y sus familiares.
+Redacciones vacías, planes de contingencia, equipos que trabajan desde casa, medidas de higiene extraordinarias… Medios y periodistas se están volcando para ofrecer la información sobre el estado de alarma generado por la pandemia del Coronavirus en nuestro país. El periodismo ejercido con responsabilidad desempeña un valioso servicio público para mantener informada a la sociedad. En esta crisis, la cobertura y la agenda informativa han cambiado, así como las necesidades de comunicación. Ante el riesgo de contagio, los medios modifican sus procesos de trabajo y establecen protocolos para no exponer la salud de los profesionales y sus familiares.
 
 **Un trabajo titánico de coordinación**
 
