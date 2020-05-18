@@ -8,7 +8,7 @@ author:
   name: Luis M. Pedrero
   twitter: luismipedrero
   gplus:  
-  bio: Catedrático de Periodismo
+  bio: Catedrático en la Facultad de Comunicación y Artes de la Universidad Nebrija
   image: luismi.jpg
   link: https://twitter.com/luismipedrero
 ---
