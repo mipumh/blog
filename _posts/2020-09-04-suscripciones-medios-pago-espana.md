@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El País alcanza los 63.000 suscriptores digitales, solo cuatro meses después, y lidera una esperanzadora tendencia al pago por periodismo en España
+title: El País alcanza los 64.000 suscriptores digitales, solo cuatro meses después, y lidera una esperanzadora tendencia al pago por periodismo en España
 subtitle: Lista actualizada de algunos medios con el número de lectores suscriptores, socios o amigos que pagan de manera regular por acceder o apoyar su trabajo periodístico
 author:
   name: Miguel Carvajal
