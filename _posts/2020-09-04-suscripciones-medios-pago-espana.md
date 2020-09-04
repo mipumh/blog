@@ -9,7 +9,7 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
-El panorama de los medios con lectores de pago es cada vez más esperanzador para el periodismo en España, tras el [descalabro publicitario de la pandemia en primavera](https://mip.umh.es/blog/2020/05/11/impacto-covid-19-economia-periodismo/). El País supera ya los 64.000 lectores de pago en datos de septiembre 2020, tan solo cuatro meses después de implantar su modalidad de suscripción. El Mundo, que en noviembre hará un año tras su lanzamiento, ha alcanza ya los 50.000, siendo cerca de la mitad de esos suscriptores anuales. 
+El panorama de los medios con lectores de pago es cada vez más esperanzador para el periodismo en España, tras el [descalabro publicitario de la pandemia en primavera](https://mip.umh.es/blog/2020/05/11/impacto-covid-19-economia-periodismo/). El País supera ya los 64.000 lectores de pago en datos de septiembre 2020, tan solo cuatro meses después de implantar su modalidad de suscripción. El Mundo, que en noviembre hará un año tras su lanzamiento, ha alcanzado ya los 50.000, siendo cerca de la mitad de esos suscriptores anuales. 
 
 ### Medios con lectores de pago (suscriptores o socios) en España:
 
@@ -34,7 +34,7 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
       <td><a href="http://eldiario.es/">eldiario.es</a></td>
       <td>56.000</td>
       <td>2012</td>
-      <td>junio, 2020</td>
+      <td>julio, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.elmundo.es/">El Mundo</a></td>
@@ -64,7 +64,7 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
       <td><a href="https://www.elconfidencial.com/">El Confidencial</a></td>
       <td>15.000</td>
       <td>2020</td>
-      <td>junio, 2020</td>
+      <td>julio, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.vilaweb.cat/">VilaWeb</a></td>
@@ -76,13 +76,13 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
       <td><a href="https://www.infolibre.es/">Infolibre</a></td>
       <td>12.800</td>
       <td>2013</td>
-      <td>octubre, 2019</td>
+      <td>septiembre, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.elespanol.com/">El Español</a></td>
-      <td>11.000</td>
+      <td>12.000</td>
       <td>2015</td>
-      <td>enero, 2020</td>
+      <td>septiembre, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.publico.es/">Público</a></td>
@@ -103,9 +103,15 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
       <td>septiembre, 2020</td>
     </tr>
     <tr>
+      <td><a href="https://ctxt.es/">Contexto (ctxt)</a></td>
+      <td>6.000</td>
+      <td>2015</td>
+      <td>agosto, 2020</td>
+    </tr>
+    <tr>
       <td><a href="https://www.diariosur.es/">Sur</a></td>
       <td>5.480</td>
-      <td>2015</td>
+      <td>2019</td>
       <td>septiembre, 2020</td>
     </tr>
     <tr>
@@ -120,7 +126,13 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
       <td>2013</td>
       <td>septiembre, 2020</td>
     </tr>
-  </tbody>
+    <tr>
+      <td><a href="#gid=0&amp;range=A19">Pikara</a></td>
+      <td>2.200</td>
+      <td>2020</td>
+      <td>julio, 2020</td>
+    </tr>
+   </tbody>
 </table>
 </div>
 
