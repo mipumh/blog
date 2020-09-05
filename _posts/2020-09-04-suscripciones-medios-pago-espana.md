@@ -98,7 +98,7 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
     </tr>
     <tr>
       <td><a href="https://www.diariovasco.com/">El Diario Vasco</a></td>
-      <td>7.000</td>
+      <td>10.400</td>
       <td>2015</td>
       <td>septiembre, 2020</td>
     </tr>
@@ -138,10 +138,12 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
 
 <sup> Fuente: elaboración propia.
 
-Fuentes internas de El País confirman que el diario tiene ya 107.000 suscriptores, de los cuales 64.000 son digitales. Este dato, sumado al de El Mundo, y al fuerte repunte de eldiario.es (56.000), revelan que el mercado del pago por la información periodística está despertando. Los periódicos de referencia se incorporaron tarde (el de Unidad Editorial en 2019, el de Prisa en 2020) al proceso de transformación del modelo de negocio digital. Vocento y Prensa Ibérica ya inauguraron esta tendencia en 2015 y 2014, con ensayos en algunas de sus cabeceras más legendarias.
+Fuentes internas de El País confirman que el diario tiene ya 110.000 suscriptores, de los cuales 64.000 son exclusivamente digitales. Con respecto a los periódicos El Mundo (Unidad Editorial), El Correo, El Diario Vasco, SUR (Vocento) y ARA, la cifra recogida se corresponde con un consolidado de suscriptores con acceso a la versión digital, algunos procedentes de otros productos (Orbyt, Kiosko y Más y papel), aparte de los exclusivos digitales. La cabecera de PRISA es la única de los impresos que muestra el dato desagregado. 
+
+En todo caso, el dato de El País (64.000), sumado al de El Mundo, y al fuerte repunte de eldiario.es (56.000), revelan que el mercado del pago por la información periodística está despertando. Los periódicos de referencia se incorporaron tarde (el de Unidad Editorial en 2019, el de Prisa en 2020) al proceso de transformación del modelo de negocio digital. Vocento y Prensa Ibérica ya inauguraron esta tendencia en 2015 y 2014, con ensayos en algunas de sus cabeceras más legendarias.
 
 Los medios nativos digitales fueron pioneros en la introducción de esta modalidad, especialmente el periódico fundado por Nacho Escolar en 2012, si descontamos la iniciativa de los regionales Ara (2010) y VilaWeb (2004). Más tarde se incorporaron los proyectos nacidos tras la desaparición del viejo Público, Infolibre (2013), La Marea (2013) y Público, digital, (2018). El resultado global es un cuadro esperanzador, que, más allá de peleas y vanidades, confirma que el camino adecuado para el periodismo en tiempos pandémicos es orientar el producto de manera prioritaria a los lectores. 
 
 _Post en construcción_. Si quieres actualizar algún dato de la tabla o tienes alguna otra información relevante sobre la materia, escríbeme a [@mcarvajal_](https://twitter.com/mcarvajal_).
 
-Actualizado: 4 de septiembre de 2020.
+Actualizado: 5 de septiembre de 2020.
