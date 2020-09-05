@@ -93,8 +93,8 @@ El panorama de los medios con lectores de pago es cada vez más esperanzador par
     <tr>
       <td><a href="https://www.diariovasco.com/">El Diario Vasco</a></td>
       <td>10.400</td>
-      <td>2015</td>
-      <td>septiembre, 2020</td>
+      <td>2016</td>
+      <td>abril, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.elsaltodiario.com/">El Salto</a></td>
