@@ -23,7 +23,6 @@ Un caso particular es el de The Guardian. Su estrategia ha sido pivotar mediante
 
 <sup>Imagen: The Guardian Mobile Innovation Lab
 
-{{ site.baseurl }}
 **Solos dos labs se salvan de la crisis en España**
 
 Los laboratorios de medios en nuestro país han vivido experiencias desiguales. El RTVE Lab surgió en 2011 con el objetivo de innovar en la producción de formatos audiovisuales. En 2013 nacieron el Laboratorio de Innovación Periodística del Diario de Navarra (DN Lab) y El Confidencial.LAB. En 2014, el Grupo Vocento lanzó un laboratorio destinado a sus medios regionales. Y en marzo de 2018, [El País estrenó su lab](https://elpais.com/politica/2018/03/02/actualidad/1520017017_633593.html), “una incubadora de innovación para contar historias con una filosofía nativamente digital”. Cada uno posee objetivos distintos, una estructura diversa y resultados muy diferentes. **Y dos de ellos ya no siguen operativos**: el DNLab del Diario de Navarra cerró en junio de 2017 y el Vocento Media Lab cesó su actividad en 2019.
