@@ -18,16 +18,11 @@
     {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}       
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    {% if page.cover_image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
-    {% if page.main_image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>  
-    {% endif %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>   
-    {% endif %}
+    <meta property="og:image" content="https://mip.umh.es/blog/images/shots/innovacion-medios-comunicaci%C3%B3n_ppal.jpg"/>   
     {% if page.excerpt %}
     <meta property="og:description" content="{{ post.excerpt | strip_html }}"/>
-    <meta name="description" content="{{ post.excerpt | strip_html }}"/>
+    {% else %}
+    <meta name="description" content="Noticias y pistas del Máster en Innovación en Periodismo, un postgrado oficial de la Universidad Miguel Hernández que se imparte 100% online. En este blog seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales que lideran una industria en cambio constante"/>
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">
     <meta property="fb:admins" content="1174442148"/>
