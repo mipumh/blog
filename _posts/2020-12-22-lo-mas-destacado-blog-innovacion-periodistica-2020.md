@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resumen de 2020: los artículos sobre innovación periodística más destacados del blog
+title: "Resumen de 2020: los artículos sobre innovación periodística más destacados del blog"
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
