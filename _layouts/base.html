@@ -39,8 +39,8 @@
     <meta name="twitter:site" content="@mipumh"/>
     <meta name="twitter:creator" content="@{{ page.author.twitter }}"/>
     <meta name="twitter:title" content="{{ page.title }}"/>
-    <meta name="twitter:description" content="{{ post.excerpt | strip_html }}"/>
-    <meta name="twitter:image" content="{% assign foundImage = 0 %}{% assign images = post.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}<img {{ html }} />{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}">
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}"/>
+    <meta name="twitter:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}{{ site.url }}{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}>
 
 
     <!-- Facebook Pixel Code -->
