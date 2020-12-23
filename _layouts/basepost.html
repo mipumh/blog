@@ -18,17 +18,8 @@
     {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}       
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    {% if page.cover_image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
-    {% if page.main_image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>  
-    {% endif %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>   
-    {% endif %}
-    {% if page.excerpt %}
-    <meta property="og:description" content="{{ post.excerpt | strip_html }}"/>
-    <meta name="description" content="{{ post.excerpt | strip_html }}"/>
-    {% endif %}
+    <meta property="og:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}https://mip.umh.es{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}/>  
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}"/>
     <meta property="og:site_name" content="{{ site.inc.title }}">
     <meta property="fb:admins" content="1174442148"/>
     <meta property="fb:pages" content="541562072554836"/>
@@ -40,7 +31,7 @@
     <meta name="twitter:creator" content="@{{ page.author.twitter }}"/>
     <meta name="twitter:title" content="{{ page.title }}"/>
     <meta name="twitter:description" content="{{ page.excerpt | strip_html }}"/>
-    <meta name="twitter:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}https://mip.umh.es{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}"/>
+    <meta name="twitter:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}https://mip.umh.es{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}/>
 
     <!-- Facebook Pixel Code -->
     <script>
