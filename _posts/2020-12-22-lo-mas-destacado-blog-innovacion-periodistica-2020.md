@@ -99,5 +99,3 @@ Hablar de nuevos medios y de proyectos periodísticos en lengua española es hac
 ## [¿Cómo se construye la innovación? 10 claves para la organización de medios digitales que buscan la sostenibilidad](https://mip.umh.es/blog/2020/12/02/como-se-construye-la-innovacion-10-claves-organizacion-medios-digitales-sostenibilidad/)
 
 La innovación en los medios se ha identificado habitualmente con la implementación de tecnologías emergentes. Sin embargo, numerosos estudios han desmentido esta concepción tecno-determinista. Los avances tecnológicos posibilitan y motivan la adopción de algunas iniciativas novedosas, pero existen otras muchas posibilidades para mejorar los productos informativos que poco o nada tienen que ver con este factor. De hecho, el Ranking de Innovación Periodística publicado por el grupo de investigación GICOV de la UMH registraba que el 44,4 % de las innovaciones adoptadas por los medios españoles no dependían en grado alguno de la tecnología.
-
-<!--EndFragment-->
