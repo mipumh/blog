@@ -33,14 +33,14 @@
     <meta property="fb:admins" content="1174442148"/>
     <meta property="fb:pages" content="541562072554836"/>
 
-      <!-- Jekyl Seo TAG -->
+  <!-- Jekyl Seo TAG -->
             
     <meta name="twitter:card" content="summary_large_image">    
     <meta name="twitter:site" content="@mipumh"/>
-    <meta name="twitter:title" content="Blog"/>
-    <meta name="twitter:description" content="Noticias y pistas del Máster en Innovación en Periodismo"/>
-    <meta name="twitter:image" content="https://mip.umh.es/blog/images/shots/innovacion-medios-comunicaci%C3%B3n_ppal.jpg"/>
-
+    <meta name="twitter:creator" content="@{{ page.author.twitter }}"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}"/>
+    <meta name="twitter:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}https://mip.umh.es{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}"/>
 
     <!-- Facebook Pixel Code -->
     <script>
