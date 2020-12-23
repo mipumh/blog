@@ -14,6 +14,19 @@ layout: base
                 {% if post.author.image %}<img src="{{ site.baseurl }}/images/{{ post.author.image }}" class="avatar">{% endif %}
                     <div>
                         <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} class="img-fluid img-rounded" alt="{{ post.title }}" />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
                         <p>{{ post.excerpt | strip_html }}</p>
                         <div class="meta">
                             <address>{{ post.author.name }}</address> &mdash;
