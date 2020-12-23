@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selección de las mejores publicaciones sobre innovación en periodismo de 2020
+title: Resumen de 2020: los artículos sobre innovación periodística más destacados del blog
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
