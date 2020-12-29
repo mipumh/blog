@@ -39,7 +39,7 @@ Empezó a ejercer en [El Mundo](http://www.elmundo.es/) en los años 80, cuando 
 
 Realizadora de documentales y paquetes multimedia. Española afincada en México, ha dirigido y producido trabajos para [National Geographic](http://www.nationalgeographic.com.es/), [Associated Press](http://www.ap.org/), [Discovery Channel](http://www.discoverychannel.es/), [Human Rights Watch](https://www.hrw.org/es), [MediaStorm](http://mediastorm.com/) y [RTVE](http://www.rtve.es/). En la actualidad, [trabaja en](http://elpais.com/autor/alba_mora_roca/a) [El País América](https://twitter.com/elpais_america) e imparte clases de producción de **vídeo digital media** y **storytelling interactivo**. 
 
-![image alt text]({{ site.baseurl }}/images/shots/image_0.jpg)
+![]({{ site.baseurl }}/images/shots/image_0.jpg)
 
 ### Maria Cristina Fernandes
 

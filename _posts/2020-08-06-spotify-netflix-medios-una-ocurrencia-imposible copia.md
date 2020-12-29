@@ -13,7 +13,7 @@ Cada vez que un diario anuncia que cobrará por el acceso a sus contenidos, algu
 
 La realidad es que **ese fenómeno no se ha dado nunca, ni se dará**, tal y como lo ansían estas mentes preclaras. Imaginan este "Netflix de medios" —otra de las variantes— como una suerte de plataforma con toda la oferta periodística de pago en un mercado determinado. En este artículo expongo las razones económicas y empresariales que impiden que el invento pueda funcionar alguna vez.
 
-![image alt text]({{ site.baseurl }}/images/shots/liquidflix.jpg)
+![]({{ site.baseurl }}/images/shots/liquidflix.jpg)
 <sup> Fuente: MIP
 
 Antes de entrar en detalle, conviene hacer una **enmienda total** a los ilustrados que proponen esta alternativa: ni siquiera Netflix o Spotify son, objetivamente, las súper plataformas aglutinadoras de todos los contenidos de entretenimiento audiovisual o musical disponibles. Compiten entre ellas y con HBO, Amazon, Hulu, Disney+, Movistar, Apple, entre otros. En todo caso, ignoramos este pequeño gran detalle y abordamos las razones que lo impiden.
