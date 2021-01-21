@@ -18,7 +18,7 @@ La plataforma de retransmisiones en directo de Amazon, Twitch, gana popularidad 
 
 ![]({{ site.baseurl }}/images/shots/ibai-llanos-gassol.jpg)
 
-<sup>**Ibai Llanos charla con Mar Gassol en su canal de Twitch**.
+<sup>**Ibai Llanos charla con Marc Gassol en su canal de Twitch**.
 
 [Ibai Llanos](https://twitter.com/IbaiLlanos) (Bilbao, 1995), es presentador en G2 Esports y creador de contenido en [Twitch](https://www.twitch.tv/ibai) y [YouTube](https://www.youtube.com/channel/UCaY_-ksFSQtTGk0y1HA_3YQ). En 2014 inició su andadura en la *Liga de Videojuegos Profesional*. En febrero de 2020 dejó su trabajo en la LVP para pasar a ser creador de contenido en exclusiva para el equipo G2 Esports. En su etapa como *streamer* organizó *La Liga Santander Challenge*, un evento benéfico emitido durante el confinamiento por la COVID-19 que logró más de un millón de espectadores y recaudó 180.000 euros para causas benéficas, e *Ibaivisión*, un concurso musical para artistas de diversas comunidades autónomas. En la actualidad se dedica [a la creación de contenido en Twitch y diferentes acciones comunicativas.](https://www.vozpopuli.com/gritos/ibai-llanos-novia-altura-messi_0_1422158054.html) Durante el 2020, **Ibai Llanos** entrevistó al Kun Agüero, David Broncano o Marc Gasol, quien anunció en exclusiva su marcha de Toronto Raptors a Los Angeles Lakers. Según las estadísticas, es el *streamer* con más seguidores en España y uno de los más seguidos a nivel mundial. Despidió el 2020 dando las campanadas en Twitch [y reunió a más de 500.000 espectadores](https://www.elconfidencial.com/tecnologia/2021-01-01/ibai-llanos-twitch-camapanadas-nochevieja_2892303/), llegando a superar la emisión de Cuatro y la Sexta.
 
