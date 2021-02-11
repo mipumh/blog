@@ -1,0 +1,136 @@
+I"�[<p><img src="https://lh5.googleusercontent.com/4SmRoa_LArQdnR7BNaDGy59VOrbq8d6-m2tawDVseTm_A-QkR7StDEnqZ8gJqDaBlVwyOF3dS8O9_7pVKBBe2Z2bC4SUy9MQ5b_v60Q373iYF7lpOyJps9_xY_0mXBIfpgxE325X" alt="Fuente: Data Journalism Handbook" title="Fuente: Data Journalism Handbook" /></p>
+
+<p>Vamos a dejar a un lado <a href="https://www.xataka.com/otros/china-incorpora-la-programacion-en-los-esquemas-educativos-de-ninos-a-partir-de-los-6-anos">lo que están haciendo en la educación infantil de China</a> desde hace años, <a href="https://www.infobae.com/educacion/2018/09/13/todas-las-escuelas-estaran-obligadas-a-ensenar-programacion-y-robotica/">los avances de Argentina</a> y, aunque todavía sólo con cuentagotas, <a href="https://www.eldigitaldealbacete.com/2020/06/16/la-escuela-superior-de-ingenieria-informatica-de-albacete-ensena-a-estudiantes-de-secundaria-a-programar-desde-casa/">los progresos en España</a>. Vamos a olvidarnos también <a href="https://www.vogue.es/living/articulos/aprender-programar-hobby-informatica">de las modas</a> y los debates enconados en el seno del periodismo, con <a href="https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists">ataques de memes</a> y <a href="https://www.theatlantic.com/education/archive/2013/10/should-journalism-schools-require-reporters-to-learn-code-no/280711/#article-comments">de romanticismo</a> incluidos. Y vamos a dejar para más adelante (aunque habrá referencias y no pocas) los listados de herramientas y recursos.</p>
+
+<p>La pregunta de este artículo no es ni mucho menos nueva, pero muchas respuestas han servido para poco. Sobre todo, porque como precisó el periodista Jorge González, no es posible encontrar una respuesta única para una profesión sumamente compleja y diversa (como todas si se mira de cerca, supongo). Por no hablar de generalizar sobre la programación cuando existen diversos lenguajes y múltiples enfoques y formas de aplicarlos.</p>
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Qué tipo de periodista? Redactor, reportero, editor, de datos, gráfico (fotógrafo), visual, online, offline...</p>&mdash; Jorge González (@tuitertuliano) <a href="https://twitter.com/tuitertuliano/status/1356609208217706497?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+<p>Este análisis pretende acercarse a una respuesta más práctica. Y lo hará con el permiso de una herramienta clásica de la economía. En esta especie de fórmula, por un lado estarán los beneficios que la programación puede aportar al periodista; por otro, los costes (los recursos que implican aprender a dominar sus lenguajes). Cuando esté perfilada (porque esto es solo un punto de partida), espero que ayude a que un periodista valore si le compensa aprender a programar en función de las actividades que realice (o aspire a desarrollar).</p>
+
+<h1 id="beneficios">Beneficios</h1>
+
+<p>Para organizar las ideas, vamos a categorizar los beneficios en lo que podemos considerar las tres principales fases del trabajo del periodista: buscar, procesar y transmitir contenidos. Algo similar señalaban en Interhacktives, aunque limitando las fases al análisis y la visualización, en esta más que recomendable <a href="http://www.interhacktives.com/2020/02/25/the-journalists-guide-to-coding-part-i/">guía para que los periodistas comiencen a picar código</a>.</p>
+
+<p>Además, nos vamos a centrar en los cinco lenguajes más comunes y asequibles entre los periodistas: HTML, CSS, Python, R y JavaScript. Si quieres empezar a dejarte convencer, al menos de la idoneidad de estos lenguajes, yo empezaría con esta <a href="https://medium.com/@micco.markovic/the-guide-for-learning-programming-for-data-journalists-from-the-real-journalist-i-mean-no-geek-9fac6e427300">guía para que cualquier “periodista ordinario” se adentre en la programación</a> de Miodrag Marković.</p>
+
+<h2 id="1-buscar">1. Buscar</h2>
+
+<p>Qué periodista no sueña con encontrar temas y enfoques que destaquen sus contenidos por encima del resto. No hablamos de formatos (todavía), sino de historias exclusivas. Explotar el big data y la automatización, y ahí R y Python son clave, puede servir para descubrir decenas de contenidos que pasarían desapercibidos o se perderían en la superficialidad.</p>
+
+<p>En la unidad de datos de El País, por ejemplo, con Daniele Grasso, Kiko Llaneras y Borja Andrino a la cabeza, es ya común trabajar con R en lugar de hojas de cálculo para sacar temas como <a href="https://elpais.com/ccaa/2019/01/30/madrid/1548865629_320905.html?rel=mas">éste sobre el tráfico en Madrid</a>. También en España, aunque en los márgenes de los medios, las mejores bases de datos sobre el coronavirus también utilizan scripts de R, como <a href="https://github.com/montera34/escovid19data">ésta de Montera34</a> (en contraste con el <a href="https://twitter.com/MaxCRoser/status/1313046638915706880">sonado colapso de los datos de Reino Unido por usar Excel</a>).</p>
+
+<p>Paradójicamente, la tendencia de explotar estos lenguajes es más clara en las islas británicas. Proyectos <a href="https://mip.umh.es/blog/2019/03/05/periodismo-datos-localizado-reino-unido/">punteros en el periodismo local como The Reach, Bureau Local, BBC Shared Data Unit o Radar</a> se basan en Python y R para sobresalir entre el resto. Más allá del charco, el repositorio de Fivethirtyeight en GitHub refleja cómo la gran mayoría de sus trabajos se basan en Jupyter Notebook, un proyecto que principalmente se basa en Python y R.</p>
+
+<p><img src="https://lh5.googleusercontent.com/sLaaAQUQwgaee1o0YfaporVnSeHazSt9JVe3-wlsfcjzUFQAXta77MnLSU7TuoOIglIDN8FX2ueeRRRJoV-wCblh9OMISCaEbaLlcQRd7g0TsQOmMSIFmiuucBmbOeCfREcK-RTy" alt="" /></p>
+
+<p>No podemos olvidarnos de <a href="http://bepolit.es/">Bepolit</a>, lanzado por nuestro Miguel Carvajal, un robot que rastrea, jerarquiza y publica miles de enlaces para reflejar los contenidos más relevantes en Twitter. <a href="https://twitter.com/mcarvajal_/status/1341157041130401794">Está programado</a> con Jekyll (escrito en Ruby) y se basa en T-Hoarder, que Mariluz Congosto desarrolló con Python.</p>
+
+<p>Además de estos casos concretos, aprender a programar puede aportar a un periodista (como a cualquiera) nuevas formas de pensar. Tim Cook dijo en su día que el código es <a href="https://www.baquia.com/empresas/directivos/tim-cook-mejor-aprender-programar-aprender-ingles-segundo-idioma">la segunda lengua más importante que puedes aprender, incluso por encima del inglés</a>. Su antecesor, Steve Jobs, repetía que todos debemos conocer algún lenguaje informático <a href="https://www.youtube.com/watch?v=XfamAqjFqJw">porque permite pensar de otra manera</a>. Esto puede resultar interesante para cualquier profesional, pero <a href="http://mediashift.org/2015/01/why-journalism-students-need-a-baseline-understanding-of-coding/">más aún para el proceso creativo que radica en las primeras fases del trabajo periodístico</a>.</p>
+
+<p>Y no podemos olvidarnos de algo esencial, especialmente en estos tiempos tan complejos para la industria: buscar trabajo. Entre las últimas ofertas que les han llegado a periodistas como Alba Otero, al profesional de la información le piden conocer lenguajes como JavaScript. No es de extrañar si tenemos en cuenta que medios de la profundidad de The New Yorker <a href="https://www.newyorker.com/home/about/data-journalist">incluyen entre sus requisitos el conocimiento de HTML, CSS, JavaScript, R y Python</a>.</p>
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">En relación con este tema, en el anuario de la <a href="https://twitter.com/aperiodistasalc?ref_src=twsrc%5Etfw">@aperiodistasalc</a> de este año he publicado un artículo acerca de ello. <a href="https://t.co/rQP75G5clf">pic.twitter.com/rQP75G5clf</a></p>&mdash; Alba Otero (@OteroAlba) <a href="https://twitter.com/OteroAlba/status/1356629556468330496?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+<h2 id="2-procesar">2. Procesar</h2>
+
+<p>Casi todo lo anterior se aplica a la que podemos llamar la segunda fase del proceso periodístico: la que da forma a las ideas y los datos hasta convertirlos en historias. </p>
+
+<p>Comencemos con lo más elemental. Con una librería de Python es posible <a href="https://programacionpython80889555.wordpress.com/2019/12/03/obteniendo-texto-de-un-archivo-de-audio-en-python-con-speechrecognition/">convertir un audio en texto de manera automática</a> sin pasar por programas de pago como Trint o Happy Scribe. Con unos conocimientos un poco más avanzados, incluso es posible el proceso inverso: <a href="https://medium.com/@pilarsoledad/construyendo-un-sintetizador-de-texto-a-voz-usando-python-y-selecci%C3%B3n-de-unidades-a5dc2e11a091">crear un sintetizador de texto en audio</a>.</p>
+
+<p>Pero eso es solo el principio. Python y R son dos de los principales lenguajes para la aplicación de la inteligencia artificial y el machine learning. De ahí parten gran parte de los <a href="https://mip.umh.es/blog/2019/11/02/el-impacto-de-la-inteligencia-artificial-en-el-periodismo/">proyectos en este ámbito realizados en el periodismo</a> (y los que están por llegar). </p>
+
+<p>Quizás uno de los casos más ilustrativos sea el de Hanna and Ismail, un proyecto periodístico en el que BR Data and Spiegel Online automatizaron el envío de miles de correos para demostrar el racismo del mercado inmobiliario alemán. Lo explican con detalle en <a href="https://www.hanna-und-ismail.de/english/methodology.html">su metodología</a> y profundizan en todo el <a href="https://br-data.github.io/2017-diskriminierung-mietmarkt-analyse/analyse.nb.html">proceso de cálculo y codificación con lenguajes como R</a>.  </p>
+
+<p><img src="https://lh6.googleusercontent.com/N8IxAma5kglFvmKuf9lYobc8t7rIAOmpBsO8PXGp50bmjQ2fbRPYOJH0SPevBSt1v6Ku6WEWV5MSdn2upzxYXaJfsVMTU4JfhdQLB9BNOU2m4fUQxWkfMzJHxUiGuC1ht3TaWolF" alt="" /></p>
+
+<h2 id="3-contar">3. Contar</h2>
+
+<p>Probablemente sea lo más evidente y relevante. Como señala el profesor Juan C. Camus, cuanto más se domina la programación, más formas de relatar tiene el periodista a su disposición.</p>
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Sí, el código es una herramienta que se debe aprender a usar y un puente con otras profesiones que se verán beneficiadas si sabes pedir adecuadamente lo que necesitas. La gracia es que mientras más conoces, más formas de relatar tienes a tu disposición.</p>&mdash; Juan C. Camus (@jccamus) <a href="https://twitter.com/jccamus/status/1356715967225737224?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+<p>Cada vez son más frecuentes las visualizaciones de datos (gráficos y sobre todo mapas) que <a href="https://pudding.cool/process/regional_smoothing/">se elaboran con R</a> y después, muchas veces “maquilladas” con programas de edición de imágenes, se publican en medios de comunicación. Pero sin duda aquí <a href="https://code.likeagirl.io/code-and-journalism-today-ce8909628ce5">el lenguaje estrella es JavaScript</a>.</p>
+
+<p>Este lenguaje de programación está presente desde en grandes productos audiovisuales como <a href="http://lab.rtve.es/descenso-mina-clandestina/">este webdoc del RTVE Lab sobre el descenso a una mina clandestina</a> hasta este <a href="https://www.nytimes.com/interactive/2020/04/26/us/politics/trump-coronavirus-briefings-analyzed.html">análisis cualitativo sobre los discursos y el Covid del New York Times</a>.</p>
+
+<p>Probablemente dos de los mejores exponentes de los mejores exponentes del uso de JavaScript y otros lenguajes de programación en las nuevas narrativas periodísticas sean dos españoles que están brillando en el extranjero. <a href="https://martingonzalez.net/">Martín González</a> es periodista visual en The Economist y, aunque se atreve con casi todo, seguramente su especialidad sea la visualización de datos con D3, una librería de JavaScript. <a href="http://adrianblancoramos.com/">Adrián Blanco</a> es reportero gráfico en The Washington Post y <a href="http://adrianblancoramos.com/">en su web</a>, además de mostrar algunos de sus mejores trabajos, detalla los lenguajes que ha empleado en cada uno de ellos: </p>
+
+<p><img src="https://lh4.googleusercontent.com/7vjgsI4y89zEh9OIil1ZWSIlDDfyxr0d9u382jLW9K0S33QeH1oZKeIacheGCtT3lvThqQ4lvGH_A7tdSCnnfkSpFzHdoxi2Sne4bGX1zxGswSr5etMj4pGBmhBFyutubQdX9rij" alt="" /></p>
+
+<h1 id="costes">Costes</h1>
+
+<p>Programar es complejo y, casi siempre, frustrante. Sobre todo, al principio. Lo explica bastante bien la periodista Hannah Sinclair, quien afirma que <a href="https://medium.com/the-walkley-magazine/should-journalists-learn-how-to-code-it-cant-hurt-ef04ce327fe4">aprender código no puede doler</a> y que ofrece muchas recompensas cuando se consiguen pequeñas victorias, pero también que invirtió dos meses en aprender solo las bases de la programación. A ella le salió gratis, pero también hay opciones de pago. Por eso vamos a clasificar los costes entre el tiempo y el dinero.</p>
+
+<h2 id="1-dinero">1. Dinero</h2>
+
+<p>El dinero no da la programación, pero ayuda. En teoría, es posible convertirse en un experto en cualquier código sin gastar un euro. Sobre todo, si además de escoger todas las opciones gratuitas, utilizas un equipo prestado (voluntariamente o por la fuerza), averiguas la contraseña del wifi del vecino y te enganchas a la red eléctrica exterior. Fuera bromas, vamos a intentar ver si invertir algo de recursos puede servir para que el complejo camino hacia el código sea algo más llevadero y de cuánto estamos hablando.</p>
+
+<h3 id="libros">Libros</h3>
+
+<p>La oferta de libros gratuitos es muy amplia. Es muy fácil encontrar buenas recopilaciones de manuales en PDF o web de <a href="https://unaexperiencia20.com/libros-gratis-html-css-js/">HTML y CSS</a>, de <a href="https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript">JavaScript</a>, de <a href="https://openlibra.com/es/lists/id/EVaqYV">Python</a> y de <a href="https://openlibra.com/es/lists/id/EVaqYV">R</a>. Para este último lenguaje, es especialmente recomendable <a href="https://www.datanalytics.com/libro_r/">R para profesionales de los datos</a>.</p>
+
+<p>Pero si quieres tener libros en papel o encontrar algo más especializado, es probable que tengas que pasar por caja en una librería especializada o en Amazon. Yo acabo de hacerme con <a href="https://www.amazon.es/Practical-Mass-Communication-Journalism-Chapman/dp/1138726915/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1612872870&amp;sr=8-1">Practical R for Mass Communication and Journalism</a> (aunque aún no he podido empezarlo).</p>
+
+<h3 id="tutoriales">Tutoriales</h3>
+
+<p>La oferta aquí es todavía más amplia y pagar parece una opción poco necesaria. Para empezar con HTML o CSS, puede tener sentido ir al oficial de <a href="https://www.w3schools.com/">W3Schools</a>. </p>
+
+<p>También se puede acudir a <a href="https://docs.python.org/es/3/tutorial/index.html">la web de Python</a> para empezar. Y si quieres encontrar vínculos entre ambos lenguajes, puedes seguir estas <a href="https://medium.com/@digidickinson/creating-gentle-introductions-to-coding-for-journalists-14a2e7d97ee1">instrucciones sencillas y al grano sobre HTML y Python</a> de Andy Dickinson. Para profundizar un poco más sobre cómo aplicar Python en el periodismo, quizás lo más completo sea <a href="https://towardsdatascience.com/python-for-data-journalists-get-your-data-from-the-web-c0cee664d17">esta guía de Alan Jones</a>.</p>
+
+<p>En R, en cambio, puedes arrancar con esta <a href="https://conceptosclaros.com/instalar-r-primeros-pasos/">guía para principiantes</a>. Pero si quieres profundizar, te recomiendo este <a href="http://www.interhacktives.com/2017/01/25/scrape-tweets-r-journalists/">tutorial específico sobre cómo scrapear tuits con R</a> de Interhacktives. La oferta sobre JavaScript es más limitada, pero para introducirse en lo que es y en cómo funciona resulta muy útil <a href="https://multimedia.journalism.berkeley.edu/tutorials/javascript-journalists/">éste de la Berkeley University</a>.</p>
+
+<h3 id="cursos">Cursos</h3>
+
+<p>En la formación más formal que proporcionan los cursos, el dinero sí tiene una mayor presencia. Entre las plataformas generalistas, el pago es más bien excepcional. <a href="https://es.khanacademy.org/">Khan Academy</a>, <a href="https://www.freecodecamp.org/">Free Code Camp</a>, y <a href="https://studio.code.org/courses">Code.org</a> tiene todo su catálogo de manera gratuita. En <a href="https://www.codecademy.com/pricing">Code Academy</a>, en cambio, sí hay una versión premium (14 euros al mes) con contenido exclusivo y ventajas como más prácticas con el móvil, guías paso a paso y certificados.</p>
+
+<p>Si buscas cursos específicamente pensados para periodistas, la cosa cambia un poco. DataJournalism.com ofrece <a href="https://datajournalism.com/watch">una más que interesante introducción a Python</a>, con vídeos y foros incluidos, de manera gratuita. El de <a href="https://coding-for-journalists.readthedocs.io/en/latest/">Investigative Reporters &amp; Editors (IRE)</a>, también sobre Python, pero basado en texto, también es gratuito. Si quieres centrarte en HTML, CSS y JavaScript, probablemente el más recomendable (también sin pagar) es <a href="http://codeactually.com/">Code Actually, de Cindy Royal</a>.</p>
+
+<p>Para profundizar en R y en otros aspectos de programación para periodismo (sobre todo de datos), la oferta es más exigente. El Centre for Investigative Journalism (CIJ) organiza <a href="https://tcij.org/scheduled-training/investigating-data-with-r-4/">un curso online</a> que cuesta 119 libras o 70 si eres estudiante. La opción más completa probablemente sea <a href="https://jplusplus.org/en/academy/learn-coding-for-journalists/">este curso presencial centrado en Python, en Estocolmo, de J++</a>, que cuesta más de 4.000 euros. </p>
+
+<p>Pero también el Knight Center for Journalism in the Americas ofrece un completo programa formativo gratuito con vídeos y material en PDF que se puede ver en <a href="https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/">la web oficial del curso</a> o en la <a href="https://learn.r-journalism.com/en/">página específica</a> creada por el propio profesor, Andrew Ba Tran. Aunque de manera menos estructurada, también hay muchos y buenos recursos en <a href="http://rforjournalists.com/">este blog de Rob Grant</a>. y en <a href="https://rddj.info/">este listado de recursos</a> de Timo Grossenbacher.</p>
+
+<p><img src="https://lh4.googleusercontent.com/zId9z_avPR0y82MiAM2B9-tgn1-qx8kqeznTAACBeURwVOz6yKBEipoz0_3nt_eftteTcMTzFkMDmOLE3lfSIA3-3vQUdVcPGnDNjyLBXsNQr6lb6jb628uyWpkK1K51pgN-WB_B" alt="" /></p>
+
+<p>Aunque no sean cursos, merece la pena nombrar también los eventos, todos (al menos, los que yo he visto) gratuitos. Destacan los que organiza Journocoders <a href="https://journocoders.com/">sobre código, principalmente R y Python</a>, y los del Knight Lab, <a href="https://knightlab.northwestern.edu/community/">sobre datos, visualización y código</a>.</p>
+
+<h2 id="2-tiempo">2. Tiempo</h2>
+
+<p>Si el dinero es casi siempre una elección o un problema menor, el tiempo es probablemente el mayor contrapeso de esta ecuación. Es imposible calcular las horas que cada persona debe dedicar para aprender un lenguaje, porque depende de múltiples factores (conocimientos previos, motivación, enfoque, organización…). Pero sí hay algo claro: aprender a programar es un proceso lento y, aunque haya curvas de aprendizaje con más o menos pendiente, el camino siempre es cuesta arriba.</p>
+
+<p>Para que nos hagamos una idea, solo los vídeos del citado curso introductorio de Python de DataJournalism.com duran más de cinco horas. Completar esa formación elemental, si intentas poner en práctica lo aprendido, puede multiplicar por dos o tres ese tiempo. La suma de la visualización de los vídeos y la lectura de los documentos del tutorial del Knight Center sobre R para periodistas puede superar las 50 horas. <a href="https://www.classcentral.com/course/independent-python-for-data-journalists-analyzing-money-in-politics-9092">Éste otro también del Knight Center sobre Python</a> (ya no disponible) duraba cinco semanas bastante intensas.</p>
+
+<p>Hannah Sinclair dedicó dos meses en un curso intensivo para tener también una visión general sobre la programación. Fenómenos de este mundo como los también nombrados probablemente dediquen gran parte de su jornada laboral a seguir aprendido, aunque sea para resolver problemas concretos, en un universo infinito. El curso del CIJ se desarrolla en tres mañana, con sesiones de hora y media y después trabajo autónomo tutorizado. El de J++ dura unas dos semanas, también alternando clases dirigidas y práctica individual. </p>
+
+<p><strong>¿Un balance?</strong></p>
+
+<p>La respuesta más sensata a este debate tampoco es nueva: conviene al menos aprender lo esencial para saber hasta dónde se puede llegar y comunicarse con profesionales especializados, y después dar la opción de profundizar. Lo explica con claridad el profesor Chema Valero:</p>
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Yo creo que deben conocer ciertas lógicas de la programación y tener algunas nociones para ser capaces de colaborar con perfiles más técnicos sin que suene todo a chino, o incluso para que sirva como base si alguna vez se quiere hacer algo un poco más avanzado de forma autónoma.</p>&mdash; Chema Valero Pastor (@josvap) <a href="https://twitter.com/josvap/status/1356682190088716294?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+<p>Pero esta respuesta abre otras muchas preguntas. Si tengo que elegir, ¿qué lenguajes me proporcionarían mayores ventajas? ¿Qué grado de profundidad debo alcanzar en el conocimiento de estos códigos? ¿De verdad me compensa introducirme en todo este mundo?</p>
+
+<p>Como decía al principio, la fórmula todavía está en fase de desarrollo. Entre otras cosas, porque confío en ampliar sustancialmente los beneficios y los costes con las aportaciones a esta publicación. El resultado quizás se parezca a este simpático <a href="https://www.buzzfeednews.com/article/katienotopoulos/should-you-learn-to-code">quiz para saber si debes aprender a programar</a> o a este <a href="http://franbarquilla.com/soy-periodista-deberia-aprender-a-programar/">inspirador árbol de decisiones</a>. Es probable que para seguir buscando y procesando información, pero sobre todo para transmitirla de la mejor manera posible, tenga que seguir aprendiendo a programar.</p>
+
+<p><img src="https://lh6.googleusercontent.com/-NN_NPpaGp0F8dGSrvzxlz9LYYSXscGyWvRmLsU4Yd6DH4ld_Hjoio2Fi1nVc98ZkZDomp5sGxDR5JJOj0f9wfJjIvxZ_V09jjXiQ_d5muEORmvBjbq6tZ_ndeyGO6maV3GqqR9H" alt="" /></p>
+:ET
