@@ -13,9 +13,9 @@ A muy pocos usuarios les sorprenderá ya toparse con muros de pago cuando intent
 
 Esta  tensión similar a la que se produce en las propias redacciones, donde una mayor circulación de los contenidos favorece los objetivos de los departamentos comerciales, que se afanan por sacar el mayor rendimiento posible al mercado publicitario. Para capear este dilema y aprovecharlo para la causa de las suscripciones, los equipos responsables testean **innovadoras fórmulas híbridas que proporcionan al usuario el placer de compartir**, aumentan (aunque muy poco) el volumen de páginas vistas y, sobre todo, **atraen nuevos suscriptores que descubren la propuesta de valor** del medio a través de las recomendaciones. Este artículo explora cinco propuestas aplicadas por [Financial Times](https://www.ft.com/), [Quartz](https://qz.com/), [The New York Times](https://www.nytimes.com/es/), [The Athletic](https://theathletic.com/) y [El Español](https://www.elespanol.com/). 
 
-![](https://lh3.googleusercontent.com/VxRft6yU7JkmfXlzGs-VNJk2wHTlKjjW6IRsNHINbjBOD29mUZ69sakI2L-VcED9wb-HaWQEZ5HqvZlIT8GF6voMTy8_IG53eH-Z_Kyy45x_2wDHnHG9HRxBACxv3vUvPamuvjXU)
+![]({{ site.baseurl }}/images/shots/maquina.jpg)
 
-Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+<sup> Foto de [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Estas **iniciativas permiten que los suscriptores “desbloqueen” parte de la oferta de contenidos** para que sus contactos disfruten de ella gratis, aunque con diferentes condiciones o limitaciones, que varían en función de la estrategia de cada organización. Aunque la mayoría de estos intentos procede de Estados Unidos y el norte de Europa, donde el mercado de las suscripciones digitales está más maduro, cada vez más medios españoles consideran aplicar soluciones similares, como asegura el jefe de producto de suscripciones de El Confidencial, [José A. Navas](https://twitter.com/joseanavas).
 
