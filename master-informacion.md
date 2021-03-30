@@ -11,6 +11,25 @@ author:
 permalink: informacion-master.html
 ---
 <div class="card card-inverse" style="background-color: #333; border-color: #333;">
+  <a href="https://fundaciongabo.org/es/blog/laboratorios-periodismo-innovador/aplicando-un-modelo-de-incubadora-de-proyectos-periodistas" target="_blank" style="hover: 15px;">
+    <div class="card-block">
+    <h3 class="card-title">Aplicando un modelo de incubadora de proyectos, periodistas aprenden a generar innovación desde la academia</h3>
+    <p class="card-text">— Fundación Gabo</p>
+    </div>
+  </a>
+</div>
+
+<div class="card card-inverse" style="background-color: #333; border-color: #333;">
+  <a href="https://www.elconfidencial.com/cultura/2021-02-06/mutaciones-principales-retos-periodismo-covid_2927740/" target="_blank" style="hover: 15px;">
+    <div class="card-block">
+    <h3 class="card-title">Periodismo o muerte: ¿cuál es el futuro de los medios de comunicación?
+</h3>
+    <p class="card-text">— EL Confidencial</p>
+    </div>
+  </a>
+</div>
+
+<div class="card card-inverse" style="background-color: #333; border-color: #333;">
   <a href="http://enriquebullido.com/como-innovar-en-periodismo-entrevista-a-jose-a-garcia-aviles/" target="_blank" style="hover: 15px;">
     <div class="card-block">
     <h3 class="card-title">Cómo innovar en periodismo, conversación con Jose A. García Avilés
