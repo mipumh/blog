@@ -24,6 +24,11 @@ inc:
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: http://mip.umh.es/blog
 
+collections:
+  conferencias:
+    output: true
+    permalink: /:collection/:name
+
 # Build settings
 markdown: kramdown
 

@@ -1,0 +1,24 @@
+---
+layout: conferencias
+name: Ismael Nafría
+antetitulo: Conferencias en el Máster
+position: Director de National Geographic
+enlace: https://twitter.com/ismaelnafria
+fecha: 29 de marzo de 2021
+hora: 18:00 pm
+titulo: "Cómo crear una newsletter de éxito"
+asignatura: El periodismo en las redes sociales
+foto: https://pbs.twimg.com/profile_images/657987679255154688/Ld8VNKgZ_400x400.jpg
+author:
+  name: Máster
+  twitter: mipumh
+  image: logo.jpg
+  link: https://twitter.com/mipumh
+---
+
+<h2><a href="{{ page.enlace }}">{{ page.name }}</a> - {{ page.position }}</h2>
+<h3>Tema: {{ page.titulo }}</h3>
+<p><strong>Asignatura:</strong> {{ page.asignatura }}</p>
+<p>{{ page.fecha }} a las {{ page.hora }}</p>
+<p>Acceso: <a href="https://campus.umh.es/">https://campus.umh.es/</a>
+<img src="{{ page.foto }}" alt="" class="img-fluid img-rounded">
