@@ -13,7 +13,7 @@ permalink: /conferencias/
 
 {% for conferencias in site.conferencias %}
 
-<h2><a href="{{ conferencias.title }}.html">{{ conferencias.name }}</a> - {{ conferencias.position }}</h2>
+<h2><a href="{{ conferencias.title | downcase }}.html">{{ conferencias.name }}</a> - {{ conferencias.position }}</h2>
 <p class="lead">{{ conferencias.fecha }} a las {{ conferencias.hora }}</p>
 
 <hr>
