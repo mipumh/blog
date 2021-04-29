@@ -1,7 +1,6 @@
 ---
 layout: post
-title: El potencial del podcast para la expansión narrativa de las series
-  periodísticas
+title: El potencial del podcast para la expansión narrativa de las series de no ficción
 periscopio: si
 cover_image: periscopio.jpg
 author:
