@@ -6,7 +6,7 @@ asignatura: Diseño y planificación de proyectos periodístico
 name: José María Valero Pastor
 position: Investigador Periodismo UMH
 enlace: https://twitter.com/josvap
-fecha: 10 de octubre de 20210
+fecha: 10 de octubre de 2021
 titulo: "Metodologías ágiles en el desarrollo de producto periodístico"
 foto: https://pbs.twimg.com/profile_images/1376154213462458372/ABXzjwzC_400x400.jpg
 author:

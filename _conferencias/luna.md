@@ -4,7 +4,7 @@ antetitulo: Conferencias en el Máster
 hora: 18:00 pm
 asignatura: El periodismo como contenido, producto y servicio
 name: Nelly Luna Amancio
-position: Editora general-Cofundadora Ojo Publico
+position: Editora general Ojo Publico
 enlace: https://twitter.com/nellylun
 fecha: 10 de enero de 2021
 titulo: "Estudio de caso de Ojo Público"
