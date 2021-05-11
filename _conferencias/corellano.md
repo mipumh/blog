@@ -1,8 +1,8 @@
 ---
 layout: conferencias
 antetitulo: Conferencias en el Máster
-name: Juan Carellano
-position: Editora Web de El Periódico
+name: Juan Corellano
+position: Redactor en La Media Inglesa
 enlace: https://twitter.com/CorellanoJuan
 fecha: 17 de marzo de 2021
 hora: 18:00 pm
