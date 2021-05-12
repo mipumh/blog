@@ -4,10 +4,11 @@ title: "Fidelizar audiencias a través de la curación de contenidos: así lo hi
 subtitle: Análisis de caso de la iniciativa profesional de Álex Barredo, el podcast para mantenerse al tanto del mundo tecnológico de forma amena, clara y concisa 
 author:
   name: Christian Rodriguez
+  twitter: ChrisRodgz
   gplus: 104274993391260139803 
   bio: Alumni MIP 2020
   image: christian-rp.jpeg
-  link: https://www.linkedin.com/in/christian-rodriguez-pereira/
+  link: https://twitter.com/ChrisRodgz
 ---
 A Álex Barredo le picó el gusanillo del podcast allá por 2016 cuando produce los primeros episodios de [mixx.io](https://mixx.io/). Creó sin saberlo un proyecto profesional a partir de una sencilla base, recopilar y sintetizar las novedades del panorama tecnológico mundial. La apuesta por el binomio newsletter-podcast y la ampliación de la familia con programas temáticos —Kernel, Cupertino y ELON— terminarían por configurar esta fórmula, que tras el despido de su promotor de La Vanguardia, la catapultaría definitivamente al éxito. "En el momento que crece la audiencia y también las horas de trabajo invertidas, vi interesante monetizar este proyecto", expone [Barredo](https://twitter.com/somospostpc) sobre su actual medio de vida.
 
@@ -35,7 +36,7 @@ Mixx.io es un producto dirigido a los adictos a la tecnología. Su público es *
 
 <sup>Composición de la audiencia de mixx.io en Spotify
 
-En números absolutos, la newsletter de mixx.io cuenta en la actualidad con **9.000 suscriptores** y una tasa de apertura cercana al 60%, según reporta Acumbamail, la plataforma de mail marketing en la que opera. La familia de podcasts en su conjunto computa por su parte unas **300.000 descargas únicas mensuales**aproximadamente. Sus seguidores se encuentran en España e Hispanoamérica sobre todo. 
+En números absolutos, la newsletter de mixx.io cuenta en la actualidad con **9.000 suscriptores** y una tasa de apertura cercana al 60%, según reporta Acumbamail, la plataforma de mail marketing en la que opera. La familia de podcasts en su conjunto computa por su parte unas **300.000 descargas únicas mensuales** aproximadamente. Sus seguidores se encuentran en España e Hispanoamérica sobre todo. 
 
 Una de las estrategias que Barredo ha puesto en marcha este 2021 consiste en un sistema de [embajadores](https://newsletter.mixx.io/embajadores/). Con motivo de recomendar mixx.io al mayor número de personas posible, recompensará a aquellos usuarios que consigan suscribir a sus colegas con los mismos productos que ofrece a los colaboradores. Ésta es una forma de escalar y también de abrir el merchandising al público en general.
 
@@ -61,7 +62,7 @@ Otros recursos fundamentales son [Patreon](https://www.patreon.com/mixxio), para
 
 Mixx.io ofrece un patrocino a bajo precio (750 euros), que incluye hasta 13 incursiones semanales en el producto visionado por el público, lo que se traduce en un ingreso óptimo de **3.000 euros** al mes. En 2020 ingresó **[17.000€](https://mixx.io/analisis-de-mixx-io-a-nivel-de-negocio-en-2020/)** a través de esta vía, cifra resultante tras cerrar un trimestre prácticamente sin publicidad debido al confinamiento estricto por la pandemia. En el apartado de colaboraciones logró embolsarse 4.500€ ese mismo año tras reunir cerca de 160 fieles estables.
 
-Sobre los **gastos**, la cuota de autónomos o el pago de alojamientos y de servidores de correo electrónico y el envío de mercancías suman **unos 7.560 euros** anuales.En resumen, mixx.io se ha convertido en una **iniciativa periodística rentable**, con unos beneficios estimados en **1.150€** brutos mensuales. De ellos, el copresentador de Cupertino y ELON,[ Matías S. Zavia](https://twitter.com/matiass) —editor de[ Gizmodo](https://es.gizmodo.com/)—, recibe una parte, ya que normalmente se reparten equitativamente el trabajo de producción y guion del programa. Existen vías de ingresos indirectas que permiten al creador sustentar el proyecto.
+Sobre los **gastos**, la cuota de autónomos o el pago de alojamientos y de servidores de correo electrónico y el envío de mercancías suman **unos 7.560 euros** anuales.En resumen, mixx.io se ha convertido en una **iniciativa periodística rentable**, con unos beneficios estimados en **1.150€** brutos mensuales. De ellos, el copresentador de Cupertino y ELON,[ Matías S. Zavia](https://twitter.com/matiass) —editor de[ Gizmodo](https://es.gizmodo.com/)—, recibe una parte, ya que se reparten equitativamente el trabajo de producción y guion del programa. Existen vías de ingresos indirectas que permiten al creador sustentar el proyecto.
 
 ### 6. Misión
 
