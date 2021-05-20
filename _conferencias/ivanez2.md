@@ -4,7 +4,7 @@ name: Javi Ivànyez
 antetitulo: Conferencias en el Máster
 position: Fundador y editor de Eh!
 enlace: https://twitter.com/JaviIvanyez
-fecha: 22 de marzo de 2021
+fecha: 10 de diciembre de 2021
 hora: 18:00 pm
 titulo: "Modelo de negocio de periodismo distribuido: el caso de Eh!"
 asignatura: Nuevos modelos de negocio
