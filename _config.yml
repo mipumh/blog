@@ -27,7 +27,7 @@ url: http://mip.umh.es/blog
 collections:
   conferencias:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
 
 # Build settings
 markdown: kramdown
