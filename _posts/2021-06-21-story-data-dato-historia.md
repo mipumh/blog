@@ -5,7 +5,7 @@ author:
   name: Viriato Monterde
   twitter: vimonterde
   gplus:
-  bio: Director de 960 Pixels
+  bio: Estudiante MIP 2021
   image: viriato.jpeg
   link: https://twitter.com/vimonterde
 ---
