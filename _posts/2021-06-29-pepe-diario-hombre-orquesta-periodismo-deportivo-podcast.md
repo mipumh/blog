@@ -15,7 +15,7 @@ En un posible diccionario sobre periodismo, si buscáramos la entrada "hombre or
 
 **El origen del hombre orquesta**
 
-Pepe Rodríguez, o Brasín, como le conocen desde su Asturias natal, comenzó en periodismo por impulso. Sin pasar por la universidad y por diversas  circunstancias vitales diversas se inició en este mundillo como  corresponsal de La Nueva España en la comarca de Cangas de Narcea. Desde entonces, Brasín nunca dejó de hacer un pequeño programa de radio sobre deporte estadounidense ‘Sillonbol’ (45 minutos semanales) que publicaba en su blog.
+Pepe Rodríguez, o Brasín, como le conocen desde su Asturias natal, comenzó en periodismo por impulso. Sin pasar por la universidad y por diversas circunstancias vitales se inició en este mundillo como  corresponsal de La Nueva España en la comarca de Cangas de Narcea. Desde entonces, Brasín nunca dejó de hacer un pequeño programa de radio sobre deporte estadounidense, llamado ‘Sillonbol’ (45 minutos semanales) que publicaba en su blog.
 
 ![image alt text]({{ site.baseurl }}/images/shots/pepediario_1.png)
 
