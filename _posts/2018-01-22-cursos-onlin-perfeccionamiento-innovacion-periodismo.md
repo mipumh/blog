@@ -30,9 +30,6 @@ Los dos cursos se han dispuesto de forma escalonada desde marzo hasta junio, de 
 - Clases 100% online en [Plataforma EDX](http://edx.umh.es/)
 - Diploma certificado por la Universidad Miguel Hernández
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/w0rfCeBNBh8?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/w0rfCeBNBh8?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-
 **Contenidos**: 
 
 - Introducción a las nuevas narrativas
@@ -71,8 +68,6 @@ Los dos cursos se han dispuesto de forma escalonada desde marzo hasta junio, de 
 - Clases 100% online en [Plataforma EDX](http://edx.umh.es/)
 - Diploma certificado por la Universidad Miguel Hernández
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/C6lMBRsI9i8?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/C6lMBRsI9i8?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
 **Contenidos**:
 
 * Introducción a la innovación en periodismo
@@ -98,8 +93,6 @@ Los dos cursos se han dispuesto de forma escalonada desde marzo hasta junio, de 
 <a href="http://universite.umh.es/fpogestion/aspx/Preinscripcion/Preinscripcion.aspx" class="btn btn-success btn-lg m-b-1"><i class="fa fa-download"></i> Completa el formulario</a>
 
 ### Cómo funciona el campus virtual
-
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/9JZ1RkBvI4A?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/9JZ1RkBvI4A?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 ### Cómo puedo inscribirme
 

@@ -16,11 +16,6 @@ author:
 
 Se trata de una comunidad asentada en América Latina, cuya última edición se desarrolló hace unos días en Buenos Aires, con la participación [de más 700 participantes y veinte ponentes destacadas.](http://www.infobae.com/tecno/2016/09/12/media-chicas-un-evento-para-mujeres-tecnologicas-e-innovadoras/) Según el [BBVA Innovation Center](http://www.centrodeinnovacionbbva.com/), en Latinoamérica existe una gran diferencia entre la cantidad de hombres y mujeres que trabajan en el ámbito de la tecnología y la innovación, por lo que ésta constituye una de las nuevas iniciativas que buscan **reducir la [brecha de género](https://www.juntadeandalucia.es/institutodelamujer/ugen/modulos/Indicadores/bgenero.html)** en la tecnología **y aumentar la presencia de las mujeres en áreas como el desarrollo de software, la programación y el emprendimiento**. 
 
-
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/rxURiwfVZDA?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/rxURiwfVZDA?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-<br>
-
 Para contribuir a **dar visibilidad y poner en valor el trabajo de tantas y tantas compañeras que, bien en medios de comunicación, desde otras plataformas digitales o en equipos de investigación, dedican su tiempo y talento a innovar y/o marcar diferencias** en un ámbito aún masculinizado, no sólo en cifras, también en los valores que impregnan la toma de decisiones y los procesos productivos y creativos, desde el Máster en Innovación en Periodismo ([MIP](http://mip.umh.es/)) de la Universidad Miguel Hernández ([UMH](http://www.umh.es/)) de Elche creamos la lista[ Las periodistas innovadoras e influyentes en Latinoamérica](http://mip.umh.es/blog/2016/07/24/periodistas-mujeres-influyentes-latinoamerica/). Hemos recibido tantas propuestas por parte de nuestra comunidad para ampliarla que, por suerte, ya tenemos para varias entregas. De momento, hemos seleccionado a las siguientes. 
 
 ### [Fabiola Torres López](https://twitter.com/fabiolatorres)

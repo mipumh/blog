@@ -32,4 +32,4 @@ Estos son sus algunos consejos para las coberturas móviles:
 
 5. Para adecuar la cobertura móvil a la cobertura del medio: ¡experimentar, experimentar y experimentar!
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/L7hX9ChuC4o?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/L7hX9ChuC4o?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7hX9ChuC4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

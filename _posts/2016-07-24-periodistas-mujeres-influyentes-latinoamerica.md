@@ -16,7 +16,7 @@ Se trata de una lista necesariamente incompleta, ya que nos planteamos el reto d
 
 Hace unos meses, a propósito del proyecto [Chicas Poderosas](https://twitter.com/poderosaschicas), iniciativa para aumentar la presencia de mujeres periodistas en la innovación digital en América Latina, elaboramos una lista de [las periodistas más innovadoras e influyentes de los medios digitales](http://mip.umh.es/blog/2015/11/15/periodistas-innovadoras-influyentes). Repetimos este ejercicio genealógico hasta en tres ocasiones ([II](http://mip.umh.es/blog/2016/01/17/mujeres-periodistas-innovadoras-dos/), [III](http://mip.umh.es/blog/2016/03/19/mujeres-periodistas-innovadoras-tres)) con las aportaciones de nuestra comunidad. Entre las compañeras, figuran periodistas latinoamericanas como [Florencia Coelho](https://twitter.com/fcoel) y [Mariana Santos](https://twitter.com/marysaints). Con todo, hemos querido ampliarla para dar visibilidad y reconocimiento a su trabajo.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/Tl1JNMFSerE?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Tl1JNMFSerE?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tl1JNMFSerE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
