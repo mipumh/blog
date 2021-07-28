@@ -17,3 +17,6 @@ Aprovechando la visita de **Ángel Anaya** y **Laura Blanco**, creadores de la r
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/N3qunmkMPCo"  allowfullscreen></iframe>
 </div>
 
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
+
