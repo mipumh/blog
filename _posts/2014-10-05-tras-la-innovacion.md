@@ -32,5 +32,3 @@ Hace unas semanas, la autora del informe, [Amy O’Leary](http://www.amyoleary.m
 En su ponencia, O’Leary explicó además cuál es su enfoque sobre el trabajo periodístico: **la tarea del periodista se expande**, del mismo modo que el periodismo es un proceso más abierto que no termina en la redacción del texto:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/33167790" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

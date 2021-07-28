@@ -12,6 +12,8 @@ author:
   image: jga.jpg
   link: https://twitter.com/jagaraviles
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Antes de lanzar cualquier proyecto periodístico, resulta muy importante identificar las necesidades de tu audiencia potencial. Así lo subrayan las sesiones impartidas por dos profesores del MIP: [Ainhoa Julián](http://ainhoajulian.com/) consultora de marketing online profundiza en las herramientas de analítica Web que permiten medir el efecto de las estrategias de contenidos. Por su parte, [Nacho Ortiz](https://twitter.com/nachoortiz), content manager de Meristation, explica cómo identificar diversos nichos especializados en función de los perfiles de la audiencia a quien se dirige el proyecto.
 
 Para conocer a la audiencia es necesario plantearse preguntas como éstas:

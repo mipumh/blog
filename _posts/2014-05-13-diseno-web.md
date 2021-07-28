@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cuestiones importantes a la hora de diseñar una web
+title: Cuestiones importantes a la hora de diseñar una web
 excerpt: "Cuando nos enfrentemos al reto de diseñar una web, ya se trate de llevar a cabo la ejecución nosotros mismos o de encargar su desarrollo a un experto, lo primero que debemos preguntarnos es qué objetivos queremos alcanzar con nuestra página."
 author:
   name: Alicia de Lara
@@ -10,6 +10,8 @@ author:
   image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Cuando nos enfrentemos al reto de diseñar una web, ya se trate de llevar a cabo la ejecución nosotros mismos o de encargar su desarrollo a un experto, lo primero que debemos preguntarnos es qué objetivos queremos alcanzar con nuestra página. Sin embargo, muchas veces nos empeñamos en empezar a construir la casa por el tejado y pensamos primero en cuestiones relacionadas con el color, las imágenes y otras claves estéticas. 
 
 Javier Celaya, en su libro ["La empresa en la web"](http://www.javiercelaya.es/), aconseja plantearse en primer lugar la tecnología concreta que se va a emplear. El autor señala que, por ejemplo, tecnologías como el flash, adecuadas a la hora de trabajar con vídeos, no son apropiadas para el diseño de una web estándar en la que prime la funcionalidad. El asesor aconseja que optemos por lenguajes que promuevan la accesibilidad del usuario a los contenidos y el correcto posicionamiento. 

@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Se cumple una semana del cierre de [Google News](http://bit.ly/1Aglnh7) en España. Es la primera consecuencia de la reforma de la [Ley de Propiedad Intelectual](http://bit.ly/1DQsRNM), que introduce la conocida como [Tasa Google](http://bit.ly/1DQt2bE), un sistema de compensación que obliga a los agregadores de contenidos a pagar a los autores de las informaciones que enlazan.
 
 Se trata de una cuestión muy controvertida que ha suscitado un intenso debate público desde que el Gobierno cediera a la petición de la Asociación de Editores de Diarios de España [(AEDE)](http://bit.ly/13gl8Yf) de incluir este canon en la Ley y seguir el modelo alemán de protección de la prensa, según la periodista [Miriam Redondo](http://bit.ly/1xswypo).

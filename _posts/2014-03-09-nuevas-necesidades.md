@@ -10,6 +10,8 @@ author:
   image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 La economía generada en torno a los contenidos digitales ha experimentado una etapa de enorme crecimiento en la [última década](http://www.ametic.es/DescargarDocumento.aspx?idd=4884). Factores como la democratización en el acceso a los dispositivos móviles inteligentes, el aumento de la velocidad de conexión en los hogares, el desarrollo de nuevas plataformas de creación de contenidos y la popularización de las redes sociales han disparado la alta penetración de Internet. 
 
 Según datos del [Instituto Nacional de Estadística](http://www.ine.es/prensa/np803.pdf), el 70% de los hogares españoles dispone de conexión a Ia red y el 54% de la población entre 16 a 74 años utiliza Internet a diario. Las cifras evidencian que la forma de consumir, generar e intercambiar información ha cambiado, lo que genera oportunidades profesionales en un sector emergente, el de los medios digitales. Como explica **José Manuel Lucas** [@jmlweb](https://twitter.com/jmlweb), profesor de Diseño Web Avanzado en el [Máster en Innovación en Periodismo](http://mip.umh.es), muchos de los puestos de trabajo que han surgido en los últimos años requieren del conocimiento de herramientas y lenguajes informáticos que permitan crear, modificar o interpretar los contenidos: 

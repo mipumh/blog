@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Los másteres suelen ser incubadoras de ideas, sobre todo aquellos con un perfil creativo. Uno de los motores del programa del Máster en Innovación en Periodismo (MIP) es el diseño, desarrollo y lanzamiento de proyectos de comunicación innovadores que sinteticen de manera práctica los conocimientos y habilidades adquiridos a lo largo del curso. Os los presentaremos a medida que sus impulsores e impulsoras los defiendan como trabajo final. Estos son los dos primeros: 
 
 [Eldato.es](http://eldato.es/) es un **proyecto hiperlocal de Elda**. Impulsado por [Concha Maestre](https://twitter.com/conchamaestre), trata de potenciar las nuevas narrativas y el periodismo cívico. Es un medio híbrido en soportes y en modelo de negocio, que trata de innovar en el contexto del periodismo local, un entorno en el que predomina la inmediatez. "Apostamos por un producto diferente de lectura más reposada," explica la alumna del MIP. 

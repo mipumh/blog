@@ -11,6 +11,8 @@ author:
   image: fn.jpg
   link: https://twitter.com/fnmaillo
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Estos días el mundo tiembla tras el terrible asesinato de ocho periodistas del diario francés Charlie Hebdo, varios policías y ciudadanos. Las viñetas de Mahoma que provocaron la ira entre los extremistas y terroristas musulmanes han dado la vuelta al mundo. A pesar del cruel varapalo a la libertad de expresión, no han sido los grandes medios de comunicación quienes más se han hecho eco de estas imágenes –con algunas [excepciones](http://cnnespanol.cnn.com/2015/01/09/el-debate-en-los-medios-publicar-o-no-las-caricaturas-de-charlie-hebdo/)-, sino cabeceras menores, [páginas personales y cuentas sociales](http://www.latercera.com/noticia/mundo/2015/01/678-611599-9-artistas-de-todo-el-mundo-se-manifiestan-en-redes-sociales-para-apoyar-a-charlie.shtml) que consideraron esta publicación como una “muestra de solidaridad” con la revista gala y demás víctimas.
  
 ![](https://db.tt/1MWn2cvl)

@@ -12,6 +12,8 @@ author:
   link: https://twitter.com/smmahugo
 type: text
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Lo que coloquialmente se denomina _la nube_ y que no es sino una abreviatura del inglés _cloud computing_ ha supuesto **un nuevo paradigma a la hora de compartir documentos** y [trabajar de forma colaborativa](http://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube). Si bien existían numerosos servicios basados en este concepto, hace apenas un par de años no era muy habitual trabajar de forma remota **sin almacenar nuestros propios archivos cerca**. Las conexiones para la transmisión de datos cada vez más rápidas y ubicuas lo han hecho posible.
 
 Trabajar en la nube, esto es, acceder de forma remota a servidores donde están guardados los archivos sobre los que trabajamos en lugar de tenerlos guardados en nuestro propio ordenador supone distintas ventajas. Una es evidente y ya se ha citado, podemos acceder a estos documentos de trabajo desde cualquier sitio y con cualquier dispositivo. Permite ahorrar tanto en software como en hardware. Y sobre todo **se puede ahorrar muchísimo en el mantenimiento técnico de los equipos**. Y por último permite el trabajo colaborativo. Cada vez **hay más aplicaciones y servicios que nos permiten estar conectados continuamente con nuestro equipo y a nuestros proyectos**.

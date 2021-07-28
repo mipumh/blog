@@ -13,9 +13,7 @@ author:
 Hace años que las newsletters dejaron de ser un simple canal de distribución de noticias para convertirse en un gran ejemplo de la transformación del producto periodístico. Como los podcasts, los boletines en el correo **reúnen unas características idóneas para sobrevivir en la economía digital**. Por eso, las newsletters se han adaptado muy bien al nuevo ecosistema y viven desde hace cinco años otro renacimiento, **no solo como herramienta de marketing para generar tráfico**, sino también como **servicio periodístico propio**. En este artículo recojo diez razones para argumentar esta tesis y juego con una analogía: la newsletter es **Alien**, de Ridley Scott. 
 
 
-<div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/xUPGctCpUYlntZWkgM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-<br>
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 
 ### 1. Acceso: "invade" la zona de confianza del usuario
 

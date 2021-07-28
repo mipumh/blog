@@ -11,6 +11,8 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Cada vez es más importante dominar la publicación de contenidos digitales, gestionar y mantener una comunidad de usuarios, presentar las historias en un formato atractivo y, sobre todo, hacerlo con el diseño adecuado para que sea consumible en cualquier soporte móvil. Ante esa demanda, el Máster de Innovación en Periodismo (MIP) oferta tres cursos de perfeccionamiento en edición avanzada de contenidos digitales.
 
 * [Diseño web y wordpress para comunicadores](#diseño): **del 5 al 28 de febrero** 

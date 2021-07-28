@@ -11,6 +11,8 @@ author:
   image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Cuando se habla de WordPress, normalmente se piensa en un blog, pero como señala el profesor del Máster de Innovación en Periodismo **Miguel Onofre**, esta herramienta es mucho más que eso. Wordpress es [la plataforma para la gestión de contenidos web más usada](http://tecnologia-mundo.blogspot.com.es/2010/08/las-8-plataformas-de-gestion-de.html) en el mundo. Además, su desarrollo se basa en código abierto, es decir, es gratis y puede ser usada sin ningún tipo de restricción. 
 
 Al tratarse de una de las herramientas más extendidas, “el soporte y ayuda que se puede encontrar es continuo y proporcionado por miles de usuarios a través de sus comentarios y sugerencias”, [explica](http://hownet.es/wpmaster/introduccion-a-wordpress/) el profesor. También hay muchas empresas y proveedores de servicios especializados en proporcionar soporte a la plataforma. “Si nos decidimos por WordPress, no estaremos solos en el camino”, subraya Onofre, adscrito al Departamento de Física y Arquitectura de Computadoras de la UMH. 

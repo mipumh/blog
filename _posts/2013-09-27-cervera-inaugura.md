@@ -12,6 +12,7 @@ author:
   link: https://twitter.com/mcarvajal_
 type: text
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 
 El Máster de Innovación en Periodismo abre sus puertas a la primera promoción el próximo **3 de octubre** en el [Edificio Innova](http://www.naudelainnovacio.com/) ([mapa](https://mapsengine.google.com/map/u/0/edit?mid=zwJ9qYpCDTx0.kVCptWFCqS-s) con una conferencia inaugural a cargo de **José Cervera**, periodista y profesor, recién nombrado [Defensor de la Comunidad](http://eldiario.es/defensor) en el [eldiario.es](http://www.eldiario.es/). La Jornada de Bienvenida de la 1ª edición del Máster será abierta y en ella además se explicará el funcionamiento de este pionero programa sobre emprendimiento y periodismo de la Universidad Miguel Hernández.
 

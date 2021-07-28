@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Un nuevo medio digital se ha introducido en 2015 en la lista [Medios lanzados por periodistas](http://bit.ly/1ftelNT) de la [Asociación de la Prensa de Madrid](http://bit.ly/1wcjpvu), que sumaba 439 proyectos en enero. Se trata de [Ctxt.es](http://ctxt.es), una apuesta por el **Slow Journalism** para aportar reflexión y contexto (de ahí el nombre) a las informaciones de la Red.
 
 El ex corresponsal de [El País](http://elpais.com) [Miguel Mora](http://bit.ly/1DTqCbF) dirige esta nueva publicación, cuyo lanzamiento ha generado máxima expectación. De hecho, sumó [20 mil lectores y lectoras el día de su presentación, 80 mil en sus dos primeras semanas de vida](http://bit.ly/1wcLBhZ), según el [Instituto para la Innovación Periodística](http://www.2ip.es). Sólo la [entrevista a Noam Chomsky alcanzó las 20 mil visitas en dos días](http://bit.ly/1CHmStj). Y no queda todo ahí: dispone de 3.425 seguidores y seguidoras en [Facebook](http://on.fb.me/1ESK8Cm); más 14 mil en [Twitter](https://twitter.com/ctxt_es).  

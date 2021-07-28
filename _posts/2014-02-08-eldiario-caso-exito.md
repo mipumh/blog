@@ -13,6 +13,8 @@ author:
   image: jlg.jpg
   link: https://twitter.com/eurogaceta
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Durante el último año se han puesto en marcha en España más de 300 _micromedios_, alguno no tan _micro_. El ecosistema mediático se atomiza, los medios tradicionales lo pasan mal, y la pugna por las audiencias se sujeta en el binomio contenido-tecnología y en la búsqueda de modelos de negocio ajustados a los nuevos tiempos y a las audiencias a la carta.
 
 Llama la atención la pujanza de uno de esos nuevos medios _no tan micro_: [eldiario.es](http://www.eldiario.es), objeto de estudio en el [Máster de Innovación en Periodismo](http://mip.umh.es/). ¿Cuáles son las claves de [eldiario.es](http://www.eldiario.es)? 

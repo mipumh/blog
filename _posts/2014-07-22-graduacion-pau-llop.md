@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 De un discurso de fin de máster se espera inspiración y esperanza, sobre todo cuando se trata de innovar en periodismo, un sector en estado de cambio, afectado por una crisis económica global y otra estructural, relacionada con los nuevos modelos de comunicación. En este sentido, el discurso de [Pau Llop](http://www.paullop.es/pau-llop-periodista-emprendedor-social/), padrino de la I Promoción del Máster en Innovación en Periodismo ([MIP](http://mip.umh.es)), no ha defraudado.
 
 Periodista y emprendedor [social](https://www.youtube.com/watch?v=cS0oohCFWVg), esto último por la falta de respuestas de las instituciones periodísticas establecidas ante los retos que plantea el nuevo siglo. Promotor de la plataforma de periodismo ciudadano [Bottup.com](http://bottup.com/) y de [Nxtmdia](http://nxtmdia.com/), empresa de innovación en medios. Pau Llop, profesor del MIP, ha centrado su discurso "La vida da muchas vueltas" en la idea del cambio y la adaptación a nuevos contextos. Éstas son algunas de las claves:

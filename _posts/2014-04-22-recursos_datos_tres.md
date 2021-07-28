@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 title: Recursos esenciales para el periodista de datos (3). La limpieza de la información
 excerpt: "El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. Los grandes proyectos requieren una importante inversión, pero unos conocimientos básicos, interés y herramientas relativamente sencillas permiten realizar trabajos de gran valor periodístico."
@@ -11,6 +10,8 @@ author:
   image: flx.jpg
   link: https://twitter.com/cibermensaje
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. Los grandes proyectos requieren una importante inversión, pero unos conocimientos básicos, interés y herramientas relativamente sencillas permiten realizar trabajos de gran valor.
 
 Eso es lo que [Antonio Delgado](https://twitter.com/adelgado "Perfil de este profesional en Twitter") demostró en el taller de periodismo de datos que impartió en el módulo de [Nuevas narrativas](https://twitter.com/search?q=%23NuevasNarrativas&src=typd "Hashtag en Twitter de esta asignatura") del Máster de Innovación en Periodismo ([MIP](http://mip.umh.es/ "Página de inicio de este proyecto académico")) de la UMH. Aquí, como complemento o aperitivo, se apuntan algunos de los recursos esenciales para empezar a desenvolverse en esta innovadora especialidad.

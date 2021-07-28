@@ -12,6 +12,8 @@ author:
   image: flx.jpg
   link: https://twitter.com/cibermensaje
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 _Code is everywhere_. No se puede ignorar, pero sí se debe aprovechar. El lenguaje informático se encuentra en la esencia de cualquier aplicación digital y, por supuesto, de la innovación en los contenidos periodísticos. Ante esta realidad, hay quien considera que no se puede ser periodista sin programar y quien cree que se debe seguir ignorando esta revolución. La clave, como casi siempre, se encuentra en el término medio, en dominar sus bases y seguir la pista a las nuevas tendencias.
 
 2013 fue, en Estados Unidos, el año del [código](http://www.codeyear.com/). En 2012, [Estonia se planteó enseñar programación a los niños de 6 años](http://gigaom.com/2012/09/05/estonias-plan-to-get-6-year-olds-coding-is-a-stroke-of-genius/). El desarrollo de software emergió como una de las grandes [vías para la solución de problemas](http://blog.bignerdranch.com/1631-dont-not-learn-how-to-code/) y, ante las numerosas dificultades que afronta la profesión periodística, el debate se extendió [entre el ámbito académico](http://cacm.acm.org/magazines/2011/10/131400-computational-journalism/fulltext#), [informático](http://www.poynter.org/latest-news/mediawire/174132/software-developer-revives-debate-about-whether-journalists-should-learn-to-code/) y [mediático](http://www.mediabistro.com/10000words/debate-journalists-code_b23853).

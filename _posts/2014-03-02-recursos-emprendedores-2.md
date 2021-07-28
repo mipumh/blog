@@ -12,6 +12,8 @@ author:
   link: https://twitter.com/smmahugo
 type: text
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 (Actualizado el 2 de diciembre de 2014)
 
 Hace unos días recopilábamos una serie de [recursos, libros y materiales útiles para periodistas emprendedores](http://mip.umh.es/blog/2014/01/19/recursos_emprendedores/). Y prometíamos volver con más. Para este segundo capítulo de esta serie de posts hemos listado los **mejores sitios donde los periodistas emprendedores (o no) pueden encontrar buenos materiales gráficos para un proyecto periodístico**. Y es que, si bien los contenidos van a ser siempre fundamentales, otras cuestiones como el diseño o la usabilidad del sitio web o la aplicación pueden marcar la diferencia con el resto de competidores. 
