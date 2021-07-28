@@ -17,6 +17,8 @@ tags:
   - periodismo
 type: text
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Hace apenas unos días ha concluído un MOOC, un curso masivo online y abierto, en el [Centro Knight](https://knightcenter.utexas.edu/es/) para el Periodismo en la Universidad de Texas en Austin  que llevaba por título [Periodismo para Emprendedores](http://open.journalismcourses.org/): el Desarrollo de Proyectos Periodísticos para la Web. 
 
 En dicho curso se han ofrecido una serie de materiales entre los que me gustaría destacar unos cuantos que pueden resultar muy útiles no solo para nuestros alumnos emprendedores del MIP (Máster de Innovación en Periodismo) sino para el resto de periodistas interesados en el tema. Muchos de estos materiales han sido comentados o recomendados por algún profesor del máster, por eso no está de más recopilarlos para el blog.

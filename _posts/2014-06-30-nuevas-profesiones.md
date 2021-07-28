@@ -12,6 +12,8 @@ author:
   link: https://twitter.com/smmahugo
 type: text
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 A menudo se ha hablado tanto en el Máster de Innovación en Periodismo como en este propio blog de la importancia que tienen los contenidos en el nuevo entorno digital. **El contenido es el rey y la conversación su consorte, la reina, se dice**. Y es que, en un entorno de infoxicación como en el que nos encontramos, es necesario captar la atención del usuario con asuntos relevantes, con textos (o videos, o fotos, o infografías...) de calidad, con formatos interactivos. 
 
 Por paradójico que resulte **para competir en un mundo saturado de contenidos... sólo se puede hacer con más contenidos, mejores y posicionados más arriba en los buscadores**.

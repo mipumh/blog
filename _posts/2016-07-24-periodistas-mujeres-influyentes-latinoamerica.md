@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Se trata de una lista necesariamente incompleta, ya que nos planteamos el reto de identificar a las periodistas que aúnan los rasgos de “innovadoras” e “influyentes” en los medios latinoamericanos. Comenzamos por esta serie de candidatas indiscutibles. Y te pedimos tu colaboración para ir ampliando esta lista en las próximas semanas.
 
 [SembraMedia](http://www.sembramedia.org/) figura entre las iniciativas de periodismo social, investigación, nichos especializados o colaboración ciudadana más destacadas en Latinoamérica que ha recopilado el profesor [José Alberto García Avilés](https://twitter.com/jagaraviles) en el artículo *[Pistas para seguir la expansión del periodismo en Latinoamérica (I)](http://mip.umh.es/blog/2016/07/17/pistas-periodismo-latinoamerica)*. Se trata de una asociación sin ánimo de lucro de apoyo a profesionales que emprenden en los medios digitales en español. Su fundadora es la consultora y capacitadora **[Janine Warner](https://twitter.com/janinewarner)**, [pionera en periodismo digital y enseñanza en línea](https://www.linkedin.com/in/janinewarner?authType=NAME_SEARCH&authToken=ciFo&locale=es_ES&srchid=2002312841469010086231&srchindex=1&srchtotal=20&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A2002312841469010086231%2CVSRPtargetId%3A41016%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH). Autora de 25 libros acerca de Internet, por ejemplo *Web Sites For Dummies* y *Social Media Design For Dummies*, es una de las grandes referencias actuales del [#periodismoinnovador](https://twitter.com/search?q=%23periodismoinnovador&src=typd). 

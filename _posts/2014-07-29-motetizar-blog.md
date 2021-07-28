@@ -10,6 +10,8 @@ author:
   image: crms.jpeg
   link: https://twitter.com/crms74
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 La conversión al periodismo digital se ha acelerado en los últimos años. En España, [la publicidad ha aumentado de forma considerable](http://ecommerce-news.es/marketing-social/la-publicidad-online-aumenta-su-peso-en-el-reparto-de-inversion-publicitaria-y-alcanza-ya-los-874-millones-de-euros-4711.html) y entre 2008 y 2013 [nacieron 297 medios de comunicación](http://www.apmadrid.es/images/stories/Nuevos%20medios%20lanzados%20por%20periodistas_Informe%20Anual%202013.pdf) que trabajan en **nichos desatendidos por las empresas periodísticas tradicionales**. A veces no se trata de un _nicho_ (vaya palabra), sino simplemente de un grupo de gente descontenta, interesada por algo en común, que los medios tradicionales no saben atender. 
  
 El punto de partida de muchos de estos proyectos fue **un blog gestionado por un periodista inquieto, inconformista o con algo que decir**. A continuación encontrarás cinco formas para que tú también puedas monetizar tu trabajo e intentes vivir de él. Pero, recuerda, lo primero es tener algo que contar y, sobre todo, **tener a alguien a quien le interese de verdad**:

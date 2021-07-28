@@ -10,6 +10,8 @@ author:
   image: jga.jpg
   link: https://twitter.com/jagaraviles
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Innovación es una palabra comodín que ahora aparece en muchos ámbitos. Como [plantea](http://blog.cumclavis.net/2014/04/realmente-hay-tanto-innovador.html) [Manel Muntada](https://twitter.com/cumclavis), **¿realmente hay tanto innovador?**: “El término ha pasado incluso a sustituir otros que, a fuerza de usarlos, han sido vampirizados, despojados de toda la energía que alguna vez poseyeron por aplicarse a demasiadas cosas o a nada a la vez”. Está claro: **no es innovación todo lo que reluce**.
 
 Innovar consiste en detectar un problema o necesidad, encontrar una solución original y desarrollarla de forma exitosa. Se trata de implementar un nuevo concepto, producto o servicio en un mercado concreto, de forma disruptiva, es decir, que esa novedad altere el modo tradicional en el que se venían haciendo las cosas. Como [señala](http://www.contunegocio.es/innovacion/ideas-fundamentales-sobre-innovacion/) [Juan Luis Manfredi](https://twitter.com/juanmanfredi), “**la

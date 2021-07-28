@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 [Las mujeres están adoptando roles cada vez más influyentes en el sector tecnológico](http://blogthinkbig.com/mujeres-en-tecnologia/?platform=hootsuite), leía el otro día. Es un hecho. Y tenemos numerosos ejemplos en el periodismo: [Mariana Santos](https://twitter.com/marysaints), [Miriam Hernanz](https://twitter.com/miriamhernanz), [Carmela Ríos](https://twitter.com/CarmelaRios) y todas las compañeras que citamos en la lista de [las periodistas más innovadoras e influyentes en los medios digitales](http://mip.umh.es/blog/2015/11/15/periodistas-innovadoras-influyentes/). 
 
 Hace unos meses, a propósito del proyecto [Chicas Poderosas](http://www.chicaspoderosas.org), iniciamos este ejercicio genealógico de carácter colaborativo para visibilizar a las mujeres que están presentes en la creación y expansión de los nuevos modelos de comunicación, con el objetivo de dar valor y reconocimiento a sus aportaciones en un ámbito tradicionalmente masculino. Tras la [segunda entrega](http://mip.umh.es/blog/2016/01/17/mujeres-periodistas-innovadoras-dos/), hemos seguido recibiendo propuestas para ampliar la lista. 

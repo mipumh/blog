@@ -11,6 +11,8 @@ author:
   image: fn.jpg
   link: https://twitter.com/fnmaillo
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 ¿Cuántas veces has consultado opiniones sobre un restaurante mientras Google Maps te lleva de vacaciones? ¿**Qué red social usas inmediatamente después de tomar la foto** espectacular con tus amigos en un chiringuito? ¿**Sientes curiosidad por páginas visitan tus contactos** de Facebook, hasta que las pruebas? ¿Algún amigo entra en su Facebook o consulta el correo mientras habla contigo? Seguramente habrás respondido sí a casi todas. La causa está en internet: **la socialización desde el móvil nos ha hecho ubicuos e infinitos**.
 
 Es una realidad: **por primera vez [el teléfono es el dispositivo más utilizado en España para conectarse a la red](http://www.elmundo.es/television/2014/02/28/530f9d5f22601df05e8b458c.html)**. Y es que nos hemos convertido en navegantes móviles, en ciudadanos conectados, en usuarios socializados. **Vivimos con

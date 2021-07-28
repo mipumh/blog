@@ -11,6 +11,8 @@ author:
   image: jga.jpg
   link: https://twitter.com/jagaraviles
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Cada vez, las empresas demandan más contenidos audiovisuales, es decir, historias que logren seducir al espectador a través de buenos personajes, conflicto y acción. La experiencia de los expertos nos puede ayudar a mejorar nuestra forma de contar historias, es decir, nuestro storytelling.
 
 Estas son sus recomendaciones:

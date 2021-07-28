@@ -10,6 +10,8 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 El viernes cogí el coche rumbo a Alicante desde Huesca, mientras tarareaba la canción "Al este del Edén" de La Unión y maduraba muchas de las cosas que escuché durante el [XV Congreso de Periodismo Digital](http://www.congresoperiodismo.com/). En la víspera del evento, tuve la oportunidad de contar a otros profesores en qué consiste el [Máster en Innovación en Periodismo](http://mip.umh.es). Era mi primera vez en esta cita, aprendí mucho, lo pasé muy bien y volví con nuevos amigos. Enhorabuena a [Fernando García Mongay](https://twitter.com/mongay55), a todos los colaboradores, estudiantes y patrocinadores. Estas son diez reflexiones de lo allí vivido:
 
 **1. El pesimismo y el diagnóstico interminable sobre la muerte de la prensa tradicional han desaparecido casi definitivamente del escenario**. Se abre paso una generación optimista, peleona, dispuesta a experimentar y a lanzar nuevos proyectos. Pero hay todavía algunas voces derrotistas, que miran el emprendimiento con cinismo, como una condena ante la falta de empleo, en lugar de como una oportunidad en un período de transición industrial.

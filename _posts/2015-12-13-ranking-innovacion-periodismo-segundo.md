@@ -10,6 +10,8 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Ponemos en marcha el [Ranking de Innovación Periodística 2016](http://bit.ly/ranking2016) con el lanzamiento de un **cuestionario para recibir candidaturas de medios o iniciativas periodísticas**. El objetivo global de esta investigación es estudiar la innovación en periodismo y reconocer así el trabajo de periodistas y editores. En enero de 2015 se publicó la [primera edición](http://mip.umh.es/ranking/) de este Ranking, que destacó la audacia y la experimentación de proyectos periodísticos más allá de la industria mediática tradicional.
 
 La investigación que ahora comienza **analizará y evaluará los proyectos periodísticos más innovadores** en el ámbito español durante 2015-2016. Este primer cuestionario pretende recoger la mayor cantidad y variedad de casos posibles, que, posteriormente, serán votados por una comisión de periodistas y académicos. La selección final pasará después el filtro de relevancia social y profesional. Los 20 finalistas serán analizados por el equipo de investigación del Ranking, [como se hizo en la primera edición](http://mip.umh.es/ranking/metodologia.html).

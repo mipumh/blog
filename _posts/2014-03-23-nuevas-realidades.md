@@ -11,6 +11,8 @@ author:
   image: jlg.jpg
   link: https://twitter.com/eurogaceta
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Una de las asignaturas pendientes de la Universidad española, en lo que respecta a los estudios de Periodismo, es tener la capacidad suficiente para no verse superada por los acontecimientos derivados del momento de transformación de nuestra profesión. En este sentido, quienes rigen los destinos de las universidades y los propios profesores tienen/tenemos la responsabilidad directa de mantenerse alerta. Por eso, las aulas de Periodismo del siglo XXI deberían ser capaces de moldear periodistas tecno-humanistas y deberíamos tener el conocimiento, las habilidades y las herramientas necesarias para, a través de nuestros grados y máster, formar periodistas que se ajusten a esos nuevos perfiles y realidades profesionales. 
 
 <div class='full zoomable'><img src='/blog/images/jornadas.jpg' /></div>

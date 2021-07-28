@@ -10,6 +10,8 @@ author:
   image: les.jpeg
   link: https://twitter.com/lorenaescandell
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Responsable de Redes Sociales del diario [El Mundo](http://www.elmundo.es), [Carmela Ríos](https://twitter.com/CarmelaRios) es veterana en el [uso de Twitter como herramienta de trabajo](http://sociedad.elpais.com/sociedad/2012/05/08/actualidad/1336500842_216221.html). De hecho tuiteó [el cierre de CNN + y el 15M](http://www.huffingtonpost.es/carmela-rios/si-se-puede-hacer-periodi_b_7491558.html). Convencidísima de que [#SiSePuede hacer periodismo en redes sociales](http://www.huffingtonpost.es/carmela-rios/si-se-puede-hacer-periodi_b_7491558.html), en su blog [Jugaba en el Betis](http://carmelarios.com) da pistas sobre nuevas narrativas y periodismo móvil.
 
 ![]({{ site.baseurl }}/images/shots/gimna.jpg)

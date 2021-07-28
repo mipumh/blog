@@ -11,6 +11,8 @@ author:
   image: flx.jpg
   link: https://twitter.com/cibermensaje
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. [La investigación sobre los paraísos fiscales](http://offshoreleaks.icij.org/ "Página de inicio de esta base de datos digital") impulsada por el International Consortium of Investigative Journalists ([ICIJ](http://www.icij.org/ "Página de inicio de la web de esta entidad")), [descrita en este blog](http://mip.umh.es/blog/2013/07/04/datos/), constituye sólo uno de los ejemplos más recientes y relevantes.
 
 El desarrollo de grandes proyectos de este tipo requiere invertir en capital humano y material técnico. Sin embargo, con unos conocimientos básicos, interés y unas herramientas relativamente sencillas, se pueden realizar trabajos de gran valor estético y, sobre todo, informativo. Eso es lo que se demostró en el taller de periodismo de datos que [Antonio Delgado](https://twitter.com/adelgado "Perfil de este profesional en Twitter") impartió en el módulo de [Nuevas narrativas](https://twitter.com/search?q=%23NuevasNarrativas&src=typd "Hashtag en Twitter de esta asignatura") del Máster de Innovación en Periodismo ([MIP](http://mip.umh.es/ "Página de inicio de este proyecto académico")) de la UMH. Aquí, como complemento o aperitivo, se apuntan algunos de los recursos esenciales para empezar a desenvolverse en esta innovadora especialidad.

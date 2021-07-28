@@ -19,6 +19,7 @@ tags:
   - periodismo
 type: text
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 
 
 Hace tiempo que _no estar en la red_ significa _no existir_. Pero ese mundo conectado que descubríamos hace una década ha virado hacia un ecosistema más social. Plataformas como Facebook y Twitter han revolucionado no sólo la sociedad, la cultura o el periodismo, sino también nuestra forma de consultar información y crear conocimiento. Ahora las audiencias, antes pasivas, producen contenido y enriquecen su consumo, mientras las redes sociales ofrecen innumerables oportunidades de _marketing_ para los medios. Pero socializar con los usuarios entraña tantas ventajas como riesgos.

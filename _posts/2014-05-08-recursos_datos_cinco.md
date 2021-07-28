@@ -11,6 +11,8 @@ author:
   image: flx.jpg
   link: https://twitter.com/cibermensaje
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. Los grandes proyectos requieren una importante inversión, pero unos conocimientos básicos, interés y herramientas relativamente sencillas permiten realizar trabajos de gran valor.
 
 ![Imagen: En el taller de Nuevas Narrativas.org](https://pbs.twimg.com/media/BitFMknIQAA2Eji.jpg:large)

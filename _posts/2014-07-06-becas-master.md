@@ -10,6 +10,8 @@ author:
   image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Si estás pensando en cursar un master, te conviene ponerte al día sobre las ayudas, becas y sistemas de financiación existentes. Las convocatorias para realizar masters pueden provenir de organismos públicos, como es el caso del [Ministerio de Educación, Cultura y Deporte](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9041) o la [Generalitat Valenciana](http://www.viu.es/download/estudiante/becas-y-ayudas/Convocatoria%20Generalitat%2013-14.pdf), dirigidas a estudiantes nacionales y de la Comunitat.
 
 No obstante, las propias universidades también abren convocatorias de ayudas, centradas en realizar los estudios que en ellas se ofertan. [Aquí podéis consultar la convocatoria de becas para la matrícula en estudios de la Universidad Miguel Hernández para 2013-2014](http://estudios.umh.es/files/2014/05/RE2641.pdf). Si eres un estudiante extranjero, también tienes [diferentes opciones](http://www.studyinspain.info/reportajes/propuestas/Cmo-obtener-una-beca-para-estudiar-en-Espaa/?l=es) para cursar un master en España o [disfrutar de una ayuda para tu movilidad](http://www.studyinspain.info/reportajes/propuestas/Cmo-obtener-una-beca-para-estudiar-en-Espaa/?l=es). 

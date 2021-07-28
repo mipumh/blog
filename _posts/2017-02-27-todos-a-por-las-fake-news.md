@@ -10,6 +10,8 @@ author:
   image: flx.jpg
   link: https://twitter.com/flxarias
 ---
+![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Se crean para difamar, ensalzar, despistar, convencer o hasta para divertir (como esta broma en forma de chat). Se difunden por interés, ignorancia, fanatismo o, a menudo, por simple dejadez. A veces tienen varias vidas. Y pueden remover emociones, carteras e incluso votos.
 
 <script type="text/javascript" src="//cdn.playbuzz.com/widget/feed.js"></script>
