@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Algunas claves sobre el desarrollo de proyectos periodísticos 
-excerpt: "Desde que empezamos la aventura del Máster en Innovación en Periodismo hemos tenido claro que idear, desarrollar y lanzar un proyecto periodístico es la mejor forma de adquirir las habilidades que los medios demandan. Así como otros  postgrados se enfocan en el área temática o en el soporte, nosotros nos especializamos en formar periodistas capaces de comprender cómo está cambiando la industria para buscar soluciones a los problemas que hoy en día afrontan los medios."
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
