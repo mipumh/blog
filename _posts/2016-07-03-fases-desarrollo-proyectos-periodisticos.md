@@ -55,13 +55,4 @@ Si ya te has lanzado, ahora toca **desarrollar un plan para llegar a esa comunid
 
 ¿Cuántas horas necesitas para desarrollar el producto o el servicio? ¿Te quedará tiempo para idear una campaña, poner posts patrocinados en redes sociales, crear comunidad en Facebook? Quizá necesites buscar un socio, alguien que se complemente contigo, alguien con quien compartir gastos y con la misma filosofía. ¿Necesitas un diseñador, más periodistas, un experto en diseño web o en programación? 
 
-Al final, si quieres desarrollar un proyecto periodístico sostenible, conviene que reflexiones si puedes [generar valor al público adecuado y obtener lo que buscas a cambio](http://mip.umh.es/blog/2016/05/29/preguntas-modelo-de-negocio-periodismo/). Como sabes, tu modelo de negocio se sustenta en un equilibrio entre la dimensión que buscas, el valor que aportas, la capacidad que tienes, cómo te distingues de los competidores y el dinero que puedes ingresar. Al final, ¿cuál era tu misión, por qué te embarcaste en esto?  
-
-Hace unos días **los estudiantes de nuestro Máster llegaron a la última etapa de su viaje**, el ‪#‎DemoDay‬, un ejercicio práctico en el que defendieron sus proyectos ante un equipo de evaluadores, [este año presidido por el periodista Eduardo Suárez](http://mip.umh.es/blog/2016/06/05/demoday-proyectos-periodisticos/). Aquí os dejamos dos vídeos con algunos de los proyectos defendidos este año:
-
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/DSbhoWuPl7E?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/DSbhoWuPl7E?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-<br>
-
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/nONg8T7eSjI?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/nONg8T7eSjI?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
+Al final, si quieres desarrollar un proyecto periodístico sostenible, conviene que reflexiones si puedes [generar valor al público adecuado y obtener lo que buscas a cambio](http://mip.umh.es/blog/2016/05/29/preguntas-modelo-de-negocio-periodismo/). Como sabes, tu modelo de negocio se sustenta en un equilibrio entre la dimensión que buscas, el valor que aportas, la capacidad que tienes, cómo te distingues de los competidores y el dinero que puedes ingresar. Al final, ¿cuál era tu misión, por qué te embarcaste en esto?
