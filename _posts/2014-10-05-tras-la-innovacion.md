@@ -2,7 +2,6 @@
 layout: post
 cover_image: nyt.jpg
 title: Ocho medidas del New York Times para mejorar su audiencia  
-excerpt: "El informe sobre innovación del New York Times es uno de los documentos clave de esta era mediática. Cinco meses después, las 97 páginas filtradas por Buzzfeed, rey del contenido viral y de la publicidad nativa, han empezado a cuajar. Hace unas semanas, la autora del texto, Amy O’Leary, entonces jefa de operaciones digitales, participó en el principal congreso de periodismo digital del mundo, ONA, y concretó algunos de los cambios."
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
@@ -11,6 +10,8 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 **El informe sobre innovación del New York Times** es uno de los [documentos clave de esta era mediática](http://www.niemanlab.org/2014/05/the-leaked-new-york-times-innovation-report-is-one-of-the-key-documents-of-this-media-age/). Cinco meses después, [las 97 páginas filtradas por Buzzfeed](http://www.buzzfeed.com/mylestanzer/exclusive-times-internal-report-painted-dire-digital-picture#2jfmhdk), rey del contenido viral y de la publicidad nativa, han empezado a cuajar. 
 
 [Dos directivos del diario neoyorquino anunciaron la semana pasada algunos cambios organizativos](http://www.poynter.org/latest-news/mediawire/272103/new-york-times-makes-another-change-in-response-to-innovation-report/#.VCreg20XaKY.twitter) y explicaron cómo van a alcanzar **la principal misión en estos momentos: hacer realidad el informe**. Un grupo de líderes coordinará el esfuerzo por aumentar el alcance y la relación con la audiencia, para ello deben integrar a los equipos de producto, tecnología, marketing y negocio. 
