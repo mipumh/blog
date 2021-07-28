@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un programa noticioso 
-subtitle: "El equipo de UMH TV ha dedicado una de sus piezas al Máster de Innovación en Periodismo"
+subtitle: El equipo de UMH TV ha dedicado una de sus piezas al Máster de Innovación en Periodismo
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
