@@ -2,7 +2,6 @@
 layout: post
 title: Un programa noticioso 
 subtitle: "El equipo de UMH TV ha dedicado una de sus piezas al Máster de Innovación en Periodismo"
-excerpt: "Aprovechando la visita de Ángel Anaya y Laura Blanco, creadores de la revista Vis-a-Vis, los compañeros de UMH TV acudieron al Edificio Innova para cubrir la sesión y hablar con los estudiantes; este es el resultado que se ha emitido hoy en el informativo semanal de la televisión universitaria."
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
