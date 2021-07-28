@@ -13,4 +13,4 @@ author:
 ---
 Aprovechando la visita de **Ángel Anaya** y **Laura Blanco**, creadores de la revista [Vis-a-Vis](http://www.vis-a-vis.es/), los compañeros de UMH TV acudieron al _Edificio Innova_, lugar en el que se desarrollan las clases del Máster de Innovación en Periodismo, para cubrir la sesión y hablar con los estudiantes; este es el resultado que se ha emitido hoy en el informativo semanal de la televisión universitaria.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/N3qunmkMPCo?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/N3qunmkMPCo?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N3qunmkMPCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

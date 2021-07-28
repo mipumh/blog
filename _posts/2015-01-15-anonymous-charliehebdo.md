@@ -23,4 +23,4 @@ El 7 de enero de 2015, en respuesta al brutal asesinato en la capital francesa, 
  
 Aunque en su última portada [Charlie Hebdo lo perdone todo](http://www.expansion.com/2015/01/13/empresas/tmt/1421133912.html), Europa jamás olvidará que la libertad nunca puede ceder ante el miedo. Todos a una: **#JeSuisCharlie**
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/oqbwqmb8P00?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/oqbwqmb8P00?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oqbwqmb8P00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -64,8 +64,6 @@ Creo que forma parte de nuestra filosofía de decirles a los lectores que lo int
 
 Tenemos también otros eventos llamados "Zetland Sofá" que organizamos en nuestra redacción una vez al mes; invitamos a entre 50 y 100 personas para comentar cuestiones de actualidad; la semana que viene, por ejemplo, hablaremos sobre las noticias falsas a propósito de todo lo sucedido tras la campaña de [Donald] Trump.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/zxT2dNDvg5w?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/zxT2dNDvg5w?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
 **¿Estos eventos se hacen sólo para suscriptores o también para el público en general?**
 
 Como miembro puedes obtener tu entrada de forma gratuita y también puedes pagar por acudir; lo interesante es que estos eventos son una buena herramienta de conversión: "únete a Zetland y asiste gratis a ese evento al que querías acudir pagando".

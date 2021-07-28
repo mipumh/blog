@@ -14,10 +14,6 @@ Prueba, valora y comparte. Con esas tres acciones se presenta [BBC Taster](http:
 
 **BBC Taster** es una de las múltiples iniciativas de la cadena británica [para innovar en contenidos](http://mip.umh.es/blog/2014/06/22/bbc-lab/) de todo tipo. Las herramientas del laboratorio facilitan el trabajo de los profesionales y aportan soluciones a los problemas reales de la producción de programas multiplataforma. Lo primero que llama la atención de este proyecto es que los contenidos nacen con una **cuenta atrás**. Al menos, para valorarlos (porque también tiene [un archivo](http://www.bbc.co.uk/taster/all)). Y sólo en ocasiones especiales sobrepasa los tres meses.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/w5r73ceS-3c?version=3&amp;hl=es_ES"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/w5r73ceS-3c?version=3&amp;hl=es_ES" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-<br>
-
 Entre los **contenidos** que ofrece BBC Taster, destacan los siguientes:
 
 * **Plataformas**. Se clasifican como "immersive stories", pero en realidad son proyectos que experimentan con nuevas formas de distribuir contenidos periodísticos. [Newsbeat](http://newsbeat-explains.ch.bbc.co.uk/), por ejemplo, distribuye contenidos que sólo se despliegan cuando pulsa el usuario.
