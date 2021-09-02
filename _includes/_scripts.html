@@ -14,7 +14,7 @@
       SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/search.json',
+        json: '{{ site.url }}/search.json',
         searchResultTemplate:'<a href="{url}" class="list-group-item list-group-item-action small" target="_blank" alt="{{ title }}">{title} — {date}</a>',
         noResultsText: '<p class="lead">Vaya, ese cliché no está registrado, ¿quieres añadirlo?</p>',
         limit: 10,
