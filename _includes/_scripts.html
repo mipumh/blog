@@ -1,9 +1,8 @@
 <script type="text/javascript" href="{{ site.baseurl }}/js/main.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-<!-- or without installing anything -->
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-<script>
+<script type="text/javascript">
 function getQueryVariable(variable)
 {
        var query = window.location.search.substring(1);
@@ -29,7 +28,6 @@ $.getJSON("search.json", function(json){
      limit: 20
   });
   sjs.search(mykeyword);
-  document.getElementById('search-loading').style.display = "none";
 });
 </script>
 
