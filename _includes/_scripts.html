@@ -4,10 +4,9 @@
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 <script type="text/javascript">
-var sbox = document.getElementById('search-input');
 $.getJSON("{{ site.baseurl }}/search.json", function(json){
   var sjs = SimpleJekyllSearch({
-     searchInput: sbox,
+     searchInput: document.getElementById('search-input'),
      resultsContainer: document.getElementById('results-container'),
      json: json,
      searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action small" target="_blank" alt="{{ title }}">{title} — {date}</a>',
