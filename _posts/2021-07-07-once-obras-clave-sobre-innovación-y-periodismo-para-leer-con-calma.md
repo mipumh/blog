@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virginia Luzón, experta en nuevos formatos (UAB)&#58 "Vivimos en una burbuja informativa, al igual que en otra en la ficción, que puede resultar algo perversa"
+title: "Once obras clave sobre innovación y periodismo para leer con calma"
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
