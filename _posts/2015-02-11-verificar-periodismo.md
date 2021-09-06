@@ -11,6 +11,8 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
+![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
+
 Una usuaria tuitea [una noticia falsa](http://www.elconfidencial.com/alma-corazon-vida/2014-11-28/los-perros-van-al-cielo-el-papa-insinua-que-hay-paraiso-para-todos-los-animales_511788/) de **El Confidencial**. En esta ocasión el prestigioso digital ha sido víctima de la atribución de una cita falsa en cadena: un medio reporta unas supuestas declaraciones del Papa, otros se hacen eco y juntos otorgan apariencia de verdad a un [bulo](http://www.emergent.info/pope-francis-pets-in-heaven). El propio New York Times también cometió el error, aunque [rectificó varios días más tarde](http://www.nytimes.com/2014/12/12/world/europe/dogs-in-heaven-pope-leaves-pearly-gate-open-.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=2&assetType=nyt_now).
 
 Desgraciadamente, no siempre son tan insulsas las falsedades, ni todos rectifican. Medios que _matan_ a protagonistas de la actualidad, publican fotos falsas de presidentes moribundos en el quirófano o imprimen diarios con necrológicas imaginarias. No solo se trata de fichajes de futbolistas, son informaciones de todo orden que nunca fueron contrastadas. Un defecto, por supuesto, nada nuevo, pero ahora con los estoroides de las redes sociales. 
