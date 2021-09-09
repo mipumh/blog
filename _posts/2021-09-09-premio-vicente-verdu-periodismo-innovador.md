@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nace el I Premio Vicente Verdú de Periodismo e Innovación, dotado con 6.000 euros
+title: Nace el Premio Vicente Verdú de Periodismo e Innovación, dotado con 6.000 euros
 subtitle: El certamen, cuyo plazo de admisión finaliza el 29 de octubre, es una iniciativa de la Asociación de Informadores de Elche, el Ayuntamiento de Elche y el Máster en Innovación en Periodismo
 author:
   name: Miguel Carvajal
@@ -12,6 +12,7 @@ author:
 La primera edición del **Premio Vicente Verdú de Periodismo e Innovación** otorgará **6.000 euros** al autor(es) de un trabajo periodístico destacado por su innovador tratamiento informativo. El certamen, convocado por la Asociación de Informadores de Elche, con el apoyo del Ayuntamiento de Elche y la colaboración del Máster en Innovación en Periodismo, quiere reconocer e incentivar, en una época de profundos cambios en el periodismo, la búsqueda de la innovación.
 
 ![]({{ site.baseurl }}/images/shots/vicente_verdu.jpeg)
+<sup> Fotografía de Cristóbal Manuel (El País.)
 
 Los trabajos participantes deberán haberse publicado, difundido o emitido en formato impreso o digital (audio, vídeo o multimedia) entre el 1 de enero de 2020 y el 31 de marzo de 2021. El plazo de recepción finaliza el **29 de octubre del presente año**, el jurado dará a conocer su fallo durante el mes de noviembre y la entrega del premio tendrá lugar en diciembre.
 
