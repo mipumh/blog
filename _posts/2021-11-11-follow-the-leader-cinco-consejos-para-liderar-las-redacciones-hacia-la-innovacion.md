@@ -1,0 +1,83 @@
+---
+layout: post
+title: Follow the leader! Cinco consejos para liderar las redacciones hacia la
+  innovación
+author:  
+  name: Jose María Valero 
+  twitter: josvap
+  gplus:  
+  bio: Doctor en Periodismo UMH
+  image: chema.jpg
+  link: https://twitter.com/josvap
+---
+Los medios de comunicación necesitan una visión estratégica que los ayude a sobrevivir en un contexto en el que su sostenibilidad, su influencia y la legitimidad de su misión social están en juego. En una industria mediática tan ligada al cambio y la creatividad, la innovación debe ser una parte fundamental de esa hoja de ruta. Por ello, **sus responsables deben adoptar un estilo de liderazgo transformacional, que fomente la agilidad y la experimentación constante**. En este artículo incluimos cinco consejos para impulsar un clima innovador en las redacciones, ilustrados con ejemplos actuales.
+
+![]({{ site.baseurl }}/images/shots/lider1.jpg)
+
+De acuerdo con el actual Director General de El Confidencial, Alejandro Laso, en los medios se ha ejercido tradicionalmente un estilo de liderazgo transaccional, en el que **la vinculación entre los líderes y los empleados se ceñía a un mero intercambio contractual** de trabajo por unas determinadas condiciones laborales. Laso incluso califica de “castrador” el liderazgo ejercido en su organización antes del cambio de propiedad en 2011, pues impedía la implementación de las ideas de los trabajadores.
+
+Sin embargo, en la actualidad las organizaciones innovadoras están optando por **modelos que persiguen la identificación de los profesionales con los valores y los objetivos** globales de las compañías. Según apunta la experta Lucy Küng en su [libro sobre gestión estratégica de medios](https://www.researchgate.net/publication/292654997_Strategic_management_in_the_media_From_theory_to_practice), este tipo de liderazgos promueve la motivación de los empleados, con lo que aumenta su proactividad y creatividad para buscar nuevas soluciones y su compromiso con los resultados del medio.
+
+La democratización de las herramientas de publicación en internet ha resaltado la importancia del factor humano para generar ventajas competitivas en los medios de comunicación. Sin embargo, no basta con acumular profesionales con capacidades valiosas. Para que el talento brille, debe ser gestionado por **un liderazgo que lo inspire, apoye sus esfuerzos y elimine los obstáculos** que se interponen entre él y la obtención de resultados. En definitiva, como concluyen [diversos estudios científicos](https://www.researchgate.net/publication/271569526_Leadership_an_essential_requirement_for_effecting_change_in_media_companies_An_analysis_of_the_Spanish_market), que diseñe una estructura empresarial y redaccional que lo potencie.
+
+Además, la motivación e identificación de los trabajadores **no solo impulsa el talento, sino que también ayuda a retenerlo** en las organizaciones. Los medios de comunicación se encuentran ante la paradoja de que, pese a que la profesión periodística presenta [cifras de desempleo elevadas](https://www.apmadrid.es/el-paro-registrado-de-los-periodistas-crecio-el-25-en-2020/), en el mercado laboral no abundan los perfiles [profesionales especializados que necesitan](https://www.reportaro.com/los-perfiles-profesionales-periodisticos-mas-demandados-en-los-medios-con-modelos-de-suscripcion/). En este contexto, retener el talento que se posee resulta fundamental para seguir generando productos valiosos.
+
+La introducción de este **estilo de liderazgo inspirador, empoderador y motivador**, conocido como transformacional, fue estudiada por el investigador John P. Kotter en su obra seminal [Leading Change](https://kingdomwayministries.net/wp-content/uploads/2016/12/Leading_Change_2col.pdf). En ella proponía una serie de pasos para introducirlo en cualquier tipo de organización, que han sido [aplicados recientemente por profesores del MIP al estudio de las redacciones](https://www.tandfonline.com/doi/full/10.1080/1461670X.2021.1927153) en España y Estados Unidos. Los siguientes consejos se basan en las conclusiones obtenidas en esa investigación.
+
+## 1. Crear una coalición de líderes convencidos del cambio
+
+El liderazgo en los medios de comunicación se ha identificado habitualmente con la presencia de figuras individuales carismáticas que ocupan los cargos directivos. Sin embargo, para que la innovación penetre en la organización es necesario que esté respaldada por una fuerza mayor que la legitime entre los trabajadores. Por eso, [se aboga](https://hbr.org/2007/02/in-praise-of-the-incomplete-leader) por la creación de **equipos de líderes que tengan cierto peso en el organigrama**, pero que también **representen los diferentes puntos de vista** en la redacción (periodistas, desarrolladores, diseñadores, etc.) y reúnan una **influencia efectiva sobre los profesionales** por su alta consideración personal y profesional.
+
+![]({{ site.baseurl }}/images/shots/lider2.jpg)
+
+Este cambio de perspectiva en el liderazgo es especialmente relevante en la industria mediática, donde se observa una **transformación de los flujos de trabajo desde el individualismo a la colaboración**. Al igual que los diferentes perfiles profesionales de las redacciones se complementan para aportar un valor superior, los líderes que forman las coaliciones pueden hacerlo para congregar entre todos [las cualidades identificadas por los expertos](https://www.researchgate.net/publication/292654997_Strategic_management_in_the_media_From_theory_to_practice) como indispensables para la gestión de medios: **capacidad estratégica** para conducir la empresa, **conocimiento sobre el sector** en el que se opera, **creatividad** para aportar nuevas soluciones y **habilidades sociales**.
+
+Por ejemplo, **El Confidencial cuenta con una coalición de líderes** paradigmática con el equipo formado por el Director General, Alejandro Laso, y todos los jefes de producto del laboratorio de innovación. El grupo se reúnen periódicamente para **discutir la visión estratégica y el rumbo de la compañía y atesora todos los requisitos** para liderar el cambio en la redacción. Representan a áreas diferentes, promueven la búsqueda de soluciones creativas, disfrutan de autoridad formal en la compañía y sus mensajes calan en los empleados porque confían en su criterio, de acuerdo con [investigaciones previas](https://bit.ly/tesisChemaValero).
+
+Por otro lado, la coalición de liderazgo transformacional no solamente debe involucrar a profesionales con un alto rango, sino que debe buscar aliados en toda la compañía. Los [estudios sobre difusión de las innovaciones en los medios](https://www.researchgate.net/publication/330448899_Journalists'_views_on_innovating_in_the_newsroom_Proposing_a_model_of_the_diffusion_of_innovations_in_media_outlets) han demostrado que los periodistas confían más en los mensajes que proceden de sus iguales que en los que vienen de arriba. Además, las cualidades de liderazgo también pueden estar presentes en trabajadores que no ocupen cargos directivos. Por ello, resulta útil **encontrar y fomentar el contacto con estos embajadores de la innovación** que ayuden a transmitir la importancia del cambio en el día a día.
+
+“La idea es que la unidad de innovación tenga embajadores a través de la redacción. Personas que actúen **como líderes de opinión y que sea capaces de crear nueva cultura**. Alguien que conozca a los redactores y hable su mismo idioma”, afirma el actual periodista de El País [Álvaro Rigal](https://twitter.com/A_Rigal), que durante años fue uno de los enlaces entre el laboratorio y la redacción de El Confidencial. En palabras del consultor y ex director de Innovación de Vocento, [Borja Bergareche](https://twitter.com/borjabergareche), estos líderes informales “tienen un mayor sentimiento de orgullo por pertenecer a un proyecto innovador”, y por ello difunden las ventajas del cambio entre sus compañeros.
+
+## 2. Diseñar y comunicar una visión común
+
+A diferencia del estilo de liderazgo carismático, el transformacional no se basa en la idealización irreflexiva y la veneración del líder, sino en **la alineación de todos los actores en torno a la consecución de unos objetivos** que se perciben como positivos. Por ello, la coalición de líderes debe prestar una gran atención a cómo diseña y formula la visión estratégica, [definida académicamente](https://bit.ly/tesisChemaValero) como “una imagen mental futura que debe aportar a los trabajadores una razón por la cual dejar de lado sus intereses personales en beneficio de la causa común”.
+
+De acuerdo con los postulados de Kotter, esta visión debe incluir cinco ingredientes principales: ser **imaginable**, para que los trabajadores puedan anticipar las consecuencias positivas de perseguirla; **deseable** tanto para los empleados como para todos los niveles de la empresa; **factible**, de modo que no resulta inabordable; **flexible** para permitir que cada individuo pueda perseguirla por sus propios métodos; y **comunicable** con facilidad.
+
+![]({{ site.baseurl }}/images/shots/quartzy.jpg)
+
+El editor de Cultura y Estilo de vida del digital norteamericano innovador Quartz, [Oliver Staley](https://twitter.com/Ostaley), describe así la visión de su medio: “Nuestra ambición es ser el Wall Street Journal o The Economist del siglo XXI. **Queremos ser el líder. En el corto plazo, queremos continuar sacando historias frescas, interesantes y sorprendentes** que hagan replantearse el mundo en el que viven a nuestros lectores interesados en los negocios”. Una formulación que casa con la de la ex editora de audiencias [Molly Stier](https://twitter.com/MollyStier), que asegura que el objetivo es "convertirse en la fuente de noticias para la próxima generación que dará forma a la economía global".
+
+Como se puede apreciar, las definiciones plantean un escenario futuro imaginable y factible, pues **se basa en ejemplos conocidos y establece pautas a corto plazo** para alcanzar los objetivos más ambiciosos. Además, resulta estimulante para los trabajadores, a los que se pide **desplegar un periodismo interesante y creativo**, pero a la vez es flexible, pues **no se les impone cómo hacerlo**, sino que se permite que busquen sus propios métodos. 
+
+La comunicación de la visión debe producirse de forma clara, simple y reiterada para que se entienda y cale en el trabajo diario. Los líderes deben emplear todos los foros que tienen a su alcance. Sin embargo, más importantes que los discursos son los hechos. Por ello, **el éxito de este proceso depende en gran medida de una asignación de recursos y un sistema de recompensas** que ensalce la innovación. Por ejemplo, los jefes de sección de Quartz premian a sus periodistas más creativos incluyendo las piezas innovadoras en un email semanal que se envía a la redacción.
+
+## 3. Reforzar el mensaje con sensación de urgencia y victorias a corto plazo
+
+Los trabajadores tienen que percibir por sí mismos la urgencia de adaptar los productos a las demandas de los usuarios. De este modo, no basta con que los líderes les transmitan una visión atractiva, sino que les deben **demostrar las amenazas del mercado lo suficiente como para que se cuestionen el *statu quo***actual. Por ejemplo, en 2018 la empresa WeblogsSL, matriz de [Xataka](https://www.xataka.com/) entre otros portales temáticos, envió a todos sus trabajadores un email titulado “Cuando te levantas y tienes la cara de Terra” para mostrar a sus empleados lo anticuado de su aspecto, explicar lo fácil que es perder una posición hegemónica en internet y, con ello, agitar la compañía.
+
+Las redacciones más innovadoras invitan a sus profesionales a **compararse con multinacionales tecnológicas, como Google o Facebook**, en lugar de con otros medios. Las fronteras entre la industria tecnológica y la periodística se han desdibujado y ambas compiten por la atención de los usuarios *online*, por lo que no resulta descabellado hacerlo **para no caer en la autocomplacencia**. “Tenemos un equipo de producto, intentamos ser innovadores pero todavía no somos, por ejemplo, Google. No somos la compañía más innovadora del mundo”, aseguraba el ex jefe de producto de aplicaciones en Quartz, [Takuma Kakehi](https://twitter.com/takuma_kakehi).
+
+![]({{ site.baseurl }}/images/shots/xataka1.jpg)
+
+Por otro lado, los líderes deben **establecer metas a corto plazo que, mediante su consecución, evidencien la utilidad de la innovación**. “Victorias rápidas”, como las define [la literatura científica](https://kingdomwayministries.net/wp-content/uploads/2016/12/Leading_Change_2col.pdf), que legitimen la visión estratégica formulada por los líderes. En este sentido, la analítica de datos permite establecer objetivos cuantitativos alcanzables adaptados a los cometidos de cada profesional. Además, los marcos de trabajo ágiles se estructuran en ciclos de una o dos semanas, tras los cuales se evalúan los resultados conseguidos, con lo que la reflexión sobre el éxito de la innovación está asegurada en las organizaciones que los emplean.
+
+## 4. Empoderar a los empleados
+
+El liderazgo transformacional se basa en la **concesión de autonomía y poder de decisión a unos profesionales comprometidos** para que persigan la visión mediante sus propios métodos. Así, los líderes deben asegurarse de eliminar las barreras estructurales que dificultan que los empleados alineados con la estrategia de la empresa puedan actuar en consecuencia. Las configuraciones formales deben ser compatibles con la visión, por lo que se desaconseja establecer jerarquías estrictas y complejas.
+
+Esto resulta inevitable en medios con una gran infraestructura y plantillas numerosas, lo que dota de mayor capacidad innovadora a empresas de menor tamaño. “**En lugares en los que hay mucha estructura, es muy difícil poder hacer cosas**”, afirma la fundadora de [Maldita.es](https://maldita.es/), [Clara Jiménez](https://twitter.com/cjimenezcruz), que añade que “por esa falta de estructura, se favorece que la gente tenga ideas y quiera hacer cosas, porque les pedimos que sean bastante autosuficientes desde el principio”.
+
+De hecho, la periodista expone un ejemplo paradigmático de esa **libertad creativa de la que disfrutan sus empleados**: “Hace unos años, llegaron los becarios y me dijeron que habían creado un TikTok de Maldita.es, habían subido cuatro desmentidos de bulos y ya tenían 3.000 seguidores. Lo hicieron sin avisarnos. Cualquier otro jefe se cabrearía mucho con que hubieran creado una cuenta corporativa sin contárselo, pero a mí me parece increíble”.
+
+![]({{ site.baseurl }}/images/shots/tiktokmald.png)
+
+En El Confidencial, que tiene una plantilla de 150 profesionales, se han implantado otros métodos para **democratizar la priorización de ideas innovadoras**, basados en la estimación del retorno de la inversión. Se pretende que cualquier propuesta interesante para la compañía, venga de donde venga, tenga posibilidades de desarrollo, lo que estimularía la motivación y la creatividad de los empleados. En la práctica, cuesta aplicar estos métodos de forma efectiva, ya que los directivos se reservan un voto de calidad.
+
+La **carga de trabajo excesiva es otra barrera estructural** para la innovación. Si los periodistas están inmersos en “la rueda de hámster de la actualidad”, como sostiene Alejandro Laso, resulta más complicado que  generen ideas creativas. Por ello, El Confidencial concede a sus profesionales más ligados con la estrategia empresarial, los del laboratorio, un día al mes para librarse de sus cargas laborales e investigar un tema que les resulte interesante y útil, para luego exponerlo a sus compañeros; es el llamado i+Day Lab.
+
+## 5. Integrar el cambio en la organización
+
+Por último, los líderes deben asegurarse de que los cambios se consolidan y las prácticas innovadoras se convierten en las comúnmente aceptadas. No obstante, también deben hacer entender a los seguidores que **la necesidad de cambio no es momentánea, sino que se trata de un proceso constante**. Para ello, deben utilizar la credibilidad obtenida mediante el éxito de cambios pasados para estimular transformaciones posteriores más significativas, que involucren a más profesionales.
+
+Además, mientras que los líderes se dedican a mantener la claridad de la visión compartida y la sensación de urgencia, se deben empoderar a otros directivos en niveles más bajos para que ayuden a impulsar la transformación, y lograr más adeptos a la causa. El objetivo final es **integrar el cambio constante en la cultura de la organización.**
