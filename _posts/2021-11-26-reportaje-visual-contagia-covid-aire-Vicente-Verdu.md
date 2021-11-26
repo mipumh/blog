@@ -33,7 +33,7 @@ Además, han resultado finalistas los siguientes trabajos o series, individuales
 En su fallo, el jurado destaca del trabajo premiado “su acertada presentación de los contenidos, su didáctica y su indudable utilidad para combatir la desinformación, utilizando el periodismo como servicio público en unos momentos tan complicados en los que los ciudadanos necesitan respuestas dentro del contexto de la pandemia de la covid”.  
 
 ![]({{ site.baseurl }}/images/shots/dosis-tableta.gif)
-<sup> Muestra del gráfico del reportaje (El País.)
+<sup> Muestra del infográfico del reportaje (El País.)
 
 Según explican los autores de “Un salón, un bar y una clase: así contagia el coronavirus en el aire”, Zafra y  Salas, “este reportaje visual, que ha sido visitado por más de 10 millones de personas en español y otras 10 en inglés, ha sido traducido a 6 idiomas y es probablemente el reportaje con más audiencia de El País. Explica de forma didáctica cómo se produce el contagio del coronavirus a través del aire y sobre todo en interiores. El reportaje fue publicado en El País el pasado 28 de octubre de 2020 en un momento en el que ni la OMS ni la información oficial de los ministerios de sanidad de muchos países todavía no reconocían los aerosoles como la principal forma de contagio”.
 
