@@ -32,7 +32,7 @@ Según el informe *[US media consumption habits in 2021](https://prod-corporate-
 
 De forma más específica, la escucha de audio hablado (radio, *podcast* y audiolibros) ha aumentado un 40% en los últimos siete años –un 8% por año entre 2014 y 2021–, y la proporción de tiempo dedicado a contenidos de palabra ya alcanza en EEUU el 28% del tiempo de consumo de audio. Según *[The Spoken Word Audio Report](https://www.edisonresearch.com/the-spoken-word-audio-report-2021-from-npr-and-edison-research/)*, elaborado por NPR y Edison Research, en ese mismo ciclo la atención hacia los *podcasts* casi se ha triplicado (del 8 al 22%), mientras la de la radio, que antes superaba las dos terceras partes (79%), ahora no llega a la mitad (48%).
 
-![]({{ site.baseurl }}/images/shots/relatosonoro3.png)
+![]({{ site.baseurl }}/images/shots/relatosonoro3.jpg)
 
 El audio digital de palabra está ganando presencia en la dieta de escucha y también una mayor atención por parte de los medios periodísticos, cuyos ejecutivos –según las [tendencias y predicciones para 2022 del Reuters Institute](https://reutersinstitute.politics.ox.ac.uk/es/periodismo-medios-y-tecnologia-tendencias-y-predicciones-para-2022)– destinarán más recursos a los *podcasts* (80%) y a los boletines informativos (70%) porque han demostrado su eficacia para aumentar la fidelidad y generar suscriptores. El periodismo se expande a través de ventanas inéditas y el lenguaje sonoro contribuye a que esa ramificación adquiera renovadas plasmaciones y texturas.
 
