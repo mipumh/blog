@@ -12,7 +12,7 @@ author:
 ---
 El periodista y quien lo investiga están más cerca que nunca. O eso me gustaría. Ya no hay torres de marfil ni tampoco máquinas de escribir que muevan fronteras. O muy pocas. No digo que tenga que desaparecer la reflexión teórica ni la inspiración romántica. Pero al menos en el periodismo, en un momento crucial desde todos los puntos de vista, cada vez parece más necesaria la **rotura de barreras entre la academia y la profesión**. 
 
-![](https://lh4.googleusercontent.com/Vqkn8_vy_Z104X4uGbGc4g1v2NueieLMUd7_pWxm0BpYNRhoSr13gpZ4uvUaN4GS_hVEboG5z_mBeVzqZw0_MxZA2iorpAv1BYn_VgpiZeD0SKTAncazl53w7uU6iwxACWuibx3H)
+![]({{ site.baseurl }}/images/shots/innovacon.png)
 
 Foto: Kathy Willens / AP ([The Atlantic](https://www.theatlantic.com/education/archive/2018/08/student-journalism-in-the-age-of-media-distrust/567089/))
 
