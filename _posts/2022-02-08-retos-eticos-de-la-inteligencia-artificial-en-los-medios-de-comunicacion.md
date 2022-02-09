@@ -15,7 +15,7 @@ Acaba de publicarse el informe ‘Algoritmos en las redacciones: retos y recomen
 
 ![]({{ site.baseurl }}/images/shots/foto1_ai-technology-brain-background-digital-transformation-concept-1-.jpeg)
 
-Desde que surgieron los algoritmos y hasta su consolidación, muchos sintieron optimismo ante la expectativa de una esfera pública renovada en la que más voces serían escuchadas. Incluso se les llegó a [atribuir](https://elpais.com/diario/2011/01/23/domingo/1295758353_850215.html) un papel primordial en las revoluciones árabes o en el 15M en España, entre otros acontecimientos de orden mundial, por ofrecer la posibilidad de disponer de una plataforma de comunicación a cualquier persona o causa.
+Desde que surgieron las plataformas y hasta su consolidación, muchos sintieron optimismo ante la expectativa de una esfera pública renovada en la que más voces serían escuchadas. Incluso se les llegó a [atribuir](https://elpais.com/diario/2011/01/23/domingo/1295758353_850215.html) un papel primordial en las revoluciones árabes o en el 15M en España, entre otros acontecimientos de orden mundial, por ofrecer la posibilidad de disponer de una plataforma de comunicación a cualquier persona o causa.
 
 Sin embargo, conforme pasa el tiempo, comprobamos que con la IA no todo ha sido para mejor: ha contribuido a generar un modelo de negocio basado en una lógica extractivista de los datos personales que [erosiona](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads?language=es) la privacidad de la ciudadanía; la desinformación prolifera sin control en el ecosistema informativo y debilita nuestra visión comunitaria al facilitar el consumo hiperpersonalizado de la información que promueven sus algoritmos.
 
@@ -23,7 +23,7 @@ Es difícil saber si existe más desinformación en la actualidad o si estamos m
 
 En ningún caso creemos que nos encontremos ante un problema tecnológico. La Inteligencia Artificial es una herramienta y como tal sus efectos están condicionados al uso que le demos. El problema fundamental en la raíz de las consecuencias de la gestión algorítmica de la información está en la optimización de esta tecnología con el único propósito conseguir finalidades comerciales, sin tener en cuenta los valores éticos que podrían disminuir los indicadores de *performance* (resultados en base a métricas asociadas a objetivos puramente de negocio) por los que se guían, en términos generales, las grandes tecnológicas.
 
-**La Inteligencia Artificial y el periodismo**
+### **La Inteligencia Artificial y el periodismo**
 
 En este contexto consideramos que al periodismo le convendría adoptar una postura, no solo ante los efectos de la gestión computacional de la comunicación, sino también respecto a la creciente automatización en la sociedad, mediante decisiones algorítmicas cada vez más presentes en sectores tan determinantes como la salud, la justicia o la educación. Hoy los algoritmos [participan](https://eticasfoundation.org/es/oasi/) en procesos como el diagnóstico médico, el [cálculo del índice de reincidencia de presos](https://algorithmwatch.org/en/riscanvi/) y la concesión de ayudas sociales. El mismo Servicio Público de Empleo usa algoritmos para decidir quién tiene derecho al paro. La computación de cuestiones tan sensibles entraña riesgos derivados del uso de sistemas mal diseñados o de datos de calidad insuficiente que provocan sesgos algorítmicos, de falta de supervisión o de transparencia. Además, desde una perspectiva más amplia, cabe considerar que las promesas tecnológicas de productividad conllevan una deshumanización en los procesos a la que merece la pena estar atentos puesto que hasta ahora no ha dejado de crecer.
 
@@ -39,7 +39,7 @@ En las redacciones ya le hacemos a la Inteligencia Artificial preguntas como: ¿
 
 La IA interviene desde la identificación de los temas noticiables, pasando por la recopilación de contenidos, el rastreo entre bases de datos propias y ajenas, la creación automatizada de noticias, las transcripciones de voz a texto, de texto a infografía o a vídeo o la generación automatizada de textos escritos. La automatización está muy presente también en la fase de distribución del contenido y se orienta tanto a las finalidades editoriales como a los objetivos de marketing.
 
-**Elaboración del Informe del CIC**
+### **Elaboración del Informe del CIC**
 
 Para abordar esta complejidad en momentos muy iniciales de esta integración de la IA a las rutinas productivas de los medios, optamos por identificar aquellas herramientas o prácticas que emplean IA que generan más preocupaciones éticas. Luego reflexionamos sobre los dilemas que genera cada tema clave y analizamos a qué valores de la ética periodística afecta. Finalmente, elaboramos un decálogo de recomendaciones para el uso ético de la Inteligencia Artificial en los medios de comunicación.
 
@@ -71,7 +71,7 @@ Tras examinar las encuestas, entrevistas y las reflexiones surgidas en los grupo
 
 El informe tiene un carácter divulgativo y está dirigido a un público no necesariamente especializado en tecnología. Ofrecemos un resumen de algunos temas clave.
 
-**Contenido automatizado con criterio editorial**
+### **Contenido automatizado con criterio editorial**
 
 Tanto la transparencia como la supervisión humana resultan fundamentales para evitar y mitigar posibles errores o sesgos en la generación automatizada de contenido. Antes, sin embargo, será necesario identificar qué tipo de automatización será imprescindible comunicar, puesto que ésta se utiliza en muchos procesos, y no es lo mismo emplearla para una transcripción de voz a texto que a la hora de generar todo el texto de una noticia. Seguramente será más relevante comunicar el segundo caso que el primero.
 
@@ -85,13 +85,13 @@ Además de afirmar el compromiso periodístico con la verdad, la transparencia c
 
 Alexa Steinbrück / Better Images of AI / Explainable AI / CC-BY 4.0
 
-**Personalización que convive con la diversidad y promueve la salud de la esfera pública**
+### **Personalización que convive con la diversidad y promueve la salud de la esfera pública**
 
 La personalización es una gran herramienta a la hora de mejorar la experiencia del usuario. Sin embargo, conviene considerar ciertos aspectos a la hora de incorporar su uso en el contexto del periodismo. Si el medio personaliza hasta el extremo puede acabar desnaturalizándose, puesto que en la misión del periodismo está incentivar la visión comunitaria sobre las cuestiones de interés público. Aquí también, la supervisión de los sistemas en todas sus fases de creación e implementación resultará fundamental para evitar sesgos que podrían excluir a grupos minoritarios.
 
 Otras cuestiones susceptibles de colisionar con los principios éticos del periodismo y además con la [legislación que prepara la UE](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex:52021PC0206), son los sistemas que pueden llegar a manipular el comportamiento de las personas a través del diseño persuasivo que a menudo usan motores de recomendación en otras plataformas. Habrá que prestar especial atención cuando estos sistemas puedan ser utilizados por personas con vulnerabilidades psicológicas o menores de edad.
 
-**Supervisión y calidad de los datos para evitar sesgos**
+### **Supervisión y calidad de los datos para evitar sesgos**
 
 Una de las mayores preocupaciones sobre los riesgos de la IA en cualquier ámbito, incluido el de la comunicación, son los sesgos que pueden contener los resultados de los procesos para los que se ha optimizado.
 
@@ -105,7 +105,7 @@ Anton Grabolle / Better Images of AI / Human-AI collaboration / CC-BY 4.0
 
  
 
-**Preservar la privacidad de los usuarios con responsabilidad**
+### **Preservar la privacidad de los usuarios con responsabilidad**
 
 El periodismo deberá tomar posición respecto al problema de erosión de la privacidad que se está convirtiendo en una amenaza para las libertades de la ciudadanía y que ha sido causado precisamente por el extractivismo de los datos personales que han originado las plataformas de comunicación algorítmica. 
 
@@ -113,7 +113,7 @@ El marco legal del que disponemos en la UE resulta la herramienta más adecuada 
 
 Conviene reflexionar sobre cómo se comunica desde los medios a los usuarios el uso de sus datos personales. En este caso, la transparencia pasa por el cómo, que en este caso supone huir de las comunicaciones mediante clausulados y letras pequeñas. Aprovechar la fortaleza de la que disponen los medios para expresar de una forma breve, clara y didáctica la clase de tratamiento de los datos de los usuarios y así promover su confianza.
 
-**La calidad del periodismo pasa por poner en valor el factor humano**
+### **La calidad del periodismo pasa por poner en valor el factor humano**
 
 Tal como decíamos más arriba, una de las principales preocupaciones del sector respecto a la adopción de la IA en los medios de comunicación es que se produzca una eventual pérdida de calidad del producto informativo. Esta percepción, que identificamos claramente entre el sector, contradice un discurso predominante que augura que la productividad que comportará la automatización resultará en tiempo disponible para que los periodistas puedan dedicarse a tareas más creativas o que aporten más valor.
 
