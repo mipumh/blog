@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Las mejores narrativas digitales de 2021 (I)
+title: Las mejores narrativas digitales de 2021 (1)
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
