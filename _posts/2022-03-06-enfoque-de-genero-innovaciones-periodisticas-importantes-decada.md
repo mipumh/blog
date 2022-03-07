@@ -5,7 +5,7 @@ author:
   name: Alicia de Lara
   twitter: porqueeeyo
   gplus: 104274993391260139803 
-  bio: Profesor Titular en Periodismo UMH
+  bio: Profesora Titular en Periodismo UMH
   image: alicia.jpg
   link: https://twitter.com/porqueeeyo
 ---
