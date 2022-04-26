@@ -1,0 +1,79 @@
+---
+layout: post
+title: Doce hitos que han marcado la innovación del periodismo deportivo en la
+  era digital
+periscopio: si
+cover_image: periscopio.jpg
+author:
+  name: José Luis Rojas
+  twitter: rojastorrijos
+  gplus:  
+  bio: Periodista y profesor de la Universidad de Sevilla
+  image: rojas.jpg
+  link: https://twitter.com/rojastorrijos
+---
+Una de las principales constantes en las redacciones periodísticas estos años ha sido la experimentación tecnológica y la búsqueda de soluciones creativas para contar historias. Esta realidad, de la que se ocupa el Máster de Innovación en Periodismo desde sus inicios, se da cada vez más en áreas de información especializada, tal como atestiguan [investigaciones académicas desarrolladas en este campo pujante en estos últimos años](http://www.profesionaldelainformacion.com/contenidos/2021/ene/garcia_es.pdf). Entre esas áreas sobresale el periodismo deportivo, un ámbito que se ha granjeado una reputación innovadora al protagonizar varios de los principales hallazgos narrativos en la aplicación de tecnologías y el despliegue de formatos en coberturas informativas recientes.
+
+[Como ya hemos señalado en este blog](https://mip.umh.es/blog/2018/02/05/periodismo-deportivo-innovador-olimpico/), el cariz innovador del periodismo deportivo se ha puesto especialmente de manifiesto con motivo del seguimiento informativo de grandes acontecimientos deportivos, sobre todo Juegos Olímpicos y Mundiales de fútbol, precisamente dos citas que coexisten en el calendario de este año. Estos megaeventos de carácter planetario se han convertido en el gran escaparate que suelen aprovechar los medios y las secciones de deportes para exhibir su músculo innovador, su agilidad y su frescura, aportando soluciones originales que despiertan el interés de los aficionados y les capacitan para el disfrute de la competición [a través de la combinación de entretenimiento e información](https://revistas.unav.edu/index.php/communication-and-society/article/view/37714).
+
+Debido a esta incesante aparición de nuevas fórmulas narrativas en los deportes, el blog académico [Periodismo Deportivo de Calidad](https://periodismodeportivodecalidad.blogspot.com/) se convirtió a lo largo de sus doce años de trayectoria, entre 2010 y 2022, en un observatorio de tendencias para recoger no solo proyectos e iniciativas de carácter novedoso en cualquier parte del mundo, sino también para constatar la expansión de fenómenos que desde hace tiempo se vienen produciendo en medios de referencia internacionales y que han arrojado pistas para asimilar y entender hacia dónde se encamina el periodismo digital en su conjunto.
+
+A continuación, destacamos doce hitos que marcaron el devenir innovador de esta área de especialización periodística en la era digital, y que fueron recogidos y analizados a lo largo de doce años en Periodismo Deportivo de Calidad, el cual recientemente [ha anunciado su cierre](https://periodismodeportivodecalidad.blogspot.com/2020/01/periodismo-deportivo-de-calidad-cumple.html). Para ello, elaboramos una especie de línea de tiempo que incluye proyectos, productos, contenidos, coberturas y estrategias llevadas a cabo por diferentes medios que han trascendido de una manera u otra y han tenido eco en la evolución posterior de la especialidad.
+
+![]({{ site.baseurl }}/images/shots/primer-liveblog.jpg)
+
+- **1999**. Los primeros *liveblogs*. Formato puramente digital que nace en la sección de deportes del británico *The Guardian* para cubrir el minuto a minuto de partidos de fútbol y críquet. [El primer directo](https://www.theguardian.com/football/1999/mar/17/newsstory.sport10?view=desktop) correspondió al partido de Champions entre el Manchester United y el Inter de Milán, que acabó 1-1. Este formato trascendió y de deportes pasó al resto de las secciones del diario y de aquí, al resto de medios.
+
+- **2008**. Nace *[FiveThirtyEight](https://fivethirtyeight.com/)* como blog, impulsado por el analista Nate Silver. Tras ser adquirido por *The New York Times* en 2010 y pasar como web a ESPN en 2013, se constituyó como un terreno de avanzadilla del periodismo de datos, también en deportes. Desarrolló nuevas maneras visualizar las estadísticas y creó modelos matemáticos predictivos sobre competiciones. Desde 2018 pertenece a ABC News (sigue estando, por tanto, dentro del grupo Walt Disney).
+
+- **2011**. *[Grantland](https://grantland.com/)*, la web deportiva y de cultura popular creada por Bill Simmons dentro del conglomerado ESPN supuso, hasta su súbito cierre en 2015, una puerta abierta no solo a la introducción de las nuevas narrativas y periodismo de datos en las historias deportivas, sino también a la expansión del periodismo deportivo hacia otras temáticas y protagonistas mediante textos de autor que marcaron diferencias cualitativas con el resto de medios.
+
+![]({{ site.baseurl }}/images/shots/grantland.jpg)
+
+- **2012**. ['Snow Fall: The Avalanche at Tunnel Creek'](https://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek), publicado por *The New York Times*, asentó el camino hacia un formato, el reportaje longform multimedia, que supuso nueva manera de contar historias visuales de formato largo aprovechando el desplazamiento del scroll. Aunque [no fue el primero de su especie](https://periodismodeportivodecalidad.blogspot.com/2020/07/que-paso-con-el-longform-multimedia.html), este proyecto dibujó una nueva narrativa (‘to snow fall a feature’ pasó a formar parte de la jerga periodística) que se popularizó entre muchos otros medios hasta ir perdiendo vigencia a partir de 2016.
+
+- **2013**. [*L’Équipe* *Explore*](https://explore.lequipe.fr/). Siguiendo la estela de otros medios como *Sports Illustrated*, el diario francés lanzó un sitio para experimentar con nuevas narrativas y ensanchar así temáticas y audiencias. Inició su trayectoria creando reportajes longform y luego ofreció otros formatos como documentales en vídeo, series o podcasts. En la actualidad *Explore* se ha constituido como el laboratorio de innovación líder en el ámbito de la información deportiva y, como contenido premium, ha pasado a ser una vía preferente de *L’Équipe* para captar nuevos suscriptores.
+
+ 
+
+![]({{ site.baseurl }}/images/shots/1a412be3e49827e706cfdf6c677a3a7a_crop_north.png)
+
+- **2014**. *Bleacher Report*, ya dentro del grupo Turner, lanzó su nueva app, [Team Stream](https://bleacherreport.com/mobile), que potenció los directos y apostó por agrupar fans en torno a sus ligas y equipos favoritos. Esta inversión tecnológica cosechó un gran seguimiento y convirtió a deportivo en *mobile first* antes que la gran mayoría de medios al recibir ya en 2015 más del 75% de su audiencia a través de dispositivos móviles.
+
+- **2014**. [Cobertura de *The New York Times* de los Juegos Olímpicos de invierno en Sochi](https://www.nytimes.com/interactive/2014/02/11/sports/sochi-2014-interactive-stories.html). Cómo un equipo de 50 personas, entre redactores, productores y creativos, fue capaz de planificar con seis meses de antelación toda una colección de nuevas formas de narrativa digital (vídeos animados, multimedia interactivos basados en scrollytelling, gráficos en 3D, composites integrados en crónicas, …). Esta cobertura multimedia, que aupó definitivamente del departamento de gráficos del *NYT* al primer cajón del podio en coberturas olímpicas, sería merecedora de varios premios periodísticos al año siguiente.
+
+ 
+
+![]({{ site.baseurl }}/images/shots/pdepor_2.jpg)
+
+- **2016**. [El bot olímpico de *The Washington Post*.](https://twitter.com/WPOlyBot) Un ejemplo de cómo plantear una cobertura innovadora a partir de una solución tecnológica fue Heliograf, software de automatización concebido para agilizar el seguimiento informativo de los Juegos Olímpicos en Río, dando en tiempo real resultados, medallero y avances a través de Twitter. Esta experiencia piloto de uso de inteligencia artificial fue satisfactoria, lo que permitió al *Post* extender y pulir esta tecnología para coberturas posteriores, fueran deportivas, [como los Juegos de invierno en Pyeongchang (2018)](http://nuevaepoca.revistalatinacs.org/index.php/revista/article/view/252/207), o de otro tipo, como las elecciones presidenciales en EE.UU. de 2016.
+
+ 
+
+![]({{ site.baseurl }}/images/shots/ezbekfdx0aitevs.jpg)
+
+- **2016**. *[The Athletic](https://theathletic.com/)*. Es el medio deportivo [con un enfoque más disruptivo](https://mip.umh.es/blog/2020/06/01/la-pandemia-las-urgencias-del-periodismo-deportivo-y-el-crecimiento-disruptivo-de-the-athletic/), tanto en su planteamiento editorial (enfocado en periodismo local para llegar de pleno al fan, temas y piezas de lectura reposada, *beat reporting*, periodismo de autor, exclusivas, podcasts y Twitter) como en su modelo de negocio, al anticiparse en la tendencia hacia modelos de pago en un campo informativo tan acostumbrado al todo gratis digital. Su crecimiento en suscriptores (sobre 1,2 millones) motivó [que a principios de 2022 fuera adquirido por *The New York Times*](https://www.nytimes.com/2022/02/02/business/media/nyt-earnings-q4-2021.html?smid=tw-share).
+
+- **2020**. [Scoreboard](https://www.ft.com/scoreboard). La newsletter semanal del *Financial Times* sobre negocios del deporte se comporta como un vertical o marca propia dentro de un medio que apunta a superespecializaciones como vía para atraer y seducir nuevos lectores de pago. El email gana enteros y *FT* demuestra aquí cómo los boletines ya han empezado a afianzarse como productos periodísticos propios que van más allá de la mera curación de contenidos, que pueden ser de autor y ofrecer contenidos originales y, además, enriquecerse visualmente con el apoyo de los departamentos de datos y de gráficos.
+
+Junto con estos diez casos internacionales, hemos seleccionado dos de gran valor en el ámbito periodístico deportivo español:
+
+![]({{ site.baseurl }}/images/shots/realsociedad_equipos_telegram.jpg)
+
+- **2006**. *[El Desmarque](https://eldesmarque.com/)*. Es el emprendimiento deportivo digital de mayor éxito en España, gracias a su apuesta editorial por el nicho de la regionalidad y a [su particular “fórmula de la Coca Cola”](https://periodismodeportivodecalidad.blogspot.com/2015/02/javier-padilla-creamos-el-desmarque.html) para abrir hasta catorce ediciones locales y acabar siendo absorbido por el grupo Mediaset en 2019. Vio venir antes que otros medios las posibilidades de lanzar verticales (esports), de tejer alianzas y crear contenidos patrocinados y de hallar vías para sumar comunidades de fans a través de diferentes plataformas. A este respecto, fue pionero al lanzar en 2014 el primer servicio de noticias por app de mensajería instantánea, primero mediante WhatsApp y más recientemente por Telegram.
+
+- **2014**. *[Marca Plus](https://www.marca.com/marcaplus/index.html)*, la revista nativa digital más relevante en el ámbito deportivo nacional, es otro ejemplo de emprendimiento de éxito, en este caso [la maduración de una idea llamada *Quality Sport*](https://periodismodeportivodecalidad.blogspot.com/2015/01/marca-plus-y-el-futuro-de-un-periodismo.html), un proyecto fin de carrera nacido en la Universidad de Navarra y liderado por Nacho Labarga, convertido en una publicación interactiva para iPad y otros soportes móviles de *Marca*. Combina diferentes maneras de navegación, aúna multiplicidad de formatos y narrativas, apunta a nuevos contenidos diferenciados respecto a web y papel ligados a la gamificación y el entretenimiento, y, en suma, ofrece nuevas lecturas y experiencias de usuario. Esta publicación ha recibido varios premios internacionales.
+
+### **De la innovación ocasional a la innovación singular y trascendente**
+
+A pesar de estos logros y de otras muchas ideas sorprendentes y cautivadoras, [algunos autores](https://journals.sagepub.com/doi/abs/10.1177/0163443717714992) entienden que estas innovaciones en muchos casos son puntuales y apenas tienen incidencia en el cómputo de la cobertura diaria general de la actualidad deportiva, a la que siguen exigiendo una mayor calidad. Según este punto de vista, la ocasionalidad se produce porque la necesidad de innovar en periodismo para que este haga valer su profesionalismo y se diferencie de otros creadores de contenido de la escena digital no es percibida aún como una prioridad editorial ni de negocio para muchos medios.
+
+La principal puesta en entredicho que hace esta teoría del periodismo deportivo como área innovadora se sostiene en dos argumentos: por un lado, en el hecho de que se produzca de manera aislada o extraordinaria en un número de casos; por otro, en que no sea algo que surge desde el periodismo deportivo, sino de manera transversal desde el conjunto de una redacción a través de unidades de trabajo como media labs, departamentos de datos o de gráficos, en los que se forjan equipos multidisciplinares y conviven redactores con perfiles profesionales provenientes de otros campos contiguos al periodismo.
+
+Sobre lo primero, hay que advertir que ninguna innovación se hace habitual de inicio, sino que requiere un impulso creativo, una fase previa de estudio y un periodo de pruebas necesario para estudiar la eficacia y viabilidad de la idea. En este sentido, Deportes facilita este proceso como nadie, asumiendo más riesgo y creatividad que otras áreas informativas, aprovechando siempre la manera de hacer aún más atractivo un contenido que cuenta con la ventaja de tener ya de entrada audiencias masivas. Además, la innovación tiene un coste, lo que implica que ha de medirse bien esa inversión tecnológica y humana para acometerla de la forma más eficiente y rentable posible. No estamos precisamente ahora en tiempos de holgura financiera en muchas empresas periodísticas, por lo que todo esfuerzo ha de sopesarse aún mejor si cabe.
+
+Que sea puntual también tiene que ver con la singularidad de ciertos eventos que están marcados en rojo en el calendario deportivo y que constituyen la ocasión idónea para que los medios planifiquen con tiempo y vuelquen sus esfuerzos innovadores en hacer coberturas informativas novedosas y originales. Así se vio, por ejemplo, [en los Juegos Olímpicos de Tokio celebrados en](https://olympicanalysis.org/section-2/reshaping-the-olympics-media-coverage-through-innovation/) 2021, donde las soluciones periodísticas más innovadoras se concibieron y ejecutaron a partir de un plan desarrollado a lo largo de meses de trabajo en las redacciones y sus departamentos específicos.
+
+Esto mismo explica que esa singularidad de grandes acontecimientos como los Mundiales de fútbol o los Juegos Olímpicos se perciban como oportunidades editoriales para reforzar la marca periodística de los medios y las secciones de deportes no solo sean un campo de pruebas para hacer algo distinto, sino también para recibir el apoyo del resto de áreas de esos medios generalistas con el fin de enriquecer esas coberturas. Por otra parte, la naturaleza espectacular de esas competiciones propicia que ese apoyo de las unidades de gráficos y datos adquiera también consistencia y encaje a la perfección con informaciones que ofrecen nuevas lecturas a los usuarios, que quieren prepararlos para un mejor disfrute de la experiencia de recibir aquello que les interesa por las vías más directas y cómodas.
+
+En todo caso, con sus hallazgos y con sus desafíos aún pendientes, en muchas redacciones de deportes la visión innovadora como elemento diferenciador del periodismo deportivo ha surgido con soluciones narrativas que han impulsado contenidos de calidad y con estrategias que han trascendido a otras áreas informativas y se han ido perfeccionando para llegar mejor a las audiencias en pleno proceso hacia la consolidación de modelos de pago.
