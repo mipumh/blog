@@ -51,7 +51,7 @@ Con las asignaturas más teóricas, los profesionales reflexionan sobre la trans
 - cómo obtiene ingresos por el valor que aporta (comercialización) 
 - cómo se despliegan los equipos humanos para aprovechar el talento y la creatividad (organización)
 
-Contamos con **la participación de ponentes procedentes de medios como eldiario.es, El País, El Mundo, El Confidencial, Newtral, Narrativa, Civio, Lab de RTVE, The Economist, Maldita.es, El Español o grupo Vocento**. Desde el principio, recordamos en clase que innovar se limita a implantar tecnologías emergentes: **los estudios demuestran que la clave del éxito de la innovación es introducir cambios en las prácticas productivas y, especialmente, en la cultura interna**. 
+Contamos con la participación de ponentes procedentes de medios como **eldiario.es, El País, El Mundo, El Confidencial, Newtral, Narrativa, Civio, Lab de RTVE, The Economist, Maldita.es, El Español o grupo Vocento**. Desde el principio, recordamos en clase que innovar no se limita a implantar tecnologías emergentes: los estudios demuestran que la clave del éxito de la innovación es introducir **cambios en las prácticas productivas y, especialmente, en la cultura interna**. 
 
 ![]({{ site.baseurl }}/images/shots/ideacion_metodo.jpg)
 
@@ -95,12 +95,12 @@ Por ejemplo, en 2020 la periodista **Lía Masjoan**, actual Secretaria de Redacc
 
 Fomentamos el uso de dos metodologías para encontrar y diseñar de una manera más eficiente la propuesta de valor de un proyecto periodístico y a agilizar el paso de la idea al desarrollo: **el _design thinking_ y el _lean startup_**. Ese tipo de metodologías sirvieron a **Daniela Zammit**, periodista y creadora del suplemento Ecopatagonia, a **impulsar el lanzamiento de La Mara Verde, una continuación en la web de la tarea de su antecesor de papel**, al que se le suman nuevas herramientas y recursos de la era digital. 
 
-El _design thinking_ en el periodismo ayuda a **detectar las necesidades y experiencias negativas del usuario** con el producto, para transformarlo de una manera más ágil. El _lean startup_ aporta un **enfoque ágil para lanzar productos y servicios** que los usuarios realmente necesitan de una manera más rápida y económica que el método tradicional. Este método tiene tres fases: 
+El _design thinking_ en el periodismo ayuda a **detectar las necesidades y experiencias negativas del usuario** con el producto, para transformarlo de una manera más ágil. El _lean startup_ aporta un **enfoque ágil para lanzar productos y servicios** que los usuarios realmente necesitan de una manera más rápida y económica que el método tradicional. Este método tiene cuatro fases: 
 
 - establecer una hipótesis 
 - crear un producto mínimo viable 
 - recoger datos 
-- pivotar y orientar o trazar un nuevo producto 
+- pivotar, y orientar o trazar un nuevo producto 
 
 Con este sistema, conseguimos que **los estudiantes más audaces puedan obtener resultados inmediatos en el Máster**: para innovar no se requiere de un gran articulado de presupuestos y equipos gigantes. Con el lean startup, es posible ahorrar tiempo y dinero en recursos y **se acortan las distancias entre la idea y el mercado**. Es muy costoso conseguir el primer cliente, pero también lo es diseñar un producto equivocado. Por eso, conviene no perder el tiempo en largos ciclos de desarrollo y planificación. 
 
