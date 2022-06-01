@@ -12,7 +12,7 @@ author:
 Una serie de [tres artículos](https://civio.es/medicamentalia/2021/11/02/reproduccion-asistida-en-Europa/) de investigación sobre la situación de la reproducción asistida y el turismo reproductivo en Europa, realizada por un equipo de periodistas encabezado por **Eva Belmonte** y publicada en Civio (**_civio.es_**) en noviembre de 2021, ha sido galardonado con el **II Premio Vicente Verdú de Periodismo e Innovación**, convocado por la Asociación de Informadores de Elche (AIE), en colaboración con la Universidad Miguel Hernández, y dotado con 6.000 euros aportados por el Ayuntamiento ilicitano. El jurado presidido por Mario Tascón ha acordado igualmente, en la reunión telemática celebrada esta mañana, conceder sendos accésits, dotados con 500 euros cada uno de ellos, a **Raúl Sánchez** y **Analía Plaza** por su serie de artículos sobre [la tipología, edad y evolución de la edificación en las ciudades españolas](https://especiales.eldiario.es/espana-vive-en-pisos/), publicados en *eldiario.es*; y a **Ana Tudela y Antonio Delgado** por el trabajo ["España intensiva: así ha cambiado el campo a fuerza de PAC y mercado"](https://especiales.eldiario.es/pac-medio-ambiente-espana/
 ) elaborado por **Datadista**.
 
-![]({{ site.baseurl }}/images/shots/civio_1.jpg)
+![]({{ site.baseurl }}/images/shots/asistida_1.jpg)
 
 Además, han resultado finalistas los siguientes trabajos o series, individuales o en equipo:
 
@@ -34,7 +34,7 @@ Además, han resultado finalistas los siguientes trabajos o series, individuales
 
 * ["El Mundo en las nuevas plataformas"](https://docs.google.com/presentation/d/10Znbt9dXaJ3a8fSYVIWeMDVlN4AFoaT19WG2CYdyY1I/edit?usp=sharing) de **Guacimara Castrillo** (*El Mundo*).
 
-![]({{ site.baseurl }}/images/shots/Civio_2.jpg)
+![]({{ site.baseurl }}/images/shots/asistida_2.jpg)
 
 
 El jurado del II Premio Vicente Verdú de Periodismo en Innovación ha estado integrado por:
@@ -53,7 +53,7 @@ El jurado del II Premio Vicente Verdú de Periodismo en Innovación ha estado in
 
 A esta segunda convocatoria del premio que lleva el nombre del ilustre periodista, escritor y pintor ilicitano **han concurrido 32 trabajos, once más que en la primera edición**. El Jurado ha destacado el aumento del **número y calidad de los trabajos presentados**, lo que manifiesta la consolidación de esta iniciativa y su repercusión profesional. También ha subrayado la presencia cada vez más significativa de medios de ámbito local y de carácter nativo digital, tan capaces de innovar en el periodismo como las organizaciones con más recursos. Además, el Jurado ha valorado **la consolidación de nuevos formatos de calidad, como el periodismo de datos, en la producción y visualización de las historias presentadas**. También han destacado la presencia de nuevas formas de comunicar en diferentes plataformas y redes sociales con el fin de divulgar la actualidad a nuevos públicos. 
 
-![]({{ site.baseurl }}/images/shots/Civio_3.jpg)
+![]({{ site.baseurl }}/images/shots/asistida_3.jpg)
 
 Con respecto al trabajo ganador, el Jurado ha señalado la **innovación en el desarrollo de un tema que explica una problemática social relevante y traslada la información de manera personalizada**. Destacan la originalidad y utilidad de la función interactiva que consigue un gran impacto para atraer y explicar la información. Señalan, además, que **el trabajo se apoya en una investigación profunda**, que cumple una función social y de servicio público al denunciar la discriminación de diversos colectivos al acceso a determinados servicios sanitarios. Esta serie ganadora presenta **un tema de gran profundidad, en colaboración con otras entidades europeas**, para otorgar un carácter comparativo internacional, y distribuido en medios de gran alcance, que aumenta su difusión.
 
