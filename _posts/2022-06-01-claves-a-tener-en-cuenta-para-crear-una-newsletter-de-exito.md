@@ -4,7 +4,7 @@ title: 15 claves a tener en cuenta para crear una newsletter de éxito
 periscopio: si
 cover_image: periscopio.jpg
 author:
-  name: Isamel Nafría
+  name: Ismael Nafría
   twitter: ismaelnafria
   gplus:  
   bio: Periodista y autor de Tendencias
