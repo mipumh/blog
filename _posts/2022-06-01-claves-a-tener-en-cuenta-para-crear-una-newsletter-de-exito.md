@@ -131,7 +131,7 @@ Esto es muy importante. Una newsletter requiere, sí o sí, de dedicación por p
 
 Por tanto, ya se trate de una newsletter individual o de un boletín de un medio o de una compañía, hay que definir muy bien quién se dedicará a la newsletter, durante cuánto tiempo, en qué momento, cómo lo hará, etc. Uno de los principales motivos por el que se abandona la publicación de una newsletter es este: por calcular mal la dedicación que supone.
 
-**14. Definir el modelo de negocio**
+### **14. Definir el modelo de negocio**
 
 Las newsletters ofrecen a sus autores diversas vías de monetización, ya sean directas o indirectas.
 
