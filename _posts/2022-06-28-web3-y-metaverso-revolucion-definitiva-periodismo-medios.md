@@ -15,6 +15,8 @@ En 2019 publiqué en *[El País](https://elpais.com/retina/2019/03/01/innovacion
 
 ![]({{ site.baseurl }}/images/shots/web3.jpg)
 
+<sup> Vector de servidor web creado por fullvector - [www.freepik.es](http://www.freepik.es/)
+
 Civil murió. Tal vez no era su momento. O tal vez nunca lo será. Pero lo cierto es que ahora todo aquello que Civil trataba de hacer está resurgiendo en el marco de un (no tan) nuevo concepto: la **Web3**. ¿Qué es la Web3? O, mejor dicho, ¿qué no es? A menudo se describe la Web3 como la evolución de la Web 2.0. Sin embargo, no es así. La verdadera continuación de las Web 2.0 es la **Web 3.0**, igual que la Web 2.0 lo era de la Web 1.0 o World Wide Web (la primera versión de la invención de Berners-Lee).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FhJdx_tn5rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,8 +28,6 @@ A la Web 3.0 se le llama también **Web semántica** porque una de sus principal
 La Web semántica no solo tiene una filosofía totalmente diferente a la Web3, sino que se basa en una infraestructura diferente. La primera es continuista con sus predecesoras (la web 1.0 y la Web 2.0), y se basa un protocolo llamado HTTP que crea una red de recursos unidos mediante hipervínculos. La Web3, sin embargo, se basa en blockchain, y su foco está puesto en la resolución distribuida de problemas relacionados con la propiedad de activos.
 
 La tecnología blockchain o de cadena de bloques es conocida por ser el vehículo de **Bitcoin**, la famosa criptodivisa. Es un sistema de consenso distribuido que permite realizar registros descentralizados con copias en millones de ordenadores en todo el mundo protegidas criptográficamente, que en teoría no se pueden atacar, ni prohibir, ni borrar. Además de guardar datos y documentos, también permite establecer reglas particulares para cada transacción. Esto tiene muchas ventajas (y algunos inconvenientes) pero desde luego no es una evolución de lo que conocemos como web, sino otra cosa diferente.
-
-<sup> Vector de servidor web creado por fullvector - [www.freepik.es](http://www.freepik.es/)
 
 Web3 se basa en la idea de aplicaciones y finanzas descentralizadas, a través de herramientas como los contratos inteligentes, las criptomonedas o cualquier otro tipo de token o unidad de valor. Por ejemplo, las **NFT** son una forma de monetización digital basada en tokens no fungibles, una especie de certificados digitales de autenticidad y propiedad de una obra de arte que solo existen en formato electrónico y que están validados por tecnología blockchain.
 
