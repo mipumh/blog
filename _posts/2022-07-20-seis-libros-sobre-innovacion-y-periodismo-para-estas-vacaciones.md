@@ -11,7 +11,7 @@ author:
 ---
 ![]({{ site.baseurl }}/images/shots/libros-sobre-innovación-y-periodismo-para-leer-estas.jpg)
 
-Seleccionamos una serie de lecturas estivales. Se trata de libros publicados en los últimos meses que abarcan aspectos muy relevantes para quienes deseen formarse en el ámbito de la innovación periodística y la comunicación. Esperamos que os gusten. ¡Feliz verano!
+Una mirada inteligente con propuestas para deconstruir los medios, una crónica apasionada sobre la transformación de los diarios en el último cuarto de siglo, un análisis del poder de la tecnología para mejorar la comunicación, un manual para convertirse en expertos en chatbots, un valioso ensayo sobre cómo conectar con las audiencias en la economía de la atención y un lúcido relato acerca del papel de Trump en la polarización del periodismo en Estados Unidos. Te recomiendo estas seis obras para leer en la playa o en el campo, en la piscina o en la montaña… ¡Feliz verano!
 
 ![]({{ site.baseurl }}/images/shots/deconstruyendo-los-medios-cerezo.jpg)
 
