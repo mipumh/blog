@@ -28,7 +28,7 @@ En el ámbito internacional, los casos de [*Bleacher Report* y, más recientemen
 
 ![]({{ site.baseurl }}/images/shots/2.jpg)
 
-Precisamente en España acabamos de asistir al alumbramiento de *Relevo* (*[relevo.com](file:///E:/relevo.com)*), nuevo medio digital del grupo Vocento bajo la dirección del exdirector de *Marca* Óscar Campillo que llega para diversificar la extensa oferta informativa sobre deportes en este mercado. De esta forma, este grupo de comunicación apuesta de nuevo por abrir un periódico deportivo digital [una década después de que probase suerte con Grada360](https://www.vocento.com/nace-grada360-com-el-diario-digital-de-los-apasionados-del-deporte/), el cual duró apenas un año y medio.
+Precisamente en España acabamos de asistir al alumbramiento de *Relevo* (*[relevo.com](file:///E:/relevo.com)*), nuevo medio digital del grupo Vocento bajo la dirección del exdirector de *Marca* Óscar Campillo que llega para diversificar la extensa oferta informativa sobre deportes en este mercado. De esta forma, este grupo de comunicación apuesta de nuevo por abrir un periódico deportivo digital [una década después de que probase suerte con *Grada360*](https://www.vocento.com/nace-grada360-com-el-diario-digital-de-los-apasionados-del-deporte/), el cual duró apenas un año y medio.
 
 ### **La construcción de la marca y la forja de una comunidad, en RRSS**
 
@@ -38,7 +38,7 @@ El  proyecto, cuyo lanzamiento se anunció inicialmente para agosto coincidiend
 
 El proceso de construcción de la marca, no obstante, se inició mucho antes. Según nos cuenta su subdirector, Hugo Cerezo (otro ex*Marca*), el nombre de *Relevo* salió allá por el mes de enero durante las primeras reuniones online del equipo, por entonces solo ocho personas, y en las que participó la agencia Tango, también perteneciente a Vocento. “La diferenciación es nuestra razón de ser. Siempre tuvimos claro que teníamos que ser diferentes para construir nuestra marca”, destaca Cerezo.
 
-Lamarca *Relevo* se apoya en la voluntad de diferenciación y en el espíritu de innovación como principales atributos. Así, el producto informativo resultante es consecuencia de un proceso de investigación desarrollado en los meses previos al lanzamiento del medio en el que realizaron más de un centenar de entrevistas a personas aficionadas. Este estudio, fundamentado en las respuestas de la audiencia, permitió a Relevo “extraer unas conclusiones que luego ayudarían a dar forma y poner en marcha el producto, tanto en contenidos como en usabilidad”.
+La marca *Relevo* se apoya en la voluntad de diferenciación y en el espíritu de innovación como principales atributos. Así, el producto informativo resultante es consecuencia de un proceso de investigación desarrollado en los meses previos al lanzamiento del medio en el que realizaron más de un centenar de entrevistas a personas aficionadas. Este estudio, fundamentado en las respuestas de la audiencia, permitió a Relevo “extraer unas conclusiones que luego ayudarían a dar forma y poner en marcha el producto, tanto en contenidos como en usabilidad”.
 
 ### **Solo deporte como leitmotiv y tres *targets***
 
@@ -62,7 +62,7 @@ Como asevera Sánchez Riquelme, la información sobre deporte femenino “es una
 
 ![]({{ site.baseurl }}/images/shots/5.jpg)
 
-### **Diseño para móvilescon dos niveles de lectura**
+### **Diseño para móviles con dos niveles de lectura**
 
 También en consonancia con los grupos de público más jóvenes a los que aspira captar, el diseño web de *Relevo* da continuidad a lo realizado a lo largo de estos meses en redes sociales. Así, se sigue primando la verticalidad de los vídeos breves que acompañan a las informaciones y de la disposición de los bloques a modo de timeline de Twitter en tres columnas (resultados, noticias, tuits de última hora, en estos dispuestos a modo de liveblog).
 
