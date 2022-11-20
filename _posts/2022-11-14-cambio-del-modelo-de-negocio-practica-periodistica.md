@@ -8,7 +8,7 @@ author:
   image: yo.jpg
   link: https://twitter.com/mcarvajal_
 ---
-“La cultura se come la estrategia en el desayuno”, dijo en su día **Peter Drucker**. No importa cuántos sean los recursos invertidos ni qué inteligentes los planes, el fracaso está asegurado si la cultura organizacional no es receptiva. Los medios, que viven en un estado de flujo constante, necesitan transformarse, pero habitualmente se topan con culturas internas resistentes al cambio. En este artículo analizamos por qué surge esa resistencia y qué pueden hacer las organizaciones para combatirla.
+“La cultura se come a la estrategia para desayunar”, dijo en su día **Peter Drucker**. No importa cuántos sean los recursos invertidos ni qué inteligentes los planes, el fracaso está asegurado si la cultura organizacional no es receptiva. Los medios, que viven en un estado de flujo constante, necesitan transformarse, pero habitualmente se topan con culturas internas resistentes al cambio. En este artículo analizamos por qué surge esa resistencia y qué pueden hacer las organizaciones para combatirla.
 
 ¿Qué tipo de cambios provocan resistencia? Por ejemplo, introducir un modelo de suscripción requiere de un [cambio cultural muy profundo]( https://mip.umh.es/blog/2020/06/30/quien-gana-pierde-perfiles-profesionales-pago-contenidos/), que afecta a las prácticas de los profesionales, al uso de los datos o a la apuesta editorial. Si este proceso se hace de espaldas a los trabajadores, la transformación será estéril: los periodistas conservarán sus rutinas y sus prácticas.
 
@@ -30,7 +30,7 @@ A partir de diversas lecturas sobre la materia y el análisis de una serie de ca
 
 ### Escuchar a la redacción
 
-El caso de Dow Jones es muy significativo. **Helen Hewitt**, directiva de transformación, creó un grupo de escucha de la redacción para concer qué hacían realmente los periodistas con los datos y cómo podrían impactar más en su trabajo cotidiano. Hewitt descubrió que, a pesar de la inversión tecnológica y de recursos para manejar mejores datos, faltaba una ["visión holística sobre cómo usarlos en toda la organización"](https://inma.org/blogs/conference/post.cfm/media-companies-are-making-data-more-accessible-for-non-data-teams).
+El caso de Dow Jones es muy significativo. **Helen Hewitt**, directiva de transformación, creó un grupo de escucha de la redacción para conocer qué hacían realmente los periodistas con los datos y cómo podrían impactar más en su trabajo cotidiano. Hewitt descubrió que, a pesar de la inversión tecnológica y de recursos para manejar mejores datos, faltaba una ["visión holística sobre cómo usarlos en toda la organización"](https://inma.org/blogs/conference/post.cfm/media-companies-are-making-data-more-accessible-for-non-data-teams).
 
 Por tanto, era "crítico escuchar a los profesionales y comprender realmente lo que querían alcanzar en su trabajo" antes de pedirles objetivos o cambiarles su rutina. “La alfabetización de datos aumentó significativamente”, dijo, y se logró introducir y tratar el tema de forma más natural en la rutina de los trabajadores.
 
@@ -50,7 +50,7 @@ Otro caso muy significativo es el de Axel Springer. **Janis Kitzhofer**, la dire
 
 ### Aliados que sirvan de puente
 
-**Renée Kaplan**, directora de desarrollo editorial digital de Financial Times, señala que si realmente se quiere impulsar la innovación dentro de redacción [se necesita un embajador del cambio](https://inma.org/blogs/newsroom-initiative/post.cfm/ft-shares-lessons-about-combining-the-newsroom-business) que venga de esa cultura: un profesional que hable "periodista-gestión gestión-periodista". Esto denota que se debe respetar los valores profesionales, comprenderlos, antes de impulsar giros estratégicos que les afecten; para eso, lo ideal es buscar los interlocutores clave dentro de este entorno.
+**Renée Kaplan**, directora de desarrollo editorial digital de Financial Times, señala que si realmente se quiere impulsar la innovación dentro de la redacción [se necesita un embajador del cambio](https://inma.org/blogs/newsroom-initiative/post.cfm/ft-shares-lessons-about-combining-the-newsroom-business) que venga de esa cultura: un profesional que hable "periodista-gestión gestión-periodista". Esto denota que se debe respetar los valores profesionales, comprenderlos, antes de impulsar giros estratégicos que les afecten; para eso, lo ideal es buscar los interlocutores clave dentro de este entorno.
 
 El modo más eficaz de lograr este propósito es contar con "aliados de la dirección", que formen parte de las distintas subculturas y conozcan los códigos y aspiraciones de los integrantes de cada una. [Como dice el profesor José María Valero](https://mip.umh.es/blog/2020/12/02/como-se-construye-la-innovacion-10-claves-organizacion-medios-digitales-sostenibilidad/), promover la alineación de los trabajadores con la dirección y con los objetivos de la compañía es esencial. "Al contrario que los estilos basados en el seguimiento irreflexivo de órdenes, este liderazgo transformador promueve la motivación personal de los empleados y, con ello, la proactividad, la creatividad y el compromiso con la innovación y los resultados del medio", señala. 
 
