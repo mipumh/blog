@@ -16,7 +16,8 @@ La cultura interna es el conjunto de creencias, valores y normas que persisten e
 
 Lo expresa muy claramente **Nicholas Johnston**, editor de Axios: aquellos que tratan de impulsar el cambio en los medios tradicionales siempre se chocan con el muro de la historia. Para él, es imposible doblegar esa clásica cultura redaccional. Pero ni siquiera en su startup, recientemente adquirida por 525 $ millones, están libres del lastre cultural: "Todos los periodistas sabemos que las historias son demasiado largas y aburridas, y sabemos que hay demasiada información secundaria. Si alguien te dice muy explícitamente que no quiere gastar más de 30 segundos en algo, ¿por qué no se lo das en 20 segundos y le devuelves 10 segundos de su vida?", [explicó en la INMA]( https://inma.org/blogs/newsroom-initiative/post.cfm/axios-publisher-shares-lesson-learned-for-media-companies-journalists).
 
-![](https://images.axios.com/-b8zEgbeZktbtP_tiLjxZCkw8Yk=/0x0:1920x1080/1920x1080/2022/11/09/1668022778986.png)
+![]({{ site.baseurl }}/images/shots/angry.jpg)
+<sup>Imagen: Axios
 
 ### Por qué la resistencia a los cambios
 
