@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ¿Crees que puedes escapar de la desinformación? Llegan los escapes rooms
-  de alfabetización mediática
+title: ¿Crees que puedes escapar de la desinformación? Llegan los escapes rooms de alfabetización mediática
 author:
   name: Alba García Ortega
   twitter: albagortega
@@ -79,6 +78,7 @@ La experiencia ha sido diseñada por [Polycular](https://www.polycular.com/), un
 El *escape room* está **disponible en dos versiones**: una online, a través de un software de videoconferencia (como Teams o Zoom) y un navegador web; y un popup, gracias a un kit de juego en formato imprimible. En ambos casos, los creadores recomiendan contar con un anfitrión de juego que facilite la experiencia y participación de todos los jugadores. A diferencia de los ejemplos anteriores, *The Euphorigen Investigation* no está disponible en abierto. Para utilizarlo, **es necesario formar parte de una organización educativa e inscribirse** en [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0vUNG6GAIMVFqSMojgIMXWFURFU1OE5aMDlOR0ZOSzBUNVlTVTc2NzAwOC4u&embed=true).
 
 * * *
+
 Este artículo es fruto del trabajo de investigación del Grupo GICOV de la Universidad Miguel Hernández en el [Proyecto Europero IBERIFIER](https://iberifier.eu/).
 
 ![]({{ site.baseurl }}/images/shots/iberifier.png)
