@@ -77,3 +77,9 @@ La experiencia ha sido diseñada por [Polycular](https://www.polycular.com/), un
 [The Euphorigen Investigation](https://www.lokisloop.org/) es el primer *escape room* creado por el proyecto Loki’s Loop de la University of Washington Center. El objetivo es dotar a los jugadores de las habilidades necesarias para “identificar la información falsa y convertirse en ciudadanos inteligentes y escépticos”. La experiencia está diseñada en torno a las técnicas de desinformación más habituales, tales como **el uso de bots, imágenes creadas con IA, gráficos manipulados o *deepfakes***. En concreto, consta de cinco puzzles que el jugador debe resolver para descubrir la verdad tras una droga ficticia llamada Euphorigen.
 
 El *escape room* está **disponible en dos versiones**: una online, a través de un software de videoconferencia (como Teams o Zoom) y un navegador web; y un popup, gracias a un kit de juego en formato imprimible. En ambos casos, los creadores recomiendan contar con un anfitrión de juego que facilite la experiencia y participación de todos los jugadores. A diferencia de los ejemplos anteriores, *The Euphorigen Investigation* no está disponible en abierto. Para utilizarlo, **es necesario formar parte de una organización educativa e inscribirse** en [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=W9229i_wGkSZoBYqxQYL0vUNG6GAIMVFqSMojgIMXWFURFU1OE5aMDlOR0ZOSzBUNVlTVTc2NzAwOC4u&embed=true).
+
+* * *
+Este artículo es fruto del trabajo de investigación del Grupo GICOV de la Universidad Miguel Hernández en el [Proyecto Europero IBERIFIER](https://iberifier.eu/).
+![]({{ site.baseurl }}/images/shots/iberifier.png)
+
+![]({{ site.baseurl }}/images/shots/gicov.png)
