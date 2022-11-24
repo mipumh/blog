@@ -80,6 +80,7 @@ El *escape room* está **disponible en dos versiones**: una online, a través de
 
 * * *
 Este artículo es fruto del trabajo de investigación del Grupo GICOV de la Universidad Miguel Hernández en el [Proyecto Europero IBERIFIER](https://iberifier.eu/).
+
 ![]({{ site.baseurl }}/images/shots/iberifier.png)
 
 ![]({{ site.baseurl }}/images/shots/gicov.png)
