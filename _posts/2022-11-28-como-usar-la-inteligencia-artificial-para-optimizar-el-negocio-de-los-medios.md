@@ -1,0 +1,51 @@
+---
+layout: post
+title: Cómo usar la Inteligencia Artificial para optimizar el negocio de los
+  medios de comunicación
+author:  
+  name: Jose María Valero 
+  twitter: josvap
+  gplus:  
+  bio: Doctor en Periodismo UMH
+  image: chema.jpg
+  link: https://twitter.com/josvap
+---
+La Inteligencia Artificial (IA) es una de las tecnologías con [mayor potencial disruptivo](https://www.mdpi.com/2673-5172/3/4/46) para la industria mediática. Numerosas [investigaciones](https://www.tandfonline.com/doi/abs/10.1080/21670811.2019.1630289) y [publicaciones sectoriales](https://mip.umh.es/blog/2019/11/02/el-impacto-de-la-inteligencia-artificial-en-el-periodismo/) han analizado su aplicación para la automatización de la captura, el procesamiento y la distribución de la información, así como su influencia sobre el trabajo de los periodistas, con una mezcla de fascinación e incertidumbre. Sin embargo, como [aseguran](https://www.mdpi.com/2199-8531/5/3/44) algunos autores, la IA no es solo una poderosa herramienta para cambiar la organización de las redacciones, sino que también **puede convertirse en un “catalizador para la innovación en el modelo de negocio”**. Sobre todo, con el auge de los [modelos de suscripción](https://mip.umh.es/blog/2021/12/09/redaccion-enfoques-producir-fortalecer-modelos-pago-suscripciones-medios/).
+
+Las empresas periodísticas más innovadoras exploran técnicas como el *machine learning,* el *deep learning* y el *natural language processing* (NLP) asociadas a la IA, para **ofrecer más y mejores noticias a sus audiencias, optimizar la forma en la que sus contenidos llegan a cada usuario e incluso aumentar sus ingresos** mediante el despliegue de [muros de pago dinámicos o algorítmicos](https://mip.umh.es/blog/2019/07/09/muros-pago-algoritmicos-futuro/). En este artículo se analizan los objetivos y usos más destacados de estas tecnologías en el área de negocio de los medios, identificados por cuatro profesores de Periodismo de la Universidad Miguel Hernández para una investigación en curso.
+
+![]({{ site.baseurl }}/images/shots/ia_1.jpg)
+
+### **¿Por qué aplicar la IA en el área de negocio?**
+
+Los principales objetivos de cualquier estrategia de suscripciones son **la adquisición y la retención de los usuarios de pago. La IA puede ayudar en ambos.** Con respecto al primero, el *machine learning* tiene el potencial de aumentar las tasas de suscripción al personalizar la oferta de contenidos y precios que recibe cada usuario. Esto es posible por su capacidad de segmentar de las audiencias en diferentes grupos con características comunes, pero también por de aprender de los usuarios y tomar decisiones autónomas.
+
+Por ejemplo, el Corriere della Sera aumentó su base de suscriptores en un 24% en 2021 gracias a la implementación de un [muro de pago basado en *machine learning*](https://piano.io/wp-content/uploads/2022/08/Corriere-della-Sera-Case-Study-English.pdf). Esta tecnología calcula la propensión a suscribirse de los usuarios que se topan con el muro y ofrece automáticamente **precios más bajos a los menos predispuestos**. De modo similar, el diario noruego [Dagbladet es capaz de detectar](https://innovation.media/magazines/new-revenue-streams/case-studies-of-reader-revenue-success-in-digital-media) cuál es **el mejor momento y lugar para mostrar ofertas** a cada usuario en función de su historial en el medio.
+
+Una vez el usuario se convierte en suscriptor, el objetivo es retenerlo. [Reducir las cancelaciones es prioritario](https://mip.umh.es/blog/2022/06/07/del-churnalism-al-churn-la-fidelidad-del-periodismo-bajo-suscripcion/) en mercados relativamente pequeños y saturados, [como el español](https://www.xataka.com/otros/cada-vez-medios-que-se-pasan-al-muro-pago-espana-gran-pregunta-habra-suscriptores-para-todos). La frecuencia de consumo es uno de los indicadores más importante del compromiso del usuario, por lo que, en su búsqueda de la retención, las empresas dedican recursos a desarrollar **estrategias de IA que aumenten las visitas** de los suscriptores. La personalización del contenido es la más frecuente.
+
+![]({{ site.baseurl }}/images/shots/ia_2.png)
+
+Ya en 2015, [The Washington Post desarrolló Clavis](https://knightlab.northwestern.edu/2015/06/03/how-the-washington-posts-clavis-tool-helps-to-make-news-personal/), una herramienta que trata de **entender los intereses de los usuarios y ofrecerles contenidos personalizados**. Clavis analiza automáticamente todo lo que el medio publica y lo clasifica en torno a temas, al tiempo que identifica qué tipo de lector accede a cada contenido. El algoritmo devuelve a cada usuario una selección de artículos basados en la popularidad del tema, su propio historial de lectura y los patrones de consumo de otros usuarios similares.
+
+Del mismo modo, el conglomerado indio The Hindu Group lanzó un algoritmo que identificaba las historias más interesantes y las recomendaba a los suscriptores para crear una experiencia que "ampliara su lectura" reparando en el valor de conversión dado a cada noticia y la cantidad de comentarios, entre otras métricas. El medio sueco [NTM incluso personaliza su portada](https://www.inma.org/best-practice/Readership-and-Engagement/2022-163/Copy-With-Pride-Introducing-Reactions-and-Comments-to-Win-Back-Audience-Engagement) reparando en el valor de conversión dado a cada noticia y la cantidad de comentarios, entre otras métricas.
+
+Por otro lado, se crean **modelos predictivos que determinan si un suscriptor está mostrando síntomas de cancelación**. La organización noruega Schibsted, por ejemplo, ha creado [una herramienta que procesa las llamadas a su centro de atención al usuario](https://www.inma.org/blogs/conference/post.cfm/schibsted-nzz-use-ai-other-futuristic-methods-to-improve-subscription-sales-retention) y les asigna una etiqueta roja, amarilla o verde, en función de la propensión de ese suscriptor a cancelar su plan. Las llamadas calificadas con la distinción roja reciben un tratamiento específico por el que se ofrecen diversas ventajas al usuario.  
+
+![]({{ site.baseurl }}/images/shots/ia_3.jpg)
+
+### **¿Qué tareas realiza la IA para optimizar el negocio de los medios?**
+
+Para aumentar la adquisición y retención de los suscriptores de los medios de comunicación, las tecnologías de IA realizan cuatro tareas principales: **agrupar a los usuarios** según sus hábitos y preferencias, **predecir el comportamiento** de esos usuarios y grupos, **analizar el contenido** para aumentar su potencial de conversión y **realizar cambios en el producto**. Estas tareas no suelen aparecer de forma aislada, sino que la mayoría de las iniciativas combinan varios mecanismos, por lo que los límites entre ellos suelen resultar difusos.
+
+En primer lugar, la agrupación de los usuarios en diferentes segmentos con intereses comunes es fundamental para la implementación de muros de pago dinámicos. El análisis profundo de los datos, ya sea [mediante tecnología propia](https://www.ami.info/muros-de-pago-dinamicos-nueva-herramienta-imprescindible-para-los-editores.html) o a través de [soluciones de terceros](https://sourceforge.net/software/compare/Piano-VX-vs-Poool/), permite **identificar cientos de variables en los usuarios que se pueden cruzar en función de las necesidades del medio**. Por ejemplo, el medio suizo [Neue Zürcher Zeitung utiliza entre 100 y 150 parámetros](https://whatsnewinpublishing.com/how-dynamic-paywalls-help-publishers-connect-potential-subscribers-with-the-right-offer-at-the-right-time/), como el historial de lectura, el tiempo que pasan los usuarios en los artículos, la frecuencia de visita, el dispositivo desde el que acceden y los boletines que reciben, para adaptar sus mensajes, la ubicación e incluso el color del muro de pago que reciben los lectores.
+
+En segundo lugar, los medios también emplean la IA para crear modelos de propensión que **predicen la probabilidad de que un usuario ejecute una acción**, como contratar o cancelar una suscripción. Se basan en el análisis del comportamiento previo de los usuarios en situaciones similares. [Según Jessica Bulthe](https://www.youtube.com/watch?v=U9hHYlYg6E4&ab_channel=INMA-InternationalNewsMediaAssociation), responsable del modelo predictivo del medio belga Mediahuis, “la Inteligencia Artificial puede predecir cuándo un usuario va a darse de baja, pero incluso si está interesado en comprar algún producto de los anunciantes”.
+
+![]({{ site.baseurl }}/images/shots/ia_5.png)
+
+En tercer lugar, las tecnologías de NLP permiten analizar el contenido de los artículos y las interacciones con los usuarios. De este modo, se pueden agrupar y tomar decisiones de forma rápida; en ocasiones, automática. Por ejemplo, el canadiense Globe and Mail ha desarrollado [Sophi, una de las herramientas de IA más completas](https://www.sophi.io/) para las redacciones, que **procesa el 95% del contenido que genera el medio y decide por sí misma cuáles colocar detrás del muro de pago** de acuerdo con su potencial de conversión, entre otras muchas funciones.
+
+En relación con esto, la reconfiguración automática del producto también es una tarea que recae en la IA y genera resultados en el apartado de la adquisición y retención de suscriptores. Resulta fundamental que los contenidos más atractivos y con **más potencial de conversión tienen aparezcan siempre en la portada del medio**. Además, es importante que esta *homepage* refleje la propuesta de valor que mejor responde a las necesidades concretas de cada usuario.
+
+En este sentido, el noruego Aftenposten presenta una portada dinámica que [ganó el premio “Best in Europe”](https://schibsted.com/news/aftenpostens-reinvented-frontpage-best-in-europe/) 2018 otorgado por la International News Media Association. La iniciativa **combina el análisis de los datos de los usuarios con otras decisiones editoriales y éticas** para garantizar que los lectores reciben la información más interesante para ellos, pero también la más importante. Como aseguran los editores del medio, incluso desde las primeras pruebas se apreció un crecimiento notable en el compromiso de la audiencia y las tasas de conversión de suscriptores.
