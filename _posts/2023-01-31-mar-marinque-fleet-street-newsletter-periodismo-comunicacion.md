@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mar Manrique (Fleet Street): “Tener un proyecto propio es ese empujoncito necesario para abrirte las puertas al mercado"
+title: "Mar Manrique (Fleet Street): “Tener un proyecto propio es ese empujoncito necesario para abrirte las puertas al mercado“"
 author:
   name: David Gozálvez
   twitter: dav_gzm
@@ -9,7 +9,7 @@ author:
   image: dav_gzm.jpeg
   link: https://twitter.com/dav_gzm
 ---
-**Mar Manrique** se graduó en Periodismo y Comunicación Corporativa en la Universitat Ramon Llull de Barcelona en 2020. Poco después de terminar la carrera, puso en marcha su gran proyecto personal, [Fleet Street](https://fleetstreet.substack.com/), una newsletter sobre periodismo y comunicación. Desde entonces, su estilo fresco y personal ha logrado atraer a una gran variedad de personas del mundo del periodismo, desde recién graduados hasta profesionales con muchas horas de vuelo a sus espaldas. Manrique continúa formándose en el [Máster en Innovación en Periodismo](https://mip.umh.es/), mientras cada dos domingos se cuela en las bandejas de entrada de sus **más de 4.000 suscriptores** para reflexionar sobre la industria de la comunicación
+**Mar Manrique** se graduó en Periodismo y Comunicación Corporativa en la Universitat Ramon Llull de Barcelona en 2020. Poco después de terminar la carrera, puso en marcha su gran proyecto personal, [Fleet Street](https://fleetstreet.substack.com/), una newsletter sobre periodismo y comunicación. Desde entonces, su estilo fresco y personal ha logrado atraer a una gran variedad de personas del mundo del periodismo, desde recién graduados hasta profesionales con muchas horas de vuelo a sus espaldas. Manrique continúa formándose en el [Máster en Innovación en Periodismo](https://mip.umh.es/), mientras cada dos domingos se cuela en las bandejas de entrada de sus **más de 4.500 suscriptores** para reflexionar sobre la industria de la comunicación
 
 ![]({{ site.baseurl }}/images/shots/gv5WvKKj.jpg-medium.jpeg)
 
@@ -29,7 +29,7 @@ Mi flujo de trabajo es algo caótico. Al inicio, cuando la newsletter era semana
 
 **En poco tiempo ha logrado alcanzar un gran número de lectores.**
 
-Ahora mismo hay más de 4.000 personas suscritas, con una tasa de apertura de entre 55% y 60%, aunque en los últimos tres números ha bajado un poco. Sí que es cierto que quiero hacer limpieza de la gente que no abre la newsletter para mejorar las métricas, es mejor calidad que cantidad. El que la newsletter vaya a Promociones a veces tampoco ayuda. 
+Ahora mismo hay más de 4.500 personas suscritas, con una tasa de apertura de entre 55% y 60%, aunque en los últimos tres números ha bajado un poco. Sí que es cierto que quiero hacer limpieza de la gente que no abre la newsletter para mejorar las métricas, es mejor calidad que cantidad. El que la newsletter vaya a Promociones a veces tampoco ayuda. 
 
 **¿Qué es lo mejor que te ha dado esta aventura personal?**
 
@@ -43,7 +43,7 @@ Lo tengo en mente, pero me falta el tiempo suficiente para armar una buena estra
 
 **¿Y exportar Fleet Street a otros formatos como el Podcast?**
 
-Lo del podcast lo tengo pensado desde hace tiempo, y este verano estuve a punto de publicar una de las entrevistas que hice en podcast, pero no tuve tiempo para ponerlo en marcha, así que de momento está en el cajón hasta que pueda retomarlo. También tendría cabida en TikTok, pero el problema sigue siendo el tiempo. Hay gente como Analía Plaza, de El Periódico de España, o Taylor Lawrence, de The Washington Post que hacen TikToks hablando sobre sus artículos.
+Lo del podcast lo tengo pensado desde hace tiempo, y este verano estuve a punto de publicar una de las entrevistas que hice en podcast, pero no tuve tiempo para ponerlo en marcha, así que de momento está en el cajón hasta que pueda retomarlo. También tendría cabida en TikTok, pero el problema sigue siendo el tiempo. Hay gente como **Analía Plaza**, de El Periódico de España, o **Taylor Lorenz**, de The Washington Post que hacen TikToks hablando sobre sus artículos.
 
 **¿Cómo es el feedback que recibes?**
 
@@ -57,4 +57,4 @@ Exacto, Fleet Street va dirigida tanto a la gente que acaba de salir de la carre
 
 **Aparte de las cifras y la respuesta de los usuarios, ¿qué es lo que te aporta Fleet Street a nivel profesional?**
 
-A mí Fleet Street me ha servido como carta de presentación, y gracias a ello ahora colaboro con S Moda en El País y trabajo en Prodigioso Volcán. Hoy en día se pone muy en valor la gente joven que sale de la carrera con un proyecto propio, hay muchísimos estudiantes que comparten el mismo currículum, por lo que tienes que plantearte qué te va a hacer diferenciarte de la persona de al lado. Tener un proyecto propio es ese empujoncito necesario para abrirte las puertas al mercado. 
+A mí Fleet Street me ha servido como carta de presentación, y gracias a ello ahora colaboro con [S Moda](https://smoda.elpais.com/) en El País y trabajo en [Prodigioso Volcán](https://www.prodigiosovolcan.com/). Hoy en día se pone muy en valor la gente joven que sale de la carrera con un proyecto propio, hay muchísimos estudiantes que comparten el mismo currículum, por lo que tienes que plantearte qué te va a hacer diferenciarte de la persona de al lado. Tener un proyecto propio es ese empujoncito necesario para abrirte las puertas al mercado. 
