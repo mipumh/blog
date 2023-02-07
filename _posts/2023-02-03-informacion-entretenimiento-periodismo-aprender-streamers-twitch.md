@@ -6,7 +6,7 @@ author:
   name: Dámaso Mondéjar
   twitter: Monde97
   gplus:  
-  bio: Estudiante de Periodismo y CAU
+  bio: Doctorando en Periodismo
   image: monde97.jpeg
   link: https://twitter.com/Monde97
 ---
