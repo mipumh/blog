@@ -48,8 +48,6 @@ Hemos elaborado un listado de preguntas orientativas sobre las implicaciones ét
 
 ### 1. Preproducción
 
-*  ¿Cuál es la precisión de los datos subyacentes? Los datos que utiliza la herramienta, ¿proceden de fuentes de información contrastada como empresas, bolsas, administraciones o instituciones públicas? Si los datos no proceden de fuentes autorizadas, ¿cómo puedes asegurarte de que son fiables?
-
 * ¿Cuál es la precisión de los datos subyacentes? Los datos que utiliza la herramienta, ¿proceden de fuentes de información contrastada como empresas, bolsas, administraciones o instituciones públicas? Si los datos no proceden de fuentes autorizadas, ¿cómo puedes asegurarte de que son fiables?
 
 * ¿Tienes los derechos sobre los datos? ¿Tiene el proveedor de los datos derecho legal a enviártelos? ¿Cuentas con permiso para publicarlos? Los lectores considerarán al medio responsable de los datos, sea cual sea la fuente original.
