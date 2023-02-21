@@ -6,7 +6,7 @@ author:
   twitter: claudia_saumell
   gplus:  
   bio: Alumni MIP 2021
-  image: saumell.jpeg
+  image: saumell.webp
   link: https://twitter.com/claudia_saumell
 ---
 ¿Y si todos los datos se encontrasen en un mismo lugar? Sin necesidad de navegar por multitud de webs y plataformas, cada una con su propio lenguaje y método de clasificación. Esa es la pregunta a la que intenté encontrar respuesta el pasado curso del Máster en Innovación en Periodismo (MIP) de la Universidad Miguel Hernández de Elche (UMH), dedicado a crear proyectos periodísticos innovadores y útiles. Pero empecemos por el principio. 

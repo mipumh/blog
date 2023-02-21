@@ -7,7 +7,7 @@ author:
   twitter: ClaudiaCozar
   gplus:  
   bio: Periodismo UMH
-  image: cozar.jpg
+  image: cozar.webp
   link: https://twitter.com/ClaudiaCozar
 ---
 El periodista mallorquín [Miquel Piris Obrador](https://twitter.com/MiquelPiris) trabaja en [InfoK](http://www.ccma.cat/tv3/super3/infok/), un informativo infantil y juvenil del Canal Super3 (CCMA). Miquel comenzó en la Radio experimental de Capdepera y fue uno de los impulsores de Ràdio Artà Municipal. Ha colaborado en *El Diari de Barcelona, Avui* y *Diari de Balears.* Con Agustín Torres realizó el documental *Vies de Futur*, que repasa la historia del ferrocarril en Mallorca.

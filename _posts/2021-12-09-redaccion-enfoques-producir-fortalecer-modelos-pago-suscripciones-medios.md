@@ -6,7 +6,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 La industria periodística tiene claro que el **modelo de suscripción es el pilar sobre el que construir el futuro del negocio**. Los directivos implantan sistemas de pago que requieren notables inversiones de marketing y tecnología y un profundo cambio de cultura organizativa. Los analistas estudian los tipos de muros, las ofertas conjuntas y las estrategias de precio para aumentar la conversión de lectores y la retención de suscriptores. Pero, **¿qué papel pueden jugar los periodistas en este gran viraje industrial?** En este artículo **muestro diversos enfoques y productos empleados por redacciones de todo el mundo**, útiles para el éxito de un modelo de suscripción.

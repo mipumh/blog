@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Innovar resulta esencial para la supervivencia de los medios de comunicación en un contexto marcado por el cambio constante, especialmente tras el impacto de la COVID-19. Cambian no solo las tecnologías, sino los productos, la organización de las redacciones, los hábitos de consumo y la forma en que las audiencias se relacionan con los medios. Las profundas transformaciones en el sector permiten que las empresas puedan innovar a partir de las necesidades detectadas. En este artículo analizamos tres casos de medios iberoamericanos que incorporan la innovación en su ADN para solucionar problemas concretos: Nexo Jornal (Brasil), El Observador (Uruguay) y Pictoline (México).

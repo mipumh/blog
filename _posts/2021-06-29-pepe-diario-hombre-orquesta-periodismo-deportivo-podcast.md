@@ -6,7 +6,7 @@ author:
   twitter: astorkizajoel
   gplus:
   bio: Estudiante MIP 2021
-  image: astorkizajoel.jpeg
+  image: astorkizajoel.webp
   link: https://twitter.com/astorkizajoel
 ---
 En un posible diccionario sobre periodismo, si buscáramos la entrada "hombre orquesta", encontraríamos la foto de Pepe Rodríguez. Un hombre orquesta con acento asturiano que ha hecho de su pasión, hablar de deporte, un negocio rentable con  una comunidad detrás no menos apasionada que él. Asegura que la única métrica que le importa es la cuenta que marca su banco al final de cada mes. Sin un modelo de negocio previo, el éxito del podcast deportivo  de Pepe Diario solo se entiende si se quita el foco en gráficas y cuentas de resultados y se pone en aquello que le da verdadero sentido: Pepe Rodriguez. En su relato está su secreto. 

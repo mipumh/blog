@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.jpg
+  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 ---
 En 2014 se cumplieron las predicciones del **[Pew Research Center](http://www.pewresearch.org/): "Los móviles serán la principal forma de acceso a internet"**. Vivimos permanentemente conectados y esto supone un verdadero desafío para el negocio de la información. Según un informe de Cisco, en 2020 habrá 5.5 billones de usuarios de móviles en todo el mundo **y el 75% de los contenidos online serán de vídeos para el móvil**. En España, la tasa de penetración de *smartphones* ha crecido del 63% al 91% en los últimos tres años, es decir, 9 de cada 10 usuarios dispone de *smartphone*. 
@@ -16,7 +16,7 @@ Esta **revolución móvil** transforma la producción y distribución de conteni
 
 Siempre atentas a la transformación que sufre la industria periodística, las [XI Jornadas Internacionales de Innovación en Periodismo de la UMH](http://periodismo.umh.es/2016/02/21/xi-jornadas-internacionales-de-innovacion-en-periodismo-mobile-first-comunicacion-multipantalla/) analizaron cómo la información se apodera de los soportes móviles. Los profesionales de algunas de [las iniciativas más innovadoras del panorama nacional](http://mip.umh.es/ranking/) debatieron sobre la creación de contenido dinámico, adaptable a cada formato y sobre los nuevos modelos de negocio y de publicidad capaces de soportar esta revolución tecnológica que transforma los hábitos de consumo.
 
-![]({{ site.baseurl }}/images/shots/portada-libro-jornadas.jpg)
+![]({{ site.baseurl }}/images/shots/portada-libro-jornadas.webp)
 
 En un contexto en el que la audiencia recupera el primer plano, los investigadores analizan la comunicación multipantalla, y los profesionales buscan superar los retos que plantean las nuevas tecnologías. La obra **"Mobile First, comunicación multipantalla"**, la tercera de una colección de publicaciones del [Máster de Innovación en Periodismo](http://mip.umh.es/), recoge las reflexiones de profesionales y académicos conscientes de la gimnasia narrativa necesaria para ofrecer **periodismo original, listo para consumir, en cualquier momento y desde la palma de la mano**.
 

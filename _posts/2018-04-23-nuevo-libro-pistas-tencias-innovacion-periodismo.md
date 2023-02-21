@@ -8,7 +8,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 **Idea, diseña, emprende**. Con este breve lema, un grupo de profesores de periodismo de la **Universidad Miguel Hernández de Elche** empezamos a diseñar un proyecto de máster en 2011. Queríamos ofrecer algo útil a los profesionales del sector. Tras infinidad de reuniones y debates interminables sobre el futuro de la comunicación, el periodismo, la educación y la empresa, llegamos a la conclusión de que debíamos crear un programa muy versátil, adaptable a los tiempos y orientado a profesionales emprendedores o que deseen actualizarse.

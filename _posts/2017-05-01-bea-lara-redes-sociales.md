@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.jpg
+  image: mabor.webp
   link: https://twitter.com/mamenbor
 ---
 Beatriz Lara Pascual es periodista por la Universidad Miguel Hernández de Elche. Ha desarrollado su labor en diversos medios, entre ellos Weblogs SL. Actualmente trabaja en *branded content* para el grupo Prensa Ibérica e integra el equipo fundador de [Relevo Magazine](http://relevomagazine.com/).

@@ -7,7 +7,7 @@ author:
   twitter: angelcort8
   gplus:  
   bio: Periodismo UMH
-  image: angelcerda.jpg
+  image: angelcerda.webp
   link: https://twitter.com/angelcort8
 ---
 Se acercaba el verano de 2012 cuando dos entusiastas del periodismo deportivo se lanzaron a cubrir los Juegos Olímpicos de Londres con una cuenta de Twitter.[Alessandra Roversi](https://twitter.com/aleroversi?lang=es), fanática del fútbol italiano, pensó que a la vez podría abordar una liga sin apenas tratamiento específico en castellano. Al acabar los Juegos Olímpicos, @SpheraSports tenía 2.000 seguidores y @CalcioSphera, 3.000. Una bombilla se les encendió: existía una verdadera demanda de información deportiva segmentada en la red. Así que empezaron a crear cuentas Twitter con la intención de que, más adelante, estas se volcaran en una web.[Borja Pardo](https://twitter.com/Borja_Pardo), que antes había probado suerte en Don Balón y en COPE como analista de fútbol internacional, había encontrado su proyecto.

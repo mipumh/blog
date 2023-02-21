@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.jpg
+  image: mabor.webp
   link: https://twitter.com/mamenbor
 ---
 

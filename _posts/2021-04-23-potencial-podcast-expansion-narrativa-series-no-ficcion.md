@@ -2,13 +2,13 @@
 layout: post
 title: El potencial del podcast para la expansión narrativa de las series de no ficción
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Luis M. Pedrero
   twitter: luismipedrero
   gplus:  
   bio: Catedrático en la Facultad de Comunicación y Artes de la Universidad Nebrija
-  image: luismi.jpg
+  image: luismi.webp
   link: https://twitter.com/luismipedrero
 ---
 En la incesante búsqueda de nuevas fórmulas para captar nuestra atención a través de las historias, los *podcasts* transmedia están evolucionando desde su percepción como formato accesorio hacia su consolidación como una herramienta casi imprescindible. El profesor **Luis Miguel Pedrero** analiza la proliferación de las piezas sonoras vinculadas a productos de matriz informativa o divulgativa como soporte de innovación narrativa y poderosa estrategia de monetización en el competitivo mercado del ocio y entretenimiento digital.

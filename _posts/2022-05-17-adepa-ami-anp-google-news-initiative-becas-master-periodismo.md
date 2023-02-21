@@ -6,7 +6,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 Las asociaciones de periodistas de Argentina (ADEPA), Chile (ANP) y Colombia (AMI) y Google han otorgado **15 becas a editores y periodistas para cursar la próxima edición del Máster en Innovación en Periodismo**, que comienza en octubre de 2022. Google News Initiative, el área de la compañía que reúne todos los proyectos globales de cooperación con la industria de los medios, mantiene esta colaboración con la Universidad Miguel Hernández, que también cuenta con el apoyo del Vicerrectorado de Relaciones Internacionales de la UMH.

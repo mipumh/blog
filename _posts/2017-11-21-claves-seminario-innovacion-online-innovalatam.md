@@ -7,7 +7,7 @@ author:
   twitter: albagortega
   gplus:  
   bio: Periodista (MIP' 16)
-  image: alba.jpg
+  image: alba.webp
   link: https://twitter.com/albagortega
 ---
 

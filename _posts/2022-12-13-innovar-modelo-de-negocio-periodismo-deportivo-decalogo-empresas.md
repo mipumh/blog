@@ -6,7 +6,7 @@ author:
   twitter: crms74
   gplus:
   bio: Doctor en Periodismo UMH
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 ![]({{ site.baseurl }}/images/shots/untitled-5-.png)

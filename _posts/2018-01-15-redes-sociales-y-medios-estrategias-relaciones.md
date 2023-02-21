@@ -1,7 +1,7 @@
 ---
 layout: post
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 title: Redes sociales y medios&#58 del fin del noviazgo romántico al principio de la convivencia problemática
 excerpt: "2018 promete ser un año de cambios para la relación que sostienen los medios con las plataformas sociales y los beneficios que ambas partes obtienen. Profesionales del sector ya apuntan a la diversificación de los entornos de distribución de contenidos que separen social y media, como ya indicó el CEO de Snapchat en un artículo."
 subtitle: "Inauguramos esta sección del blog, que abordará puntualmente las tendencias en diversos aspectos del periodismo, gracias a las contribuciones de profesionales y académicos que colaboran en el Máster"
@@ -10,7 +10,7 @@ author:
   twitter: josemanuelrodos
   gplus:  
   bio: Consultor de medios sociales
-  image: rodos.jpg
+  image: rodos.webp
   link: https://twitter.com/josemanuelrodos
 ---
 2018 promete ser un **año de cambios** para la relación que sostienen los medios con las plataformas sociales y los beneficios que ambas partes obtienen. Profesionales del sector ya apuntan a la [diversificación](http://www.niemanlab.org/2017/12/social-and-media-will-split/) de los entornos de distribución de contenidos que separen ‘social’ y ‘media’, como ya indicó el CEO de Snapchat en un [artículo](https://www.axios.com/how-snapchat-is-separating-social-from-media-2513315946.html).

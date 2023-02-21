@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 La puesta en marcha de [IBERIFIER](https://iberifier.eu/) ha permitido crear un observatorio integrado por más de 90 investigadores especializados en comunicación digital, desinformación, computación y análisis estratégico. En el proyecto, liderado por el profesor Ramón Salaverría (Universidad de Navarra), participan un total de 23 instituciones de España y Portugal: universidades, verificadores (Maldita.es, Verificat y Polígrafo), centros de computación, y think-tanks estratégicos. Lanzado en septiembre de 2021 con una duración de cuatro años, este proyecto avalado por la Comisión Europea está dotado con 1,47 millones de euros. En este artículo abordamos algunos de los retos que afronta IBERIFIER en la lucha contra la desinformación.

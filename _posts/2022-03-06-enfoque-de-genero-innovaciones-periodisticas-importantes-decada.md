@@ -6,7 +6,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Profesora Titular en Periodismo UMH
-  image: alicia.jpg
+  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 ---
 [El auge de los temas con enfoque de género se postula como una tendencia periodística importante](https://revistas.ucm.es/index.php/INFE/article/view/54975). En los últimos años han visto la luz diversos proyectos de éxito que apuestan por **visibilizar el papel de las mujeres en los diferentes ámbitos de la vida**, así como reivindicar **la igualdad**. Según un estudio internacional del [grupo de investigación Join Demos](https://innovations-in-journalism.com/)*,* la diversidad y el enfoque de género en el periodismo se encuentra entre las principales innovaciones de la década. Este artículo muestra algunas de las iniciativas desarrolladas en España.

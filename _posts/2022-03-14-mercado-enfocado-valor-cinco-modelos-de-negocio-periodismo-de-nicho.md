@@ -6,7 +6,7 @@ author:
   twitter: crms74
   gplus:
   bio: Doctorando Periodismo UMH
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 ![]({{ site.baseurl }}/images/shots/post-nicho-blog.jpg)

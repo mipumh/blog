@@ -7,7 +7,7 @@ author:
   twitter: lisgaibar
   gplus:  
   bio: Investigadora de Periodismo UMH
-  image: lis.jpeg
+  image: lis.webp
   link: https://twitter.com/jagaraviles
 ---
 Hasta finales del año pasado, España era el único país de la Unión Europea con más de un millón de habitantes que carecía de una Ley de Transparencia propia. Y si bien es cierto que la nueva ‘Ley 19/2013, de 9 de diciembre, de Transparencia, acceso a la información pública y buen gobierno’ ha permitido el acceso por parte de ciudadanos y periodistas a algunas informaciones, parece que ésta sigue siendo insuficiente. La entrada en vigor de dicha ley se produjo el 10 de diciembre de 2014; su reglamento se hizo público el 10 de mayo de 2015. Por otra parte, se prevé que a finales de 2015 las Comunidades Autónomas y las entidades locales se incorporen a la ley. El profesor **Antonio Delgado**, [con quien hemos hablado en otras ocasiones]( http://mip.umh.es/blog/2015/05/17/periodismo-datos-antonio-delgado/), aseguraba en las [III Jornadas de Periodismo de Datos]( http://periodismodatos.okfn.es/) que la vigencia de la nueva ley implica que “la cantidad de datos y de información se va a multiplicar” y defiende que posibilitará un mejor periodismo ya que habrá “mucha información exclusiva extraíble de fuentes abiertas”.

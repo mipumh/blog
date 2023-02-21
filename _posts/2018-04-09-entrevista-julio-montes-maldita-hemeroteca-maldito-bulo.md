@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 Combatir la desinformación es el gran desafío al que se enfrenta [Maldita.es](https://maldita.es/), un proyecto periodístico que pretende desmantelar mentiras y bulos. Los discursos políticos y las redes sociales están copados de engaños que desvirtúan la verdad. Por ello, [Julio Montes](https://twitter.com/montesjulio?lang=es), periodista y cofundador de [Maldita Hemeroteca](https://twitter.com/mhemeroteca), hace uso de prácticas periodísticas tradicionales, de un modo particular, para poner herramientas al servicio de la sociedad y de la verdad. Montes ha participado recientemente en unas Jornadas en la titulación de Periodismo en la Universidad Miguel Hernández de Elche.

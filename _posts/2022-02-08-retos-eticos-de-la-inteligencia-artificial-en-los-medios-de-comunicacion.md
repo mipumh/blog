@@ -2,13 +2,13 @@
 layout: post
 title: Retos éticos de la Inteligencia Artificial en los medios de comunicación
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Patricia Ventura
   twitter: Dialalluna
   gplus:  
   bio: Divulgadora y doctoranda en la UAB
-  image: dialalluna.jpeg
+  image: dialalluna.webp
   link: https://twitter.com/Dialalluna
 ---
 Acaba de publicarse el informe ‘Algoritmos en las redacciones: retos y recomendaciones para dotar a la Inteligencia Artificial de los valores éticos del periodismo’ del [](https://fcic.periodistes.cat/) [Consell de la Informació de Catalunya](https://fcic.periodistes.cat/). Se trata de un estudio que tiene como finalidad dotar al periodismo de herramientas para convertirse en referente de la tecnoética de la comunicación. En este artículo analizamos las claves del informe, que ofrece una reflexión crítica sobre la gestión algorítmica de la información por parte de los medios.

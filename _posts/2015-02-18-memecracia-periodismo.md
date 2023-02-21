@@ -7,7 +7,7 @@ author:
   twitter: vcovesmasterumh
   gplus:  
   bio: Alumno 2ª Edición
-  image: vic.jpeg
+  image: vic.webp
   link: https://twitter.com/jagaraviles
 ---
 A estas alturas del [Máster de Innovación en Periodismo 2014-2015](http://mip.umh.es), uno ya ha oído hablar de multitud de ejemplos de medios innovadores, tendencias, modelos de emprendimiento y herramientas tecnológicas sorprendentes. Es un claro síntoma de la efervescencia del periodismo actual, espoleado por esa proliferación de ingredientes que le permiten reinventarse sin parar.

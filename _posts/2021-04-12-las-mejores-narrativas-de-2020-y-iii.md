@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Tras las anteriores selecciones de [narrativas sobre la COVID-19](https://mip.umh.es/blog/2021/03/30/las-mejores-narrativas-de-2020-i/) y [sobre investigaciones periodísticas](https://mip.umh.es/blog/2021/04/07/las-mejores-narrativas-de-2020-ii/), presentamos una serie de formatos que abordan un tipo de contenidos imperecederos, desde el cambio climático a los sonidos de la naturaleza, pasando por el rediseño de los carriles-bici en Berlín o la subida al Everest. Destacan los trabajos de varios medios de servicio público en Alemania, Dinamarca, España y Noruega, e iniciativas de diarios como The Guardian, The New York Times y The Washington Post. Utilizan diseños originales, Realidad Aumentada, visualizaciones de datos, estructuras múltiples… con un mismo objetivo: contar algo del modo que mejor se adecue al contenido de la información, facilitando que el usuario experimente la historia y se sumerja en ella.
@@ -35,7 +35,7 @@ Fantástico ejemplo de periodismo de servicio público que logra un impacto en l
 
 Un equipo de TVE dirigido por Carlos del Amor elaboró este resumen de las principales noticias del 2020, emitido en el Telediario el 31 de diciembre. Se trata de un enfoque muy original para contar lo ocurrido en el año de la pandemia, a través de un monólogo protagonizado por el actor José Coronado. La pieza transcurre en el Teatro de la Zarzuela, donde muchos hacen cola para asistir a una representación que solo se podrá ver una vez: “2020, única función”. La pieza, que contó con la colaboración de los actores Natalia De Molina, Daniel Guzmán y José Sacristán, incluye la actuación de la cantante Rozalén. Destaca la calidad e innovación del guion y la excelente realización.
 
-![]({{ site.baseurl }}/images/shots/delhi-air-nyt.jpg)
+![]({{ site.baseurl }}/images/shots/delhi-air-nyt.webp)
 
 ### [Who gets to breathe clean air in New Delhi](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html) **\| The New York Times**
 

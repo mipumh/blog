@@ -7,7 +7,7 @@ author:
   twitter: daniel_pinelo
   gplus:  
   bio: Codirector de Daute Digital
-  image: pinelo.jpg
+  image: pinelo.webp
   link: https://twitter.com/daniel_pinelo
 ---
 <div class="card">

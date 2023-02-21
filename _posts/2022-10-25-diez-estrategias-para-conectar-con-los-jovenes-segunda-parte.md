@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 [Tras la primera entrega](https://mip.umh.es/blog/2022/10/18/diez-estrategias-para-conectar-con-los-jovenes/), continuamos con las estrategias que algunos medios adoptan para llegar a la Generación Z y los Millenials:

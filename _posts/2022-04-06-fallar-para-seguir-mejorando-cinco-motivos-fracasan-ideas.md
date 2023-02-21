@@ -6,7 +6,7 @@ author:
   twitter: josvap
   gplus:  
   bio: Doctor en Periodismo UMH
-  image: chema.jpg
+  image: chema.webp
   link: https://twitter.com/josvap
 ---
 El éxito comercial y social de las nuevas ideas no solo depende de su potencial para aportar valor a los usuarios. La forma en la que se implementan estas soluciones condiciona en gran medida su desempeño, por lo que un fracaso puntual no las invalida necesariamente. **Los errores pueden residir en el diseño concreto** **de los productos** y en el contexto en el que se introducen. Por ello, **el proceso de innovación es cíclico** y no acaba cuando se introduce por primera vez un producto en el mercado, sino que también consiste en **detectar y corregir estos fallos de implementación** para generar productos que se adapten mejor a las necesidades de los usuarios. En esta publicación se repasan algunas de las causas más frecuentes del fracaso en la implementación de innovaciones periodísticas, detectadas como resultados parciales de la [investigación internacional Join Demos.](https://innovations-in-journalism.com/nuestro-proyecto)

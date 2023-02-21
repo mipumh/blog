@@ -2,18 +2,18 @@
 layout: post
 title: "Grado y Medio: un modelo de negocio para contar la historia más importante de nuestra era"
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Heriberto Araujo
   twitter: heri_araujo
   gplus:  
   bio: Periodista y creador de Grado y Medio
-  image: heri.jpeg
+  image: heri.webp
   link: https://twitter.com/heri_araujo
 ---
 La newsletter semanal climática Grado y Medio —mi TFM y ahora mi proyecto empresarial periodístico— nunca habría existido sin el MIP y sin el apoyo de sus excelentes docentes. El máster me aportó herramientas para construir un modelo de negocio sostenible. Aprendí, por ejemplo, a estudiar a mi audiencia, a incorporar la tecnología y la innovación en mis reportajes, y a diversificar las vías de monetización. Todo ello hace mejor al periodismo en el que siempre creí: historias relevantes, investigadas a fondo, y construidas sobre hechos (y no ideología).
 
-![]({{ site.baseurl }}/images/shots/grado-y-medio-logo.jpg)
+![]({{ site.baseurl }}/images/shots/grado-y-medio-logo.webp)
 
 En abril de 2021 me encontraba en uno de esos momentos que sospechaba definirían el camino que tomaría mi carrera profesional durante la siguiente década.
 

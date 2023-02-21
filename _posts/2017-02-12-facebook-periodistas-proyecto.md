@@ -7,7 +7,7 @@ author:
   twitter: pafien
   gplus: 104274993391260139803 
   bio: Investigador Universidad Pompeu Fabra
-  image: patricio.jpg
+  image: patricio.webp
   link: https://twitter.com/pafien
 ---
 

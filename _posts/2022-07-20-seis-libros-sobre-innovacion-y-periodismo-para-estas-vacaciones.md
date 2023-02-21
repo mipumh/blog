@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 ![]({{ site.baseurl }}/images/shots/libros-sobre-innovación-y-periodismo-para-leer-estas.jpg)

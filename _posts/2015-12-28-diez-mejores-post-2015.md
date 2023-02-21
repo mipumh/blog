@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Te presentamos una selección de los diez mejores artículos publicados este año en el blog. Aprovechamos para agradecer su apoyo a todos nuestros colaboradores y expertos. Y te deseamos un 2016 lleno de proyectos enriquecedores: que se hagan realidad todos tus sueños. 

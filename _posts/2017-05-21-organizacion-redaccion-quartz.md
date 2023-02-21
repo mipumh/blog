@@ -7,7 +7,7 @@ author:
   twitter: pfcontrerasv
   gplus:  
   bio: Editor de Puroperiodismo
-  image: contreras.jpg
+  image: contreras.webp
   link: https://twitter.com/pfcontrerasv
 ---
 Con este artículo iniciamos la colaboración con la prestigiosa revista chilena [Puroperiodismo](http://www.puroperiodismo.cl/), especializada en emprendimiento y periodismo de calidad. [Gideon Lichfield](https://twitter.com/glichfield) trabajó durante 16 años en The Economist y en 2012 fue parte del equipo fundador de [Quartz](http://qz.com/), primero como global news editor y ahora como senior editor, a cargo de reportajes y normas de estilo del medio. En 2016 fue jurado del Premio Gabo en la categoría Innovación. El 9 de mayo de 2017, Lichfield dirigió [un webinar de la Fundación Nuevo Periodismo Iberoamericano sobre prácticas innovadoras](https://www.youtube.com/watch?time_continue=3&v=zRkrAQHt0hA). Presentamos un resumen de su intervención.

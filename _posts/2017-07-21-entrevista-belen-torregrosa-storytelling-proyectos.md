@@ -7,7 +7,7 @@ author:
   twitter: ThaisC21
   gplus:  
   bio: Periodismo UMH
-  image: thais.jpg
+  image: thais.webp
   link: https://twitter.com/ThaisC21
 ---
 "La gente olvidará lo que dijiste, también olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir". Esta frase de la escritora Maya Angelou parece reflejar la esencia del storytelling. Según [Belén Torregrosa](https://twitter.com/belentorregrosa), [experta en creatividad y storytelling](http://belentorregrosa.com/), el arte de contar historias va más allá del marketing, ya que supone una característica natural del ser humano y constituye su forma de ser. Torregrosa ha impartido un taller de storytelling en el Máster de Innovación en Periodismo."

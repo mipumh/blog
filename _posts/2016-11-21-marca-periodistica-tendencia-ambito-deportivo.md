@@ -8,7 +8,7 @@ author:
   twitter: rojastorrijos
   gplus:  
   bio: Periodista y profesor universitario
-  image: rojas.jpg
+  image: rojas.webp
   link: https://twitter.com/rojastorrijos
 ---
 

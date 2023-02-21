@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Twitter se ha convertido en una herramienta esencial para difundir el periodismo de datos. Trabajos a menudo tan complejos y costosos tienen la oportunidad de aprovechar la potencia y la viralidad de las imágenes de la red de microblogging para ganar alcance e impacto.

@@ -7,7 +7,7 @@ author:
   twitter: mariaComin 
   gplus:  
   bio: Investigadora GICOV
-  image: maria-comin.jpg
+  image: maria-comin.webp
   link: https://twitter.com/mariaComin
 ---
 El periodista [Alejandro Laso](https://twitter.com/alejandrolaso) ha vuelto a pisar las aulas del [Máster en Innovación en Periodismo (MIP)]( http://mip.umh.es/) de la [Universidad Miguel Hernández](http://www.umh.es). El responsable del área de Innovación y Estrategia de [El Confidencial](http://www.elconfidencial.com) explicó a los alumnos del MIP diversas claves que han convertido a este medio en uno de los digitales más reconocidos e innovadores. Los seis puntos que presentamos a continuación son algunas de las estrategias que destaca Laso:

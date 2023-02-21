@@ -8,7 +8,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/cibermensaje
 ---
 Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que aprenden los alumnos del Máster en Innovación en Periodismo (MIP).

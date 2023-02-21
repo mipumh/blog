@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 Los usuarios demandan información que se adapte a los ritmos y necesidades de la sociedad. Por ello surgen formas innovadoras de contar historias y divulgar los contenidos informativos. [José Manuel Noguera](https://twitter.com/jmnoguera) es profesor de la Universidad Católica de Murcia e imparte clases de Nuevas Narrativas en el [Máster de Innovación en Periodismo de la UMH](http://mip.umh.es/). Ha publicado *Todos, todo*. *Manual de periodismo, participación y tecnología,* y *Redes y periodismo. Cuando las noticias se socializan*, entre otras obras. 

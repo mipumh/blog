@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 La investigación sobre la innovación en el periodismo ha experimentado un crecimiento notable a lo largo de este año, **con más de 40 trabajos publicados tanto en España como a nivel internacional**. Entre los ámbitos más investigados figuran la teoría de la difusión de las innovaciones, la gestión de la innovación, la cultura organizativa, los perfiles profesionales, los modelos empresariales, la innovación en los géneros y contenidos, las herramientas y la tecnología, los laboratorios de medios y diversas iniciativas periodísticas. Otros estudios se centran en las innovaciones introducidas en el uso de chatbots, el vídeo 360º, las newsletters, la gamificación periodística, los formatos televisivos y la visualización de la información. Seleccionamos las 25 publicaciones más relevantes que, a nuestro juicio, **sintetizan el estado actual de la investigación académica sobre la innovación en periodismo**.

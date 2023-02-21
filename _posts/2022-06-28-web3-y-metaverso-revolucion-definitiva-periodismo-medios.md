@@ -2,13 +2,13 @@
 layout: post
 title: Web3 y metaverso, ¿la revolución definitiva para el periodismo y los medios?
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Esther Paniagua
   twitter: e_paniagua
   gplus:  
   bio: Periodista y escritora especializada en tecnología e innovación. Autora de 'Error 404' (Debate, 2021)
-  image: esther_pania.jpg
+  image: esther_pania.webp
   link: https://twitter.com/e_paniagua
 ---
 En 2019 publiqué en *[El País](https://elpais.com/retina/2019/03/01/innovacion/1551430113_768462.html)* un artículo sobre [Civil](https://civil.co/), una red de medios de comunicación alineados en un nuevo modelo de negocio basado en **blockchain**. Civil trataba de reinventar y desintermediar el periodismo, haciendo frente a los problemas de titularidades y de modelo de distribución. Se creó bajo el paraguas de la compañía blockchain [ConsenSys](https://retina.elpais.com/retina/2018/02/20/tendencias/1519128981_199490.html) (liderada por el cofundador de la criptomoneda [Ethereum](https://retina.elpais.com/retina/2017/05/29/tendencias/1496047946_153540.html), Joseph Lubin) y aspiraba a ser la primera aplicación blockchain de gran consumo con impacto.

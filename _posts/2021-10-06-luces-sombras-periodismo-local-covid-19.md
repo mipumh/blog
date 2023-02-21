@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 El periodismo local se halla condicionado por la precaria financiación de las empresas informativas. En un mercado con una inversión publicitaria limitada y creciente competencia, la crisis de la COVID-19 complica la viabilidad de los medios locales. Los diarios y televisiones locales se han visto afectados por el desplome publicitario y la disminución de ingresos. Los nativos digitales locales, con plantillas escasas y nutridas de colaboradores y becarios, luchan por su supervivencia. La COVID-19 ha tenido un notable impacto en la profesión y graves consecuencias en el ecosistema mediático local, que analizamos en este artículo.

@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.jpg
+  image: mabor.webp
   link: https://twitter.com/mamenbor
 ---
 David Tesouro es realizador, editor y operador de cámara de **_93 metros_, una productora** especializada en tecnologías innovadoras. Su carrera profesional se ha centrado en el periodismo y también se ha dedicado a la ficción. Ha sido galardonado, junto a otros compañeros, con el premio Tiflos de periodismo digital de la ONCE por "El mundo en tres sentidos" y con el Premio Boehringer de Periodismo Médico por “El mal del cerebro”. Ha escrito y dirigido ‘El gran día de los feos’, primera serie española de distribución exclusiva a través de aplicación móvil.

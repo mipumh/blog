@@ -7,7 +7,7 @@ author:
   twitter: mipumh
   gplus:  
   bio: Investigadores Periodismo UMH
-  image: albtxe.jpg
+  image: albtxe.webp
   link: https://twitter.com/mipumh
 ---
 El [XXIII Congreso Internacional de la Sociedad Española de Periodística](http://sep2017.umh.es/), organizado por la Universidad Miguel Hernández de Elche el 9 y 10 de junio, congregó a 200 profesores de periodismo de toda España y otros países. En este congreso, impulsado por el equipo de profesores del[ Máster de Innovación en Periodismo de la UMH](http://mip.umh.es/), analizó la transformación que afrontan los medios y las claves para desarrollar un periodismo de calidad que sea viable e innovador. A continuación, seleccionamos las principales ideas que se abordaron al hilo de las sesiones plenarias y mesas redondas.
@@ -50,7 +50,7 @@ La diversificación de las vías de ingreso y fuentes de financiación fueron ot
 
 "Dejadnos que os investiguemos". Fue la petición del investigador **Javier Galán** (Universidad Carlos III de Madrid) durante la mesa redonda que reunió a profesionales de diferentes medios innovadores. La necesidad de salvar las distancias entre el ámbito académico y la industria fue una conclusión compartida por la mayoría de congresistas. Para ello, los académicos demandan una mayor transparencia a las empresas en la cesión de datos, a la vez que se comprometen a ofrecer resultados útiles y prácticos que contribuyan a la mejora del sector. 
 
-![image alt text]({{ site.baseurl }}/images/shots/rojas.jpg)<sup>**José Luis Rojas, en la conferencia de clausura**
+![image alt text]({{ site.baseurl }}/images/shots/rojas.webp)<sup>**José Luis Rojas, en la conferencia de clausura**
 
 ### 9.- Fomentar el pensamiento innovador desde las universidades
 

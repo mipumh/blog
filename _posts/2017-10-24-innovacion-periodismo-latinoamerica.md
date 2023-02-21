@@ -7,7 +7,7 @@ author:
   twitter: pfcontrerasv
   gplus:  
   bio: Editor de Puroperiodismo
-  image: contreras.jpg
+  image: contreras.webp
   link: https://twitter.com/pfcontrerasv
 ---
 Este artículo podría partir con una obviedad del tipo "en los últimos veinte años el periodismo ha cambiado drásticamente". En vez de eso prefiero constatar una situación. Dos situaciones, mejor dicho, relacionadas con lo que podríamos llamar “el periodismo sobre periodismo”: el metaperiodismo, una rama del oficio a la que le gusta mirarse el ombligo. 

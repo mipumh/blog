@@ -7,7 +7,7 @@ author:
   twitter: ikerbarinaga
   gplus:  
   bio: Director de arte en área de Innovación de Vocento
-  image: ikerbarinaga.jpg
+  image: ikerbarinaga.webp
   link: https://twitter.com/ikerbarinaga
 ---
 Con casi cuatro años de existencia y una apuesta editorial que combina el largo formato (al que denominan *e-single*) y la interacción real con su audiencia mediante eventos en directo, [Zetland es uno de los medios digitales más innovadores](https://www.zetland.dk/) del panorama europeo.

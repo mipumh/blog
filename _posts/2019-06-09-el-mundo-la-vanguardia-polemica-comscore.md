@@ -1,7 +1,7 @@
 ---
 layout: post
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 title: El Mundo vs La Vanguardia&#58 historia de una polémica mal medida en Comscore
 excerpt: "Cada mes, alrededor del día 20, se repite una escena homologable en cualquier redacción. Comscore publica los datos mensuales de audiencia y cada medio los evalúa en función de las cifras anteriores y las expectativas que había creado su analítica interna, pero sobre todo en relación con la clasificación que se deriva de ellos. Salvo algunos tuits y posteriores notas de autobombo, suele ser algo relativamente opaco para quienes están fuera de la industria y no ofrece grandes titulares."
 author:
@@ -9,7 +9,7 @@ author:
   twitter: josemanuelrodos
   gplus:  
   bio: Consultor de medios sociales
-  image: rodos.jpg
+  image: rodos.webp
   link: https://twitter.com/josemanuelrodos
 ---
 Cada mes, alrededor del día 20, se repite una escena homologable en cualquier redacción. **Comscore** publica los [datos mensuales de audiencia](https://dircomfidencial.com/actualidad/comscore/) y cada medio los evalúa en función de las cifras anteriores y las expectativas que había creado su analítica interna, pero sobre todo en relación con la clasificación que se deriva de ellos. Salvo algunos tuits y posteriores [notas de autobombo](https://www.google.com/search?biw=1280&bih=670&tbm=nws&ei=UGP3XL6ALI7IaIPTk1A&q=comscore%20record%20usuarios%20unicos&oq=comscore%20record%20usuarios%20unicos&gs_l=psy-ab.3...22003.24025.0.24384.16.16.0.0.0.0.119.1269.15j1.16.0....0...1c.1.64.psy-ab..0.0.0....0.oELzXxbJDPg), suele ser algo relativamente opaco para quienes están fuera de la industria y no ofrece grandes titulares.

@@ -7,7 +7,7 @@ author:
   twitter: armandomanz_
   gplus:  
   bio: Periodismo UMH
-  image: armando.jpg
+  image: armando.webp
   link: https://twitter.com/armandomanz_
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/sergicameron.jpg)

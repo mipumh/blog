@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 "En otras épocas, exploradores, aventureros y escritores recorrían el mundo buscando lo asombroso. Hoy tenemos internet. *[Verne](https://verne.elpais.com/verne/2016/02/10/articulo/1455114499_340783.html): mil maravillas por minuto".* [Mari Luz Peinado](https://twitter.com/mluzpeinado) es coordinadora de redacción de *Verne*, la sección del diario [El País](https://elpais.com/) dedicada a explorar las informaciones curiosas que pueblan internet. Se trata de [una sección que apuesta por los contenidos virales](http://mip.umh.es/blog/2016/12/11/lucia-gonzalez-verne-periodismo-viral/), sin renunciar a la calidad periodística.

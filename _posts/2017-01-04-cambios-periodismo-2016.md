@@ -7,7 +7,7 @@ author:
   twitter: josvap
   gplus: 105651624538664882557 
   bio: Doctorando UMH
-  image: josvap.jpg
+  image: josvap.webp
   link: https://twitter.com/josvap
 ---
 El periodismo cambia constantemente. En un solo año podemos encontrar infinidad de hitos tecnológicos, empresariales y profesionales que muestran que **el nuestro es un oficio tan mutante como apasionante**. 2016 podría considerarse el año del streaming de vídeo en redes sociales, de los bots informativos o del aprovechamiento mediático de los drones, entre otras tendencias.

@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 Con el nuevo año, toca plantear buenos propósitos. Formar y lanzar proyectos de **comunicación** innovadores figura entre los nuestros. Con todo, la propuesta de hoy es descubrir cuatro medios que, en los últimos años, han introducido nuevas formas de ejercer el **periodismo desde el ámbito social**, cuyo trabajo os recomendamos seguir de cerca en 2015. Ahí van las iniciativas:

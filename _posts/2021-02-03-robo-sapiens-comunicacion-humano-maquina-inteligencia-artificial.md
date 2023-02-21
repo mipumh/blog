@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 La Inteligencia Artificial (IA) está abandonando gradualmente la ciencia ficción para integrarse en nuestro presente más real. Los sistemas diseñados mediante IA, como los asistentes virtuales (AVs), ya forman parte de nuestra vida cotidiana y jugarán un papel mucho más relevante en el futuro. El AV es un agente de software que ayuda a los usuarios de sistemas informáticos mediante la automatización de tareas con la interacción humano-máquina. La persona se comunica mediante la voz y el AV procesa su lenguaje, lo interpreta y le responde. Así, **la comunicación humano-máquina (CHM)** plantea la redefinición de las teorías para comprender las implicaciones sociales y culturales de los dispositivos que asumen funciones comunicativas que antes se asociaban exclusivamente a los humanos. **Bienvenidos a la era del Robo-Sapiens.**

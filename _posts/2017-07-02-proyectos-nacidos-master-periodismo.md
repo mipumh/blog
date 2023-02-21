@@ -7,7 +7,7 @@ author:
   twitter: MeryCina
   gplus:  
   bio: Periodista (MIP' 17)
-  image: montesinos.jpg
+  image: montesinos.webp
   link: https://twitter.com/MeryCina
 ---
 A medio camino entre la **emoción y los nervios**, así afrontan los alumnos del Máster en Innovación en Periodismo el Demo Day, o lo que es lo mismo, la **última jornada del curso** que culmina con un ejercicio práctico en el que **defienden sus proyectos innovadores** en cinco minutos ante un grupo de profesionales. En esta ocasión, presidido por [Ana Ormaechea](https://twitter.com/aormaechea?lang=es), Founder&CEO de [Cuonda](http://www.cuonda.com/) y Partner de [Prodigioso Volcán](http://www.prodigiosovolcan.com/). 

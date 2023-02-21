@@ -3,13 +3,13 @@ layout: post
 title: Hacia una verificación inteligente de la información en los interfaces de voz
 subtitle: La personalización automatizada de noticias a través de altavoces inteligentes expone al usuario a serios sesgos informativos si no se incluyen filtros que garanticen el rigor del contenido seleccionado
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Luis M. Pedrero
   twitter: luismipedrero
   gplus:  
   bio: Catedrático en la Facultad de Comunicación y Artes de la Universidad Nebrija
-  image: luismi.jpg
+  image: luismi.webp
   link: https://twitter.com/luismipedrero
 ---
 La desmesurada proliferación de noticias adulteradas, tergiversadas o sencillamente falsas acerca de la evolución y gestión de la pandemia por la COVID-19 –«Estamos ante la peor ola de desinformación de la historia», [advierte](https://www.apmadrid.es/cristina-tardaguila-estamos-ante-la-peor-ola-de-desinformacion-de-la-historia/) la directora adjunta de la Internacional Fact-Checking Network (IFCN)– ha generado una seria y justificada alarma con respecto a su creciente y demostrada **influencia sobre una ciudadanía cada vez más expuesta a las comúnmente denominadas *fake news***.

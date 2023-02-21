@@ -6,7 +6,7 @@ author:
   twitter: LauraSB_7
   gplus:  
   bio: Periodismo UMH
-  image: benejama.jpeg
+  image: benejama.webp
   link: https://twitter.com/LauraSB_7
 ---
 Xavier Aldekoa (Barcelona, 1981) refleja a la perfección el amor por el oficio. A lo largo de la entrevista, este licenciado en Periodismo y Ciencias Políticas deja claro su pasión por cada proyecto y la necesidad de vocación para poder desempeñar su trabajo. Con 20 años comenzó su andadura y hoy Aldekoa es un reputado periodista freelance con especial afecto por el continente africano. Es corresponsal de [La Vanguardia](https://www.lavanguardia.com/) y colabora en varias revistas, radios y periódicos. Ha publicado los libros [Océano África](https://www.altair.es/es/libro/oceano-africa_145707) (2014), [Hijos del Nilo](https://www.altair.es/es/libro/hijos-del-nilo_161036) (2017) e [Indestructibles](https://www.altair.es/es/libro/indestructibles-cas_172245) (2019), donde intenta plasmar lo que sucede en África. Es cofundador de la [Revista 5W-Crónicas de larga distancia](https://www.revista5w.com/) de periodismo internacional, y trabaja como coordinador y reportero de la misma en África. También es cofundador de la productora social e independiente [Mugunzu](http://www.muzungutv.com/). Ha impartido clases en el Máster en Innovación en Periodismo de la UMH.

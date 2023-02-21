@@ -8,7 +8,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 2019 ha sido un año muy fructífero en las investigaciones sobre la innovación en los medios. Destacan los temas conectados con las innovaciones que permitan lograr un periodismo más sostenible y de mayor calidad: nuevas vías de ingresos, automatización en las redacciones, herramientas para combatir la desinformación, podcasting y mucho más. Ofrecemos una selección, necesariamente sintética, de los libros y artículos más destacados, con aportaciones muy útiles para profesionales e investigadores. 

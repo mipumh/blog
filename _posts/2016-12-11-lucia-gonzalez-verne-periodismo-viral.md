@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.jpg
+  image: mabor.webp
   link: https://twitter.com/mamenbor
 ---
 Lucía González es editora jefa de [Verne](http://verne.elpais.com/), la sección de **El País** dedicada a explorar internet. Anteriormente trabajó en El Mundo y en el Huffington Post España, donde formó parte de su equipo fundador. Lucía ha impartido una sesión en el Máster de Innovación en Periodismo y la hemos entrevistado. 

@@ -7,7 +7,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.jpg
+  image: mabor.webp
   link: https://twitter.com/mamenbor
 ---
 Daniele Grasso  **es coordinador de la unidad de datos de El Confidencial**. Tras estudiar una licenciatura en Filología Española en Milán, se trasladó a Madrid. Dio sus primeros pasos como periodista freelance, colaborando con varios medios mientras cursaba un Máster en Periodismo en Madrid. Después de una etapa en un diario digital, trabajó como corresponsal para una agencia y un periódico transalpinos. Grasso ha impartido un curso en el Máster de Innovación en Periodismo.

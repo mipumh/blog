@@ -6,7 +6,7 @@ author:
   twitter: crms74
   gplus:  
   bio: Doctorando Periodismo UMH
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 Los contenidos de calidad y el pago de los lectores tienen un gran protagonismo en la economía de los medios más innovadores. Cabeceras como el _Financial Times_ o _The Wall Street Journal_ demuestran que ofrecer un gran valor a los lectores favorece la sostenibilidad, pero una porción significativa del sector sufre dificultades para encontrar un modelo de futuro. Solo en Estados Unidos [se han perdido cerca de 28.000 puestos de trabajo en redacciones durante la última década](https://www.pewresearch.org/fact-tank/2019/07/09/u-s-newsroom-employment-has-dropped-by-a-quarter-since-2008/), mientras que en España, de acuerdo con [el último Informe de la Profesión Periodística](https://www.apmadrid.es/wp-content/uploads/2019/03/La-mujer-en-el-periodismo-Informe-2018.pdf), el empleo pasa por una fase estable. Hay motivos para ser optimistas, pero también para mantenerse alerta. Ante un contexto tan complejo, lo único claro es que el periodismo está obligado a alejarse del romanticismo para abrazar la visión empresarial si quiere sobrevivir y cumplir con su función social. Y, en este cometido tan ambicioso, puede resultar de gran ayuda el desarrollo de Product-Service Systems (PSS). 

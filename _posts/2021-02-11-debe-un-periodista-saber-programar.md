@@ -6,7 +6,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Vamos a dejar a un lado [lo que están haciendo en la educación infantil de China](https://www.xataka.com/otros/china-incorpora-la-programacion-en-los-esquemas-educativos-de-ninos-a-partir-de-los-6-anos) desde hace años, [los avances de Argentina](https://www.infobae.com/educacion/2018/09/13/todas-las-escuelas-estaran-obligadas-a-ensenar-programacion-y-robotica/) y, aunque todavía sólo con cuentagotas, [los progresos en España](https://www.eldigitaldealbacete.com/2020/06/16/la-escuela-superior-de-ingenieria-informatica-de-albacete-ensena-a-estudiantes-de-secundaria-a-programar-desde-casa/). Vamos a olvidarnos también [de las modas](https://www.vogue.es/living/articulos/aprender-programar-hobby-informatica) y los debates enconados en el seno del periodismo, con [ataques de memes](https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists) y [de romanticismo](https://www.theatlantic.com/education/archive/2013/10/should-journalism-schools-require-reporters-to-learn-code-no/280711/#article-comments) incluidos. Y vamos a dejar para más adelante (aunque habrá referencias y no pocas) los listados de herramientas y recursos.

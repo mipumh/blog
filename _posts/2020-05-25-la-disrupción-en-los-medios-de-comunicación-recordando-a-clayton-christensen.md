@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En 1997, Clayton Christensen, un casi desconocido profesor de la Escuela de Negocios de Harvard, publicó [“El dilema del innovador”](https://www.amazon.es/el-dilema-innovador-Libros/s?k=el+dilema+del+innovador&rh=n%3A599364031), un éxito de ventas que influyó en el desarrollo de la innovación. La teoría de la disrupción identifica un patrón consistente se repite en cualquier ámbito empresarial: los nuevos competidores penetran desde las áreas de menor valor, y van ascendiendo en la escala, arrebatándole poco a poco la cuota de mercado a los líderes. [Según Christensen](https://sloanreview.mit.edu/article/an-interview-with-clayton-m-christensen/), en el sector del periodismo los recién llegados (Buzzfeed, Quartz, Vox Media…) hicieron algo similar: generar un producto más dinámico y personalizado que el de los medios dominantes. Los nuevos competidores no están tan condicionados por altos costes operativos como los medios tradicionales —aunque sí tienen los mismos retos económicos, y otras presiones de los inversores, como se ha visto en los últimos años—, concentran su inversión en los recursos digitales y captan audiencias generando una demanda novedosa en el mercado. [El análisis de Christensen sobre la innovación disruptiva en el periodismo](https://niemanreports.org/articles/breaking-news-en-espanol/) es una de las lecturas esenciales en nuestro Máster.

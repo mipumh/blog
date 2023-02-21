@@ -7,7 +7,7 @@ author:
   twitter: mipumh
   gplus:  
   bio: 
-  image: logo.jpg
+  image: logo.webp
   link: https://twitter.com/mipumh
 ---
 Los próximos días 11 y 12  de abril en la sede de la Facultad de Ciencias Sociales y Jurídicas de Elche (Edf. La Galia), se realizará la visita, dentro de la fase del proceso de renovación de la acreditación, del Comité de Evaluación Externa de los Masters:

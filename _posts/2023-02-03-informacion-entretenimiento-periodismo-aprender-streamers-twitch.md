@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Doctorando en Periodismo
-  image: monde97.jpeg
+  image: monde97.webp
   link: https://twitter.com/Monde97
 ---
 En marzo de 2020, el mundo se paralizó para hacer frente a la amenaza que suponía **la irrupción del COVID-19**. Según algunos cálculos, durante los primeros meses de pandemia hubo más gente encerrada en sus hogares [que población mundial viva durante la Segunda Guerra Mundial](https://www.sciencedirect.com/science/article/pii/S259029112100022X). Y, en esta situación sin precedentes, se produjeron cambios en prácticamente todos los ámbitos: la educación, el trabajo, el consumo… Pero también, y de forma acuciante, sobre nuestro tiempo libre, **nuestro ocio y diversión**.

@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Seleccionamos una serie de lecturas estivales. Se trata de libros publicados en los últimos meses que abarcan aspectos muy relevantes para quienes deseen formarse en el ámbito de la innovación periodística y la comunicación. Esperamos que os gusten. ¡Feliz verano!

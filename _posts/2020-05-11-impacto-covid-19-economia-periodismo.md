@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 Si te dedicas al periodismo, hay bastantes posibilidades de que te haya afectado un ERTE o que tu medio te haya dicho que conviene apretarse el cinturón. Algunos jefes se han bajado el sueldo, otros han suspendido el reparto de dividendos y en el peor de los casos han despedido a parte de la plantilla. Quizá no te haya ocurrido nada de eso, pero seguro que conoces a alguien afectado.  

@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Manuel Castells ha subrayado que [internet se ha convertido en el medio y en la forma organizativa de la sociedad contemporánea](http://www.uoc.edu/web/cat/articles/castells/castellsmain2.html ), en parte integral de nuestra vida diaria. Internet se configura como el “medio de medios” donde encuentran cabida todos los medios anteriores, reinventados y adaptados. Las redes inciden en el modo en que pensamos, experimentamos, producimos y consumimos los medios online; influyen en cómo nos relacionamos con los amigos, colegas, familiares y la sociedad. Como argumento en el libro ["Comunicar en la Sociedad Red"](http://www.editorialuoc.cat/comunicarenlasociedadred-p-1672.html?cPath=1), en el nuevo ecosistema mediático, **"el medio es la red y el mensaje son los usuarios"**.

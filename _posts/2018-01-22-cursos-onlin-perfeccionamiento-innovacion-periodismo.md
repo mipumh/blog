@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 El Máster de Innovación en Periodismo (MIP) oferta dos cursos online para aprender las tendencias del periodismo más innovador y adquirir conocimientos prácticos sobre nuevas narrativas. Participan periodistas de medios como **eldiario.es, Podium Podcast, Cuonda, Verne, Politibot, Vocento o Datadista**. La metodología de sendos cursos es 100% online mediante la [Plataforma EDX](http://edx.umh.es/),  que facilita su seguimiento gracias a vídeos, acceso a materiales y foros con profesores y compañeros. 

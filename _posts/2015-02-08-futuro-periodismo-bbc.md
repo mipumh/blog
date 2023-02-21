@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Todo periodista al que le interese su profesión debería leer y extraer sus propias conclusiones del **Informe sobre el Futuro de las Noticias** presentado por la **British Broadcasting Corporation**. Porque ofrece un mapa esencial para entender hacia dónde evolucionará el periodismo en la próxima década. El estudio forma parte de un proyecto iniciado hace una década, con el objetivo de desmenuzar las funciones que debe desempeñar un servicio público como la BBC en el cambiante ecosistema mediático.

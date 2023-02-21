@@ -7,12 +7,12 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Numerosos académicos en todo el mundo están tendiendo puentes cada vez más sólidos entre la profesión periodística y la investigación universitaria. Como constatan estos artículos publicados a lo largo de 2021, las investigaciones analizan diversas facetas de la innovación en los medios y aportan conclusiones que la industria no debería desdeñar: desde cómo el documental interactivo está renovando el periodismo digital, la incorporación del periodismo de datos en medios latinoamericanos, los resultados de innovación en varios labs de medios, la gestión del periodismo automatizado o el liderazgo en la organización de medios nativos digitales como Quartz y El Confidencial. Destacamos que son artículos elaborados por un número cada vez mayor de investigadoras, desde una perspectiva internacional y multidisciplinar. En definitiva, estos estudios ofrecen valiosas aportaciones que permiten entender cómo está evolucionando el sector.
 
-![]({{ site.baseurl }}/images/shots/innova-wordcloud.jpg)
+![]({{ site.baseurl }}/images/shots/innova-wordcloud.webp)
 
 ### Dowling, David O. (2021). [Interactive documentary and the reinvention of digital journalism, 2015–2020](https://journals.sagepub.com/doi/full/10.1177/13548565211059426). *Convergence*.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-cover_image: bg.jpg
+cover_image: bg.webp
 title: Ganadores del I Concurso Innova en Periodismo
 subtitle: "Tres ilicitanos (Ana Esclapez, Juan José Licerán y Ana Juan) ganan una beca para cursar el Máster en Innovación en Periodismo de la UMH"
 excerpt: "El jurado del I Concurso Innova en Periodismo hizo público ayer los nombres de los tres premiados que recibirán una beca para matricularse en la segunda edición del Máster en Innovación en Periodismo. Directivos de innovación de El Confidencial y miembros del claustro del postgrado han decidido que la primera beca sea para Ana Esclápez (25) por su proyecto periodístico sobre infancia en Elche."
@@ -9,7 +9,7 @@ author:
   twitter: crms74
   gplus:  
   bio: Community Manager del MIP
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 El jurado del I Concurso Innova en Periodismo hizo público ayer los nombres de los tres premiados que recibirán una beca para matricularse en la [segunda edición](http://mip.umh.es) del Máster en Innovación en Periodismo. Directivos de El Confidencial y profesores del Máster han decidido que la primera beca sea para la ilicitana Ana Esclapez (24 años) por su proyecto periodístico sobre infancia en Elche. 

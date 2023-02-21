@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 Crear, creer y soñar son las claves para ser periodista en un momento convulso como el actual, según **Olga Ruiz** y **María Jesús Espinosa**. Lideran [El Extrarradio](http://www.elextrarradio.com/), un proyecto que las sitúa en la vanguardia de la innovación periodística en nuestro país en la línea de aquellos que pretendemos formar e impulsar desde el Máster.

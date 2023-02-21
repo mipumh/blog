@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Despedimos 2022 y es momento de hacer balance. Este curso el Máster en Innovación en Periodismo cumple su 10ª edición. La promoción actual la integran 32 profesionales procedentes de seis países, incluyendo 12 periodistas colombianos, argentinos y chilenos becados por Google News Initiative. Este año hemos introducido varias novedades en la metodología docente y también hemos colaborado en la organización del [II Premio Vicente Verdú de Periodismo e Innovación](https://mip.umh.es/blog/2022/06/01/reportaje-reproduccion-asistida-segundo-premio-vicente-verdu/), dotado con 6.000 euros. Si te interesa la innovación periodística, aquí puedes acceder a los artículos más relevantes publicados a lo largo de 2022 y leerlos con calma. ¡Feliz Navidad y lo mejor para 2023!

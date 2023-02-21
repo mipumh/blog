@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Ofrecemos la segunda entrega de las propuestas para transformar el periodismo en la Sociedad Red que iniciamos [en el anterior post](http://mip.umh.es/blog/2016/04/03/propuestas-disruptivas-sociedad-red/).

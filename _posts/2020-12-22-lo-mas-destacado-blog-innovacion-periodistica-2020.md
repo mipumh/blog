@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Este 2020 al que decimos adiós ha sido un año complicado. La pandemia ha impactado de lleno en nuestras vidas, en nuestro trabajo y entorno familiar. Las consecuencias de la COVID-19 están aún por determinar. Sin embargo, esta situación no nos ha impedido que nuestro Máster en Innovación en Periodismo, impartido totalmente online, siga creciendo y consolidándose en esta octava edición. De hecho, tenemos una de las promociones más numerosas, con 32 profesionales procedentes de cinco países y de prácticamente todas las comunidades autónomas de España. También, por segundo año, [contamos con cinco periodistas argentinos becados](https://comunicacion.umh.es/2020/07/10/la-asociacion-de-editores-de-argentina-y-google-becan-a-editores-argentinos-para-cursar-el-master-en-innovacion-en-periodismo/) por la Asociación de Entidades Periodísticas Argentinas (ADEPA) y Google News Initiative. En esta entrada, seleccionamos los artículos más destacados publicados en el blog a lo largo de 2020.

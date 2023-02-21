@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En la frontera entre el reportaje multimedia y el documental, el webdoc es un formato de realidad creado para internet, conocido también como documental interactivo, documental transmedia o i-doc. En un webdoc, la interactividad, la multimedialidad y la hipertextualidad son elementos clave; además, la diversidad de recursos narrativos y la implicación del usuario aportan  una “experiencia inmersiva”. [Eva Domínguez](https://twitter.com/edominguez) sostiene que se pueden considerar reportajes en profundidad basados en el uso del vídeo interactivo. En el fondo, se trata de [historias de largo recorrido](http://mip.umh.es/blog/2014/11/24/93metros/) que pretenden involucrar a la audiencia en la narración.

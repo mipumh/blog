@@ -3,13 +3,13 @@ layout: post
 title: >-
   Janine Warner: “En SembraMedia, todo lo que hacemos lo hemos aprendido de los más de 800 medios emprendedores que forman nuestra comunidad”
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: José Luis Rojas
   twitter: rojastorrijos
   gplus:  
   bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.jpg
+  image: rojas.webp
   link: https://twitter.com/rojastorrijos
 ---
 Hablar de nuevos medios y de proyectos periodísticos en lengua española es hacerlo de SembraMedia. Esta organización internacional sin ánimo de lucro nació el 15 de octubre de 2015 con el objetivo de impulsar el trabajo de emprendedores de medios digitales en Iberoamérica. Desde entonces se ha convertido en un referente aglutinador de buenas prácticas en la industria mediática y ha creado a su alrededor una extensa comunidad de emprendedores a quienes ofrece servicios de formación y consultoría tecnológica desde su web, [sembramedia.org](https://www.sembramedia.org/), para hacer más sostenibles sus proyectos periodísticos.

@@ -1,13 +1,13 @@
 ---
 layout: post
-cover_image: nyt.jpg
+cover_image: nyt.webp
 title: Ocho medidas del New York Times para mejorar su audiencia  
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

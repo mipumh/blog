@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 El subcontinente americano es una zona con una enorme biodiversidad, gracias a la cantidad de selvas y bosques que pueblan la cuenca del Amazonas, la Patagonia o la Cordillera de los Andes. Entre las especies características de este ecosistema destacan tres: el **cóndor**,símbolo nacional de varios países latinoamericanos, una rapaz de gran tamaño (hasta 3,3 metros) y vuelo ágil; el **jaguar**, el tercer felino más grande del planeta, un animal solitario y territorial que se alimenta de unas 80 especies distintas; y el **ñandú**, quees capaz de correr a 70 km/h. con su amplia zancada. Del mismo modo, las especies periodísticas en Latinoamérica proliferan en un ecosistema complejo, demostrando **una enorme capacidad de adaptación, hibridación e innovación**. Numerosos medios han desarrollado la ferocidad del jaguar, la rapidez del ñandú y la agilidad del cóndor para adaptarse y crecer. Nos interesa mucho conocerlos y aprender de ellos, por lo que iniciamos la serie: “Innovación periodística en Latinoamérica”, un recorrido a través de la mirada de prestigiosos expertos que nos acercarán al ecosistema innovador en cada país.

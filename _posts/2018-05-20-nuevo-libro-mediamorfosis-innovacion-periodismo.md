@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 El [XXIII Congreso Internacional de la Sociedad Española de Periodística](http://sep2017.umh.es/), organizado por la Universidad Miguel Hernández de Elche y el Máster en Innovación en Periodismo, congregó a unos 200 profesores e investigadores de periodismo de Europa y Latinoamérica entre el 9 y 10 de junio de 2017. En el congreso [se analizaron las claves para desarrollar un periodismo de calidad que llegue a ser viable e innovador](http://mip.umh.es/blog/2017/06/16/diez-claves-congreso-sep-umh/). En total, 92 comunicaciones, 37 universidades, 10 países y 7 líneas temáticas sintetizaron uno de los eventos científicos más relevantes en el ámbito del periodismo en España. Ahora presentamos el libro, **Mediamorfosis. Radiografía de la innovación en el periodismo,** editado por la [Sociedad Española de Periodística](http://www.periodistica.es/), que recoge una serie de ponencias destacadas.

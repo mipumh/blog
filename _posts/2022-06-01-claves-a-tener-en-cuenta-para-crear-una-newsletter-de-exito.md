@@ -2,13 +2,13 @@
 layout: post
 title: 15 claves a tener en cuenta para crear una newsletter de éxito
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Ismael Nafría
   twitter: ismaelnafria
   gplus:  
   bio: Periodista y autor de Tendencias
-  image: nafria.jpg
+  image: nafria.webp
   link: https://twitter.com/ismaelnafria
 ---
 Aunque existen y se envían desde hace décadas, los boletines electrónicos viven un *boom* que los ha situado como un elemento fundamental para conectar de manera efectiva con la audiencia, tanto para autores individuales como para medios de comunicación y empresas de todo tipo. El *email marketing* es una de las fórmulas más eficientes de promoción para las compañías. Y para creadores y medios, las newsletters se han convertido en una herramienta para el *engagement* con los usuarios, la base del negocio tanto para los sitios de noticias -especialmente los basados en la suscripción o las membresías- como para los creadores individuales que intentan construir un negocio a partir de una comunidad de usuarios fieles. Esta decidida apuesta por las newsletters, además de la aparición de plataformas especializadas como Substack o Revue, han permitido afinar la fórmula para crear boletines exitosos. Así que es un buen momento para repasar algunas claves que cualquier profesional que quiera lanzar una newsletter debería tener en cuenta.

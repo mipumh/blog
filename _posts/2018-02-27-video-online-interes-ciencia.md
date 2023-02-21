@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.jpg
+  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 ---
 En el artículo ["El insoportable peso de la levedad científica"](http://www.rac.es/ficheros/doc/01128.pdf), publicado en la revista [Claves de la Razón Práctica](http://www.revistasculturales.com/revistas/15/claves-de-razon-practica/) (Núm. 249, nov. - dic. 2016), el [catedrático de Bioquímica y Biología Molecular Carlos López Otín](https://www.youtube.com/watch?v=wk-zjhdmbbk)se pregunta: **“¿Por qué no interesa la ciencia a los españoles?**” El interrogante está dentro del siguiente contexto: el experto advierte que errar sobre un determinado escritor de literatura clásica se concibe como algo mucho más grave que desconocer las bases nitrogenadas que puede contener el ADN humano que, sin embargo, es responsable de todas nuestras instrucciones genéticas.

@@ -1,7 +1,7 @@
 ---
 layout: post
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 title: >-
   La responsabilidad de los periodistas con la información publicada en redes
   sociales
@@ -9,7 +9,7 @@ author:
   name: Raul Magallón
   twitter: raulmagallon
   bio: Profesor UC3M
-  image: magallon.jpg
+  image: magallon.webp
   link: https://twitter.com/raulmagallon  
 ---
 Uno de los grandes desafíos de las próximas semanas/meses es saber encontrar un equilibro entre la *comunicación del riesgo* y el*riesgo de la comunicación*. La información que consumimos en Internet y la proporcionada por los medios no sólo ha de estar bien ordenada y jerarquizada, sino que debe poder reenviar a fuentes oficiales y *documentación de confianza* para que los lectores puedan completar su propio recorrido informativo. Este artículo de [Raúl Magallón Rosa](https://twitter.com/raulmagallon), doctor en periodismo y autor de *[Unfaking News. Cómo combatir la desinformación](https://unfakingnews.com/)* aborda la responsabilidad del periodismo en la información sobre el COVID-19.

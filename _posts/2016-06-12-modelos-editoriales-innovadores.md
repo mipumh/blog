@@ -7,7 +7,7 @@ author:
   twitter: jagonzalezalba
   gplus: 6359f4950faf7851 
   bio: Periodista y alumno del MIP
-  image: galba.jpg
+  image: galba.webp
   link: https://twitter.com/jagonzalezalba
 ---
 De la jornada [‘Modelos editoriales innovadores’](http://conversacionescon.es/innovacion-al-servicio-de-esencia/) organizada por la asociación **“Conversaciones con…”** hemos extraído, a modo de resumen, las principales claves de la apuesta por la innovación aportadas por los expertos y profesionales que participaron en el evento:
@@ -28,7 +28,7 @@ De la jornada [‘Modelos editoriales innovadores’](http://conversacionescon.e
 
 7-. La innovación también puede llegar desde la combinación de un tipo de producto con soporte tradicional como la edición de un libro-revista, en este caso de temática internacional -a través de crónicas y reportajes de larga distancia y lectura reposada sin relación con la actualidad, con el valor añadido del sello de producto para coleccionistas. Es lo que hace [Revista 5W](http://www.revista5w.com/) con su recién editado primer número en papel de 225 páginas. Se trata de proyectos que pueden financiarse a través de la fidelización de una comunidad  de socios-lectores que apoyan el producto. 
 
-![]({{ site.baseurl }}/images/shots/galba.jpg)
+![]({{ site.baseurl }}/images/shots/galba.webp)
 
 8-. La **colaboración**, el construir confianza a través del sentimiento de equipo entre distintas empresas para trabajar sobre un mismo producto periodístico, es la base de la innovación que supone la economía colaborativa aplicada al periodismo. Así ha ocurrido con la exclusiva de los **Papeles de Panamá** en España, con la colaboración entre el [International Consortium of Investigative Journalists](https://www.icij.org), [El Confidencial](http://www.elconfidencial.com/economia/papeles-panama/) y [La Sexta](http://www.lasexta.com/noticias/papeles-panama/), demostrándose que un periodismo de calidad también puede conseguir audiencia.
 

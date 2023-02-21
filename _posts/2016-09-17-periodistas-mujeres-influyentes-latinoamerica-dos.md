@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 [MediaChicas](http://www.mediachicas.com/) es un proyecto en el que colabora [Chicas Poderosas](http://www.chicaspoderosas.org/?lang=es), iniciativa que referenciamos en la primera entrega de la lista [Las periodistas más innovadoras e influyentes de los medios digitales](http://mip.umh.es/blog/2015/11/15/periodistas-innovadoras-influyentes/), para capacitar a las profesionales de la comunicación en innovación en medios digitales y tecnología. Se trata de un encuentro **para inspirarse y aprender de lideresas del emprendimiento y la innovación, conocer y manejar nuevas herramientas y recursos digitales, así como trabajar en equipos multidisciplinares en prototipos de proyectos sobre nuevos medios**. 

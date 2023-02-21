@@ -7,7 +7,7 @@ author:
   twitter: elpady
   gplus:  
   bio: Cofundador de Nabumbu y El Desmarque
-  image: padi.jpg
+  image: padi.webp
   link: https://twitter.com/elpady
 ---
 _Contamos con la firma invitada de Javier Padilla, periodista y emprendedor. Ha sido cofundador de Nabumbu, El Desmarque, 3dsignia y otras iniciativas. Fue director técnico del Departamento de Internet de ABC Sevilla. También ha desarrollado trabajos de diseño, programación y marketing online. Imparte clases en el Master de Innovación en Periodismo_.

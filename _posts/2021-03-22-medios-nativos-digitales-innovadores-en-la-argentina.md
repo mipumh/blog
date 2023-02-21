@@ -6,7 +6,7 @@ author:
   twitter: alerost
   gplus:  
   bio: Profesor de Periodismo UNCOMA 
-  image: rost.jpeg
+  image: rost.webp
   link: https://twitter.com/jagaraviles
 ---
 Los medios nativos digitales son los que más se destacan hoy en la Argentina por la innovación y el uso de nuevas narrativas en el periodismo. Son medios que se animan a experimentar en las formas de contar la actualidad, aprovechan las posibilidades interactivas de las redes sociales, buscan acercarse a sus lectores y pretenden construir comunidad alrededor de su propuesta periodística. Mientras muchos medios tradicionales se embarran en las trincheras de la polarización -que mellan aún más su ya dañada credibilidad- y la búsqueda desesperada de clics, hay nativos digitales que sostienen un periodismo más abierto, más reflexivo, más dialogante y más transparente. A continuación, analizamos algunos ejemplos.

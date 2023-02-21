@@ -7,7 +7,7 @@ author:
   twitter: dieppa_olivia
   gplus:  
   bio: Periodismo UMH
-  image: olivia.jpg
+  image: olivia.webp
   link: https://twitter.com/dieppa_olivia
 ---
 [Andy Kaltenbrunner](https://twitter.com/KaltenbrunnerA) es periodista y consultor de medios austriaco. Ha sido profesor en academias y universidades de Viena, Alemania e institutos de EE.UU. y dirigió el equipo de la Universidad de Ciencias Aplicadas de Periodismo y Administración de Medios en Viena hasta 2003. En 2005 fundó, junto a un grupo de profesionales, la consultora [Medienhaus Wien](http://www.mhw.at/). Forma parte del Consejo Asesor Científico de una de las principales revistas de lengua alemana sobre ciencia política. Desde 2016, dirige el proyecto de investigación "Periodismo en transición" de la Academia de Ciencias de Austria. Es Premio Estatal de Periodismo de Educación y Premio de Periodismo del Ministerio de Asuntos Familiares de Austria, y colaborador de la Universidad Miguel Hernández.

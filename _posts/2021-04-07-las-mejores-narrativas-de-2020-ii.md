@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Esta segunda entrega sobre las mejores narrativas de 2020 se centra en los formatos basados en noticias e investigaciones periodísticas. Tras [la primera entrega sobre las narrativas relacionadas con la Covid-19](https://mip.umh.es/blog/2021/03/30/las-mejores-narrativas-de-2020-i/), seleccionamos once trabajos que destacan por su capacidad para adaptar la narración, el lenguaje y los recursos al contenido de la información. Se trata de piezas que ofrecen un recorrido explicativo sobre el asunto que investigan y desarrollan un trabajo creativo y con frecuencia innovador, que busca la complicidad del lector.

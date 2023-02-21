@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 Uno de los retos que nos plantemos desde el Máster de Innovación en Periodismo ([MIP](http://mip.umh.es)) es estimular la creación de proyectos periodísticos atractivos y viables en el sector de la **comunicación digital**. Durante el curso, trabajamos con el alumnado para **identificar espacios de oportunidad de negocio y diseñar, planificar, desarrollar y lanzar propuestas** adaptadas al contexto digital **con un modelo económico sostenible**, siempre con el asesoramiento de profesionales con experiencia y la referencia de otros casos de éxito.

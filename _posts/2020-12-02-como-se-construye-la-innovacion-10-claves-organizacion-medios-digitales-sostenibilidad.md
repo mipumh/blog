@@ -7,7 +7,7 @@ author:
   twitter: josvap
   gplus:  
   bio: Investigador Periodismo UMH
-  image: chema.jpg
+  image: chema.webp
   link: https://twitter.com/josvap
 ---
 La innovación en medios de comunicación se ha identificado habitualmente con la implementación de tecnologías emergentes. Sin embargo, [numerosos estudios](https://www.cogitatiopress.com/mediaandcommunication/article/view/2702/2702) han desmentido esta concepción tecno-determinista. **Los avances tecnológicos posibilitan y motivan la adopción de algunas iniciativas novedosas, pero existen otras muchas posibilidades** para mejorar los productos informativos que poco o nada tienen que ver con este factor. De hecho, el [Ranking de Innovación Periodística](http://mip.umh.es/ranking/ranking_innovacion_periodistica_14.pdf) publicado en 2015 por el [grupo de investigación GICOV](http://gicov.edu.umh.es/) de la UMH registraba que el 44,4 % de las innovaciones adoptadas por los medios españoles punteros no dependían en grado alguno de la tecnología.

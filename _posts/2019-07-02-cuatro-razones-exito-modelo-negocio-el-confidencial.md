@@ -7,7 +7,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.jpg
+  image: damaso.webp
   link: https://twitter.com/Monde97
 ---
 Que los medios deben repensar sus modelos de negocio no es ninguna novedad. Como [señala](https://medium.com/@DanielPublico/adi%C3%B3s-a-la-dictadura-del-click-as%C3%AD-cambiar%C3%A1-la-forma-de-analizar-las-audiencias-en-2020-a84833a0ba6e?postPublishedType=repub)[ Daniel Muñoz](https://twitter.com/DanielPublico?lang=es), jefe de Producto de El Confidencial, la huida del mercado publicitario hacia otras plataformas obliga a las empresas periodísticas a prestarle más atención que nunca a sus lectores. Pero esta nueva tendencia global hacia los modelos de pago de los usuarios puede suponer un giro al vacío si no se desarrolla un cambio global del modelo. 

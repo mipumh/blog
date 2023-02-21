@@ -8,7 +8,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Este libro reúne, por primera vez en nuestro país, **entrevistas a un amplio número de profesionales** a los que caracteriza el denominador común de ser innovadores. Son **expertos que colaboran en distintos módulos del Master de Innovación en Periodismo** o han participado en las Jornadas Internacionales de Periodismo en la Universidad Miguel Hernández. Si bien algunos ya han cambiado de ocupación, hemos mantenido el cargo que ocupaban en el momento de la entrevista. A todos ellos les agradecemos su inestimable colaboración.

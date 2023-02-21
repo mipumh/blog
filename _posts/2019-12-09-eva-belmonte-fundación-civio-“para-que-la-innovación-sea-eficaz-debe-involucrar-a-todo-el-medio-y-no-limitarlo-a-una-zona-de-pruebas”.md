@@ -8,7 +8,7 @@ author:
   twitter: LauraSB_7
   gplus:  
   bio: Periodismo UMH
-  image: benejama.jpeg
+  image: benejama.webp
   link: https://twitter.com/LauraSB_7
 ---
 **Eva Belmonte** (Elche, 1982), comenzó su andadura periodística en 2004 trabajando en la redacción del periódico El Mundo, tras licenciarse en la Universidad Autónoma de Barcelona (UAB). En 2012 creó la [Fundación Ciudadana Civio](https://civio.es/), de la que es co-directora. Además de ser experta en periodismo de análisis de datos, una de sus creaciones más sonadas es la del blog “[El BOE nuestro de cada día](https://civio.es/el-boe-nuestro-de-cada-dia/)”, en el que desencripta y explica las decisiones más cruciales del gobierno español que se encuentran en el Boletín Oficial del Estado. Autora de “[Españopoly. Cómo hacerse con el poder en España (o, al menos, entenderlo)](https://españopoly.com/)”, muestra de forma transparente los juegos de poder en los altos cargos del país. Su trayectoria también recoge la creación de “[Medicamentalia](https://medicamentalia.org/)” y “[El indultómetro](https://civio.es/el-indultometro/)”. **Belmonte** es una apasionada del periodismo político, de las investigaciones en profundidad y del buen tratamiento de la información, por lo que ejerce un periodismo reivindicativo cuyo objetivo principal es el **servicio público y el derecho a la información** de los ciudadanos, valores que representa Civio. Imparte clase en el Máster en Innovación en Periodismo.

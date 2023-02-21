@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Los [newsgames están de moda](http://mip.umh.es/blog/2017/05/13/periodismo-gamificacion/). Los expertos consideran que si se emplea adecuadamente, la gamificación puede fidelizar a los usuarios, especialmente a los más jóvenes. Los niveles de gamificación varían en función de su complejidad, con formatos cada vez más versátiles. ¿Cómo están utilizando los medios la gamificación? Presentamos diez newsgames de diverso tipo que han sido exitosos.

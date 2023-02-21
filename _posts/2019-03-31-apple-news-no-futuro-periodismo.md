@@ -7,7 +7,7 @@ author:
   twitter: crms74
   gplus:  
   bio: Doctorando Periodismo UMH
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/applenews_0.jpg)

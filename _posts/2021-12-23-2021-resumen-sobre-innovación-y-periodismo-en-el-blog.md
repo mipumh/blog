@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Despedimos 2021 y hacemos un pequeño balance. El Máster en Innovación en Periodismo, impartido totalmente online, sigue creciendo y consolidándose por noveno año consecutivo. La promoción de este curso está compuesta por 32 profesionales procedentes de seis países. Entre ellos, once periodistas argentinos y chilenos becados por Google News Initiative. También incorporamos nuevas metodologías docentes en el Máster, como los estudios de caso, y colaboramos en el [I Premio Vicente Verdú de Periodismo e Innovación](https://mip.umh.es/blog/2021/11/26/reportaje-visual-contagia-covid-aire-Vicente-Verdu/), dotado con 6.000 euros. En 2022 habrá una segunda edición del premio. Si te interesan estos temas, aquí encontrarás una selección de los artículos publicados durante estos meses. ¡Te deseamos lo mejor para el año que comenzamos!

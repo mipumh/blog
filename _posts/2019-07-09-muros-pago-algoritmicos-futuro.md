@@ -6,7 +6,7 @@ author:
   twitter: crms74
   gplus:  
   bio: Doctorando Periodismo UMH
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 Cada vez más medios de comunicación cobran por el acceso a sus contenidos. En todos los mercados del mundo. Y, mientras crece la oferta de contenidos de pago, se incrementa la competencia. Cada vez es más difícil captar la atención de los lectores y, sobre todo, convertirlos en suscriptores. Este caldo de cultivo ha provocado que medios como el Wall Street Journal, que ya fue pionero en la apuesta por el muro de pago, diseñen algoritmos para ofrecer la suscripción perfecta en el momento adecuado: ese en el que un lector, casi con toda seguridad, verá con buenos ojos pagar por lo que va a recibir a cambio. Se avecina una etapa de muros de pago dinámicos, adaptativos o algorítmicos. Incluso el nombre va a gusto del consumidor.

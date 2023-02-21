@@ -7,7 +7,7 @@ author:
   twitter: mariaComin 
   gplus:  
   bio: Investigadora GICOV
-  image: maria-comin.jpg
+  image: maria-comin.webp
   link: https://twitter.com/mariaComin
 ---
 El [estudio](http://www.apmadrid.es/noticias/generales/nuevos-medios-lanzados-por-periodistas?Itemid=209) elaborado por la [Asociación de la Prensa de Madrid](https://twitter.com/aprensamadrid) contabiliza **579 nuevos medios y proyectos periodísticos** lanzados entre 2008 y 2015 . Sin embargo, emprender un medio de comunicación no resulta sencillo. Se trata de un proceso con retos complejos, a los que hay que buscar respuestas, incluso antes del nacimiento del proyecto: qué modelo de negocio se desarrollará, cómo se organizarán los equipos, y cuál será la piedra angular del medio, ¿el contenido o la tecnología?

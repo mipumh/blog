@@ -7,7 +7,7 @@ author:
   twitter: MeryDuranRuiz
   gplus:  
   bio: Periodismo UMH
-  image: duran.jpg
+  image: duran.webp
   link: https://twitter.com/MeryDuranRuiz
 ---
 [Eduardo Suárez](https://es.linkedin.com/in/eduardo-suarez-20a3a517) (León, 1979) ha sido corresponsal en Londres y Nueva York. Co-fundador de [Politibot](https://politibot.io/) y [El Español](http://www.elespanol.com/), ha trabajado para medios como [El Mundo](http://www.elmundo.es/) y [Univisión](http://www.univision.com/). En abril de 2014 puso en marcha, junto a María Ramírez, el blog [No hace falta papel](https://nohacefaltapapel.com/) sobre innovación y tendencias periodísticas. Además, Suárez ha recibido el prestigioso **Premio García Márquez de Periodismo** (2014) por un reportaje [publicado en El Mundo ](http://www.elmundo.es/television/2014/10/02/542ca9ebe2704eb2458b4595.html) sobre el 25 aniversario del Exxon Valdez. Ha impartido un taller en el Máster de Innovación en Periodismo.

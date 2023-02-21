@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 ¿Qué influencia tiene la **hipertextualidad** en los contenidos, la producción y la recepción de información de actualidad? Es lo que ha medido el periodista y coordinador del **Máster en Innovación en Periodismo** [(MIP)](http://mip.umh.es) de la [Universidad Miguel Hernández de Elche](http://www.umh.es) [Félix Arias Robles](https://twitter.com/flxarias) en su tesis doctoral _El hipertexto periodístico. Influencia del enlace en el mensaje, el emisor y el receptor de información_.

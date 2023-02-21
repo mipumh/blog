@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Tras más de una década, los laboratorios de medios -salvo excepciones- [presentaban síntomas de agotamiento](https://mip.umh.es/blog/2020/11/03/laboratorios-de-innovacio-n-medios-transformacion-modelo/) por considerarse un modelo que tendía a desarrollar la innovación en silos aislados, al margen del resto de la redacción, con escasa influencia en los resultados de la empresa periodística. Sin embargo, en los últimos años han surgido media labs concebidos como unidades experimentales, con productos y herramientas que sirven de banco de pruebas para el periodismo en cuanto a formatos, tecnologías y audiencias. En especial entre los medios de servicio público europeos, los labs de segunda generación vuelven a estar en auge.
