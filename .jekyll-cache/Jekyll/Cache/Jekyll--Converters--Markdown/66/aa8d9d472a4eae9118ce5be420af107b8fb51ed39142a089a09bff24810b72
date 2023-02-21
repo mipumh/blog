@@ -1,0 +1,52 @@
+I"K'<p>“Los <em>chatbots</em> no van a acabar con el periodismo”, decía <a href="https://twitter.com/mcrosasb?lang=es">María Crosas</a> en una entrevista para este <a href="http://mip.umh.es/blog/2017/05/27/chatbots-periodismo/">blog del MIP</a>. Un año después, no habla de avance tecnológico sino de herramienta periodística para cubrir necesidades informativas. Esta experta en chatbots ha impartido una sesión en el <a href="https://twitter.com/mipumh?lang=es">Máster en Innovación en Periodismo</a> de la Universidad Miguel Hernández de Elche.</p>
+
+<p><strong>Pregunta. Los <em>chatbots</em> son asistentes virtuales que simulan una conversación, ¿cuánto han avanzado desde que empezaron a funcionar?</strong></p>
+
+<p><strong>Respuesta.</strong> A partir de 2016, cuando <em>Facebook Messenger</em> anunció que abría su plataforma para crear <em>chatbots</em>, todo el mundo se lanzó, desde medios de comunicación a empresas que querían conocer cómo funcionaban. Lo primero que salió fueron cuentas que publicaban noticias en las webs, que solamente utilizaban el <em>chatbot</em> como canal alternativo de difusión de noticias. Esto fue lo primero que salió. Ahora, lo que estamos viendo es la utilización de <em>chatbots</em> como entrada de noticias o <em>chatbots</em> que simulan a personas. Entonces, ya no es un canal de difusión sino un canal particular para llegar a un público determinado y, a veces, para poner contenido que no te cabe en la web o que utilizas para experimentar con un público joven. Con ello, los <em>chatbots</em> han pasado de ser un canal de noticias a un canal de contenido propio.</p>
+
+<p><strong>P. ¿Tratan de satisfacer una necesidad informativa o son parte del avance tecnológico?</strong></p>
+
+<p><strong>R. Los <em>chatbots</em> pasaron de ser un avance tecnológico a cubrir una necesidad informativa</strong>. Básicamente hemos pasado de analizar esta extensión de la tecnología, para ver cómo funcionaba, a ver cómo se puede aplicar a casos concretos de necesidades, contenido o incluso audiencias. Al final el público que utiliza <em>apps</em> de mensajería es muy amplio, pero los que tan solo quieren utilizar este canal son menos. Se reduciría a los <em>millenials</em> o la generación Z.</p>
+
+<p><img src="{{ site.baseurl }}/images/shots/crosas_0.jpg" alt="image alt text" /></p>
+
+<p><strong>P. Tanto para los usuarios como para los medios, ¿qué oportunidades y desventajas prestan los <em>chatbots</em>?</strong></p>
+
+<p><strong>R.</strong> La principal ventaja de hablar con el <em>chatbot</em> es que lo puedes hacer a cualquier hora y desde cualquier sitio, por lo que, solo necesitas un móvil con conexión a Internet. En este sentido, creo que hemos ganado y sobre todo el usuario, por la <strong>comodidad de acceder desde donde quiera</strong>. En cuanto a las desventajas, podría decir que a veces los <em>chatbots</em> son un poco agresivos, un poco robóticos. Todavía <strong>no están acostumbrados a entender el lenguaje humano</strong>, y aunque nos estamos aproximando cada vez más a veces no es capaz de responder. El usuario entonces se frustra cuando contesta: “Lo siento no te he entendido”.</p>
+
+<blockquote>
+  <p>“La principal ventaja de hablar con el chatbot es que lo puedes hacer a cualquier hora y desde cualquier sitio”</p>
+</blockquote>
+
+<p><strong>P. Este asistente virtual emite respuestas prediseñadas para consultas comunes de los usuarios. ¿Cómo funciona desde que el usuario inicia una conversación con el robot hasta que éste emite una respuesta?</strong></p>
+
+<p><strong>R.</strong> Depende de la tecnología que utilices. Pero, las más comunes que existen de Google, como <em>Dialogflow</em>, <em>Chatfuel,</em> o <em>Wix</em>, que es <em>de Facebook</em>, lo que hacen es reconocer palabras clave y buscar sinónimos. Por ejemplo, si el usuario escribe “comprar café”, el <em>chatbot</em> identificará ‘comprar’ y café’. Si de otro modo, el usuario escribe “necesito café”, el ‘necesito’ lo asociará a ‘comprar’ y ‘café’. Entonces, <strong>reconoce palabra y en consecuencia responde otras automáticamente</strong>. Digamos que con unas palabras proceden unas respuestas concretas. Lo que ocurre es que a veces preguntamos de manera distinta y el <em>chatbot</em> te da una contestación que no corresponde. Aquí es cuando entra el entrenamiento del <em>chatbot</em>. Desde las cinco o seis frases, que es lo que se considera como mínimo, hay que ampliar a cien o doscientas a través del entrenamiento manual.</p>
+
+<p><img src="{{ site.baseurl }}/images/shots/crosas_1.jpg" alt="image alt text" /></p>
+
+<p><strong>P. ¿De qué manera se mide la rigurosidad informativa de las respuestas de los chatbots?</strong></p>
+
+<p><strong>R.</strong> Por ejemplo, en <a href="https://politibot.io/">Politibot</a> son los mismos periodistas los que entran en contenido con el editor y luego alguien lo verifica antes de que se publique. Por otro lado el funcionamiento más común sería: el <em>chatbot</em> filtraría la información a partir de la base de datos, de noticias que se han publicado. Esta sería una primera aproximación pero creo que finalmente es necesario un humano para que termine de verificarlo. Por lo que pienso que los <em>bots</em> son importantes para hacer el primer filtro.  Actualmente, están funcionando mucho los <em>FAQ: Frequently Asked  Questions</em>  de las webs. Esto funciona como un primer filtro y cuando el usuario no se queda satisfecho, repregunta o busca a un humano. Pero en este caso funciona positivamente para atender a las personas que se quedan satisfechas, que suelen ser el 60 o 70%.</p>
+
+<p><strong>P.<em>Quakebot</em> es el robot periodista de <em>Los Angeles Times</em>. Éste escribe noticias y es tarea de los editores decidir cuáles son más importantes. ¿Cómo conviven periodistas reales y virtuales en la redacción de un medio?</strong></p>
+
+<p><strong>R.</strong> Una de las funciones del <em>chatbot</em> es ayudar a los periodistas: hace un filtro de la información que entra y el periodista selecciona y prepara para los usuarios. Esta es una de las opciones que <strong>no se está experimentando</strong> demasiado, es decir, <strong>cómo pueden colaborar con la labor del periodista</strong>. Otra de las implementaciones, que utiliza por ejemplo <em>The Washington Post</em>, es que mientras el periodista escribe noticias, un algoritmo de inteligencia artificial (un <em>bot</em>) te sugiere noticias relacionadas que se han escrito en este mismo medio. De este modo el usuario no tiene que buscar la información y ahorra tiempo.</p>
+
+<blockquote>
+  <p>“Una de las funciones del chatbot es ayudar a los periodistas: hace un filtro de la información que entra y el profesional selecciona y prepara para los usuarios”</p>
+</blockquote>
+
+<p><strong>P. José Manuel Rodríguez, consultor de medios sociales, en una entrevista para este blog apuntaba lo siguiente: “La tecnología en los medios está verde y por otro lado los usuarios no están muy predispuestos a utilizar estas herramientas”. ¿Qué limitaciones tienen los chatbots que se desarrollan hoy en día?</strong></p>
+
+<p><strong>R.</strong> Las limitaciones están, en primer lugar, en que el usuario no sepa qué es un <em>chatbot</em>. Pienso que si un medio lo lanza, debe entrenar al consumidor. Es decir, publicar que ha creado esa herramienta que puede hacer tales funciones, y explicarlas. De este modo, si el usuario sabe cómo interactuar con el <em>chatbot</em>, puede ser beneficioso para el medio porque se está dando a conocer. Actualmente, uno de los problemas de los medios es que lanzan un <em>bot</em> para toda la audiencia. Se debe buscar un público específico. Hay <em>bots</em> que solo son para personas que padecen cáncer. De esta manera lo que el contenido es determinado y de calidad, porque todo el esfuerzo se concentra en una temática.</p>
+
+<p><strong>P. El usuario medio no está familiarizado con esta herramienta, ¿cómo pueden los medios facilitar su aceptación?</strong></p>
+
+<p><strong>R.</strong> Es complicado pero lo principal sería hacer artículos explicativos, con ejemplos de <em>chatbots</em> que han funcionado. Y sobre todo: probar y experimentar. Al final el usuario tiene que tratar esta herramienta. Por su parte los medios de comunicación deben lanzar y probar durante un tiempo determinado, para conocer lo que funciona y poner esfuerzo en ello.</p>
+
+<p><img src="{{ site.baseurl }}/images/shots/crosas_2.jpg" alt="image alt text" /></p>
+
+<p><strong>P. ¿Cuáles considera que son chatbots de referencia, tanto en España como a nivel internacional?</strong></p>
+
+<p><strong>R.</strong> Univision lanzó uno conocido como “Detector de mentiras” que era muy interesante porque tenía un factor de gamificación muy potente. Se formulaba una pregunta al usuario bajo el planteamiento de si era verdad o mentira. El usuario jugaba de alguna manera. Por otro lado, <em>The Guardian</em> hizo un <em>chatbots</em> de recetas, llamado <em><a href="https://www.theguardian.com/technology/2016/jun/09/meet-our-experimental-guardian-sous-chef-facebook-messenger-bot">Sous-Chef</a></em>,  con el objetivo de conocer la reacción de la audiencia a esta nueva tecnología. La respuesta fue positiva y entonces empezaron a utilizarlo en cuestiones más rigurosas como la política o del medio de comunicación en sí. Durante las elecciones, tanto en España como en América, <em>Politibot</em> estuvo cubriendo ambas. Y si te tengo que contestar con uno en concreto te diría este, porque te da <strong>contenido específico que no encuentras en la web.</strong> Además, tiene una actitud activa, es decir, el usuario no inicia la conversación sino que lo hace el <em>chatbot</em>. También se crearon varios <em>bots</em> específicos sobre Trump en <em>Telegram</em>. Otro ejemplo es el de <em>El Confidencial</em> que tiene uno dedicado a noticias, también en <em>Telegram</em>.</p>
+:ET

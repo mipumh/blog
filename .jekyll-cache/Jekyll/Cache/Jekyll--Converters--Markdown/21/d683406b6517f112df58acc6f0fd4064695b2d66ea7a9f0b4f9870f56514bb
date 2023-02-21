@@ -1,0 +1,70 @@
+I"E5<p>2021 ha sido un año de consolidación del storytelling que explota al máximo el lenguaje de internet. Destacan los atributos de la imagen y del video que apelan al usuario mediante propuestas dotadas de gran fuerza visual. Desde los gráficos sobre el Covid-19 hasta los mapas que describen el cambio climático, pasando por las explicaciones de los avances tecnológicos o las crónicas sobre las tragedias. Un gráfico o una imagen pueden valer más que mil palabras. Y en estos tiempos, valen mucho más. Medios de todo el mundo usan narrativas que incorporan eficazmente elementos informativos, inmersivos, argumentativos e interpretativos. En esta primera entrega de la serie selecciono 11 trabajos.</p>
+
+<p><img src="/blog/images/shots/las-mejores-narrativas-de-2021.jpg" alt="" /></p>
+
+<p><img src="/blog/images/shots/1tiktok-wsj.jpg" alt="" /></p>
+
+<h3 id="investigation-how-tiktoks-algorithm-figures-out-your-deepest-desires--the-wall-street-journal"><a href="https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796">Investigation: How TikTok’s Algorithm Figures Out Your Deepest Desires</a> | <strong>The Wall Street Journal</strong></h3>
+
+<p>Un equipo de The Wall Street Journal creó docenas de cuentas automatizadas y visionó cientos de miles de vídeos para revelar cómo esta red social seduce a los usuarios. Los reporteros descubrieron que la experiencia de TikTok comienza del mismo modo, con vídeos que tienen millones de visitas. La aplicación toma nota de las señales sutiles, como el tiempo que permaneces en un vídeo, para centrarse en lo que realmente quieres ver. Después los vídeos se vuelven menos convencionales y más perturbadores. Los periodistas concluyen que TikTok sólo necesita un dato clave para averiguar lo que quieres: el tiempo que te quedas mirando un contenido. Impresionante trabajo de investigación con una excelente factura multimedia.</p>
+
+<p><img src="/blog/images/shots/2españa-pisos-diario.jpg" alt="" /></p>
+
+<h4 id="españa-vive-en-pisos-por-qué-hemos-construido-nuestras-ciudades-en-vertical-eldiarioes"><a href="https://especiales.eldiario.es/espana-vive-en-pisos/">España vive en pisos: por qué hemos construido nuestras ciudades en vertical</a>| <strong>Eldiario.es</strong></h4>
+
+<p>Gran reportaje de Raúl Sánchez González y Analía Plaza, quienes llevaron a cabo un trabajo exhaustivo de recopilación y mapeo de los datos catastrales sobre los edificios de 7.610 municipios en toda España (salvo Euskadi y Navarra). En total, más de 100GB de información. El usuario puede consultar su ciudad en el mapa, explorar cómo se han desarrollado en vertical y horizontal las urbes españolas y compartir los resultados con una proyección en 3D. Excelente análisis del Big Data y una visualización de los datos muy eficaz. Emplearon Scrollama, Javascript y D3 para la web y los gráficos, Tippecanoe para optimizar los archivos y Mapbox para mapear las alturas de los edificios.</p>
+
+<p><img src="/blog/images/shots/3emotion-business-financial-times.jpg" alt="" /></p>
+
+<h3 id="the-emotion-business-how-companies-are-learning-to-read-your-mind-financial-times"><a href="https://ig.ft.com/emotion-recognition/">The emotion business. How companies are learning to read your mind</a>| <strong>Financial Times</strong></h3>
+
+<p>Este espectacular interactivo muestra cómo las empresas están aprovechando el aprendizaje automático para predecir los sentimientos humanos en tiempo real. La tecnología de reconocimiento de las emociones se utiliza para rastrear desde las preferencias por las mascotas hasta las inclinaciones políticas o sentimentales de una persona. Con la cámara del móvil o del ordenador, el usuario puede experimentar el impacto de una herramienta que rastrea las expresiones faciales. La tecnología no está exenta de problemas ya que puede fomentar los prejuicios culturales, emplearse de forma abusiva por los gobiernos autoritarios y propagar la desinformación.</p>
+
+<p><img src="/blog/images/shots/elconfidencial-erasmus.jpg" alt="" /></p>
+
+<h3 id="erasmus-a-dos-velocidades-el-confidencial"><a href="https://www.elconfidencial.com/mundo/europa/2021-12-28/erasmus-dos-velocidades-programa-ue-desigualdad_3348913/">Erasmus a dos velocidades</a>| <strong>El Confidencial</strong></h3>
+
+<p>Este reportaje del equipo de diseño y de datos de El Confidencial, pilotado por Marta Ley, analiza minuciosamente la oferta de más de 200.000 becas Erasmus, un programa que pinta muy bien, pero que no es suficiente para superar las desigualdades económicas entre países y familias. El usuario puede acceder a ejemplos concretos con una calculadora y comparar ciudades y precios. La conclusión es que el reparto y acceso desigual a las becas <em>Erasmus</em> genera una brecha social. Los datos del programa Erasmus+ están extraídos de data.europa.eu, con la información del campo de estudio, nivel educativo, duración del periodo de movilidad, instituciones emisoras y receptoras y sus respectivas ciudades. El equipo cruzó los datos de los intercambios con el promedio en porcentaje del PIB (paridad de poder adquisitivo por habitante, PPA) publicado por Eurostat. Una vez geolocalizadas las ciudades y vinculadas con su respectiva región, las cruzaron con los datos de PPA de Eurostat, para subrayar las desigualdades económicas al acceder al programa Erasmus.</p>
+
+<p><img src="/blog/images/shots/5money-to-burn.jpg" alt="" /></p>
+
+<h3 id="money-to-burn-vpro-y-otros-ocho-medios-países-bajoseuropa"><a href="https://www.vpro.nl/argos/lees/onderwerpen/money-to-burn/interactive.html">Money to burn</a>| <strong>VPRO y otros ocho medios (Países Bajos/Europa)</strong></h3>
+
+<p>Money to Burn es una investigación elaborada por un equipo de 16 periodistas y 8 medios europeos, dirigida por Argos y VPRO (Radiodifusión pública de Países Bajos) y financiada por Investigative Journalism for Europe. Durante tres meses, el equipo transfronterizo investigó todo lo relacionado con el comercio de la biomasa, desde las subvenciones hasta las certificaciones, pasando por el lobby europeo. La investigación surge con la filtración de que Estonia exportaba casi todas sus maderas al extranjero, con un impacto cada vez mayor en los bosques del país. Cada reportero y cada redacción participante utilizaron una plataforma de código abierto diseñada para compartir las investigaciones, las transcripciones de entrevistas y todos los datos. En la fase final del proyecto, un equipo reducido se reunió en Tallin (Estonia) para corroborar lo que se podía ver mediante imágenes por satélite con los reportajes sobre el terreno y colaborar con varios diseñadores y cineastas locales para contar la historia en un sprint de cinco días.</p>
+
+<p><img src="/blog/images/shots/6riders-rtve-lab.jpg" alt="" /></p>
+
+<h3 id="rider-por-un-día--rtve-lab"><a href="https://lab.rtve.es/lab/trabajar-rider/">Rider por un día</a> | RTVE Lab</h3>
+
+<p>Este proyecto transmedia del Lab de RTVE aborda la situación laboral de los repartidores de comida a domicilio, mostrando de forma muy directa cómo trabajan. Los ingresos de los riders están condicionados por múltiples variables: las horas de trabajo, el medio de transporte o la ubicación. El reto: ¿serías capaz de ganar el Salario Mínimo trabajando como rider? Mediante un simulador, el usuario puede vivir las duras condiciones laborales de estos trabajadores precarios. Para crear esta experiencia inmersiva, el equipo del Lab se basó en el funcionamiento de varias aplicaciones de reparto. La simulación permite realizar cuatro entregas, siguiendo las instrucciones de Bobby, el implacable algoritmo de la empresa Pillaloo: “Yo voy a valorar tu trabajo y de mí depende cuánto cobras y en qué horarios puedes trabajar. Así que te conviene tenerme contento”. Coordinado por César Peña, con textos de Paloma Torrecillas, y diseño y tecnología del Lab.</p>
+
+<p><img src="/blog/images/shots/7fortress-europe-telegraph.jpg" alt="" /></p>
+
+<h3 id="fortress-europe-how-1800km-of-walls-and-fences-are-keeping-desperate-migrants-out-the-telegraph"><a href="https://www.telegraph.co.uk/global-health/fortress-europe-borders-wall-fence-controls-eu-countries-migrants-crisis/">Fortress Europe: How 1,800km of walls and fences are keeping desperate migrants out</a>| <strong>The Telegraph</strong></h3>
+
+<p>Europa se enorgullece de defender la libertad de circulación, pero los países de la zona están fortificando cada vez más las fronteras y ampliando las barreras. The Telegraph (Reino Unido) publicó este extenso reportaje que documenta los muros construidos en Europa desplegando seguridad de alta tecnología (cámaras, cañones de sonido y sensores térmicos) a lo largo de las fronteras, con el objetivo de mantener fuera a los inmigrantes. Analizando un gran volumen de datos de los registros públicos e informes gubernamentales, el Telegraph revela que existen unos 1.800 kilómetros de muros y vallas construidos o en construcción en las fronteras europeas. Equivalen a la longitud de 12 Muros de Berlín.</p>
+
+<p><img src="/blog/images/shots/8afghanistan20-years-of-war.jpg" alt="" /></p>
+
+<h3 id="afghanistan-visualising-20-years-of-war-aljazeera"><a href="https://interactive.aljazeera.com/aje/2021/afghanistan-visualising-impact-of-war/index.html">Afghanistan, visualising 20 years of war</a>| <strong>AlJazeera</strong></h3>
+
+<p>La retirada de Estados Unidos de Afganistán y la posterior toma del país por los talibanes fue una de las noticias más importantes de 2021. Este interactivo de Al-Jazeera aborda el lado humano de los datos en este acontecimiento histórico, junto con otras historias visuales, vídeos y reportajes. Mohammed El-Haddad, editor interactivo de Al Jazeera, explica: “La parte más difícil fue conseguir datos de las 34 provincias de Afganistán para captar con la mayor precisión lo que 20 años de guerra hicieron al pueblo afgano. La columna vertebral del reportaje eran ocho infografías; cada una examinaba un aspecto del sufrimiento humano como resultado de décadas de guerra. Estos gráficos van desde la cuantificación del coste humano de la guerra, pasando por el resumen de la historia y la geografía del conflicto, hasta el desglose del coste económico”. El-Haddad usó Tabula para extraer datos de los documentos PDF; Google Sheets para la limpieza y el análisis de los datos; y Adobe Illustrator para presentarlos.</p>
+
+<p><img src="/blog/images/shots/9-zona-cero-el-mundo.jpg" alt="" /></p>
+
+<h3 id="la-zona-cero-veinte-años-después--el-mundo"><a href="https://lab.elmundo.es/11S-aniversario/world-trade-center.html"><strong>La ‘Zona Cero’ veinte</strong> años después</a> <strong>| El Mundo</strong></h3>
+
+<p>Formidable trabajo de infografía, coordinado por Virginia Hernández, que reconstruye la secuencia cronológica de los atentados del 11-S y muestra el estado de la ‘Zona Cero’ del World Trade Center cuando se cumplieron 20 años de la tragedia. Se trata de una valiosa tarea documental y un minucioso tratamiento de la información que muestra cómo las heridas de aquellos días siguen siendo visibles en suelo estadounidense después de dos décadas. Esta pieza se complementa con otra que incluye imágenes de Josetxu Piñeiro y desarrollo de María Vega Martín que analiza las consecuencias de los atentados: <a href="https://lab.elmundo.es/11S-aniversario/index.html">11-S: Cuando el mundo cambió</a>.</p>
+
+<p><img src="/blog/images/shots/10-11s-tve.jpg" alt="" /></p>
+
+<h3 id="especial-20-aniversario-del-11-s--rtve"><a href="https://www.rtve.es/noticias/especial-aniversario-11s/">Especial 20 Aniversario del 11-S</a> | RTVE</h3>
+
+<p>RTVE.es lanzó un <em>site</em> dedicado al aniversario del mayor atentado de la historia en suelo estadounidense, que conmocionó al país con unas imágenes que simbolizaron de forma trágica el comienzo de siglo y marcaron a una generación. El terrorismo se convirtió en la gran amenaza mundial y su huella ha impactado en las estrategias nacionales, las alianzas internacionales y la sociedad. El formato incluye una espectacular visualización interactiva que reconstruye minuto a minuto cómo fueron los atentados, así como un repaso de la evolución del terrorismo islamista y reportajes sobre cómo ha cambiado el mundo.</p>
+
+<p><img src="/blog/images/shots/inside-xinjiang-the-new-yorker.png" alt="" /></p>
+
+<h3 id="inside-xinjiangs-prison-state-the-new-yorker"><a href="https://www.newyorker.com/news/a-reporter-at-large/china-xinjiang-prison-state-uighur-detention-camps-prisoner-testimony">Inside Xinjiang’s Prison State</a>| <strong>The New Yorker</strong></h3>
+
+<p>Esta investigación aborda de forma inmersiva la crisis de los derechos humanos en Xinjiang, donde el gobierno chino ha llevado a cabo lo que su autor, el periodista Ben Mauk, describe como “probablemente el mayor internamiento de minorías étnicas y religiosas desde la Segunda Guerra Mundial”. Pocas personas de fuera han visto fotos o vídeos del interior de los “centros de reeducación” de Xinjiang. El formato ilustra visualmente los raros testimonios personales y los relatos de los testigos. El dibujante Matt Huynh emplea diversas técnicas con gran fuerza visual, como la animación mediante lápiz y pincel, así como secuencias animadas en 360º y Realidad Virtual. Además, incluye el documental “Reeducated” con testimonios de algunas víctimas de los campos de internamiento chinos.</p>
+:ET

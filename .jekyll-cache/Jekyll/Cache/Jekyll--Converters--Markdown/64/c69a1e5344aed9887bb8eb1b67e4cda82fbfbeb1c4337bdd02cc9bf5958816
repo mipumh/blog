@@ -1,0 +1,211 @@
+I"QW<p>Llevaba años alimentándose y unos cuantos meses engordando vertiginosamente. Pero <a href="https://twitter.com/sama/status/1598038815599661056">el 30 de noviembre de 2022</a> se produjo una explosión. No será la última ni la más potente, pero esta primera gran onda expansiva de la IA ha tambaleado casi todo. </p>
+
+<p><img src="{{ site.baseurl }}/images/shots/analog.png" alt="" /></p>
+
+<p>En unas pocas semanas, se han visto llamas más allá de Orión: curtidos reporteros <a href="https://twitter.com/NachoCarretero/status/1598826164839411712">asomándose a una nueva era</a>, medios de alta cultura futbolística <a href="https://twitter.com/RevistaPanenka/status/1603003591547043844">jugando con la generación de imágenes</a> y expertos analistas <a href="https://twitter.com/kikollan/status/1603691724299288577">midiendo el límite entre el peligro y la utilidad</a>. Tenemos a reputados profesores avanzándose al futuro de <a href="https://twitter.com/miguelenlared/status/1604885378468454400">los trabajos de estudiantes</a>, <a href="https://twitter.com/mcarvajal_/status/1603137114702594049">la edición de textos</a>, <a href="https://twitter.com/lcodina/status/1600902904944427010">la docencia con IA</a>, la <a href="https://twitter.com/jagaraviles/status/1599689667040841729">destrucción de puestos de trabajo</a> o <a href="https://twitter.com/mcarvajal_/status/1599731992232226816">la escritura académica</a>. Algunos, incluso <a href="https://twitter.com/emollick/status/1603495517933166608">con papers creados en pocos días</a> (probablemente con IA).</p>
+
+<p>Dejemos a un lado ChatGPT. Lo explica con claridad <a href="https://openai.com/blog/chatgpt/">la propia OpenAI</a> (como ya hizo con <a href="https://openai.com/blog/webgpt/">WebGTP</a>, la versión ajustada de <a href="https://openai.com/blog/openai-api/">GPT-3</a>). Lo han <a href="https://kozyrkov.medium.com/introducing-chatgpt-aa824ad89623">desmitificado</a> con acierto, han profundizado en sus <a href="https://twitter.com/alliekmiller/status/1602745470584967170">aplicaciones concretas</a>, en las <a href="https://twitter.com/BrianFOConnor/status/1603032904132694019">disrupciones en diferentes sectores</a> y en <a href="https://twitter.com/loogic/status/1601120992415592448">los usos más ingeniosos</a>. Aunque creo que la visión más completa la ha vuelto a dar <a href="https://www.youtube.com/watch?v=ndT-3ACvnsQ">Carlos Santana</a> (para variar), justo antes de repasar <a href="https://www.youtube.com/watch?v=rKJdwLkPPPM">los hitos de la IA en 2022</a>.</p>
+
+<p>Aquí desplegamos unos cuantos recursos (unos cuantos basados en GPT) que nos conviene conocer. Lo clasificaremos en cuatro grandes formatos (texto, audio, imagen y vídeo) y un cajón de sastre. Vamos allá.</p>
+
+<p><img src="https://lh4.googleusercontent.com/sYDLtWLHqHaUtga0euQVt4AB618jMcaNWn0jvo8YwAWU-qaK27dVjsccDgtl5Stn34hXxq6S44GlwktlKwYJF1RAIoRTjL7D_wzlakoUCzX1KAt4et4fXzC3Tju87Rbe4BooOg_MZnawH0GxHeAF9N3Wzxh1HOyVNz7npfUF3Em_jaNnnUM_vc-khE7nVw" alt="" /></p>
+
+<h3 id="texto">Texto</h3>
+
+<p>1. <a href="https://tweethunter.io/">Tweet Hunter</a>, una herramienta para recoger ideas, escribir mejores hilos, automatizar publicaciones y analizar datos de Twitter. </p>
+
+<p>2. <a href="https://taplio.com/">Taplio</a>, en la misma línea, pero para Linkedin.</p>
+
+<p>3. <a href="https://rytr.me/">Rytr</a>, también parecida, aunque especializada en la redacción de correos electrónicos.</p>
+
+<p>4. <a href="https://www.jasper.ai/">Jasper</a>, con funciones similares, pero para casi todo: diversas redes sociales, blogs, correos…</p>
+
+<p>5. <a href="https://www.gomoonbeam.com/">Moonbeam</a>, su gran competencia.</p>
+
+<p>6. <a href="https://www.wordtune.com/">Wordtune</a>, también en la misma dirección.</p>
+
+<p>7. <a href="https://www.grammarly.com/">Grammarly</a>, el decano de todo esto. Comenzó nada menos que en 2009 para ayudar a escribir en inglés. La incorporación de la IA vino mucho después.</p>
+
+<p>8. <a href="https://lex.page/">Lex</a>, pensado para escribir textos más largos. Hay lista de espera y tengo 5 invitaciones… De verdad que no lo he usado para ésto…</p>
+
+<p>9. <a href="https://www.frase.io/">Frase</a>, con unas funcionalidades similares, aunque centrado en el SEO.</p>
+
+<p>10. <a href="https://www.copy.ai/">Copy</a>, otra alternativa más para el posicionamiento de textos.</p>
+
+<p>11. <a href="https://www.peppertype.ai/">Peppertype</a>, la última de este tipo. Me dejo unas cuantas en el tintero porque son muy parecidas (al menos, para mí). No es de extrañar que el sector del SEO sea de los que más está <a href="https://twitter.com/hello_google/status/1612544862578147329">debatiendo sobre los límites y las consecuencias</a> de la IA.</p>
+
+<p>12. <a href="https://chrome.google.com/webstore/detail/tweetgpt/lkjblpoingopdeaofcaapmeoojjjnhnc">TweetGPT</a>, una extensión de Google Chrome para escribir tuits.</p>
+
+<p>13. <a href="https://github.com/gragland/chatgpt-chrome-extension">Gragland</a>, otra extensión de Chrome, pero esta vez para integrar ChatGPT en cualquier web. Requiere una muy pequeña dosis de código. </p>
+
+<p>14. <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf">ChatFPT for Google</a>. El nombre lo dice casi todo: otra extensión de Chrome para dopar el buscador.</p>
+
+<p>15. <a href="https://github.com/liady/ChatGPT-pdf">ChatGPT-pdf</a>, una nueva extensión, esta vez para convertir en PDF una conversación.</p>
+
+<p>16. <a href="https://github.com/f/awesome-chatgpt-prompts?ref=allthingsai">Awesome ChatGPT Prompts</a>, un repositorio de frases para mejorar la interacción con esta IA. Quizás una de nuestras grandes obsesiones en poco tiempo.</p>
+
+<p>17. <a href="https://supernormal.com/">Supernormal</a>, una plataforma que te ayuda a tomar notas en reuniones.</p>
+
+<p>18. <a href="https://github.com/features/copilot">Copilot</a>, el asistente para programar más extendido, fruto de la alianza de OpenAI y Github.</p>
+
+<p>19. <a href="https://theaiplayground.com/blocks/new">AI Playground</a>, una especie de editor por bloques para trastear con la programación. </p>
+
+<p>20. <a href="https://chatbotkit.com/">Chatboktkit</a>, un generador de bots basados en IA.</p>
+
+<p>21. <a href="https://www.obviously.ai/">Obviously</a>, un desarrollador de modelos basados en IA enmarcado en el <a href="https://mip.umh.es/blog/2021/12/01/periodismo-no-code-herramientas-informacion-tecnologia-sin-programar/">movimiento no-code</a>.</p>
+
+<p>22. <a href="https://originality.ai/">Originaliy</a>, un detector de contenido generado con IA. Una buena promesa para los que corregimos textos, pero todavía <a href="https://twitter.com/seostratega/status/1602930143218966528">no tan efectiva más allá del inglés</a>. </p>
+
+<p><img src="https://lh5.googleusercontent.com/HP9z-HBsZBDmFkuhawF5C7tSgFcpZrMkOFKuhCin6wXjXemL1bHv1KQ00VQg5UzkxsUBSAuQPY3PY68rPFQS-Plunq_2nj5AyOVLduC_Y2Mc_ctI3ELubZphRQDZa4bqzjv_1clzla9NwtQ5BVubNR6OyJjE-kWfxioSypLO-LHQPIT-uDuzJ7estonZpQ" alt="" /></p>
+
+<h3 id="audio">Audio</h3>
+
+<p>23. <a href="https://openai.com/blog/whisper/">Whisper</a>, la herramienta open source de OpenAI para transcribir audio en una gran cantidad de idiomas y con tanta o más calidad que las mejores aplicaciones de pago. Requiere un poco de código, pero <a href="https://youtu.be/JuMEmF-2FsA?t=578">Santana lo explica muy bien en este breve tutorial</a>.</p>
+
+<p>24. <a href="https://www.assemblyai.com/">AssemblyAI</a>, bastante similar, pero con el extra de poder trabajar después el texto (resúmenes, detección de temas…)</p>
+
+<p>25. <a href="https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki">Prometheus</a>, una nueva extensión que permite introducir prompts a ChatGPT directamente con un micrófono. De momento, parece que funciona solo en inglés. Recuerda un poco a <a href="https://www.imdb.com/title/tt1798709/">Her</a>, ¿verdad?</p>
+
+<p>26. <a href="https://murf.ai/">Murfai</a>, un generador de audios a partir de texto, con diferentes voces y muy bien empaquetado.</p>
+
+<p>27. <a href="https://play.ht/">PlayHT</a>, en la misma línea y, al menos, con la misma buena pinta.</p>
+
+<p>28. <a href="https://www.narakeet.com/">Narakeet</a>, algo similar, aunque más sencillo en apariencia.</p>
+
+<p>29. <a href="https://www.resemble.ai/">Resemble</a>, más o menos lo mismo.</p>
+
+<p>30. <a href="https://www.voicemod.net/">Voicemod</a>, una aplicación para modificar voces incluso en directo.</p>
+
+<p>31. <a href="https://github.com/SantiMA10/resumico">Resumico</a> (en desarrollo), un bot para WhatsApp que transcribe y resume audios. Confío en que será mi salvación.</p>
+
+<p>32. <a href="https://www.usesynth.com/">Synth</a>, un transcriptor especializado en aplicaciones de videoconferencia.</p>
+
+<p>33. <a href="https://www.riffusion.com/">Riffusion</a>, un generador de música (todavía experimental).</p>
+
+<p>34. <a href="https://soundraw.io/">Soundraw</a>, otro asistente musical automatizado. Más sencillo, pero también más realista.</p>
+
+<p><img src="https://lh5.googleusercontent.com/MpOf8xcjK1afjLAomERT8APf_bV5VZyRmKY17A_HcHZXy7yagzhmcnT-mTkGe1_KxVUosgmZCj1am5CuVhuLEQ-H_07np0uaCo4mEkH_etsv9Z9Zfvm4jpv1NgYl2fH6DzIMcAjgZig4jMUrr7SaBTVTSIaYLLkg3EVG3IKNZ1LsnCoy6-mkv1ehA-PQHw" alt="" /></p>
+
+<h3 id="imagen">Imagen</h3>
+
+<p>35. <a href="https://clipdrop.co/">Clipdrop</a>, un editor de imágenes que agiliza acciones hasta hace nada tan complejas como borrar objetos, eliminar fondos, ampliar la resolución… Existen también otras herramientas especializadas en cada una de estas aplicaciones.</p>
+
+<p>36. <a href="https://hotpot.ai/">Hotpot</a>, en la misma línea, pero con otras posibilidades como la el coloreado o la restauración. </p>
+
+<p>37. <a href="https://lens-ai.com/">LensAI</a>, un servicio que analiza y mejora imágenes (con edición e interactividad).</p>
+
+<p>38. <a href="https://pebblely.com/">Pebble</a>, un editor de imágenes de productos a partir de una imagen y una descripción en texto.</p>
+
+<p>39. <a href="https://www.profilepicture.ai/">Profile Picture</a>, un generador de fotos de perfil para redes sociales.</p>
+
+<p>40. <a href="https://avatarai.me/">Avatar AI</a>, más o menos lo mismo.</p>
+
+<p>41. <a href="https://apps.apple.com/app/id6444311111?mt=8">Voi</a>, muy similar, pero sólo para IOS.</p>
+
+<p>42. <a href="https://www.designify.com/">Designify</a>, también parecida, aunque no tan enfocada a personas y animales, sino también a objetos.</p>
+
+<p>43. <a href="https://openai.com/dall-e-2/">Dall·E 2</a>, el hermano de GPT (bajo el abrigo de OpenAI), pero en imágenes.</p>
+
+<p>44. <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion</a>, la alternativa open source.</p>
+
+<p>45. <a href="https://www.midjourney.com/">Midjourney</a>, probablemente el generador de imágenes con más calidad.</p>
+
+<p>46. <a href="https://www.craiyon.com/">Craiyon</a>, antes Dall·E Mini. Con menos prestaciones, pero sin límite. Buena alternativa para entrenar.</p>
+
+<p>47. <a href="https://playgroundai.com/">PlaygroundAI</a>, otro generador de imágenes, muy robusto, en el que destacaría la inclusión de los prompt sobre las imágenes. Ideal para aprender.</p>
+
+<p>48. <a href="https://www.artssy.co/">Artssy</a>, una alternativa más a las tres grandes (Dall·E, Stable Diffusion y Midjourney).</p>
+
+<p>49. <a href="https://dream.ai/">Dream</a>, otro generador de imágenes a partir de texto, pero centrado en retrato y formato vertical.</p>
+
+<p>50. <a href="https://deepai.org/">DeepAI</a>, otra variante, con la peculiaridad de que puedes escoger entre una selección de estilos. También permite generar texto.</p>
+
+<p>51. <a href="https://app.synth.run/">Synth Run</a>, similar, aunque con una especialización interesante en rostros.</p>
+
+<p>52. <a href="https://lexica.art/aperture">Léxica Aperture</a>, también especializada, pero aún más en personas (famosas).</p>
+
+<p>53. <a href="https://neurogen.art/">NeuroGen</a>, similar, pero también con capacidad para generar vídeos y un editor. Y dejo aquí de enumerar herramientas de este tipo, porque la lista sería interminable.</p>
+
+<p>54. <a href="https://www.stockai.com/">StockAI</a>, una especie de mezcla entre un banco de imágenes y un generador con IA.</p>
+
+<p>55. <a href="https://www.autodraw.com/">AutoDraw</a>, una especie de lienzo que sugiere formas a partir de trazos a “ratón alzado”. De 2017, para que nos hagamos a la idea de que esto no es del todo nuevo.</p>
+
+<p>56. <a href="https://interiorai.com/">Interior AI</a>, un generador de renders de interiores.</p>
+
+<p>57. <a href="http://gaugan.org/gaugan2/">Gaugan</a>, un editor de imágenes que combina la generación a partir de texto con la edición. </p>
+
+<p>58. <a href="https://lumalabs.ai/">Luma</a>, para crear prototipos en 3D a partir de vídeo (y <a href="https://twitter.com/LumaLabsAI/status/1602836747343126530">pronto a partir de texto</a>).</p>
+
+<p>59. <a href="https://nv-tlabs.github.io/GET3D/">Get3D</a>, en la misma línea, pero nacido de la colaboración entre Nvidia y la Universidad de Toronto.</p>
+
+<p>60. <a href="https://dreamfusion3d.github.io/">DreamFusion</a>, muy similar, pero esta vez con Google y Berkeley detrás.</p>
+
+<p><img src="https://lh5.googleusercontent.com/kXgWuriRk-D8KKcJ-So3pfEoIxa89nGFuXjJSOJGctPsv8_9dvPIwpInsiPyTo_Vjhmi1Yl3dzpy8cBzSyPQYIFudelHCG4hB6qtkud9FeKKRDqS4h4_H0DC0gQD6htEZFCL8R4nPKf8orPL8N7YCQE_fR3FoNXwU8cR7kyxDuKYuNyRY7jei-WZK3JLzQ" alt="" /></p>
+
+<h3 id="vídeo">Vídeo</h3>
+
+<p>61. <a href="https://www.descript.com/">Descript</a>, un editor con la transcripción automática como eje de la postproducción.</p>
+
+<p>62. <a href="https://lumen5.com/">Lumen5</a>, bastante similar, pero también con una interfaz de drag-and-drop. </p>
+
+<p>63. <a href="https://detail.co/">Detail</a>, también en la misma línea, pero con la integración de fases como la grabación.</p>
+
+<p>64. <a href="https://www.synthesia.io/">Synthesia</a>, una plataforma centrada en la generación de vídeo a partir de texto, avatares y recursos visuales.</p>
+
+<p>65. <a href="https://fliki.ai/">Fliki</a>, un generador y editor de vídeos a partir de texto.</p>
+
+<p>66. <a href="https://runwayml.com/">Runway</a>, un editor que tiene casi de todo: generación de imágenes, edición de fotos, transcripción… Si hay que elegir, me quedaría con la facilidad para eliminar fondos de un vídeo. </p>
+
+<p>67. <a href="https://www.wombo.ai/">Wombo</a>, una app para convertir imágenes (retratos) en vídeo (cantando).</p>
+
+<p>68. <a href="https://app.tokkingheads.com/">Tokkingheads</a>, bastante parecida, pero con más opciones además de cantar. </p>
+
+<p>69. <a href="https://guytevet.github.io/mdm-page/">Motion Diffusion Model</a>, para convertir texto en modelos 3D en movimiento. Todavía en fase experimental.</p>
+
+<p><img src="https://lh5.googleusercontent.com/Ba98WElAZnuRoxMWZBIjWn8KExQTG9mim4v7aRPJeJb5MgHDxi8dKa_Y9MpKSeL50mFUFus9Y3xwhQybddcR_AYNulLVN4IHycCM8z9iALM_ujTVG0b8G3h4UnfpzhTLO-6XPtQhzzARA_q2zsSUzxK-25V7Nc-XY-V3g0kWLiksSBOR49Hi4uLkIORp9Q" alt="" /></p>
+
+<h3 id="y-de-todo-un-poco">Y de todo un poco</h3>
+
+<p>70. <a href="https://www.perplexity.ai/">Perplexity</a>, una especie de buscador basado en GPT, con funcionalidades adicionales como la inclusión de tuits o contenidos relacionados.</p>
+
+<p>71. <a href="https://www.notion.so/product/ai">Notion IA</a>, la extensión para esta herramienta total que daría para más de un post. Aún estoy en la lista de espera. Menos mal que ya existían <a href="https://www.automate-notion.com/">recursos para automatizar</a> más de 50 tareas.</p>
+
+<p>72. <a href="https://magician.design/">Magician</a>, más anabolizantes, esta vez para Figma.</p>
+
+<p>73. <a href="https://www.sheetai.app/">SheetAI</a>, ahora centrada en la potenciación de hojas de cálculo.</p>
+
+<p>74. <a href="https://www.neuralformula.com/">Neuralformula</a>, en la misma línea, pero con la capacidad de generar fórmulas a partir de texto plano. El paraíso.</p>
+
+<p>75. <a href="https://books.google.com/talktobooks/">Talk to books</a>, un experimento de Google para buscar de manera más natural en libros.</p>
+
+<p>76. <a href="https://www.explainpaper.com/">Explainpaper</a>, la solución para obtener explicaciones de frases complicadas en artículos académicos.</p>
+
+<p>77. <a href="https://detangle.ai/">Detangle</a>, algo similar, pero para textos legales. Cuando funcione en castellano…</p>
+
+<p>78. <a href="https://elicit.org/">Elicit</a>, un asistente para la búsqueda de literatura académica.</p>
+
+<p>79. <a href="https://www.revision.ai/">Revision AI</a>, una herramienta para facilitar el estudio al convertir notas en tarjetas.</p>
+
+<p>80. <a href="https://www.slidesai.io/">Slides AI</a>, un generador de presentaciones a partir de texto plano. Casi nada. Y hay otras como <a href="https://www.chatbcg.com/">ChatBCG</a> que prometen hacer magia con un simple prompt.</p>
+
+<p><img src="https://lh3.googleusercontent.com/c-ge0Crd6dUJWwhxrBA2jEUxT9__YGSU-LABbRUMFBVcdCHt2yOI4qE_tjmLsVOs03wbfmBB6gvMyNglemtxwoXIrmlD2E0bZzoo0GHCu-99cuoKrdp8NgzSyUvG2D1r4XV9DB1NDTbl63YzayqwMa9h8iLA3zzS4zp6wwUAyaNb8h_ObTW3QisYH-x0_w" alt="" /></p>
+
+<p>Seguro que se escapan bastantes recursps y que ahora mismo se están desarrollando decenas de nuevas herramientas. Muchos están en <a href="https://www.producthunt.com/">Product Hunt</a>, la plataforma de referencia para agrupar productos digitales. Y creo que todos (y muchos más), en <a href="https://allthingsai.com/">All Things AI</a>, el directorio de herramientas y servicios basados en IA. Acabo de descubrir <a href="https://muse-model.github.io/">Muse</a>, la apuesta de Google en la generación de imágenes, todavía en fase embrionaria. Lo de los artículos académicos en el desarrollo de la IA daría para un post (y un artículo), por cierto.</p>
+
+<p>Todos estos avances y recursos pronto se perderán como lágrimas en la lluvia. El avance es imparable y frenético. Pero quizás el esfuerzo por mantenernos al día sea la mejor inversión (y quizás pronto de lo poco que nos quede). Porque la rapidez en la adaptación será una de las claves. <a href="https://twitter.com/jaime_afterdark/status/1599461476020150272">La combinación de recursos</a>, otra.</p>
+
+<p>Este post no se puede escribir todavía con inteligencia artificial. Quién sabe en poco tiempo. Lo que sí es evidente es que difícilmente podría haber llegado a tus manos sin avances técnicos que ya hemos asimilado. No sería más que un profesor más aislado sin internet. Me faltarían referencias (o hubiese necesitado mucho más tiempo) sin la ayuda de recursos tan sencillos como <a href="https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip">Toby</a> para la organización de enlaces o el propio ChatGPT para poner a prueba algunos párrafos. </p>
+
+<p>Y no nos olvidemos de las ilustraciones de este post. ¿Te has preguntado cómo las he creado? Porque doy por hecho que has adivinado que las he generado con IA. He usado PlaygroundAI con pequeñas variaciones de este prompt: “a computer screen with multiple tool icons, 4K, detailed”, primero jugando con los filtros o estilos que sugieren (en realidad, un buen número de indicaciones extra para el prompt) y después utilizando las imágenes que más me convencían como inspiración. Puedes ver todo el proceso <a href="https://playgroundai.com/profile/clcqdjhcs0eees601cqkipqj8">en mi perfil</a>, desde que he empezado a jugar con la herramienta hasta la última creación.</p>
+
+<p>Las visiones más o menos optimistas (<a href="https://twitter.com/tessamondria/status/1600201858953318400">nos quedará la reflexión y la estrategia</a>, <a href="https://twitter.com/samuelgil/status/1599690129085325313">sobrevivirán los que sepan hacer preguntas y filtren respuestas</a>, <a href="https://twitter.com/bealarap/status/1598655655665180673">nos librará del trabajo tedioso</a>, <a href="https://twitter.com/Dialalluna/status/1599744364800282626">conservaremos el liderazgo humanista y ético</a>…) se irán distanciando de las más (utó/distó)picas (<a href="https://twitter.com/javilop/status/1600097028188475392">se perderá incluso el concepto de creación</a>…). Cuando se recojan los escombros de la explosión de ChatGPT, crecerán las voces que destaquen sus limitaciones. El propio detonador de la bomba fue quizás quien mejor lo previó: </p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.<br /><br />it&#39;s a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/1601731295792414720?ref_src=twsrc%5Etfw">December 11, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>“Una vista previa del progreso”, advirtió <a href="https://www.xataka.com/empresas-y-economia/quien-sam-altman-mente-empresarial-openai-chatgpt-dall-e-hombre-negocios-precoz-ia">este precoz líder tecnológico</a>. Casi nada. No tardaremos mucho en ir ampliando y mejorando la resolución de esa imagen. Habrá consecuencias dolorosas e inquietantes. Sobre todo, porque los cambios serán rápidos (mucho más que las anteriores revoluciones) y afectarán más (al menos, de momento) a trabajadores de cuello blanco, algunos de sectores con tanto peso como la abogacía, la medicina, la consultoría o la arquitectura. Y por descontado, al periodismo. </p>
+
+<p>Otro día hablaremos de límites y regulación. Porque entre el miedo (y su consecuente parálisis o rechazo) y la fantasía (y la resultante divagación), yo apuesto por trastear el universo de posibilidades que la IA, ahora mismo, nos puede aportar.</p>
+
+<p><img src="https://lh4.googleusercontent.com/_cspOBdn_BQt3BCLu1kLfKGvhyHi-nn-lTxwERSBjKuh73fbHNlc0E508bvRnUOqKkdqPvJahp9Ht86OPiXSk1yi3vXOGdgZv0sde8m8RA4ThWp5LTzYHK1ImWemFxk3jpeGPchhm4mt3aaIu6B1kZKeDwsvI3gFUKjOxsUVRFFRwX0mQ_ke0FpxatFIoA" alt="" /></p>
+:ET
