@@ -1,0 +1,18 @@
+I"�<p>Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que aprenden los alumnos del Máster en Innovación en Periodismo (MIP).</p>
+
+<p>A continuación, se presentan los trabajos que algunos de ellos realizaron en el taller sobre Webdocs, impartido por <a href="https://twitter.com/miriamhernanz">Miriam Hernanz</a> (RTVE Lab), del módulo de <a href="http://mip.umh.es/planestudios.html">Nuevas Narrativas</a>. Algunos de los programas empleados ya se nombraron al analizar las aplicaciones del <a href="http://mip.umh.es/blog/2015/05/20/frontera-innovacion-knightlab/">Knight Lab</a>, pero aquí se agrupan en tres herramientas fundamentales: <strong>Inmmersive</strong> (<a href="http://mip.umh.es/blog/2015/07/05/innovacion-narrativas-formatos/">Parte 1</a>), <strong>Story Map</strong> (<a href="http://mip.umh.es/blog/2015/07/09/innovacion-narrativas-formatos-storymap/">Parte 2</a> y <strong>Creatavist</strong> (Parte 3).</p>
+
+<p><a href="http://immersive.sh/">Immersive</a> es una herramienta creada por <a href="http://shorthand.com/">Shorthand</a> para contar historias con elementos multimedia de gran formato a partir de la técnica conocida como <a href="https://en.wikipedia.org/wiki/Parallax_scrolling">“parallax scrolling”</a>. Aunque con apenas variaciones, esta aplicación pronto va a denominarse <a href="http://shorthand.com/social/">Shorthand Social</a>.</p>
+
+<p><a href="http://immersive.sh/vegaviajeros/3gJZvjWiq"><img src="{{ site.baseurl }}/images/shots/blogpics/Immersive%201.jpg" alt="Pasión por la Semana Santa" /></a></p>
+
+<p>En este primer ejemplo, <a href="https://twitter.com/jico1">Juan Diego Rocamora</a> realiza un recorrido muy visual sobre la Semana Santa de Orihuela gracias a la combinación de imagen, texto y vídeo. Este producto se enmarca en <a href="http://www.vegaviajeros.com/">Vega Viajeros</a>, su proyecto periodístico sobre ocio y turismo en la comarca alicantina de la Vega Baja.</p>
+
+<p><a href="http://immersive.sh/vicente/u2QZm3IFd"><img src="{{ site.baseurl }}/images/shots/blogpics/Immersive%202a.jpg" alt="Vidas compartidas" /></a></p>
+
+<p>Aunque con un enfoque más personal, <a href="https://twitter.com/vcovesmasterumh">Vicente Coves</a> consigue plasmar aquí con eficacia una iniciativa social. Su fuerza radica en que, además de los elementos multimedia habituales, introduce enlaces en un vídeo gracias a <a href="https://www.thinglink.com/">Thinglink</a> e incrusta una línea de tiempo interactiva creada con <a href="http://timeline.knightlab.com/">Timeline JS</a>.</p>
+
+<p><img src="{{ site.baseurl }}/images/shots/blogpics/Immersive%202b.jpg" alt="" /></p>
+
+<p><img src="{{ site.baseurl }}/images/shots/blogpics/Immersive%202c.jpg" alt="" /></p>
+:ET
