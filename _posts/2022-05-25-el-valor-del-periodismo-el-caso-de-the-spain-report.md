@@ -2,13 +2,13 @@
 layout: post
 title: "El valor del periodismo: el caso de The Spain Report"
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Matthew Bennet
   twitter: matthewbennett
   gplus:  
   bio: Periodista y creador de The Spain Report
-  image: mathew.jpg
+  image: mathew.webp
   link: https://twitter.com/matthewbennett
 ---
 En el Máster en Innovación en Periodismo me pidieron hace tiempo que escribiera algo sobre la última década de [The Spain Report.](https://www.thespainreport.es/es) Lo cierto es que, después de estos dos años de pandemia, yo mismo estoy dudando sobre el valor de algunos aspectos del periodismo. Pero una promesa es una promesa, así que aquí van algunas reflexiones sobre cuatro o cinco momentos de esos dos lustros para compartir mis aprendizajes. Espero que sean útiles y que me ayuden a reflexionar un poco mejor mientras escribo: ¿qué valor tiene el periodismo y cómo podemos crearlo?

@@ -6,7 +6,7 @@ author:
   twitter: mipumh
   gplus:  
   bio: 
-  image: logo.jpg
+  image: logo.webp
   link: https://twitter.com/mipumh
 permalink: /conferencias/
 ---

@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 El vídeo online consiste en cualquier formato de contenido audiovisual capaz de ser visionado a través de internet. En términos generales, el vídeo online comprende los vídeos que se alojan en _YouTube_ y otros agregadores, los filmes y series online a la carta, el vídeo para móviles y tabletas, las vídeo-llamadas y vídeo-conferencias, los videoblogs y otros formatos. En el ámbito periodístico han surgido formatos específicos, como el videoanálisis, la videoentrevista, [el webdoc](http://mip.umh.es/blog/2014/12/16/territorio-webdoc/) y el reportaje multimedia.

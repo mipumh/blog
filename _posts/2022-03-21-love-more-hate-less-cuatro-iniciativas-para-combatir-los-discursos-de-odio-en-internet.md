@@ -6,7 +6,7 @@ author:
   twitter: albagortega
   gplus:  
   bio: Doctora en Periodismo
-  image: alba.jpg
+  image: alba.webp
   link: https://twitter.com/albagortega
 ---
 Internet se ha convertido en un caldo de cultivo para los discursos de odio. El anonimato, la sensación de irrealidad y la facilidad de crear y publicar contenido favorecen que los mensajes de odio estén cada vez más presentes en el discurso público online. Según el [Ministerio de Interior](http://www.interior.gob.es/documents/10180/11389243/Informe+delitos+de+odio+2019.pdf/d6099798-453c-4a27-aa70-3664f94e1d52), en España este tipo de delitos crecieron más de un 7% entre 2018 y 2019. De ellos, casi la mitad de los autores tenía menos de 26 años. Organizaciones, gobiernos y medios de comunicación en todo el mundo comienzan a unir fuerzas para frenar este tipo de conductas. En este artículo recogemos algunas de las iniciativas más innovadoras. 

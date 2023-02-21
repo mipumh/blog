@@ -1,14 +1,14 @@
 ---
 layout: post
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 title: "El auge del periodismo deportivo de negocios: dos newsletters convertidas en algo más que secciones"
 author:
   name: José Luis Rojas
   twitter: rojastorrijos
   gplus:  
   bio: Periodista y profesor universitario
-  image: rojas.jpg
+  image: rojas.webp
   link: https://twitter.com/rojastorrijos
 ---
 El periodismo deportivo se ha diversificado entre un número creciente de medios digitales y de productos informativos que se ocupan de nichos de interés que puedan constituir un verdadero aliciente para surcar comunidades, hallar nuevos clientes y convertirlos en miembros o suscriptores. Uno de esos nichos es la cobertura de la industria y las finanzas del deporte, que en los últimos años se ha convertido en tendencia auspiciada desde medios y secciones, creando productos e informaciones específicas para atender la importancia global de las competiciones y de las cantidades multimillonarias que se generan en torno a ellas. En este artículo analizamos los casos de dos newsletters relevantes: *Scoreboard y* *EFE Sport Business.*

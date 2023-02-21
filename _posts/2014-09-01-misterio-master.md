@@ -7,7 +7,7 @@ author:
  twitter: belentorregrosa 
  gplus: 117641528121265714026 
  bio: Profesora de Storytelling 
- image: bt.jpeg 
+ image: bt.webp 
  link: https://twitter.com/belentorregrosa 
 --- 
 Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos variables que en esta ciudad no siempre coinciden, por desgracia. 

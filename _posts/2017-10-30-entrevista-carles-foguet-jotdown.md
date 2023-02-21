@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 [Carles A. Foguet](https://twitter.com/hooligags?lang=es) es director de comunicación del magazine cultural [Jot Down](http://www.jotdown.es/). Es diplomado en Comunicación y Estrategia Política por el Institut de Ciències Polítiques i Socials (ICPS). El pasado 23 de octubre participó en una  charla-coloquio en la [Universidad Miguel Hernández de Elche](https://www.umh.es/). Allí explicó la clave del éxito de esta revista, caracterizada por ofrecer un periodismo reposado y de calidad, con artículos en profundidad y extensas entrevistas.

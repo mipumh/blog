@@ -8,7 +8,7 @@ author:
   twitter: jagonzalezalba
   gplus:  
   bio: Embajador de Sembramedia España
-  image: galba.jpg
+  image: galba.webp
   link: https://twitter.com/jagonzalezalba
 ---
 SembraMedia, la organización y plataforma de apoyo al éxito de emprendedores de medios digitales en Iberoamérica, ha presentado **"[Punto de partida. Enseñar para el periodismo del futuro](https://profesores.sembramedia.org)**", un estudio sobre la enseñanza del periodismo emprendedor en las universidades de la región, con el apoyo de Google News Initiative. El trabajo está coordinado por Patricio Contreras, encargado de iniciativas académicas de SembraMedia y profesor de la Escuela de Periodismo de la Universidad Alberto Hurtado en Chile. En el mismo se trata de ofrecer qué tipo de formación y experiencia tienen los profesores que imparten cursos de periodismo emprendedor en la región, cuáles son sus contenidos, enfoques y énfasis, y qué tipo de impacto han tenido en sus comunidades académicas.

@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Numerosos medios han apostado por la innovación como estrategia, no sólo para diferenciarse y competir en el mercado, sino para adaptarse a las necesidades de sus usuarios, lanzar productos innovadores, mejorar su organización y buscar nuevas vías de ingresos. Con este fin, organizaciones como BBC, The New York Times o The Guardian crearon laboratorios de innovación desde hace una década. Los *medialabs* experimentan con lenguajes y formatos, investigan cómo mejorar la relación con los usuarios, y promueven innovaciones en el resto de la organización. Pero este modelo presenta síntomas de agotamiento en la actualidad.

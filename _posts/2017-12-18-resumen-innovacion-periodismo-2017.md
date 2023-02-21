@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 2017 ha sido un año lleno de buenas noticias: nuestro Máster de Innovación en Periodismo cumplió cinco años, organizamos el **XXIII Congreso Internacional de la Sociedad Española de Periodística** sobre Innovación en Periodismo, publicamos el libro **Mobile First, comunicación multipantalla**, **firmamos un acuerdo de colaboración con la prestigiosa revista Puro Periodismo** (Chile), organizamos el **I Seminario Online de Periodismo Innovador en Latinoamérica** y también renovamos la edición a distancia del Máster, con contenidos a cargo de profesionales de primer nivel. También han aumentado los colaboradores externos que publican en el blog. En definitiva, estamos muy contentos, y queremos agradecer a profesores, alumnos y antiguos alumnos su implicación con este proyecto. Aquí te presentamos una selección de los artículos que han definido la innovación en periodismo durante este año, con nuestros mejores deseos para el 2018. ¡Feliz Navidad!
@@ -28,7 +28,7 @@ Con casi cuatro años de existencia y una apuesta editorial que combina el largo
 
 La obra **"Mobile First, comunicación multipantalla"**, la tercera de una colección de publicaciones del Máster de Innovación en Periodismo, recoge las reflexiones de profesionales y académicos durante las [XI Jornadas Internacionales de Innovación en Periodismo de la UMH](http://periodismo.umh.es/2016/02/21/xi-jornadas-internacionales-de-innovacion-en-periodismo-mobile-first-comunicacion-multipantalla/). Los expertos analizan cómo la información se apodera de los soportes móviles. Los profesionales de algunas de [las iniciativas más innovadoras del panorama nacional](http://mip.umh.es/ranking/) debatieron sobre la creación de contenido dinámico, adaptable a cada formato y sobre los nuevos modelos de negocio y de publicidad capaces de soportar esta revolución tecnológica que transforma los hábitos de consumo.
 
-![]({{ site.baseurl }}/images/shots/portada-libro-jornadas.jpg)
+![]({{ site.baseurl }}/images/shots/portada-libro-jornadas.webp)
 
 ### [Daniele Grasso (El Confidencial): 'La clave para que un medio sea innovador es tener una mente abierta y buenos periodistas'](http://mip.umh.es/blog/2017/03/12/daniele-grasso-periodismo-datos-el-confidencial/)
 

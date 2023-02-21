@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Varios profesores del Grupo de Investigación de la Comunicación (GICOV) de la Universidad Miguel Hernández hemos publicado el artículo Ranking de Innovación Periodística 2014 en España. Selección y análisis de 25 iniciativas [pdf](http://www.elprofesionaldelainformacion.com/contenidos/2015/may/03.pdf) en la revista **El Profesional de la Información**. El Ranking de Innovación Periodística 2014 analiza [25 iniciativas innovadoras que conforman el motor del cambio en la industria informativa española](http://mip.umh.es/blog/2014/12/05/ranking-periodismo/). [La Fundación Civio](http://www.civio.es/), [El Confidencial](http://www.elconfidencial.com/), [Vis-à-Vis](http://www.vis-a-vis.es/), [eldiario.es](http://www.eldiario.es/) y [Acuerdo](http://blog.acuerdo.us/) encabezan el Ranking de 2014, [al que puedes acceder aquí](http://mip.umh.es/ranking/).

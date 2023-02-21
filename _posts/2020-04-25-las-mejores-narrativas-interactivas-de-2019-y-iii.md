@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Ofrecemos la tercera y última entrega de estos formatos en el blog donde publicamos [la primera](https://mip.umh.es/blog/2020/02/29/las-mejores-narrativas-interactivas-de-2019-i/) y [la segunda](https://mip.umh.es/blog/2020/04/17/las-mejores-narrativas-interactivas-de-2019-ii/). Nuevamente, reunimos lo más destacado del periodismo narrativo internacional publicado en 2019. Los formatos interactivos que hemos seleccionado en esta ocasión combinan la investigación sobre temas de alcance, un desarrollo formal impecable y la apuesta por la innovación y la creatividad.

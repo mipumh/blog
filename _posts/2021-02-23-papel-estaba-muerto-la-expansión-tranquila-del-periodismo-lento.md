@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En 2015 este blog analizaba [el resurgir del ‘periodismo lento’](https://mip.umh.es/blog/2015/10/25/periodismo-slow-lento-nieman/), ya que no todo en internet es sinónimo de breve e instantáneo. La etiqueta de ‘lento’ designa una práctica tan vieja como el propio periodismo: investigar en profundidad y narrar con intencionalidad estilística, ofreciendo información rigurosa, creativa y de calidad. En la actualidad, cuando muchos se sienten ahogados en un océano digital inundado de contaminación, ruido y consumo compulsivo, florecen diversos medios impresos que ofrecen información reposada en nichos específicos. ¿Quién dijo que el papel estaba muerto? Hablamos de publicaciones como **GTM, Manual** y **Salvaje**. Tomen asiento y disfruten.

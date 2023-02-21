@@ -6,7 +6,7 @@ author:
   twitter: vimonterde
   gplus:
   bio: Estudiante MIP 2021
-  image: viriato.jpeg
+  image: viriato.webp
   link: https://twitter.com/vimonterde
 ---
 "Los datos se olvidan, las historias no" es uno de los eslóganes que utiliza [Story Data](https://www.storydata.es/), la primera agencia de comunicación de datos en España. Un proyecto impulsado por cinco mujeres —encabezadas por la periodista Eli Vivas— que en algo más de tres años de trayectoria se ha convertido en un referente dentro de los sectores a los que se dirige y acumula varias distinciones. 

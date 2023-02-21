@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Durante dos días, los asistentes a las **Jornadas Internacionales de Innovación en Periodismo sobre Mobile First** en la Universidad Miguel Hernández constatamos que nadie sabe muy bien hacia dónde va todo esto y que, en el fondo, quien te dice que lo sabe, probablemente te esté mintiendo. Confieso que en el minuto uno de las Jornadas no estaba seguro de adónde íbamos. Miraba a los asistentes y descubría cierta ansiedad en sus rostros. Algunos venían buscando las claves del futuro del periodismo. Otros, pobres, querían “subirnos a la máquina del tiempo y viajar al futuro inmediato”. No sé si estas ocho horas les sirvieron de mucho. Sin embargo, aún sigo pensando que lo mejor fueron las nueve personas maravillosas que conocí.

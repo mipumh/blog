@@ -7,7 +7,7 @@ author:
   twitter: hannahlapworth
   gplus:  
   bio: Journalism student at University Miguel Hernández
-  image: hannah.jpg
+  image: hannah.webp
   link: https://twitter.com/hannahlapworth
 ---
 [Lucy Küng](http://www.lucykung.com/), a Senior Fellow at the [Reuters Institute for the Study of Journalism](http://reutersinstitute.politics.ox.ac.uk/) (University of Oxford), is an expert on strategy, innovation and leadership with particular emphasis on managing technology shifts. She is a Visiting Professor of Media Innovation at the University of Oslo and sits on the supervisory board of the Swiss public service broadcaster, SRG. She has published numerous books, including ["Innovators in Digital News"](http://reutersinstitute.politics.ox.ac.uk/publication/innovators-digital-news), in which she identifies and discusses the key elements of successful media companies. She gave the inaugural Conference at the [XXIII International Journalism Congress](http://sep2017.umh.es/) held by the University Miguel Hernández of Elche (Spain), in which she spoke about the challenges that news companies are facing and innovation in digital media. 

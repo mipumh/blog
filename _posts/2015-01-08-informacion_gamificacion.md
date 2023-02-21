@@ -8,7 +8,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/cibermensaje
 ---
 La aplicación de elementos propios de los juegos a todo tipo de contextos se ha convertido en un fenómeno innegable. Las recompensas que proporcionan estos mecanismos están transformando cuestiones tan relevantes como el compromiso, el interés o la fidelización del usuario. En la red, al entretenimiento, la interactividad y la sociabilidad propios de todo juego, se añaden cuestiones como la hipertextualidad, la usabilidad o la instantaneidad. Y esto, sin duda, incumbe al periodismo.

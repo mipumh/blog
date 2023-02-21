@@ -6,7 +6,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 Reconocer e incentivar la búsqueda de la innovación en el tratamiento de la información es la finalidad de la **segunda edición del Premio Vicente Verdú de Periodismo e Innovación**, que convoca la Asociación de Informadores de Elche (AIE), en colaboración con la Universidad Miguel Hernández (UMH) y el Ayuntamiento ilicitano. El premio está dotado con **6.000 euros para el trabajo ganador** y el jurado podrá conceder hasta **dos accésits, con una dotación de 500 euros** cada uno, que aportará el Ayuntamiento de Elche. El plazo de recepción se cerrará a las 18:00 horas del **30 de abril de 2022**.

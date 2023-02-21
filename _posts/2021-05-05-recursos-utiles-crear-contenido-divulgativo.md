@@ -6,7 +6,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.jpg
+  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 ---
 La información científica puede ser más difícil de trasladar al gran público en comparación con otras áreas en las que no se utilizan tantos tecnicismos o conceptos complejos. Por este motivo, uno de los grandes retos del periodismo científico y de la comunicación de la ciencia en general es hacer llegar los conocimientos a la audiencia de manera no solo comprensible, sino también atractiva. Para conseguirlo, numerosas aplicaciones nos permiten crear contenido multimedia que acompañe a los textos divulgativos, para explicar un concepto a través de un gif animado, visualizar datos epidemiológicos o despertar la curiosidad sobre los descubrimientos científicos del pasado.

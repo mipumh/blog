@@ -7,7 +7,7 @@ author:
   twitter: josvap
   gplus:  
   bio: Investigador Periodismo UMH
-  image: chema.jpg
+  image: chema.webp
   link: https://twitter.com/josvap
 ---
 Hace unos años, el término blockchain solo era conocido por un reducido número de apasionados de la informática. Sin embargo, ahora está de moda, y cuenta con escépticos y adeptos a partes iguales. Aunque las criptomonedas como Bitcoin y Ethereum, basadas en esta tecnología, ya [han movido cantidades ingentes de dinero](https://www.xataka.com/empresas-y-economia/bitcoin-y-ethereum-inversion-o-burbuja-inversores-que-han-puesto-mucho-dinero-inversores-que-jamas-lo-haran) a través de la especulación, todavía [no existe una aplicación estrella](https://www.xataka.com/criptomonedas/el-revolucionario-blockchain-sigue-sin-demostrar-lo-revolucionario-que-es) que facilite la vida a los usuarios ni contribuya a crear sociedades más justas. Sus fieles no dudan de que blockchain tenga potencial para ello, y que [lo hará en los próximos años si se aplica de forma correcta](https://www.xataka.com/otros/que-creen-que-pasara-que-dicen-que-blockchain-cambiara-mundo-como-hizo-internet). En este artículo analizamos cómo va a incidir esta tecnología en la industria mediática.

@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 ¿Qué sabemos del Canon AEDE? Más bien poco. Lo último desde la entrada en vigor de la reforma de la [Ley de Propiedad Intelectual](http://bit.ly/1DQsRNM), que obliga a los agregadores de contenidos a pagar a los autores de las informaciones que enlazan, y de su consecuencia más inmediata, el cierre de [Google News](http://bit.ly/1Aglnh7) en España, es que [CEDRO](http://www.cedro.org) será la entidad de gestión de **derechos de autor** responsable de cobrarlo y que hasta hoy no existe reglamento alguno que regule la normativa, según ha publicado [eldiario.es](http://bit.ly/1FPEjsl).

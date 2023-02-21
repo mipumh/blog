@@ -8,7 +8,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/cibermensaje
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

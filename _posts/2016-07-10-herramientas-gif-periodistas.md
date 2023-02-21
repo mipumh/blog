@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Están por todas partes. Sólo hay que echarle un vistazo a la sonrisa que dibuja su popularidad:

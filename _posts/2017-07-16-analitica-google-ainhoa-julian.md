@@ -7,7 +7,7 @@ author:
   twitter: ThaisC21
   gplus:  
   bio: Periodismo UMH
-  image: thais.jpg
+  image: thais.webp
   link: https://twitter.com/ThaisC21
 ---
 Consumidor. Usuario. Cliente. Público. Distintas maneras de referirse a la la verdadera incógnita para medios y empresas en general: un sujeto tan individual como sus gustos. Por eso, [Ainhoa Julián](http://ainhoajulian.com/), consultora de marketing online y profesora del Máster de Innovación en Periodismo, subraya que la medición digital funciona como el "sello de calidad" para conocer si los contenidos que las empresas elaboran para sus usuarios funcionan correctamente.

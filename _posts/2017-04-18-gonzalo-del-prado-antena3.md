@@ -7,7 +7,7 @@ author:
   twitter: JesusLuce
   gplus:  
   bio: Periodismo UMH
-  image: jesus.jpg
+  image: jesus.webp
   link: https://twitter.com/JesusLuce
 ---
 [Gonzalo del Prado](https://twitter.com/gonzalodelprado?lang=es) (Sevilla, 1975) es uno de los rostros más conocidos de Antena 3 Noticias. El periodista terminó la doble licenciatura de Periodismo y Comunicación Audiovisual en la Universidad de Navarra en 1997 y compaginó sus estudios con las primeras prácticas. Tras pasar por la radio universitaria y por El Periódico de Aragón, comenzó a formar parte de la plantilla de Antena 3 Aragón cubriendo el trágico suceso de la riada en el camping de Biescas. Después trabajó para el Canal Internacional de Antena 3, en la sección de deportes durante dos años. Del Prado nunca fue un apasionado del deporte, pero sí tenía claro que trabajar en esta sección sería lo que le hiciese dar el salto para conseguir su sueño, [el periodismo sobre cine](https://www.youtube.com/user/gonzalodelprado). Ha participado en varias [Jornadas de Periodismo](http://periodismo.umh.es/2013/04/24/gonzalo-del-prado-%E2%80%9Cbuscad-las-pepitas-de-oro-de-cada-noticia-para-contar-una-historia%E2%80%9D/) en la Universidad Miguel Hernández y [fue padrino](http://periodismo.umh.es/2014/06/30/el-periodista-gonzalo-del-prado-apadrina-la-vi-promocion-de-periodismo-umh/) de la VI Promoción de periodistas de esta Universidad. 

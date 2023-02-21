@@ -7,7 +7,7 @@ author:
   twitter: josvap
   gplus:  
   bio: Doctor en Periodismo UMH
-  image: chema.jpg
+  image: chema.webp
   link: https://twitter.com/josvap
 ---
 La Inteligencia Artificial (IA) es una de las tecnologías con [mayor potencial disruptivo](https://www.mdpi.com/2673-5172/3/4/46) para la industria mediática. Numerosas [investigaciones](https://www.tandfonline.com/doi/abs/10.1080/21670811.2019.1630289) y [publicaciones sectoriales](https://mip.umh.es/blog/2019/11/02/el-impacto-de-la-inteligencia-artificial-en-el-periodismo/) han analizado su aplicación para la automatización de la captura, el procesamiento y la distribución de la información, así como su influencia sobre el trabajo de los periodistas, con una mezcla de fascinación e incertidumbre. Sin embargo, como [aseguran](https://www.mdpi.com/2199-8531/5/3/44) algunos autores, la IA no es solo una poderosa herramienta para cambiar la organización de las redacciones, sino que también **puede convertirse en un “catalizador para la innovación en el modelo de negocio”**. Sobre todo, con el auge de los [modelos de suscripción](https://mip.umh.es/blog/2021/12/09/redaccion-enfoques-producir-fortalecer-modelos-pago-suscripciones-medios/).

@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 "Innovar es dar una vuelta de tuerca a las formas de trabajar que ya están asentadas para avanzar en el global de la profesión". Es Manuel Benito, editor de [Porcentual](http://www.porcentual.es/), el portal cuyos gráficos ilustran las noticias de numerosos medios digitales, y [fichaje](http://mip.umh.es/blog/2014/05/19/fichajes-2014/) del Máster en Innovación en Periodismo de la Universidad Miguel Hernández de [Elche](http://umh.es/) para este curso, que arranca el 25 de septiembre. 

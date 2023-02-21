@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 El periodismo es una profesión en constante cambio y la crisis, una oportunidad para hacerlo mejor. Es la filosofía de [Miquel Pellicer](http://miquelpellicer.com/), periodista especializado en redes sociales y contenidos digitales, antropólogo y [profesor del Máster en Innovación en Periodismo](mip.umh.es/profesores.htm) de la Universidad Miguel Hernández [(UMH)](http://umh.es/) Elche, a quien tendremos en clase el próximo 16 de octubre.

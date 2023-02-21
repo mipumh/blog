@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En esta segunda entrega sobre las mejores narrativas digitales de 2021 ([aquí puedes ver la primera](https://mip.umh.es/blog/2022/02/16/las-mejores-narrativas-digitales-de-2021-i/)) seleccionamos otras once piezas que destacan por su capacidad para contar con eficacia los temas que investigan a través de un trabajo colaborativo, innovador y lleno de creatividad que trata de implicar a los usuarios en la historia. Once trabajos que representan una apuesta por el periodismo de calidad.
@@ -37,7 +37,7 @@ La erupción volcánica de 2021en La Palma acaparó la atención mundial. El equ
 
 La erupción en La Palma llegó a su fin después de casi tres meses en los que alteró la vida de sus habitantes y el relieve de la isla. Para transmitir de primera mano cómo afectó el volcán a los palmeros, el Telediario de TVE se trasladó a la isla y RTVE.es ofreció una experiencia de Realidad Aumentada para visualizar la evolución del volcán de forma interactiva. Los usuarios pueden “instalar” el volcán en el salón de su casa a través del móvil ya que permite insertar una infografía en 3D de la isla usando la cámara del dispositivo. Al mismo tiempo, se muestra una cronología con seis momentos clave de los tres meses de erupción, incluyendo la locución de Ana Blanco y el sonido del tremor de fondo.
 
-![]({{ site.baseurl }}/images/shots/2-5-how-a-presidential-rally-turned-into-a-capitol-nyt.jpg)
+![]({{ site.baseurl }}/images/shots/2-5-how-a-presidential-rally-turned-into-a-capitol-nyt.webp)
 
 ### **[How a presidential rally turned into a Capitol rampage ](https://www.nytimes.com/interactive/2021/01/12/us/capitol-mob-timeline.html)**| **The New York Times**
 

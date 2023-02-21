@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Todo comenzó con una pregunta mental: ¿cómo puedo localizar a los periodistas de datos en España? Un primer rastreo me proporcionó alguna [lista de Twitter](https://twitter.com/calvoesperanza/lists/periodismo-de-datos/members), un [grupo de trabajo en Meetup](https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/) y algún [artículo científico exploratorio](https://revistas.ucm.es/index.php/ESMP/article/viewFile/52594/48347). Las incógnitas se multiplicaron: ¿faltan nombres? ¿Están actualizados? ¿Hay forma de ponerse en contacto con ellos?

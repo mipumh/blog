@@ -7,7 +7,7 @@ author:
   twitter: crms74
   gplus:  
   bio: Community Manager del MIP
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

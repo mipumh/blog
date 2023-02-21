@@ -5,7 +5,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 “La cultura se come a la estrategia para desayunar”, dijo en su día **Peter Drucker**. No importa cuántos sean los recursos invertidos ni qué inteligentes los planes, el fracaso está asegurado si la cultura organizacional no es receptiva. Los medios, que viven en un estado de flujo constante, necesitan transformarse, pero habitualmente se topan con culturas internas resistentes al cambio. En este artículo analizamos por qué surge esa resistencia y qué pueden hacer las organizaciones para combatirla.

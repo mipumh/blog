@@ -6,7 +6,7 @@ author:
   twitter: albagortega
   gplus:  
   bio: Profesora de Nuevas Narrativas
-  image: alba.jpg
+  image: alba.webp
   link: https://twitter.com/albagortega
 ---
 ![]({{ site.baseurl }}/images/shots/escape_room2.png)

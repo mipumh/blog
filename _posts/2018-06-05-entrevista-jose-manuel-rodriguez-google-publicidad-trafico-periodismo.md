@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 [José Manuel Rodríguez](https://twitter.com/josemanuelrodos), consultor de medios sociales, adelantó en [El Periscopio](http://mip.umh.es/blog/2018/01/15/redes-sociales-y-medios-estrategias-relaciones/) que 2018 prometía ser "un año de cambios para la relación que sostienen los medios con las plataformas sociales y los beneficios que ambas partes obtienen". Según este periodista *freelance*, experto en redes sociales, esta previsión es ya una realidad porque *Facebook* sufre la primera caída de su historia tras la crisis *Cambridge Analytica*; *Twitter* no consigue despegar en cuanto a usuarios; y *Google* pretende convertirse en un intermediario de suscripciones para los medios. 

@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 Solicitud y acceso a la información, extracción de datos, análisis y visualización de los mismos de una forma atractiva y precisa. Estos son algunos de los pasos que sigue un periodista de datos para contar historias mediante diversas herramientas tecnológicas. [Daniele Grasso](https://twitter.com/danielegrasso?lang=es), coordinador de la Unidad de Datos de [El Confidencial](https://www.elconfidencial.com/), ha impartido una sesión en el [Máster en Innovación en Periodismo](http://mip.umh.es/blog/2018/03/05/entrevista-eva-belmonte-innovacion-enfoque-temas/) de la Universidad Miguel Hernández.

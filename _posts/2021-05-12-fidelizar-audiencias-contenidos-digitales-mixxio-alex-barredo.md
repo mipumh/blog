@@ -7,7 +7,7 @@ author:
   twitter: ChrisRodgz
   gplus: 104274993391260139803 
   bio: Alumni MIP 2020
-  image: christian-rp.jpeg
+  image: christian-rp.webp
   link: https://twitter.com/ChrisRodgz
 ---
 A Álex Barredo le picó el gusanillo del podcast allá por 2016 cuando produce los primeros episodios de [mixx.io](https://mixx.io/). Creó sin saberlo un proyecto profesional a partir de una sencilla base, recopilar y sintetizar las novedades del panorama tecnológico mundial. La apuesta por el binomio newsletter-podcast y la ampliación de la familia con programas temáticos —Kernel, Cupertino y ELON— terminarían por configurar esta fórmula, que tras el despido de su promotor de La Vanguardia, la catapultaría definitivamente al éxito. "En el momento que crece la audiencia y también las horas de trabajo invertidas, vi interesante monetizar este proyecto", expone [Barredo](https://twitter.com/somospostpc) sobre su actual medio de vida.

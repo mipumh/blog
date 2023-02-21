@@ -3,13 +3,13 @@ layout: post
 title: "La renovación digital del relato informativo sonoro: el auge del podcast
   narrativo"
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: Luis M. Pedrero
   twitter: luismipedrero
   gplus:  
   bio: Catedrático en la Facultad de Comunicación y Artes de la Universidad Nebrija
-  image: luismi.jpg
+  image: luismi.webp
   link: https://twitter.com/luismipedrero
 ---
 Los podcasts narrativos de no ficción se han consolidado en 2021 como un género imprescindible en la oferta de productoras y plataformas de audio digital no sólo por el atractivo de sus argumentos e historias, sino porque renuevan las formas de contar el relato informativo y aportan credibilidad y prestigio a las redes que los distribuyen. En este artículo analizamos cómo el nuevo entorno de producción y consumo digital está favoreciendo la proliferación de un formato que recupera elementos expresivos menos empleados en la radio informativa al tiempo que exprime las ventajas creativas y la relación de intimidad con el oyente propias del audio bajo demanda.

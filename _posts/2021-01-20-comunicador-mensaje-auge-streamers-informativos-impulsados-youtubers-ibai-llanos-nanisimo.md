@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Más allá de las televisiones y pantallas tradicionales, se consolida una hornada de comunicadores que conectan con la Generación Z (entre 15 y 25 años) a través de productos diseñados para entretener e informar. Los encontramos en sus canales de Twitch, Tik Tok, Twitter y YouTube. Mediante una comunicación directa, mucho ritmo y un estilo descarado, estos profesionales están revolucionando la forma de informar. Hablamos de **Emilio Doménech, Ibai Llanos y Ángel Martín**, entre otros. A través de un infoentretenimiento "gamberro” y cercano, estos fenómenos triunfan **en la Sociedad Red hiperconectada donde “el comunicador es el mensaje”.**

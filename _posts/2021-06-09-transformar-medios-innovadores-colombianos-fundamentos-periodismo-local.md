@@ -7,7 +7,7 @@ author:
   twitter: victorgap
   gplus:  
   bio: Profesor de Periodismo, Universidad de La Sabana (Colombia)
-  image: perdomo.jpeg
+  image: perdomo.webp
   link: https://twitter.com/victorgap
 ---
 Generar innovación constante es una de las características fundamentales de las organizaciones que sobreviven exitosamente en el tiempo. Sin embargo, la innovación se acrecienta y se convierte en eje central cuando ocurren profundos cambios económicos, sociales o tecnológicos. Con el advenimiento de la transformación digital y las redes, los medios han tenido que reinventarse porque han resultado seriamente afectados en sus modelos de negocio, sus mecanismos de distribución y producción de contenidos y su relacionamiento con las audiencias. Los medios en Colombia no han sido ajenos a esa revolución digital. El ecosistema de medios digitales impone condiciones adversas no solo a los productores tradicionales de noticias, que luchan por las migas de la publicidad digital dejadas por los gigantes tecnológicos, sino que también obliga a los nativos y emprendedores online a adoptar rápidamente tecnologías y prácticas innovadoras para reinventar el periodismo y buscar nuevos caminos de sostenibilidad.

@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Investigar las necesidades, carencias y valores de los miembros de una comunidad es esencial para cualquier proyecto comunicativo que emprendas. Para ello, has de conocer de arriba abajo a los integrantes de la comunidad. En este sentido, las necesidades humanas son muy diversas. Según el sociólogo Abraham Maslow, abarcan desde las más básicas hasta las más profundas, como la autoestima y realización personal. En este artículo ofrecemos ocho pasos para llevar a cabo la investigación de comunidades e identificar sus necesidades, con objeto de desarrollar un proyecto comunicativo.

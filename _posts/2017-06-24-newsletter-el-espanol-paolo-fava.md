@@ -7,7 +7,7 @@ author:
   twitter: ThaisC21
   gplus:  
   bio: Periodismo UMH
-  image: thais.jpg
+  image: thais.webp
   link: https://twitter.com/ThaisC21
 ---
 Las noticias no descansan. No se dan un respiro ni siquiera por las noches. Por eso, [Paolo Fava](https://twitter.com/paolo_fabio) se encarga de recopilar la información noctámbula para ofrecer a los usuarios este menú informativo en ‘Mientras Dormías’, una de sus *newsletters* en [El Español](http://www.elespanol.com/). Este periodista trabajó en *Yahoo!* durante ocho años como gestor de contenidos, y confiesa que cuando le propusieron ocuparse de una *newsletter* se preguntó: "¿Qué pinto yo en eso?", ya que su idea se acercaba más al formato boletín. Fava ha impartido un taller en el Máster de Innovación en Periodismo.
@@ -50,7 +50,7 @@ Las noticias no descansan. No se dan un respiro ni siquiera por las noches. Por 
 
 **R.** Porque es una manera de aumentar el alcance de un medio emergente, para contar con un modelo que se diferenciara de los ya existentes y para aplicar la hipertextualidad, es decir, seleccionar para los usuarios el contenido más importante independientemente de dónde venga. Una *newsletter* es importante para un medio que aspira –como aspira *El Español*– a tener suscriptores, porque es una puerta de entrada importante para la fidelización.
 
-![image alt text]({{ site.baseurl }}/images/shots/periscopio.jpg)
+![image alt text]({{ site.baseurl }}/images/shots/periscopio.webp)
 
 **P. ¿Cómo han conseguido que 25.000 lectores se suscriban a sus _newsletters_?**
 

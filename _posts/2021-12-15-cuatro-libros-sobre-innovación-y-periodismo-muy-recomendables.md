@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En la segunda mitad del año se han publicado varias obras centradas en los cambios que atraviesa el periodismo y la comunicación en internet que ofrecen perspectivas muy valiosas. Se trata de: [Innovación y Periodismo Local en América Latina](https://drive.google.com/file/d/1hPW-9FyFy8OWM6LUd1kfvNq9-74_MFWa/view), de la Fundación Gabo; [Error 404. ¿Preparados para un mundo sin Internet?](https://www.penguinlibros.com/es/literatura-contemporanea/258751-libro-error-404-9788418056062) , de Esther Paniagua; [Panmedials: Los medios de la pandemia](https://www.amazon.com/-/es/Mr-Mauricio-Cabrera/dp/B099ZJJBVX/), de Mauricio Cabrera, y [Nuevas Narrativas en Periodismo. Consumo, producción y circulación de noticias en internet](https://medialabpatagonia.org/wp-content/uploads/2021/09/Nuevas-Narrativas-Rost-Bernardi-Bergero.pdf). Alejandro Rost, María Teresa Bernardi y Fabián Bergero. En este artículo reseñamos brevemente estos libros.

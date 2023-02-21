@@ -1,6 +1,6 @@
 ---
 layout: post
-cover_image: silverman.jpeg
+cover_image: silverman.webp
 title:  Rumores, bulos, contenido viral y otras formas de cargarse la credibilidad del periodismo  
 excerpt: "Una usuaria tuitea una noticia falsa de El Confidencial. En esta ocasión el prestigioso digital ha sido víctima de la atribución de una cita falsa en cadena: un medio reporta unas supuestas declaraciones del Papa, otros se hacen eco y juntos otorgan apariencia de verdad a un bulo. El New York Times también cometió el error, aunque recitificó a los días."
 author:
@@ -8,7 +8,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

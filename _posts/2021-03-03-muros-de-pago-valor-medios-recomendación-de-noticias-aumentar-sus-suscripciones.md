@@ -6,7 +6,7 @@ author:
   twitter: josvap
   gplus:  
   bio: Investigador Periodismo UMH
-  image: chema.jpg
+  image: chema.webp
   link: https://twitter.com/josvap
 ---
 A muy pocos usuarios les sorprenderá ya toparse con muros de pago cuando intentan acceder a los contenidos informativos. Los modelos de suscripción [se han extendido](https://www.xataka.com/otros/cada-vez-medios-que-se-pasan-al-muro-pago-espana-gran-pregunta-habra-suscriptores-para-todos) entre los medios durante los últimos años ante la necesidad de monetizar su actividad y huir de un sistema volumétrico cada vez [menos rentable](https://www.eldiario.es/economia/vocento-entra-perdidas-21-7-millones-caida-publicitaria_1_7256674.html) y más [decadente desde el punto de vista editorial](https://mariovidal.medium.com/qu%C3%A9-fuerte-madre-m%C3%ADa-los-medios-tenemos-un-problema-con-el-clickbait-27d9050ae77). Sin embargo, no por ser habituales resultan menos [molestos para los lectores](https://twitter.com/paullop/status/1361368409372577793). Sobre todo para aquellos que sí pagan una suscripción, pero se les impide —o dificulta, mejor dicho— compartir sus piezas favoritas con sus contactos. En otras palabras, **los muros de pago amenazan uno de los principales valores añadidos que los medios proporcionan a los usuarios: la capacidad de difundir y debatir las noticias** con su red de contactos.

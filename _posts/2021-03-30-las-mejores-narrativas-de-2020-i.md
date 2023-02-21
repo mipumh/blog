@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Tras la excelente acogida que tuvo [la selección de las mejores narrativas interactivas de 2019](https://mip.umh.es/blog/2020/02/29/las-mejores-narrativas-interactivas-de-2019-i/), seleccionamos las piezas más destacadas de 2020. Presentamos un total de 33 narrativas que publicaremos en tres entregas organizadas en estas categorías: I. **Narrativas sobre la COVID-19**; II. **Investigaciones y narrativas noticiosas**; y III. **Piezas periodísticas imperecederas**. Hemos ampliado el foco para incluir narrativas audiovisuales y sonoras que han destacado por su innovación. La selección ha sido difícil, pero el resultado avala un gran nivel de excelencia y muestra cómo muchos medios en España, Latinoamérica y resto del mundo desarrollan un extraordinario talento y creatividad para contar los asuntos relevantes. En esta primera entrega, seleccionamos las mejores narrativas sobre el impacto de la pandemia.

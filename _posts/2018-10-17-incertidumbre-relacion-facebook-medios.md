@@ -8,7 +8,7 @@ author:
   twitter: Monde97
   gplus:  
   bio: Periodismo UMH
-  image: damaso.jpg
+  image: damaso.webp
   link: https://twitter.com/Monde97
 ---
 "Todos los medios estudiados continúan experimentando una relación de asimetría, incapacidad de monetizar efectivamente el alcance fuera de la red social, incertidumbre (como los cambios repentinos y a veces inexplicables que pueden transformar el rendimiento de la noche a la mañana), y preocupación por el riesgo de la plataforma a largo plazo". Esa ha sido una de las muchas conclusiones que ha obtenido el último [informe](http://www.digitalnewsreport.org/publications/2018/public-service-news-and-social-media-copy/) del **[Reuters Institute Digital News Report](http://www.digitalnewsreport.org/)** acerca de la relación de doce medios europeos distintos con Facebook. Sin embargo, el instituto de investigación coordinado por la Universidad de Oxford ha concluido también que, a pesar de que las compañías analizadas se sienten “frustradas”, Facebook **sigue siendo la red social más rentable en términos de “tráfico, acceso externo a la web y venta de suscripciones”.**

@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 [Iker Barinaga](https://twitter.com/ikerbarinaga?lang=es) es el director de arte del departamento de Innovación y Desarrollo Editorial de Vocento. Como creativo gráfico, trabaja el diseño periodístico, la infografía y la representación visual de los datos en los medios de comunicación. Además, imparte clase en el módulo "El impacto de la tecnología en el periodismo" del [Máster en Innovación en Periodismo](http://mip.umh.es/) de la Universidad Miguel Hernández.

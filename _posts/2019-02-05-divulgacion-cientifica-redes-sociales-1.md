@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.jpg
+  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 ---
 Las redes sociales son herramientas poderosas a la hora de informar sobre ciencia por diversas causas. Una de ellas es que son una buena forma de alcanzar a las audiencias más jóvenes ([las más codiciadas](https://www.puromarketing.com/13/30510/claves-para-llegar-generacion-estrategia-marketing.html)), ya que según la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) (FECYT), **los españoles menores de 24 años son el grupo que más utiliza las redes como fuente principal de internet para documentarse sobre temas científicos**. Pero también por otros motivos, como las diferentes opciones de formato que podemos encontrar y que permiten crear contenidos amenos, que ayuden a trasladar los conceptos complejos al gran público. En definitiva, porque **constituyen un gran aliado para acercar la ciencia a la sociedad.**

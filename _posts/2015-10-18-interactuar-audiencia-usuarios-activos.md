@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En la Sociedad Red cobra fuerza el protagonismo de los usuarios, frente al concepto tradicional de audiencia, como participantes activos en el proceso comunicativo. A través de la participación surge una audiencia con vocación de equilibrar el poder entre elites y ciudadanía,  de involucrarse en los medios y, [por primera vez, con posibilidades de lograrlo](http://mip.umh.es/blog/2015/04/24/comunicar-sociedad-red/).

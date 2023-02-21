@@ -7,7 +7,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 _¿Cómo generar ingresos para sostener la actividad periodística?_, la semana pasada planteamos esta pregunta como un ejercicio en la asignatura **Nuevos Modelos de Negocio** del [Máster online](http://mip.umh.es/online/). Aquí recojo algunas propuestas de los estudiantes, añado otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes de los **usuarios/lectores**; b) ingresos procedentes de la **publicidad** o sucedáneos; c) ingresos por **otros servicios o negocios** secundarios.

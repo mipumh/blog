@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 La interpretación de los datos contrastados arroja luz sobre los factores que desencadenan los cambios que atraviesan los medios en general y el periodismo en particular.  Para tener una perspectiva amplia sobre el alcance de dichos cambios, presentamos ocho gráficos que muestran aspectos clave, como el uso de las redes sociales como fuente informativa, la evolución de los ingresos publicitarios o la preferencia del móvil para acceder a los contenidos. 

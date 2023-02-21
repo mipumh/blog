@@ -1,6 +1,6 @@
 ---
 layout: post
-cover_image: portadalatam.jpg
+cover_image: portadalatam.webp
 title: Seminario Online sobre Periodismo Innovador en Latinoamérica
 subtitle: "Apúntate a este encuentro virtual que se celebrará el próximo 14 de noviembre a las 18:00 (hora española, UTC+2)"
 excerpt: "El Máster en Innovación en Periodismo ofrece un seminario a distancia para analizar el desarrollo de la innovación en el periodismo latinoamericano, con objeto de intercambiar experiencias y conocer más de cerca la realidad periodística en los distintos países. La sesión tendrá lugar durante la 5ª edición del Máster de Innovación en Periodismo de la Universidad Miguel Hernández."
@@ -9,7 +9,7 @@ author:
   twitter: mcarvajal_
   gplus: 105651624538664882557 
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 El Máster en Innovación en Periodismo ofrece un seminario a distancia para analizar el desarrollo de la innovación en el periodismo latinoamericano, con objeto de intercambiar experiencias y conocer más de cerca la realidad periodística en los distintos países. La sesión tendrá lugar durante la [5ª edición del Máster de Innovación en Periodismo de la Universidad Miguel Hernández](http://mip.umh.es/master-oficial-a-distancia-periodismo-online.html). 
@@ -22,7 +22,7 @@ Los ponentes que intervendrán son autoridades en el tema:
 
 <section class="index"><img src="{{ site.baseurl }}/images/shots/jaramillo.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/mauriciojaramil?lang=es" title="Mauricio Jaramillo" target="_blank">Mauricio Jaramillo (Hangouts Periodismo)</a></strong><br><span class="muted">Periodista, conferencista y consultor especializado en periodismo tecnológico y digital. Fundador y director de Impacto TIC+Hangouts de Periodismo.</span></p></div></section>
 
-<section class="index"><img src="{{ site.baseurl }}/images/shots/contreras.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/pfcontrerasv?lang=en" title="Patricio Contreras" target="_blank">Patricio Contreras (Puroperiodismo)</a></strong><br><span class="muted">Editor de 
+<section class="index"><img src="{{ site.baseurl }}/images/shots/contreras.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/pfcontrerasv?lang=en" title="Patricio Contreras" target="_blank">Patricio Contreras (Puroperiodismo)</a></strong><br><span class="muted">Editor de 
 Puroperiodismo de la Escuela de Periodismo de la Universidad Alberto Hurtado. Es cofundador de la plataforma Ojo en Tinta.</span></p></div></section>
 
 El encuentro estará moderado por [José Alberto García Avilés](https://twitter.com/jagaraviles), profesor del Máster de Innovación en Periodismo y editor del blog. 

@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 "Solo tienes que introducir tu email para recibir en el buzón de correo electrónico las noticias que mejor marcan la actualidad". [El Español](https://www.elespanol.com/) en su página web te invita así a inscribirte en sus [newsletters](https://www.elespanol.com/newsletter/). El profesional que está detrás de este producto informativo es [Paolo Fava](https://twitter.com/paolo_fabio), quien además ha impartido una clase en el Máster de Innovación en Periodismo de la Universidad Miguel Hernández de Elche. 

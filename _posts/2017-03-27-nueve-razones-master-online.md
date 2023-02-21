@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 En octubre se abre la tercera edición online del Máster en Innovación en Periodismo (MIP). Ahora que ya puedes inscribirte, apuntamos nueve razones por si te decantas por esta modalidad. Como [hace dos años explicamos sus claves](http://mip.umh.es/blog/2015/05/28/master-innovacion-periodismo-modalidad-online/), ahora tú decides cuáles son las más importantes:

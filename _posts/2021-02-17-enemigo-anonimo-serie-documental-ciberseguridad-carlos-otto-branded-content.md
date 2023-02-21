@@ -6,7 +6,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 Justo antes de irrumpir la pandemia, [el periodista ](https://twitter.com/ottoreuss)**[Carlos Otto](https://twitter.com/ottoreuss)** tenía 19 entrevistas grabadas en vídeo y un plan milimétrico para lanzar la primera serie documental sobre ciberseguridad hecha en España, [El Enemigo Anónimo](https://www.elenemigoanonimo.com/). ¿Qué podía hacer? ¿Meterlo todo en la nevera y esperar a que se les quitara la cara de susto a los patrocinadores? No. Se arremangó la camisa y organizó un [semestre de infarto hasta el lanzamiento oficial](https://www.nobbot.com/entrevistas/ciberseguridad-carlos-otto/) en septiembre de 2020.

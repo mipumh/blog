@@ -9,7 +9,7 @@ author:
   twitter: LauraSB_7
   gplus:  
   bio: Periodismo UMH
-  image: benejama.jpeg
+  image: benejama.webp
   link: https://twitter.com/LauraSB_7  
 ---
 La carrera de [Miriam Hernanz](https://twitter.com/miriamhernanz) ha evolucionado en paralelo a la innovación periodística. Actualmente es la subdirectora del [Laboratorio Audiovisual de Innovación y Nuevas Narrativas Interactivas en Radiotelevisión Española](http://www.rtve.es/lab/). Comenzó en 2005 como redactora en prácticas en [Informe Semanal](https://www.rtve.es/television/informe-semanal/), y tras ser redactora de última hora en [RTVE.es](https://www.rtve.es/), de Suplementos en [El Mundo](https://www.elmundo.es/) y del programa [Hora Cero](https://www.rtve.es/alacarta/videos/hora-cero/), ha consolidado su liderazgo en el lab de RTVE. Tal y como nos cuenta, el objetivo de este departamento no es jugar con la información, sino presentarla con un lenguaje innovador, a cualquier hora y en cualquier plataforma. Hernanz destaca que hay que educar a la audiencia para que sepa diferenciar el grano de la paja en la información que circula por la Red. Ha impartido clases en el Máster en Innovación en Periodismo.

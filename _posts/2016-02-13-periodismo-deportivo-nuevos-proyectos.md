@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
  ![]({{ site.baseurl }}/images/shots/I0.jpg)

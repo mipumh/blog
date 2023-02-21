@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Encontrar buenas historias ya es sólo un requisito. Necesitas explotar todos los recursos para obtener información y distribuirla de la manera más visual y efectiva posible. La esencia no cambia, pero hay que ir más allá. Y no se trata sólo de dominar la tecnología, sino variables como la composición, el diseño y, sobre todo, la constancia y la curiosidad.

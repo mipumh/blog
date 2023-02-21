@@ -7,7 +7,7 @@ author:
   twitter: elpady
   gplus:  
   bio: Cofundador de Nabumbu y El Desmarque
-  image: padi.jpg
+  image: padi.webp
   link: https://twitter.com/elpady
 ---
 _[Continuamos](http://mip.umh.es/blog/2016/10/15/claves-emprender-javier-padilla/) con una serie de recomendaciones, basadas en mi experiencia personal, que te permitirán llevar a cabo con éxito tu propio proyecto en el ámbito de la comunicación:_

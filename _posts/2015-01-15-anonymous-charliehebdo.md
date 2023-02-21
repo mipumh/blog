@@ -8,7 +8,7 @@ author:
   twitter: fnmaillo
   gplus: 104394152817479105314 
   bio: Coordinadora Redes Sociales
-  image: fn.jpg
+  image: fn.webp
   link: https://twitter.com/fnmaillo
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)

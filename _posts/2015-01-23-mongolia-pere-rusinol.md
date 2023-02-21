@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 Redactor de [El País](http://elpais.com) más de diez años. Adjunto a la dirección de [Público](www.publico.es) otros cuatro. Colaborador actual de [eldiario.es](www.eldiario.es). [Pere Rusiñol](https://twitter.com/pererusi) ha pasado por las aulas del [Máster en Innovación en Periodismo](http://mip.umh.es) de la [Universidad Miguel Hernández de Elche](www.umh.es) para hablar de las revistas [Mongolia](www.revistamongolia.com) y [Alternativas Económicas](http://alternativaseconomicas.coop) y los nuevos modelos de comunicación creados y controlados por periodistas.

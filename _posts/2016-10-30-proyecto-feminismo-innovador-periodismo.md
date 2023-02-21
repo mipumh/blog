@@ -7,7 +7,7 @@ author:
   twitter: lorenaescandell
   gplus: lorenaescandell 
   bio: Community Manager del MIP
-  image: les.jpeg
+  image: les.webp
   link: https://twitter.com/lorenaescandell
 ---
 [IGUAL](https://proyectoigual.wordpress.com) es una plataforma digital especializada en [feminismo](https://es.wikipedia.org/wiki/Feminismo) desarrollada por [Laura Bellver](https://twitter.com/LaBellver) en el [Máster en Innovación en Periodismo](http://mip.umh.es/). Ofrece una completa agenda de actividades, bases de datos y asesoramiento profesional, para dar cabida a las voces feministas del ámbito de la Comunidad Valenciana. "Alcanzar la igualdad requiere de una labor pedagógica que puede y debe desarrollarse también desde los medios de comunicación", explica su promotora. **Igual** figura entre los medios que han incorporado la [perspectiva de género](http://lorenaescandell.blogspot.com.es/2016/09/que-significa-aplicar-la-perspectiva-de_77.html) en sus procesos para innovar a través de **contenidos informativos especializados y originales**, apenas tratados por los medios tradicionales, que pretenden **acabar con los sesgos de género** y **aportar miradas más diversas**. 

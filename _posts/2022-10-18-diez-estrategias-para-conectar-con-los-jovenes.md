@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Desde hace años constatamos la desafección de muchos jóvenes con los medios y la creciente preocupación de los editores sobre cómo conectar con la Generación Z (menores de 25 años) y los Millenials (26-40). El envejecimiento de sus audiencias, la aversión a las noticias, la falta de interés por las suscripciones y las dificultades para captar nuevos lectores ponen el foco en qué hacer para atraer al público joven. Las redes sociales, singularmente TikTok e Instagram, acaparan la atención de la GEN Z y la tarta publicitaria, mientras que las nuevas tribus de comunicadores (twitchers, youtubers, tiktokers, podcasters…) suscitan el interés de los jóvenes. Estos ya no incluyen los medios digitales en su consumo mediático, cada vez más móvil, social, continuo y fugaz. ¿Cómo pueden actuar los medios? Comparto diez estrategias basadas en experiencias y casos reales.

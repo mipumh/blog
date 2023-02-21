@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 El periodista de El Confidencial [Daniele Grasso](https://twitter.com/danielegrasso), en un seminario celebrado recientemente en Málaga, criticaba que algunos profesores de periodismo "se han quedado atascados en el pasado" y reivindicaba este lema: "Menos Kapuściński y más ProPublica". La reflexión de Grasso me ha llevado a escribir estas líneas. 

@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Ya no es un impulso para la difusión de tus contenidos. Ni mucho menos un complemento. La imagen se ha convertido en un requisito para casi cualquier publicación en redes sociales. Hace ya tres años, se comprobó que [un 87% de las publicaciones más compartidas en Facebook](http://revistas.ucm.es/index.php/CDMU/article/download/50627/47029) tenían un elemento visual como protagonista. No es difícil intuir cómo esta tendencia ha aumentado en la red social por excelencia y en otras como Twitter. Por no hablar de Instagram.

@@ -7,7 +7,7 @@ author:
   twitter: carlassanchis
   gplus:  
   bio: Creadora de Veggie's World Mag
-  image: carla_s.jpg
+  image: carla_s.webp
   link: https://twitter.com/carlassanchis
 ---
 Cuando empecé mi andadura en el Máster en Innovación en Periodismo, en octubre de 2018, tenía muy clara la idea del proyecto que quería desarrollar a lo largo del curso: una revista especializada en vegetarianismo y veganismo. A decir verdad, el primer día de clase ya tenía decidido el nombre del proyecto —**Veggie’s World Magazine**— e incluso había diseñado el logo definitivo.

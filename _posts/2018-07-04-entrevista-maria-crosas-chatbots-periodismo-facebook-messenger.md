@@ -7,7 +7,7 @@ author:
   twitter: itziarmartinez_
   gplus:  
   bio: Periodismo UMH
-  image: itziar.jpg
+  image: itziar.webp
   link: https://twitter.com/itziarmartinez_
 ---
 "Los *chatbots* no van a acabar con el periodismo", decía [María Crosas](https://twitter.com/mcrosasb?lang=es) en una entrevista para este [blog del MIP](http://mip.umh.es/blog/2017/05/27/chatbots-periodismo/). Un año después, no habla de avance tecnológico sino de herramienta periodística para cubrir necesidades informativas. Esta experta en chatbots ha impartido una sesión en el [Máster en Innovación en Periodismo](https://twitter.com/mipumh?lang=es) de la Universidad Miguel Hernández de Elche.    

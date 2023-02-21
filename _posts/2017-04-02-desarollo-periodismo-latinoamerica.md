@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 [Continuamos](http://mip.umh.es/blog/2016/07/17/pistas-periodismo-latinoamerica/) con una serie de destacadas iniciativas que promueven el desarrollo del periodismo en Latinoamérica. Se trata de una generación de profesionales con una perspectiva renovada, que insufla aire fresco, credibilidad y recursos para la formación de los periodistas:

@@ -1,6 +1,6 @@
 ---
 published: true
-cover_image: rok.jpeg
+cover_image: rok.webp
 layout: post
 title: Pivotar en el periodismo deportivo&#58 la innovación en los nuevos terrenos de juego
 excerpt: "“¿Un periodista deportivo puede ser innovador?”, Se lo preguntaba nada menos que Ferrán Adriá, en su Twitter, el pasado mes de octubre. Una posible respuestas se la había dado tres meses antes la startup Periodismo En Vivo y por Encargo (Pevype), cuando lanzó Sports Camp, un programa para permitir a 10 periodistas emprendedores desarrollar nuevos formatos y proyectos periodísticos relacionados con el mundo del deporte."
@@ -9,7 +9,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/cibermensaje
 ---
 “¿Un periodista deportivo puede ser innovador?”, se lo preguntaba nada menos que [Ferrán Adriá, en su Twitter](https://twitter.com/ferranadria/status/522338247016730624), el pasado mes de octubre. Una posible respuesta se la había dado tres meses antes la startup Periodismo En Vivo y por Encargo (Pevype), cuando [lanzó Sports Camp](http://www.efeemprende.com/noticia/pevype-busca-10-empreriodistas-para-desarrollar-formatos-de-periodismo-deportivo/), un programa para permitir a 10 periodistas emprendedores desarrollar nuevos formatos y proyectos periodísticos relacionados con el mundo del deporte.

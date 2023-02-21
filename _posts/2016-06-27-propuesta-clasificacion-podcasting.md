@@ -7,7 +7,7 @@ author:
   twitter: porqueeeyo
   gplus: 104274993391260139803 
   bio: Coordinadora Módulo Diseño Web
-  image: alicia.jpg
+  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 ---
 Según el  investigador y especialista en radio Richard Berry, el podcasting no es un simple formato que vincula audio, web y dispositivos portátiles. A su juicio, esta forma de transmisión ha revolucionado el mundo radiofónico porque va más allá del canal y la tecnología: [“El podcasting ha forzado al negocio de la radio al cambiar y reconsiderar determinadas prácticas preconcebidas sobre las audiencias, los modos de consumo, la producción y la distribución”](http://emilcar.fm/2016/03/23/76-podcasting-was-made-for-mobile-por-richard-berry/). En España, primer consumidor europeo de móviles inteligentes, el éxito del podcasting es imparable: [más del 68% de los usuarios actualiza su lista de podcast cada tres días](http://www.tecnoxplora.com/dispositivos/crece-consumo-podcast-seis-reproducciones-semanales-usuario_2015012800428.html).

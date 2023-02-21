@@ -7,7 +7,7 @@ author:
   twitter: Auditurus
   gplus:  
   bio: Periodista y alumni del MIP
-  image: jrnar.jpg
+  image: jrnar.webp
   link: https://twitter.com/Auditurus
 ---
 La comunicación en Internet es cada día más anglófona: desde nuestra actividad _online_ hasta los social media, pasando por el _storytelling_. La moda _cool_ ha calado fuerte en todos los sectores que viven la transformación digital. Y el periodismo no es una excepción. 

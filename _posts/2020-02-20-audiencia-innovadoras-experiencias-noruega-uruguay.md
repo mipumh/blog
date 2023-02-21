@@ -8,7 +8,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Al desarrollar cualquier proyecto periodístico, conviene redoblar los esfuerzos para conocer a la audiencia. Resulta clave tener un profundo conocimiento de las personas a quienes nos dirigimos, a quienes queremos transformar en lectores habituales y/o suscriptores. En este artículo analizamos dos casos de medios que han innovado en la forma de conectar con sus audiencias: el noruego **Dagens Næringsliv** y el uruguayo **La Diaria**.

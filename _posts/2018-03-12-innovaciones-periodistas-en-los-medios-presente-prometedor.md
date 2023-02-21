@@ -7,7 +7,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Innovar resulta esencial para la supervivencia de los medios en un contexto marcado por el cambio constante en la tecnología, los comportamientos de la audiencia, las estrategias de la competencia y los modelos de negocio. En este artículo sintetizamos las conclusiones de una investigación basada en entrevistas a 27 profesionales de diversos medios que están innovando en nuestro país.

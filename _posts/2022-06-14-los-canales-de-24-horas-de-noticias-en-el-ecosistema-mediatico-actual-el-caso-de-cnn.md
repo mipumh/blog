@@ -6,12 +6,12 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Los canales todo-noticias, desde CNN hasta BBC World, pasando por el canal 24 horas de TVE que en septiembre cumple 25 años, nacieron como un servicio de información continua. La CNN fue pionera en desarrollar la maquinaria y la estrategia para ofrecer coberturas en directo y nutrirse de acuerdos internacionales. Sin embargo, en un ecosistema en el que la audiencia se informa cada vez más a través de las redes sociales y accede a contenidos en directo mediante múltiples plataformas, ¿qué papel juegan estos canales? Analizamos el caso de la CNN, tras el fiasco del cierre del servicio de streaming CNN+ en abril de 2022.
 
-![]({{ site.baseurl }}/images/shots/cnn-logo.jpg)
+![]({{ site.baseurl }}/images/shots/cnn-logo.webp)
 
 En septiembre de 1992, el primer ministro de Bangladesh, Khleda Zia inauguró el acceso de su país a CNN Internacional. El político recalcó que "era todo un honor que Bangladesh se incorporara a la ‘aldea global’ de la solidaridad y de la democracia". La famosa expresión acuñada por McLuhan resulta tentadora para ilustrar cómo CNN hace posible que gran parte del mundo asista en directo al desarrollo de la guerra en Ucrania, a un atentado terrorista o a una cumbre de jefes de estado. La metáfora de la “aldea global” ha sido una de las más usadas y abusadas en la historia reciente. Sin embargo, en Bangladesh sólo el 64 por ciento de los hogares cuenta con un televisor y ni siquiera el 3 por ciento de sus 165 millones de habitantes ha visto alguna vez CNN Internacional. Por tanto, **debemos poner en tela de juicio la pomposa afirmación de que vivimos en una “aldea global”** gracias a los canales internacionales de televisión.
 

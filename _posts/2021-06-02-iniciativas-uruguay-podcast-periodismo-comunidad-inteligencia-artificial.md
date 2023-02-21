@@ -6,7 +6,7 @@ author:
   twitter: flotraibel
   gplus:  
   bio: Editora Multimedia El País (UR)
-  image: florencia.jpeg
+  image: florencia.webp
   link: https://twitter.com/flotraibel
 ---
 El coronavirus vino a borrar de golpe un dicho muy popular en Uruguay: acá todo llega diez años más tarde. La pandemia nos golpeó a todos y en todo el mundo al mismo tiempo: personas, empresas y organizaciones. Pero más allá de la emergencia sanitaria global y la crisis económica que atraviesan los medios hace años, en Uruguay existen varios proyectos periodísticos que desafían la incertidumbre y apuestan a más y mejor periodismo. En este artículo seleccionamos varias iniciativas innovadoras en el periodismo uruguayo.

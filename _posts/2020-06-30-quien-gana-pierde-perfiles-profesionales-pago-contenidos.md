@@ -1,14 +1,14 @@
 ---
 layout: post
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 title: Quién gana y quién pierde importancia en un medio que pasa a cobrar por sus contenidos
 author:
   name: José Manuel Rodríguez
   twitter: josemanuelrodos
   gplus:  
   bio: Consultor de medios sociales
-  image: rodos.jpg
+  image: rodos.webp
   link: https://twitter.com/josemanuelrodos
 ---
 La implementación de sistemas de pago en cualquier redacción requiere **dos cambios culturales cruciales**: el primero es externo y se basa en conseguir generalizar entre los lectores la idea de que **el trabajo de los periodistas tiene un valor que justifica un precio o una aportación**; el segundo es interno y supone **repensar la organización en torno a ese planteamiento** desde el habitual punto de partida de medios que han vivido mayoritariamente de la publicidad. Sobre este último proceso hemos preguntado a directivos de medios españoles en distintas situaciones respecto al cobro por contenidos o esquemas de membresía con el objetivo de saber qué perfiles ganan peso y cuáles lo pierden en este nuevo escenario.

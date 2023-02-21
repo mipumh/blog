@@ -8,7 +8,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Publicamos el libro **La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales** que contiene las aportaciones y propuestas de una treintena de expertos -profesionales y académicos- sobre cómo transformar los informativos. Puedes descargarlo gratuitamente a través de esta página.

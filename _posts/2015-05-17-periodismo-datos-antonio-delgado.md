@@ -1,6 +1,6 @@
 ---
 layout: post
-cover_image: dat.jpeg
+cover_image: dat.webp
 title: El periodismo de datos, un creciente campo de especialización
 excerpt: "Hace algunas semanas, el periodista Antonio Delgado impartía varias sesiones sobre periodismo de datos en el Máster de Innovación en Periodismo de la Universidad Miguel Hernández, al igual que el año pasado. Delgado lleva trabajando en el sector de internet desde 1998. Periodista especializado en tecnología y datos, se define como “analista de tendencias”. Es organizador de @redadaes, co-fundador de @AppDiana y profesor en varias universidades. Entre sus últimos trabajos, destaca España en cifras, una herramienta lanzada hace pocos días que permite consultar los principales indicadores de las comunidades, provincias y municipios de España; o Madrid en bici, un proyecto de nicho que utiliza periodismo de datos."
 author:
@@ -8,7 +8,7 @@ author:
   twitter: lisgaibar
   gplus:  
   bio: Investigadora de Periodismo UMH
-  image: lis.jpeg
+  image: lis.webp
   link: https://twitter.com/jagaraviles
 ---
 Hace algunas semanas, el periodista **Antonio Delgado** impartía varias sesiones sobre periodismo de datos en el Máster de Innovación en Periodismo de la Universidad Miguel Hernández, [al igual que el año pasado](http://mip.umh.es/blog/2014/04/14/recursos_datos_dos/). Delgado lleva trabajando en el sector de internet desde 1998. Periodista especializado en tecnología y datos, se define como “analista de tendencias”. Es organizador de [@redadaes](http://twitter.com/redadaes), co-fundador de [@AppDiana](http://twitter.com/AppDiana) y profesor en varias universidades. Entre sus últimos trabajos, destaca [España en cifras](http://espanaencifras.elespanol.com/ ), una herramienta lanzada hace pocos días que permite consultar los principales indicadores de las comunidades, provincias y municipios de España; o [Madrid en bici](http://madridenbici.es/), un proyecto de nicho que utiliza periodismo de datos.

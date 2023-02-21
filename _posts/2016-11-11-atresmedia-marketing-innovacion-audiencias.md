@@ -8,7 +8,7 @@ author:
   twitter: mamenbor
   gplus:  
   bio: Periodismo UMH
-  image: mabor.jpg
+  image: mabor.webp
   link: https://twitter.com/mamenbor
 ---
 Javier Andrés Ortega dirige el departamento de Marketing de Atresmedia Publicidad desde 2006. Previamente trabajó en los servicios de marketing de Atres Advertising, en Sogecable, en G+J, en Antena3 y en Publiespaña. Es licenciado en empresariales y especialista en investigación de mercados. Imparte clases en el módulo de Audiencias del Máster de Innovación en Periodismo.

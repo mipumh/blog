@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Coordinador Nuevas Narrativas
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 Lo que ahora conocemos como periodismo de datos no se entiende sin el [Datablog de The Guardian](https://www.theguardian.com/data), un repositorio que cumple una década difundiendo visualizaciones y datasets. Y [Jonathan Gray](https://twitter.com/jwyg) y [Paul Bradshaw](https://twitter.com/paulbradshaw), dos de los grandes popes de este mundillo, trabajan en Londres y Birmingham respectivamente. No es ninguna sorpresa, por lo tanto, que el periodismo británico esté ahora en la vanguardia de uno de los grandes filones de esta especialidad: los datos locales.

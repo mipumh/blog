@@ -7,7 +7,7 @@ author:
   twitter: ThaisC21
   gplus:  
   bio: Periodismo UMH
-  image: thais.jpg
+  image: thais.webp
   link: https://twitter.com/ThaisC21
 ---
 El podcast: la radio a la carta del s.XXI. Los hay de todo tipo, desde la historia de iniciación intimista de una millenial, hasta una serie de no ficción sobre un crimen, pasando por los que divulgan la ciencia o destripan la serie de moda. Pero en España  todavía el fenómeno debe crecer en profesionalización. Ese es el reto de [Ana Ormaechea](https://www.linkedin.com/in/anaormaechea/?locale=es_ES), fundadora de la plataforma de podcasts [_Cuonda_](http://www.cuonda.com/), que ha impartido un seminario sobre podcasting en el Máster. 

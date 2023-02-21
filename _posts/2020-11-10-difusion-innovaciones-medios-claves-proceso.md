@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles  
 ---
 La teoría de la Difusión de Innovaciones (DOI) es el trabajo seminal del sociólogo Everett M. Rogers (1931-2004). En este artículo apuntamos el origen y los puntos esenciales de la DOI. En el caso de la difusión de las innovaciones en los medios, extraemos algunas conclusiones de los principales estudios que analizan cuáles son las claves para implementar con éxito innovaciones en los productos, distribución, organización y vías de comercialización.

@@ -6,7 +6,7 @@ author:
   twitter: crms74
   gplus:
   bio: Doctorando Periodismo UMH
-  image: crms.jpeg
+  image: crms.webp
   link: https://twitter.com/crms74
 ---
 Los productos de suscripción han echado raíces en la industria periodística. Parecen el enésimo intento de salvación mágica del sector (spoiler: no lo hay) después del periodismo viral o iniciativas más concretas de las que pocos se acuerdan, como Apple News+, pero lo cierto es que se ha avanzado en la línea de otras industrias. Además, todo tipo de empresas informativas lo han adoptado. El clickbait y el churnalism ―el periodismo de baja calidad basado en notas de prensa― ofrece pan para hoy, sí, pero también hambre para mañana. Es por ello que muchos profesionales que trabajan en los equipos de producto navegan en un mismo barco para competir y emular a las grandes plataformas atrayendo usuarios, consiguiendo que paguen y reteniéndolos. Porque conseguir suscripciones es un reto, pero evitar las cancelaciones, un fenómeno conocido como churn, es un desafío que no se queda atrás.

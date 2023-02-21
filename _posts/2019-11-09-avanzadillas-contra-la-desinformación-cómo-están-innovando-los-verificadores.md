@@ -6,7 +6,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 En un ecosistema mediático de creciente sobreinformación y abundancia de fuentes, donde aumenta la desinformación al servicio de determinados intereses e ideologías, es cada vez más necesario comprobar la veracidad de las noticias. Aquí radica una oportunidad para el periodismo. Los verificadores se multiplican en todo el mundo, de 44 en 2014 pasaron a 210 en 2019, según el Reporters’ Lab. En este artículo analizamos cómo están innovando cuatro iniciativas independientes de verificación: Chequeado, Full Fact, Pagella Política y Faktisk. 

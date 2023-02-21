@@ -6,7 +6,7 @@ author:
   twitter: mipumh
   gplus:  
   bio: 
-  image: logo.jpg
+  image: logo.webp
   link: https://twitter.com/mipumh
 permalink: /about/
 ---
@@ -14,11 +14,11 @@ Somos profesores, periodistas y estudiantes del [Master en Innovación en Period
 
 ## Editor (dirección y desarrollo web)
 
-<section class="index"><img src="{{ site.baseurl }}/images/yo.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/mcarvajal_" title="Miguel Carvajal" target="_blank">Miguel Carvajal</a></strong><br><span class="muted">Periodista y profesor de Periodismo en la Universidad Miguel Hernández. Leo y escribo sobre modelos de negocio y proyectos periodísticos. Doctor en Empresa Informativa por la Universidad de Navarra (2006).</span></p></div></section>
+<section class="index"><img src="{{ site.baseurl }}/images/yo.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/mcarvajal_" title="Miguel Carvajal" target="_blank">Miguel Carvajal</a></strong><br><span class="muted">Periodista y profesor de Periodismo en la Universidad Miguel Hernández. Leo y escribo sobre modelos de negocio y proyectos periodísticos. Doctor en Empresa Informativa por la Universidad de Navarra (2006).</span></p></div></section>
 
 ## Editor (coordinación de contenidos) 
 
-<section class="index"><img src="{{ site.baseurl }}/images/jga.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/jagaraviles" title="José Alberto García Avilés" target="_blank">José A. Gª Avilés</a></strong><br><span class="muted">Periodista y Profesor Catedrático de Periodismo en la Universidad Miguel Hernández de Elche. Doctor en Comunicación y Bachelor en Artes Liberales por la Universidad de Dublín.</span></p></div></section>
+<section class="index"><img src="{{ site.baseurl }}/images/jga.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/jagaraviles" title="José Alberto García Avilés" target="_blank">José A. Gª Avilés</a></strong><br><span class="muted">Periodista y Profesor Catedrático de Periodismo en la Universidad Miguel Hernández de Elche. Doctor en Comunicación y Bachelor en Artes Liberales por la Universidad de Dublín.</span></p></div></section>
 
 ## ¿En qué consiste el Máster?
 	

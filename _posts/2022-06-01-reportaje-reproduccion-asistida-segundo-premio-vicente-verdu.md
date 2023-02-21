@@ -6,7 +6,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 Una serie de [tres artículos](https://civio.es/medicamentalia/2021/11/02/reproduccion-asistida-en-Europa/) de investigación sobre la situación de la reproducción asistida y el turismo reproductivo en Europa, realizada por un equipo de periodistas encabezado por **Eva Belmonte** y publicada en Civio (**_civio.es_**) en noviembre de 2021, ha sido galardonado con el **II Premio Vicente Verdú de Periodismo e Innovación**, convocado por la Asociación de Informadores de Elche (AIE), en colaboración con la Universidad Miguel Hernández, y dotado con 6.000 euros aportados por el Ayuntamiento ilicitano. El jurado presidido por Mario Tascón ha acordado igualmente, en la reunión telemática celebrada esta mañana, conceder sendos accésits, dotados con 500 euros cada uno de ellos, a **Raúl Sánchez** y **Analía Plaza** por su serie de artículos sobre [la tipología, edad y evolución de la edificación en las ciudades españolas](https://especiales.eldiario.es/espana-vive-en-pisos/), publicados en *eldiario.es*; y a **Ana Tudela y Antonio Delgado** por el trabajo ["España intensiva: así ha cambiado el campo a fuerza de PAC y mercado"](https://especiales.eldiario.es/pac-medio-ambiente-espana/

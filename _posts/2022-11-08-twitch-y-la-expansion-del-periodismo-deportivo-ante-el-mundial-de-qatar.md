@@ -2,13 +2,13 @@
 layout: post
 title: "Twitch y la expansión del periodismo deportivo ante el Mundial de Qatar "
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: José Luis Rojas
   twitter: rojastorrijos
   gplus:  
   bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.jpg
+  image: rojas.webp
   link: https://twitter.com/rojastorrijos
 ---
 La dicotomía entre el periodismo tradicional y las plataformas se vuelve obsoleta cuando los medios funcionan de manera multiplataforma para garantizar su audiencia. En tiempos de una necesaria innovación, [muchas empresas periodísticas han dado un paso más en su estrategia al aproximarse a las plataformas](https://reutersinstitute.politics.ox.ac.uk/born-fire-what-we-can-learn-how-digital-publishers-global-south-approach-platforms) para conocer sus posibilidades, usarlas para la consecución de sus objetivos y así colaborar en la distribución de contenidos, la promoción, la monetización, el *engagement* con la audiencia o la forja de comunidades. En este artículo analizamos la presencia creciente de periodistas y medios deportivos españoles en Twitch, así como el debate profesional y los retos que plantea esta plataforma para el futuro. El Mundial de fútbol en Qatar servirá para que los medios estrechen vínculos con los streamers y ofrezcan experiencias de infoentretenimiento a unos fans a quienes, de otra forma, quizá nunca llegarían.

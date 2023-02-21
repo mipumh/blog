@@ -3,13 +3,13 @@ layout: post
 title: Doce hitos que han marcado la innovación del periodismo deportivo en la
   era digital
 periscopio: si
-cover_image: periscopio.jpg
+cover_image: periscopio.webp
 author:
   name: José Luis Rojas
   twitter: rojastorrijos
   gplus:  
   bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.jpg
+  image: rojas.webp
   link: https://twitter.com/rojastorrijos
 ---
 Una de las principales constantes en las redacciones periodísticas estos años ha sido la experimentación tecnológica y la búsqueda de soluciones creativas para contar historias. Esta realidad, de la que se ocupa el Máster de Innovación en Periodismo desde sus inicios, se da cada vez más en áreas de información especializada, tal como atestiguan [investigaciones académicas desarrolladas en este campo pujante en estos últimos años](http://www.profesionaldelainformacion.com/contenidos/2021/ene/garcia_es.pdf). Entre esas áreas sobresale el periodismo deportivo, un ámbito que se ha granjeado una reputación innovadora al protagonizar varios de los principales hallazgos narrativos en la aplicación de tecnologías y el despliegue de formatos en coberturas informativas recientes.

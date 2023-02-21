@@ -8,7 +8,7 @@ author:
   twitter: jagaraviles
   gplus:  
   bio: Coordinador Módulo Audiencias
-  image: jga.jpg
+  image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
 Los informativos tradicionales resultan cada vez menos atractivos para los menores de 30 años. Hay una razón de fondo: gracias al consumo en las redes sociales y la información continua, muchos ya conocen las noticias e incluso las han visto a lo largo del día, por lo que los noticiarios de las 15.00 o de las 21.00 horas [apenas les ofrecen nada nuevo](https://mip.umh.es/blog/2018/02/19/hora-reinventar-informativos-televisivos/)[](https://mip.umh.es/blog/2018/02/19/hora-reinventar-informativos-televisivos/). Por ello, [la televisión debe ir donde está el espectador](https://mip.umh.es/blog/2018/11/20/diez-formas-innovar-formatos-audiovisuales-informativo/). Varios medios digitales y televisiones están apostando por iniciativas que buscan innovar tanto en el planteamiento como en la forma de elaborar y distribuir los contenidos informativos. Presentamos a continuación una selección de nuevos formatos que ofrecen pistas para conectar con los jóvenes.

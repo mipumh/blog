@@ -6,7 +6,7 @@ author:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.jpg
+  image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
 La primera edición del **Premio Vicente Verdú de Periodismo e Innovación** otorgará **6.000 euros** al autor(es) de un trabajo periodístico destacado por su innovador tratamiento informativo. El certamen, convocado por la Asociación de Informadores de Elche, con el apoyo del Ayuntamiento de Elche y la colaboración del Máster en Innovación en Periodismo, quiere reconocer e incentivar, en una época de profundos cambios en el periodismo, la búsqueda de la innovación.

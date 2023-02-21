@@ -7,7 +7,7 @@ author:
   twitter: cibermensaje
   gplus:  
   bio: Subdirector del Máster
-  image: flx.jpg
+  image: flx.webp
   link: https://twitter.com/flxarias
 ---
 El periodista y quien lo investiga están más cerca que nunca. O eso me gustaría. Ya no hay torres de marfil ni tampoco máquinas de escribir que muevan fronteras. O muy pocas. No digo que tenga que desaparecer la reflexión teórica ni la inspiración romántica. Pero al menos en el periodismo, en un momento crucial desde todos los puntos de vista, cada vez parece más necesaria la **rotura de barreras entre la academia y la profesión**. 

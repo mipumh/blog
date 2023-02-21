@@ -12,7 +12,7 @@ foto: https://pbs.twimg.com/profile_images/1367190892717748226/WGRmPv3W_400x400.
 author:
   name: Máster
   twitter: mipumh
-  image: logo.jpg
+  image: logo.webp
   link: https://twitter.com/mipumh
 ---
 
