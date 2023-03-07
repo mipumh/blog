@@ -4,14 +4,14 @@ title: ¿A qué suenan los podcasts en España? Radiografía de la producción o
 periscopio: si
 cover_image: periscopio.webp
 author:
-  name: Luis M. Pedrero
+  name: Luis Miguel Pedrero
   twitter: luismipedrero
   gplus:  
   bio: Catedrático en la Facultad de Comunicación y Artes de la Universidad Nebrija
-  image: luismi.webp
+  image: pedrero.jpeg
   link: https://twitter.com/luismipedrero
 ---
-Las principales plataformas de podcast en España produjeron 263 títulos originales en 2022, tres veces más que los estrenados en el mismo periodo por los servicios de video bajo demanda (83). La ficción apenas supone un 10% de esa oferta, dominada por los podcasts narrativos –en especial, documentales– y los conversacionales. Sonora fue la que lanzó más estrenos (84), por delante de Podimo (58) y Podium Podcast (34). Sin embargo, en tiempo de producción se impusieron Podimo (429 h), Audible (393 h) y Cuonda (267 h). Estos datos son el adelanto de un estudio elaborado por el [Observatorio Nebrija del Español](https://www.nebrija.com/catedras/observatorio-nebrija-espanol/) que se hará público en el festival [Estación Podcast](https://www.estacionpodcast.com/) el próximo mes de mayo.
+Las principales plataformas de podcast en España produjeron 263 títulos originales en 2022, tres veces más que los estrenados en el mismo periodo por los servicios de video bajo demanda (83). La ficción apenas supone un 10% de esa oferta, dominada por los *podcasts* narrativos –en especial, documentales– y los conversacionales. Sonora fue la que lanzó más estrenos (84), por delante de Podimo (58) y Podium Podcast (34). Sin embargo, en tiempo de producción se impusieron Podimo (429 h), Audible (393 h) y Cuonda (267 h). Estos datos son el adelanto de un estudio elaborado por el [Observatorio Nebrija del Español](https://www.nebrija.com/catedras/observatorio-nebrija-espanol/) que se hará público en el festival [Estación Podcast](https://www.estacionpodcast.com/) el próximo mes de mayo.
 
 ![]({{ site.baseurl }}/images/shots/podcasting.jpg)
 
