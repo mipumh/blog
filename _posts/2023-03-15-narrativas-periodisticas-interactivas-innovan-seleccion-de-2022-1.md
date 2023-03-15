@@ -11,6 +11,18 @@ author:
 ---
 La capacidad de los medios para innovar en los formatos narrativos guarda estrecha relación con su empeño por experimentar con diferentes lenguajes y tratar de satisfacer las necesidades de los usuarios. Se trata de buscar la mejor forma de contar cada acontecimiento, cada previsión informativa, cada historia. En definitiva, la excelencia consistiría “abrir en canal” el tema concreto ybuscarle la narrativa más adecuada mediante el talento de los equipos interdisciplinares. En dos entregas sucesivas, selecciono 20 narrativas interactivas publicadas en 2022 que sobresalen por su innovación. Se trata de trabajos excelentes que nos inspiran y muestran el talento y la creatividad para contar historias que merecen la pena.
 
+![]({{ site.baseurl }}/images/shots/how-are-you-doing.jpg)
+
+**[How are you doing?](https://pudding.cool/2022/12/emotion-wheel/)**  **\| The Pudding**
+
+[Otros años](https://mip.umh.es/blog/2022/02/23/las-mejores-narrativas-digitales-de-2021-2/) ya hemos destacado a The Pudding por ser un medio que apuesta por formatos especialmente innovadores. Este interactivo es una auténtica guía emocional con la que el usuario inicia un viaje para explorar sus propios sentimientos y cómo le influyen en su estado de ánimo, en su trabajo y en sus relaciones personales. En el arranque, al usuario le da la bienvenida Abby: “Soy artista y en los últimos años he estado aprendiendo sobre cómo expresar mis sentimientos. He diseñado algunas herramientas que me ayudaron y quiero compartirlas contigo”. Este proyecto es un magnífico ejemplo de cómo sacarle partido a un tema complejo mediante una navegación sencilla y muy intuitiva, a la vez que va creando una experiencia de usuario enriquecedora. Al final, el usuario aprende cómo puede ayudarle el nombrar y visualizar los propios sentimientos.
+
+![]({{ site.baseurl }}/images/shots/innacesible-cities.jpg)
+
+**[Inaccessible cities](https://inaccessiblecities.ajcontrast.com/)**  **\| Al Jazeera**
+
+Más de mil millones de personas - el 15% de la población mundial- sufren algún tipo de discapacidad. Este interactivo ofrece una mirada íntima a las luchas cotidianas de tres mujeres con discapacidad en Nueva York, Lagos y Bombay. La experiencia interactiva, producida por AJ Contrast, el estudio de innovación mediática de Al Jazeera Digital, combina fotografía, vídeo, texto, audio, infografía y ludificación para crear un diseño visualmente impactante y una narración envolvente. El interactivo se vertebra mediante las historias de Rebecca Lamorte, excandidata al ayuntamiento de Nueva York, Olajumoke Olajide, atleta de Lagos, y Nidhi Goyal, cómica de Bombay. Me gusta la experiencia con el scrolling vertical y la función de menú que te permite elegir tu propio recorrido. La parte de gamificación simula los desplazamientos diarios de los personajes, basada en sus experiencias y en las de otras personas con discapacidad. Su objetivo es que el usuario perciba lo que se siente al desplazarse por cada ciudad siendo discapacitado. El proyecto ha creado una web totalmente inclusiva para usuarios con discapacidad con descripciones sonoras, texto alternativo para las imágenes y la gamificación, navegación operable, etc.
+
 ![]({{ site.baseurl }}/images/shots/mapping-cities.png)
 
 **[Mapping where the earth will become uninhabitable](https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/)**  **\| Berliner Morgenpost**
