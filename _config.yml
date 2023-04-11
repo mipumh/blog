@@ -7,7 +7,7 @@ inc:
 
   # Company information
   company:      Máster en Innovación en Periodismo
-  url:          http://mip.umh.es
+  url:          https://mip.umh.es
   facebook:     mipumh
   twitter:      mipumh
   gplus:        '103906596485859350077'
@@ -22,7 +22,7 @@ inc:
     google: true
  
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: http://mip.umh.es/blog
+url: https://mip.umh.es/blog
 
 collections:
   conferencias:
