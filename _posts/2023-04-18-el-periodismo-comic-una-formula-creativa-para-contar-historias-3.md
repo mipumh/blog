@@ -64,7 +64,7 @@ La Fundación para el Nuevo Periodismo Iberoamericano concedió el premio Gabrie
 
 ![]({{ site.baseurl }}/images/shots/comic-el-correo-narrativas.jfif)
 
-**[La proposición sexual que terminó en crimen en Santurtzi](file:///E:/2023%20capitulo%20narrativas%20ALBA/•%09https:/www.elcorreo.com/bizkaia/margen-izquierda/proposicion-deshonesta-crimen-santurtzi-20211003165023-nt.html)** reconstruye el homicidio de un hombre de 51 años en el Puerto que fue obra de tres chicos, uno menor, a los que ofreció dinero por sexo durante las fiestas de Semana Santa. Este trabajo de Ainhoa de las Heras y Josemi Benítez fue publicado en El Correo en septiembre de 2021 y muestra cómo el periodismo cómic puede utilizarse para narrar eficazmente historias con enfoque local.
+**[La proposición sexual que terminó en crimen en Santurtzi](https://www.elcorreo.com/bizkaia/margen-izquierda/proposicion-deshonesta-crimen-santurtzi-20211003165023-nt.html)** reconstruye el homicidio de un hombre de 51 años en el Puerto que fue obra de tres chicos, uno menor, a los que ofreció dinero por sexo durante las fiestas de Semana Santa. Este trabajo de Ainhoa de las Heras y Josemi Benítez fue publicado en El Correo en septiembre de 2021 y muestra cómo el periodismo cómic puede utilizarse para narrar eficazmente historias con enfoque local.
 
 ![]({{ site.baseurl }}/images/shots/cartel-asfalto.jpg)
 
