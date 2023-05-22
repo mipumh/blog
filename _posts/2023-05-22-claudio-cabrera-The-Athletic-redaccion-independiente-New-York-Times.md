@@ -43,7 +43,7 @@ Por eso ahora estamos en pensando en una nueva estrategia *first read*, porque s
 
 Y está cambiado mucho, de hecho, porque si miramos la audiencia que tenemos ahora, esta es más de un 100% respecto al año pasado. Es una diferencia grande y por ello creemos que hay mucho más espacio para crecer.
 
-![image alt text]({{ site.baseurl }}/images/shots/cabrera1.png)
+![image alt text]({{ site.baseurl }}/images/shots/cabrera2.png)
 
 **- En _The Athletic_ están apostando por los verticales, como [el creado a principios de 2023 sobre Fórmula Uno](https://www.nytco.com/press/the-athletic-launches-in-depth-coverage-of-formula-one/), y por otro lado, están ampliando coberturas a partir de nuevas redacciones como la creada en Madrid para aumentar [la información sobre la Liga española de fútbol](https://theathletic.com/football/la-liga/). Toda esta diversificación de contenidos responde también a ese objetivo de crecer en audiencia.**
 
@@ -69,7 +69,7 @@ Y en cuanto a los verticales, es otra apuesta muy importante. Hay que decir ante
 
 Y luego cuando ves *The New York Times* realmente ves que es un producto de ‘familias’: *NYT* es noticias, Cooking es cocina, Wordle es juegos, Wirecutter es un producto y *The Athletic* es deportes. Lo que la marca *NYT* está tratando de hacer es tener un córner en cada casa para que se consuma y, a partir de ahí, la gente se suscriba al periódico. Esta es la estrategia que se sigue y *The Athletic* forma parte de ella.
 
-![image alt text]({{ site.baseurl }}/images/shots/cabrera2.png)
+![image alt text]({{ site.baseurl }}/images/shots/cabrera3.png)
 
 **- Cuando _The New York Times_ compró _The Athletic_ mucha gente se preguntó qué iba a ocurrir con la redacción de Deportes de ambos medios. ¿Van a seguir trabajando de forma independiente o hay algún plan para crear sinergias entre ambas marcas?**
 
