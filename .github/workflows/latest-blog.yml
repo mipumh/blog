@@ -22,7 +22,7 @@ jobs:
           path: site
 
       - name: Copy blog posts to site repository yeaaah!
-        run:
+        run: |
           cp -r blog/_posts/* site/_posts/
           cd site
           git config user.name "GitHub Actions"
@@ -30,3 +30,4 @@ jobs:
           git add _posts/
           git commit -m "Updated blog posts"
           git push https://${{ secrets.GH_PAT }}@github.com/mipumh/mipumh.github.io.git
+  
