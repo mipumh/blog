@@ -1,0 +1,32 @@
+name: Blog to Site
+
+on:
+  push:
+    branches:
+      - gh-pages  # Cambia esto por la rama donde publicas tus entradas de blog
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out blog repository
+        uses: actions/checkout@v2
+        with:
+          repository: mipumh/blog
+          path: blog
+
+      - name: Check out site repository
+        uses: actions/checkout@v2
+        with:
+          repository: mipumh/mipumh.github.io
+          path: site
+
+      - name: Copy blog posts to site repository
+        run: |
+          cp -r blog/_posts/* site/blog/_posts/
+          cd site
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+          git add _posts/
+          git commit -m "Updated blog posts"
+          git push
