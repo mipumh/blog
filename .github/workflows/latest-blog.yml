@@ -21,7 +21,7 @@ jobs:
           repository: mipumh/mipumh.github.io
           path: site
 
-      - name: Copy blog posts to site repository
+      - name: Copy blog posts to site repository yeaaah!
         run: |
           cp -r blog/_posts/* site/_posts/
           cd site
