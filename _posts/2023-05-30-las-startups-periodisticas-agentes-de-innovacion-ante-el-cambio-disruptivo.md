@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Las startups periodísticas, agentes de innovación ante el cambio disruptivo
+author:
+  name: Jose A. García Avilés
+  twitter: jagaraviles
+  gplus:  
+  bio: Coordinador Módulo Audiencias
+  image: jga.webp
+  link: https://twitter.com/jagaraviles
 ---
 Hace una década, la cultura de las startups periodísticas tuvo su auge en el ecosistema mediático tradicionalmente dominado por los *legacy* *media*. En el entorno actual, cada vez más disruptivo, algunas startups están impulsando el cambio en áreas como la Inteligencia Artificial, la Realidad Mixta, el Big Data o la publicidad programática. Sin embargo, no es oro todo lo que reluce en el ‘mundo startup’, como ponen de manifiesto [el cierre de Buzzfeed News y la quiebra técnica de Vice News](https://www.theguardian.com/commentisfree/2023/may/16/vice-bankruptcy-buzzfeed-news-dead-digital-age-revenue), empresas que prometían “reinventar el periodismo”.
 
