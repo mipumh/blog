@@ -23,7 +23,7 @@ jobs:
 
       - name: Copy blog posts to site repository
         run: |
-          cp -r blog/_posts/* blog/_posts/
+          cp -r blog/_posts/* _posts/
           cd site
           git config user.name "GitHub Actions"
           git config user.email "github-actions@github.com"
