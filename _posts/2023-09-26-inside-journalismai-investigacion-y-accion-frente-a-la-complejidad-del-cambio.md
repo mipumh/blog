@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ¿De medios digitales a medios IA? Reflexión y acción frente a las nuevas
-  brechas tecnológicas
+title: "Inside JournalismAI: investigación y acción frente a la complejidad del cambio"
 author:
   name: Félix Arias
   twitter: cibermensaje
