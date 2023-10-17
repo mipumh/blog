@@ -37,7 +37,6 @@ privadas o semiprivadas y hallan un espacio más confiable, seguro y con
 menor grado de toxicidad.
 
 ![]({{ site.baseurl }}/images/shots/1_dnsre.jpg)
-
 <sup>Gráfico del *Digital News Report 2023*. Reuters Institute.
 
 En segundo lugar, y esto ya lo veíamos venir, el vídeo se confirma como
@@ -58,7 +57,6 @@ de 95
 minutos](https://pressgazette.co.uk/social_media/tiktok-publishers-can-learn-addictive-algorithm-reduce-churn/).
 
 ![]({{ site.baseurl }}/images/shots/2_zaffa.jpg)
-
 <sup>Newsletter de Francesco Zaffarano sobre periodismo y redes sociales.
 
 ### **Una asignatura pendiente para el periodismo**
@@ -101,7 +99,6 @@ imposibilidad de llegar a ellos a través de esa puerta ligeramente
 entreabierta que es el algoritmo de TikTok.
 
 ![]({{ site.baseurl }}/images/shots/3_relevo.jpg)
-
 <sup>Creatividad de *Relevo* en TikTok.
 
 ### Estrategias de redes y propuestas de contenidos desde medios deportivos
@@ -136,9 +133,7 @@ TikTok estaría ahora mismo en un primer o segundo lugar", agrega
 Benítez. 
 
 ![]({{ site.baseurl }}/images/shots/4_tikttok.png)
-
-<sup>*How Publishers are Learning to Create and Distribute News on TikTok*
-(2022). Reuters Institute
+<sup>*How Publishers are Learning to Create and Distribute News on TikTok* (2022). Reuters Institute
 
 Efectivamente, la naturaleza del medio y la estructura demográfica de su
 redacción suelen tener reflejo claro y directo en la apuesta editorial
@@ -166,7 +161,6 @@ contratación de nuevos perfiles. Su frecuencia de publicación es
 inferior a la de *Relevo,* con una media de seis vídeos diarios.
 
 ![]({{ site.baseurl }}/images/shots/5_marca.jpg)
-
 <sup>Vídeo explicativo de un redactor de Marca en TikTok.
 
 Elizarri subraya que en *Relevo* apostaron desde el principio por los
@@ -199,13 +193,7 @@ una tendencia de TikTok a modo de humor, retos con la gente en la calle,
 clips de entrevistas a deportistas, ruedas de prensa o coberturas de
 eventos deportivos in situ".
 
-Las claves de *Marca* en TikTok pasan por hacer un vídeo atractivo,
-directo, con el lenguaje propio de esta plataforma. "También es
-importante sumarse a las tendencias que va marcando la propia red social
-y no sus creadores ni la conversación. TikTok ha revolucionado los
-algoritmos de todas las redes sociales porque su éxito radica en restar
-importancia a tus seguidores; el contenido no se mueve en función de
-estos", indica Alberto Benítez.
+Las claves de *Marca* en TikTok pasan por hacer un vídeo atractivo, directo, con el lenguaje propio de esta plataforma. “También es importante sumarse a las tendencias que va marcando la propia red social más que sus creadores o la conversación. TikTok ha revolucionado los algoritmos de todas las redes sociales porque su éxito radica en restar importancia a tus seguidores; el contenido no se mueve en función de estos”, indica Alberto Benítez.
 
 Parece claro que la trascendencia que a partir de ahora puedan conseguir
 los medios deportivos en TikTok dependerá en buena medida de la
