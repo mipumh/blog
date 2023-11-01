@@ -18,7 +18,7 @@ Históricamente, la práctica periodística ha estado dominada por una visión u
 
 Conviene fomentar la cultura de la investigación de usuarios para repensar las rutinas productivas. Es la piedra angular de cualquier producto digital exitoso que no sea fruto de un talento excepcional o un golpe de suerte algorítmico. Cada vez se investiga más a las audiencias para determinar qué [necesidades](https://building.theatlantic.com/weve-spent-two-years-studying-readers-listeners-needs-of-the-atlantic-2a84ff9a57d1) atender. Shishkin recoge [una lista de más de 25](https://docs.google.com/spreadsheets/d/1rySCpQ5MsvLHOXvCyeOuu-lWyTJnID11cSSw9qpZ2ps/edit#gid=0) casos con enfoques similares. Como le [dijo a Ismael Nafría](https://tendencias.substack.com/p/tendencis-que-es-el-modelo-de-necesidades?utm_source=post-email-title&publication_id=19330&post_id=136908692&utm_campaign=email-post-title&isFreemail=true&r=3thg6&token=eyJ1c2VyX2lkIjo2NDE0NDg2LCJwb3N0X2lkIjoxMzY5MDg2OTIsImlhdCI6MTY5NDM3Nzg2OSwiZXhwIjoxNjk2OTY5ODY5LCJpc3MiOiJwdWItMTkzMzAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.tHtbKRAvFRFU92MObblcLqH2X4LrhCc_M1BkBlsRZW8), de este modo las organizaciones periodísticas definen qué lugar ocupan en el mercado y comparten esa visión estratégica con sus equipos. 
 
-La matriz de *"User Needs"* destaca ocho necesidades específicas en los públicos: *actualízame*, *mantenme** enganchado*, *edúcame*, *dame perspectiva*, *ayúdame, conéctame*, *inspírame* y *diviérteme*. La misión es reconocer y atender esas demandas con formatos y propuestas valiosas. Shishkin explicó a Nafría que el concepto surgió cuando trabajaba en el equipo de investigación de audiencias de la BBC. Con sus colegas elaboró el germen y lo circuló entre diversos departamentos para impulsar formatos innovadores. La versión actual, más avanzada y completa, parte de los cuatro pilares que los lectores buscan en el periodismo: saber (datos y hechos), hacer (prácticas y acciones), entender (contexto e ideas) y sentir (emociones). De estas fuentes emanan las ocho necesidades descritas:
+La matriz de *"User Needs"* destaca ocho necesidades específicas en los públicos: ***actualízame*, *mantenme enganchado*, *edúcame*, *dame perspectiva*, *ayúdame, conéctame*, *inspírame* y *diviérteme***. La misión es reconocer y atender esas demandas con formatos y propuestas valiosas. Shishkin explicó a Nafría que el concepto surgió cuando trabajaba en el equipo de investigación de audiencias de la BBC. Con sus colegas elaboró el germen y lo circuló entre diversos departamentos para impulsar formatos innovadores. La versión actual, más avanzada y completa, parte de los cuatro pilares que los lectores buscan en el periodismo: **saber** (datos y hechos), **hacer** (prácticas y acciones), **entender** (contexto e ideas) y **sentir** (emociones). De estas fuentes emanan las ocho necesidades descritas:
 
 ![image alt text]({{ site.baseurl }}/images/shots/userneeds_1.jpg)
 
@@ -32,7 +32,7 @@ El usuario habitualmente necesita información para satisfacer la pura necesidad
 
 La mayoría de medios tiende a sobredimensionar este tipo de periodismo y no siempre genera los mejores resultados estratégicos; se trata de información ampliamente alcanzable, una *commodity*, que, en muchas ocasiones, se queda huérfana de seguimiento.
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * [Live blogs con actualizaciones](https://elpais.com/internacional/2023-11-01/guerra-entre-israel-y-gaza-en-directo.html)
 
@@ -42,7 +42,7 @@ Algunos ejemplos:
 
 * [Exclusivas](https://twitter.com/elconfidencial/status/1716741322810568930)
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [El boletín en audio a:m](https://open.spotify.com/show/2pXBpdfJoAo2iNz5G25nCP), de Kloshletter, en Spotify
 
@@ -56,7 +56,7 @@ Los lectores quieren seguir conectados con la información. Su curiosidad les mo
 
 Los medios pueden orientar sus propuestas de valor hacia esta necesidad porque mantener a la audiencia conectada es una oportunidad de generar hábito e interés por el producto. 
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * [Reacciones a una noticia](https://twitter.com/elconfidencial/status/1703710456299520147) 
 
@@ -70,7 +70,7 @@ Algunos ejemplos:
 
 * Ejemplo: [Cuánto subirá tu hipoteca con el alza del euríbor](https://www.eldiario.es/economia/calculadora-subira-hipoteca-interes-variable-cuota-alza-euribor_1_9619101.html) (eldiario.es)
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * Canal de WhatsApp del [Financial Times "Israel-Hamas news](https://whatsapp.com/channel/0029Va6Wief4IBhFWSRqF611)"
 
@@ -82,7 +82,7 @@ Propuestas de valor:
 
 El usuario quiere entender por qué y comprender el contexto de lo que está pasando. Aprender algo como ciudadano, como profesional o como apasionado de una temática es imprescindible para los lectores. En estos tiempos, con el ruido y la aceleración informativa, las noticias se desdibujan o envejecen rápido. Las piezas que atienden esta necesidad alimentan su curiosidad y explican el tema de forma asequible. Cumplir su función educativa permitirá al medio fortalecer la relación con su audiencia.
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * Preguntas y respuestas sobre el tema
 
@@ -102,7 +102,7 @@ Algunos ejemplos:
 
 * Ejemplo: [¿Ganas más o menos que tus vecinos?](https://www.elconfidencial.com/espana/2023-10-30/ganas-mas-o-menos-que-tus-vecinos-el-mapa-de-la-renta-calle-a-calle_3764368/), El Confidencial
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [Marketing Online](https://podcasts.apple.com/es/podcast/marketing-online/id879629380)
 
@@ -118,7 +118,7 @@ En un mar de información es fácil perderse. Por eso la audiencia siente la nec
 
 No se trata de ofrecer contenidos polarizados que le den el menú ideológico resuelto, sino todo lo contrario: contar con fuentes independientes una visión panorámica del hecho, acontecimiento o tema, que permita descubrir diversos puntos de vista y ayuden al lector a decidir qué pensar sobre ello. Las voces de expertos en las historias, la participación de columnistas o las entrevistas crean una opinión y ofrecen al lector argumentos para posicionarse. 
 
-Algunos formatos:
+**Algunos ejemplos**:
 
 * Entrevistas, crónicas, reportajes, columnas, editoriales
 
@@ -130,7 +130,7 @@ Algunos formatos:
 
 * [Factchecking](https://twitter.com/Newtral/status/1684236580003741697), de Newtral
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [La ContraCrónica](https://www.ivoox.com/podcast-contracronica_sq_f1267769_1.html)
 
@@ -142,7 +142,7 @@ Propuestas de valor:
 
 Los medios no sólo informan, también ayudan. Las personas consumen productos periodísticos para hacer cosas, desde lo general (funcionar como mejores ciudadanos) a lo particular (cocinar la mejor fideuá el domingo que viene). Por tanto, buscan información que pueden "usar" en su vida. Siempre han atendido esta necesidad: ayudaban a los monarcas a tomar decisiones geopolíticas, a los mercaderes a definir los precios de sus cosechas y a los agentes de bolsa a mover su dinero. Las audiencias de actualidad general o especializada, ya sean profesionales o consumidores, demandan formatos y propuestas que le ayuden a desenvolverse mejor en su vida.
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * Preguntas y respuestas
 
@@ -156,7 +156,7 @@ Algunos ejemplos:
 
 * Ejemplo: [Be witness](https://lab.rtve.es/be-witness/), RTVE Lab
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [The Wirecutter](https://www.nytimes.com/wirecutter/)
 
@@ -168,7 +168,7 @@ Más allá de la información, los lectores buscan sentirse parte de una comunid
 
 Hoy esta tarea la resuelven las redes sociales, aunque cada vez con menos calidez y cercanía por la búsqueda frenética de la atención monetizable. Los medios tienen la oportunidad de recuperar esas historias creadas para conectar a personas con ideas y experiencias. 
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * Sección de eventos y noticias locales
 
@@ -182,7 +182,7 @@ Algunos ejemplos:
 
 * Ejemplos: [18 días llamando al teléfono de ayuda para ingreso vital](https://civio.es/2023/05/18/18-dias-llamando-cada-media-hora-para-que-alguien-responda-al-telefono-de-ayuda-del-imv/) (Civio)
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [Pamplonews](https://www.pamplonews.com/)
 
@@ -196,7 +196,7 @@ Las historias inspiradoras perduran emocionalmente en los lectores. Los usuarios
 
 El tipo de contenidos que atiende esta necesidad suelen dejarle con buen sabor de boca. En lo profesional o lo social, el ser humano quiere empatizar con otras vidas para trasladar ese aprendizaje a su vida cotidiana. El "periodismo de soluciones" ofrece una perspectiva constructiva para paliar el torrente negativo de la actualidad. 
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * Reportajes inspiradores de interés humano
 
@@ -212,7 +212,7 @@ Algunos ejemplos:
 
 * [Periodismo cómic](https://mip.umh.es/blog/2023/04/18/el-periodismo-comic-una-formula-creativa-para-contar-historias-3/)
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [Correo sí deseado](https://plus.elpais.com/newsletters/lnp/1/476)
 
@@ -228,7 +228,7 @@ Finalmente, el lector quiere desconectar. Necesita un descanso mental, un *snack
 
 La actualidad más dura puede ser contada de una forma divertida, de ahí la popularidad de la gamificación en el periodismo y la cada vez más frecuente presencia del vídeo o la infografía que aporta perspectiva y entretiene.
 
-Algunos ejemplos:
+**Algunos ejemplos**:
 
 * Vídeo de interés humano, humor, curiosidad
 
@@ -240,7 +240,7 @@ Algunos ejemplos:
 
 * Visto en redes sociales
 
-Propuestas de valor:
+**Propuestas de valor**:
 
 * [The Rewatchables](https://www.theringer.com/the-rewatchables)
 
