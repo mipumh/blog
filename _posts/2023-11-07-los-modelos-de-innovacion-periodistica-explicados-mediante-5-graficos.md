@@ -27,7 +27,7 @@ Este modelo define la innovación según dos dimensiones: la tecnología que uti
 
 - Innovación incremental sostenible: Es similar a la innovación rompedora. Su diferencia radica en que el ámbito también está bien definido, lo que significa que la empresa conoce el enfoque correcto para llegar al resultado deseado. Proporciona mejoras incrementales en el producto, servicio o en la propia organización.
 
-- Investigación básica: Aunque muchos no la consideran una innovación, sigue siendo clave para que un proyecto crezca porque puede dar lugar a nuevos descubrimientos tecnológicos que pueden ser útiles para la empresa. Las estrategias de este cuadrante son para aquellos casos en los que el problema y el ámbito no están bien definidos.
+- Innovación básica: Aunque muchos no la consideran una innovación, sigue siendo clave para que un proyecto crezca porque puede dar lugar a nuevos descubrimientos tecnológicos que pueden ser útiles para la empresa. Las estrategias de este cuadrante son para aquellos casos en los que el problema y el ámbito no están bien definidos.
 
 - Innovación disruptiva: Se trata de aquellas innovaciones con un dominio bien definido y un problema que no está bien definido. Suelen dar lugar a productos o servicios que rompen con las empresas que monopolizan un sector y generan la irrupción de nuevos actores que pasan a controlar el mercado.
 
