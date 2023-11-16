@@ -1,4 +1,4 @@
-Este es el blog oficial del Master de Innovación en Periodismo (MIP), un espacio para informar sobre el programa y para dar noticias, sugerir ideas y hablar de las tendencias de una industria en transición. El [MIP](http://mip.umh.es) es un título oficial de postgrado de la Universidad Miguel Hernández (Elche,España) organizado por [Periodismo UMH](http://periodismo.umh/).
+Esta es una publicación oficial del Master de Innovación en Periodismo (MIP), un espacio para informar sobre el programa y para dar noticias, sugerir ideas y hablar de las tendencias de una industria en transición. El [MIP](http://mip.umh.es) es un título oficial de postgrado de la Universidad Miguel Hernández (Elche,España) organizado por [Periodismo UMH](http://periodismo.umh/).
 
 **El programa**
 	
