@@ -10,7 +10,7 @@ author:
   link: https://twitter.com/mipumh
 permalink: /about/
 ---
-Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es/?utm_source=blogabout&utm_campaign=about) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en **modalidad 100% online**. En este blog seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
+Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es/?utm_source=blogabout&utm_campaign=about) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en **modalidad 100% online**. En esta publicación seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
 
 ## Editor (dirección y desarrollo web)
 
@@ -32,7 +32,7 @@ Con este Máster, el estudiante será capaz de **entender cómo está cambiando 
 
 Este postgrado se imparte 100% en modalidad online. Los estudiantes acceden a la plataforma virtual para asistir a las clases en vídeos, con foros y encuentros virtuales en directo con los profesores y compañeros. 
 
-* **[Blog](http://mip.umh.es/blog)** - Dirección del blog.
+* **[Revista](http://mip.umh.es/blog)** - Dirección del blog.
 * **[Twitter](https://twitter.com/mipumh)** - Cuenta oficial del Máster.
 * **[Facebook](http://www.facebook.com/mipumh)** - Página en Facebook.
 
