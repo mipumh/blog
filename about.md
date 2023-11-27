@@ -10,9 +10,13 @@ author:
   link: https://twitter.com/mipumh
 permalink: /about/
 ---
-Somos profesores, periodistas y estudiantes del [Master en Innovación en Periodismo](http://mip.umh.es/?utm_source=blogabout&utm_campaign=about) (MIP), un título oficial de postgrado de la Universidad Miguel Hernández (Elche, España) que se imparte en **modalidad 100% online**. En esta publicación seguimos las tendencias del periodismo, analizamos casos innovadores y entrevistamos a profesionales para dar pistas de una industria en cambio constante.
+La **Revista de Innovación en Periodismo** divulga casos, estudios y pistas obtenidos en la labor investigodora y docente de la comunidad académica del **Máster Universitario en Innovación en Periodismo** de la Universidad Miguel Hernández. El objetivo de la publicación es acercar las nuevas tendencias de la industria periodística y de la práctica profesional a periodistas y estudiantes.
 
-## Editor (dirección y desarrollo web)
+La publicación está adscrita al departamento de Ciencias Sociales y Humanas de la UMH, editada por la [Universidad Miguel Hernández](https://editorial.umh.es/) (Elche, España).
+
+**Edita**: Área de Periodismo, departamento de Ciencias Sociales y Humanas de la UMH, Universidad Miguel Hernández.
+
+## Director (edición y desarrollo web)
 
 <section class="index"><img src="{{ site.baseurl }}/images/yo.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/mcarvajal_" title="Miguel Carvajal" target="_blank">Miguel Carvajal</a></strong><br><span class="muted">Periodista y profesor de Periodismo en la Universidad Miguel Hernández. Leo y escribo sobre modelos de negocio y proyectos periodísticos. Doctor en Empresa Informativa por la Universidad de Navarra (2006).</span></p></div></section>
 
