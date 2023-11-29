@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Mauricio Cabrera, consultor de medios: “En la era de la IA, los
-  periodistas vamos a seguir siendo relevantes. Pero hemos de entender cómo
-  adaptarnos”."
+title: "Mauricio Cabrera, consultor de medios: “En la era de la IA, los periodistas vamos a seguir siendo relevantes. Pero hemos de entender cómo
+  adaptarnos”"
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
