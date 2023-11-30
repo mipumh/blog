@@ -12,7 +12,7 @@ author:
 ---
 El mexicano [Mauricio Cabrera](http://mauriciocabrera.com/) se describe como un “terapeuta de contenidos” y “obsesivo de la Creator Economy”. En 2017 lanzó **Story Baker**, un medio de medios en el que mediante su [newsletter](https://www.storybaker.co/) diaria, podcasts, eventos y publicaciones, analiza las tendencias de la industria de los medios y conversa con las voces más relevantes en los países de habla hispana. Previamente se desempeñó durante casi dos décadas en el sector, como director editorial de Medio Tiempo, de Yahoo! México y CDO de Prowell Media y también fundó juanfutbol, del que fue director general. En esta entrevista, Mauricio Cabrera ofrece un valioso análisis de la situación actual de los medios y plantea cómo los periodistas pueden innovar en su trabajo.
 
-![]({{ site.baseurl }}/images/shots/mauricio1.jpg)
+![]({{ site.baseurl }}/images/001/mauricio1.jpg)
 
 **¿Te consideras un innovador?**
 
@@ -24,7 +24,7 @@ Estoy madurando un proyecto al que llamo “Co-newsroom”, que es literalmente 
 
 > “Recomiendo que el periodista cree un *side project*, habilitando un espacio en el que sea capaz de lograr un hábito y empezar a construir su audiencia”.
 
-![]({{ site.baseurl }}/images/shots/mauricio3.jpg)
+![]({{ site.baseurl }}/images/001/mauricio3.jpg)
 
 **Desde 2017 estás constantemente experimentando con Story Baker; luego has ido probando con TikTok y Twitch. La mayoría de los periodistas siguen anclados en sus rutinas y les cuesta mucho vencer la resistencia y lanzarse a innovar. ¿Cómo pueden hacerlo si sienten miedo a entrar en esa dinámica de la innovación?**
 
@@ -44,7 +44,7 @@ Segundo, te encuentras directivos que dicen, “¿contrato a alguien específico
 
 Hemos de entender que las historias son multiformato. Porque si no, ¿qué te va a pasar? Eres el creador de una columna y cuando se vaya a convertir en una serie de televisión o en un programa, no te van a terminar aceptando porque tú mismo dices que nada más estás hecho para escribir una columna. Cuando tienes que estar abierto a entender que mis historias trascienden por cómo las cuento, pero ese cómo las cuento se debe trasladar a cualquier tipo de formato. Debo entender y adaptarme a esos lenguajes para poder impactar en los distintos caminos que se presenten.
 
-![]({{ site.baseurl }}/images/shots/mauricio4.jpg)
+![]({{ site.baseurl }}/images/001/mauricio4.jpg)
 
 **Me gustaría que reflexionaras sobre cómo podemos innovar en la forma de contar, en las narrativas, en las ideas. Porque a veces se asocia la innovación a la tecnología y las herramientas. Y me interesa mucho cómo podemos innovar en las formas de contar o en los temas y en cómo trasladarlas a los usuarios.**
 
@@ -56,7 +56,7 @@ Si muestro el trailer de Barbenheimer, por ejemplo, hecho por un usuario mediant
 
 Muchas veces me dicen, ¿cómo haces un newsletter diario? Y me lo dice gente que tiene a muchos redactores en su redacción. Si decidieras que hay una persona que, en vez de estar haciendo decenas de notas al día, puede hacer algo en profundidad, que al principio le lleve tres horas, después dos horas y después posiblemente una hora y media, lo podrías hacer. Hay algo de talento, pero sobre todo hay práctica, referencias que tomas y las conectas. Y eso es lo que está faltando porque tienes al reportero obsesionado en mil cosas con un generalismo que le hace muchísimo daño al mercado hispanoparlante de los medios.
 
-![]({{ site.baseurl }}/images/shots/mauricio2.jpg)
+![]({{ site.baseurl }}/images/001/mauricio2.jpg)
 
 **Hemos visto curvas de aceptación de tecnologías aparentemente disruptivas como blockchain, los NFTs, o el metaverso, que ahora están de bajada. En cambio, la IA está generando mayor disrupción. ¿Cómo va a transformar la IA el periodismo?**
 
@@ -74,7 +74,7 @@ Segundo, la ampliación del abanico de anunciantes particularmente en los mercad
 
 Hemos de aceptar que la dinámica de qué es un buen negocio en medios ha cambiado y posiblemente ahora se trata de tener menos gente, más talentosa, con unidades de negocio y que el periodista tenga claro lo que está pasando. Lo que llevo mucho tiempo haciendo no genera ingresos. Y el tener esta atención hacia el ingreso no significa que vayas a sacrificar tu credibilidad periodística, más bien significa entender el mundo en el que vivimos y buscar cómo generar productos para que puedan vivir de algo, de anunciantes, de suscripciones, de donaciones, de colaboraciones, de crowdfunding, de mil posibilidades.
 
-![]({{ site.baseurl }}/images/shots/mauricio5.jpg)
+![]({{ site.baseurl }}/images/001/mauricio5.jpg)
 
 **Pensando en los jóvenes que terminan su máster, su carrera, y quieren trabajar en periodismo, ¿cuál sería tu consejo más valioso? ¿Qué le dirías hoy al Mauricio de hace 25 años?**
 
