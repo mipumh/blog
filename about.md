@@ -14,7 +14,7 @@ La **Revista de Innovación en Periodismo** divulga casos, estudios y pistas obt
 
 La publicación está adscrita al departamento de Ciencias Sociales y Humanas de la UMH, editada por la [Universidad Miguel Hernández](https://editorial.umh.es/) (Elche, España).
 
-**Edita**: Área de Periodismo, departamento de Ciencias Sociales y Humanas de la UMH, Universidad Miguel Hernández.
+**Edita**: Área de Periodismo, departamento de Ciencias Sociales y Humanas de la UMH, Universidad Miguel Hernández (Elche, España).
 
 ## Director (edición y desarrollo web)
 
