@@ -10,6 +10,8 @@ author:
   image: flx.webp
   link: https://twitter.com/flxarias
 ---
+Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *inteligencia artificial*. 
+
 **Expertos entrevistados**
 
 * Miguel Ángel Román, cofundador, Instituto de Inteligencia Artificial
