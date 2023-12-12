@@ -7,10 +7,12 @@ author:
   name: Miguel Paisana
   twitter: paisana_miguel
   gplus:  
-  bio: Investigador en ISCTE-IUL (Portugal)
+  bio: Investigador del ISCTE-IUL (Portugal)
   image: paisana.jpeg
   link: https://twitter.com/paisana_miguel
 ---
+Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *audiencias*. 
+
 **Expertos entrevistados**
 
 * Pepe Cerezo Gilarranz, Director Evoca Media
