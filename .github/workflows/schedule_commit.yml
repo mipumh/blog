@@ -1,0 +1,23 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Esto ejecuta el script a medianoche UTC todos los días
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      
+    - name: Configure git
+      run: |
+        git config --global user.email "esintomatico@gmail.com"
+        git config --global user.name "miguelcarvajal"
+
+    - name: Create empty commit
+      run: |
+        git commit --allow-empty -m "Commit diario automático"
+        git push
