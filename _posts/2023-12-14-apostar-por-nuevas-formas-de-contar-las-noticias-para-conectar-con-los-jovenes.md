@@ -20,7 +20,7 @@ Publicamos un nuevo análisis sobre las tendencias que impactarán en el panoram
 * Fátima Lopes Cardoso, coordinadora de la licenciatura de Periodismo, profesora adjunta, Escola Superior de Comunicação Social, Instituto Politécnico de Lisboa
 * Urbano Garcia Alonso, Director de Innovación y Digital de RTVE
 
-![]({{ site.baseurl }}/images/001/formación-1.png)
+![]({{ site.baseurl }}/images/001/formacion-1.png)
 
 La formación en el ámbito de los medios y del periodismo requiere una adaptación constante a las innovaciones tecnológicas y a los contextos sociales, y la exploración de nuevas habilidades y procedimientos. La integración de la IA en las redacciones está provocando mayores expectativas e incertidumbre. Los entrevistados lo entienden como una herramienta que requerirá habilidades adicionales por parte de los periodistas, cuyo buen uso puede ahorrar trabajo rutinario, aunque admiten que puede haber cierto desconocimiento sobre su papel en la producción periodística. Menos discutible es la importancia del conocimiento en el análisis de datos y la verificación exhaustiva de los hechos. Otra de las líneas curriculares que se está imponiendo de manera consolidada consiste en la construcción de noticias en diferentes formatos y narrativas, con énfasis en el vídeo y el audio, para responder al creciente consumo a través de las redes sociales y a la economía de la atención provocada por el uso de dispositivos móviles.
 
@@ -50,7 +50,7 @@ La necesidad de una constante actualización formativa por parte del periodista 
 * **Intentar devolver a los lectores la confianza en la información**, utilizando también mecanismos de verificación dinámicos y adaptables. “Estamos al borde de la irrelevancia porque ya no tenemos el monopolio de la producción de información ni somos capaces de incorporar nuevos creadores de contenidos a nuestro concepto y a nuestro flujo de trabajo” (Urbano García Alonso).
 * **Crear una mentalidad centrada en el producto**, teniendo en cuenta la intersección entre tecnología, creatividad y distribución (Urbano García Alonso).
 
-![]({{ site.baseurl }}/images/001/formación-2.png)
+![]({{ site.baseurl }}/images/001/formacion-2.png)
 
 ### Oportunidades
 
