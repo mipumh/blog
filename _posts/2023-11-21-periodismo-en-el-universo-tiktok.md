@@ -4,7 +4,7 @@ title: Periodismo en el universo TikTok
 author:
   name: Alicia de Lara
   twitter: porqueeeyo
-  gplus: 104274993391260139803 
+  gplus:  
   bio: Profesora Titular en Periodismo UMH
   image: alicia.webp
   link: https://twitter.com/porqueeeyo
