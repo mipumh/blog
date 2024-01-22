@@ -16,6 +16,8 @@ La publicación está adscrita al departamento de Ciencias Sociales y Humanas de
 
 **Edita**: Área de Periodismo, departamento de Ciencias Sociales y Humanas de la UMH, Universidad Miguel Hernández (Elche, España).
 
+**ISSN**: 3020-383X
+
 ## Director (edición y desarrollo web)
 
 <section class="index"><img src="{{ site.baseurl }}/images/yo.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/mcarvajal_" title="Miguel Carvajal" target="_blank">Miguel Carvajal</a></strong><br><span class="muted">Periodista y profesor de Periodismo en la Universidad Miguel Hernández. Leo y escribo sobre modelos de negocio y proyectos periodísticos. Doctor en Empresa Informativa por la Universidad de Navarra (2006).</span></p></div></section>
