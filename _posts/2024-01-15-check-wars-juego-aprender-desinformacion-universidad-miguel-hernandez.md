@@ -14,7 +14,7 @@ Imagina un futuro no muy lejano en el que la información se ha convertido en un
 
 El juego está pensado para 2-4 jugadores y combina técnicas de juego cooperativo (entre los miembros del mismo equipo) y competitivo (entre dos bandos). El objetivo es reunir 6 *checks* de verificación antes de que lo haga el equipo contrario. Para ello, los jugadores deben activar las cartas que ofrecen beneficios para su equipo o perjudican al contrario. En este artículo, explicamos el proceso de ideación y diseño de esta iniciativa, y por supuesto, te animamos a que juegues y lo pruebes con tus amigos. 
 
-![](https://lh7-eu.googleusercontent.com/VQiaHj7YhD9TGhKuEVAaccm2vnEw3YPnL8O_RPLwJTBb8QBvnhwkSCEVh7AlQqhGLs9DiZISm63Pjwor5hsSUlbh-dDWpiTRCDW3amMoE6M2MSgmMhMtsRNLGQ54-gKZ2Uk4R5x4F5K4FH2T3gkyApg)
+![]({{ site.baseurl }}/images/001/checkwars.png)
 
 ### La selección de los conceptos
 
