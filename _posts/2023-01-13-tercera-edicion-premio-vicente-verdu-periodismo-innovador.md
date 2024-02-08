@@ -12,7 +12,6 @@ author:
 En una época de cambios constantes, hay que recompensar los esfuerzos por innovar en el periodismo y aportar valor a la sociedad. Esa es la finalidad de la **tercera edición del Premio Vicente Verdú de Periodismo e Innovación**, que convoca la Asociación de Informadores de Elche (AIE), en colaboración con la Universidad Miguel Hernández (UMH) y el Ayuntamiento ilicitano. El premio está dotado con **6.000 euros para el trabajo ganador** y el jurado podrá conceder hasta **dos accésits, con una dotación de 500 euros** cada uno, que aportará el Ayuntamiento de Elche. El plazo de recepción se cerrará a las 18:00 horas del **28 de febrero de 2023**.
 
 ![]({{ site.baseurl }}/images/shots/vicente_verdu_tercero.jpeg)
-<sup> Reportaje de Civio, II Premio Vicente Verdú
 
 Los trabajos participantes en esta tercera edición deben haberse publicado, difundido o emitido en formato impreso o digital (au­dio, vídeo o multimedia) **entre el 1 de marzo y el 31 de diciembre de 2022** en prensa, radio, televisión, red social, plataforma o sitio web y en cualquier formato (texto, audio o vídeo). Los trabajos presentados se evaluarán en base a los siguientes criterios generales: 
 
