@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jose A. Navas, jefe de suscripciones (El Confidencial): “El buen periodismo vende suscripciones. Siempre que tenemos exclusivas potentes experimentamos crecimientos en altas”"
+title: "Jose A. Navas, jefe de suscripciones (El Confidencial): “El buen periodismo vende suscripciones. Siempre que tenemos exclusivas potentes crecemos”"
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
