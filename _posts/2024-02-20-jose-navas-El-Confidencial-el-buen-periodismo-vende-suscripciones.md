@@ -10,7 +10,7 @@ author:
 ---
 El periodista **Jose A. Navas** se incorporó a El Confidencial en 2019, pocos meses antes de que este periódico digital pionero en España lanzara su modelo de suscripción. Navas cuenta con más de quince años de experiencia en la industria mediática (Mediaset, Unidad Editorial, Atresmedia), en su mayoría como responsable de los equipos de transformación digital. 
 
-Actualmente es el jefe de producto de Suscripciones en El Confidencial, que ha alcanzado **los 55.000 suscriptores**, 70% de los cuales son anuales. El pago de los lectores supone alrededor del 15% de los ingresos de la compañía, que también cuenta con un gran pilar en su producto publicitario. En 2022, El Confidencial facturó 24 millones y alcanzó más de 4 millones de beneficio bruto.
+Actualmente es el jefe de producto de Suscripciones en El Confidencial, que ha alcanzado **los 55.000 suscriptores**, 70% de los cuales son anuales. El pago de los lectores supone alrededor del 15% de los ingresos de la compañía, que también cuenta con un gran pilar en su producto publicitario. En 2022, El Confidencial facturó 24 millones, con 4 millones de beneficio bruto.
 
 Le entrevistamos tras su paso por las aulas virtuales del Máster, en la asignatura Nuevos Modelos de Negocio, donde charló con el alumnado de la 11ª promoción sobre la gestión de la suscripción y el papel del jefe de producto.
 
