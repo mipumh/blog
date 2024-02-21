@@ -15,7 +15,7 @@ Actualmente es el jefe de producto de Suscripciones en El Confidencial, que ha a
 Le entrevistamos tras su paso por las aulas virtuales del Máster, en la asignatura Nuevos Modelos de Negocio, donde charló con el alumnado de la 11ª promoción sobre la gestión de la suscripción y el papel del jefe de producto.
 
 ![image alt text]({{ site.baseurl }}/images/001/1-navas.jpg)
-<sup> Jose A. Navas, jefe de Suscripciones en El Confidencial.</sup>
+<sup> Jose A. Navas, jefe de Suscripciones en El Confidencial (Fotografía: Sergio Beleña).</sup>
 
 **Pregunta. En EEUU parece que hay un frenazo al modelo de suscripción. ¿Cómo se ve desde España?**
 
