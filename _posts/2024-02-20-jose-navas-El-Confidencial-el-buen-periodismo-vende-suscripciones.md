@@ -77,15 +77,15 @@ Le entrevistamos tras su paso por las aulas virtuales del Máster, en la asignat
 
 **P. ¿De qué forma influyen en el negocio?**
 
-R. Las marcas que invierten en publicidad valoran las métricas de fidelidad (frecuencia, recurrencia y volumen), no solo el tráfico. Los lectores *lovers* originan cerca del 40% de nuestros ingresos de publicidad porque generan muchas páginas vistas. Además, constituyen el 35% de nuestras altas en suscripciones. Es decir, mantener y retener a los *lovers* es lo que nos va a ayudar a generar un mayor negocio, tanto en suscripciones como en ingreso publicitario.
+**R**. Las marcas que invierten en publicidad valoran las métricas de fidelidad (frecuencia, recurrencia y volumen), no solo el tráfico. Los lectores *lovers* originan cerca del 40% de nuestros ingresos de publicidad porque generan muchas páginas vistas. Además, constituyen el 35% de nuestras altas en suscripciones. Es decir, mantener y retener a los *lovers* es lo que nos va a ayudar a generar un mayor negocio, tanto en suscripciones como en ingreso publicitario.
 
 **P. ¿Y qué peso tienen entre los suscriptores de El Confidencial?**
 
-R. El 80% de los lectores que pagan por nuestro periódico son *lovers*. Son los más valiosos porque, como decía, además de pagar una suscripción, generan ingresos publicitarios. Si mantenemos a los suscriptores activos y enganchados, tienen una tasa de abandono un 33% menor que la media. Esto también nos ayuda en la retención de suscriptores, que es muy relevante porque es mucho más costoso captar a un nuevo suscriptor que retenerlo.
+**R**. El 80% de los lectores que pagan por nuestro periódico son *lovers*. Son los más valiosos porque, como decía, además de pagar una suscripción, generan ingresos publicitarios. Si mantenemos a los suscriptores activos y enganchados, tienen una tasa de abandono un 33% menor que la media. Esto también nos ayuda en la retención de suscriptores, que es muy relevante porque es mucho más costoso captar a un nuevo suscriptor que retenerlo.
 
 **P. ¿Cómo es posible que un segmento del 2,3% del tráfico genere tanto ingreso publicitario?**
 
-R. Las marcas de publicidad tienen en cuenta las métricas de calidad, no solo el número de impresiones publicitarias. Se interesan en si la gente hace clic en el anuncio e incluso van más allá. Al tener una audiencia más fiel y cualificada, ofrecemos mejores datos de rendimiento para estas marcas, algo crucial con los cambios venideros en políticas de cookies y en el rastreo entre webs. Por eso, tener una audiencia cualificada y poder segmentarla es cada vez más importante.
+**R**. Las marcas de publicidad tienen en cuenta las métricas de calidad, no solo el número de impresiones publicitarias. Se interesan en si la gente hace clic en el anuncio e incluso van más allá. Al tener una audiencia más fiel y cualificada, ofrecemos mejores datos de rendimiento para estas marcas, algo crucial con los cambios venideros en políticas de cookies y en el rastreo entre webs. Por eso, tener una audiencia cualificada y poder segmentarla es cada vez más importante.
 
 **P. Con la llegada de la IA generativa, parece que el tráfico procedente de los buscadores será cada vez más competido. Además los algoritmos volátiles de las plataformas complican la captación de audiencias.**
 
