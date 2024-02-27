@@ -16,7 +16,8 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    <meta property="og:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}https://mip.umh.es{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}/>   
+    <meta property="og:image" content="{% assign foundImage = 0 %}{% assign images = page.content | split:"<img " %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{% assign html = image | split:"/>" | first %}https://mip.umh.es{{ html | remove: 'alt=""' | remove: 'src="' }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}/>
+
     {% if page.excerpt %}
     <meta property="og:description" content="{{ post.excerpt | strip_html }}"/>
     {% else %}
