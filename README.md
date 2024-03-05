@@ -6,7 +6,7 @@ Dirigido a **periodistas o licenciados en Comunicación**, el programa pretende 
 
 [Más información »](http://bit.ly/XkRLxD)
 
-* **[Blog](http://mipumh.es/blog)** - Dirección del blog.
+* **[Blog](http://mip.umh.es/blog)** - Dirección del blog.
 * **[Twitter](http://twitter.com/mipumh)** - Cuenta oficial de Twitter.
 * **[Facebook](http://www.facebook.com/mipumh)** - Página de noticias en Facebook.
 
