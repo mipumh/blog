@@ -5,7 +5,7 @@ category: nomap
 [
   {% for post in site.posts %}
     {
-      "title"    : "{{ post.title | escape}}",
+      "title"    : "{{ post.title | escape_once}}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: "%d/%m/%Y" }}",
       "excerpt"  : "{{ post.excerpt | strip_html | strip_newlines }}",
