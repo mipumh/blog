@@ -33,9 +33,6 @@ layout: basepost
                     <div class="meta">
                     {% if page.periscopio == "si" %}
 
-                        Firma invitada: <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
-                        <time pubdate datetime="{{ page.date | date: "%d/%m/%YB" }}" title="{{ page.date | date: "%d/%m/%Y" }}">{{ page.date | date: "%d/%m/%Y" }}</time></address>
-
                         {% else %}
 
                         <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
@@ -57,6 +54,7 @@ layout: basepost
                 </section>
 
                 <footer>
+
                     <address>
                        {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}">{% endif %}
                         <p><strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>

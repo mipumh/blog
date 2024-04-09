@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Así son las noticias que elabora ‘Clarín’ para captar suscriptores digitales
+periscopio: si
 author:
   name: Ismael Nafría
   twitter: ismaelnafria
   gplus:  
-  bio: Periodista especializado en medios digitales
+  bio: Periodista y consultor especializado en medios digitales. Autor de la newsletter <a href="https://tendencias.substack.com/">Tendenci@s</a> y de los libros “La reinvención de The New York Times” y “Clarín, actualizado”
   image: nafria.jpeg
   link: https://twitter.com/ismaelnafria
 ---
@@ -105,6 +106,3 @@ Un estudio interno realizado por *Clarín* a partir de los 600 artículos que 
 La *home* o portada digital de *Clarín* “es la puerta de entrada de suscriptores y propensos a la suscripción”, según se señala en un documento interno creado por *Clarín* para preparar la última reorganización de su equipo periodístico, realizada en septiembre de 2022. Por esta razón, “la edición se realizará bajo el prisma del interés de este grupo de lectores”. ¿Qué supone esto en la práctica? Que el equipo debe “privilegiar los contenidos propios y con enfoque singular, incluso en las noticias urgentes. Las notas decisivas han de tener una presencia continua e importante en los primeros scrolls”.
 
 Un análisis interno realizado por *Clarín* indica que “de los 500.000 visitantes diarios a la home, los que entran más de tres veces por día no alcanzan el 5% de media diaria. Y más de 40% solo visita la home una vez por día”. Este es el motivo por el que “debemos ser muy cuidadosos -dicen los responsables del diario- en el mantenimiento de nuestras notas decisivas en posiciones de privilegio para poder mostrarlas al 95% de usuarios que nos visitan entre 1 y 3 veces por día”.
-
-* * *
-ISMAEL NAFRÍA. Periodista y consultor especializado en medios digitales. Autor de la newsletter [Tendenci@s](https://tendencias.substack.com/) y de los libros “La reinvención de The New York Times” y “Clarín, actualizado”.
