@@ -1,0 +1,30 @@
+I"<p>Tener un laboratorio de innovación periodística ya no es ninguna novedad. Las batas blancas y las probetas por sí solas no sirven: la fórmula del éxito ahora radica en los resultados de sus experimentos. Buenos ejemplos hay en todos los ámbitos, pero en la frontera que une la universidad con la profesión destaca uno por encima de los demás: el <a href="http://knightlab.northwestern.edu/">Knight Lab</a>.</p>
+
+<p>Esta iniciativa del Medill School of Journalism y la McCormick School of Engineering de la Northwestern University (Illinois) <a href="http://knightlab.northwestern.edu/about/">se define como</a> un <strong>equipo de periodistas y tecnólogos</strong> que trabajan para avanzar en la innovación de los medios a través de la exploración y la experimentación. Para ello, cuentan con el apoyo de tres fundaciones (la Knight, la Robert R. McCormick y la National Science) y <a href="http://knightlab.northwestern.edu/about/team/">el trabajo</a> de seis profesores, seis profesionales (la mayoría, desarrolladores informáticos) y diversos estudiantes.</p>
+
+<p><img src="https://db.tt/d5kFzrCL" alt="" /></p>
+
+<p>Con estas bases y, sobre todo, con <a href="http://www.pbs.org/mediashift/2013/12/how-northwesterns-knight-lab-finds-room-for-big-experimental-ideas/">unas ideas muy claras</a>, el Knight Lab ha logrado lanzar medio centenar de <a href="http://projects.knightlab.com/class-projects">proyectos periodísticos</a> y casi una decena de <a href="http://projects.knightlab.com/prototypes">prototipos</a> con la visualización y las redes sociales como eje principal.  La mayoría germinan en clase y se difunden a través de <a href="http://knightlab.northwestern.edu/events/">múltiples eventos</a>.</p>
+
+<p>Pero la principal contribución de este verdadero laboratorio se encuentra en las <a href="http://projects.knightlab.com/#toolbox">herramientas gratuitas</a> para periodistas que han ido elaborando desde hace ya tres años y que les han hecho <a href="http://www.clasesdeperiodismo.com/2014/08/30/conoce-los-3-proyectos-de-innovacion-para-el-periodismo-digital-nominados-al-ona/">candidatos a los Online Journalism Awards (ONA)</a>:</p>
+
+<ul>
+  <li>
+    <p><a href="http://projects.knightlab.com/projects/timelinejs">Timeline</a>. Permite crear líneas del tiempo limpias, embebibles y con múltiples elementos (Twitter, Flickr, Google Maps, YouTube, Vimeo, Vine, Dailymotion, Wikipedia, SoundCloud…). <a href="http://www.clasesdeperiodismo.com/2014/02/19/tutorial-para-crear-una-linea-de-tiempo-con-una-tabla-de-google/">Se crea</a> mediante una tabla de Google Drive y, aunque no es tan intuitivo como el resto, ha permitido a medios <a href="http://www.chicagotribune.com/bluesky/originals/chi-knight-lab-pulitzer-bsi-story.html">como Daily Breeze ganar un premio Pulitzer</a>.</p>
+  </li>
+  <li>
+    <p><a href="http://projects.knightlab.com/projects/soundcite">SoundCite</a>. A través de SoundCloud, habilita la reproducción de audios desde el propio texto sin necesidad de insertar el reproductor multimedia. De este modo, se pueden <a href="http://www.clasesdeperiodismo.com/2014/02/17/reproduce-las-declaraciones-de-tus-entrevistados-desde-el-texto/">atribuir directamente declaraciones</a> y fomentar la interactividad con el sonido.</p>
+  </li>
+  <li>
+    <p><a href="http://projects.knightlab.com/projects/juxtaposejs">Juxtapose</a>. Permite comparar dos imágenes mediante una <a href="http://www.pbs.org/idealab/2014/10/knight-labs-juxtaposejs-lets-you-compare-two-frames-to-tell-a-story/">línea móvil de separación</a>. Puede resultar muy expresivo para visualizar cambios entre “el antes” y “el después” de cualquier hecho de interés.</p>
+  </li>
+  <li>
+    <p><a href="http://projects.knightlab.com/projects/storymapjs">StoryMap</a>. Facilita la creación de historias con un eje espacial y -si se quiere- cronológico. Aunque está en fase beta, proporciona resultados muy efectivos con una <a href="http://www.clasesdeperiodismo.com/2014/02/19/crea-una-linea-de-tiempo-con-un-mapa/">interfaz sencilla</a>.</p>
+  </li>
+  <li>
+    <p><a href="http://projects.knightlab.com/projects/twxplorer-lab-project">twXplorer</a>. Se trata de una herramienta, todavía también en fase beta, que potencia <a href="http://www.theatlantic.com/technology/archive/2013/09/a-new-free-tool-lets-you-analyze-and-archive-twitter-simultaneously/279748/">la búsqueda en Twitter</a>. Además de la visualización y el análisis de datos, facilita el archivo de los contenidos de la red de microblogging.</p>
+  </li>
+</ul>
+
+<p>Gran parte de estos programas se emplearon en el taller sobre webdocs y relatos interactivos que Miriam Hernanz, redactora del <a href="http://lab.rtve.es/about">RTVE Lab</a>, impartió en el módulo de <a href="http://mip.umh.es/planestudios.html">Nuevas Narrativas</a> del MIP.</p>
+:ET
