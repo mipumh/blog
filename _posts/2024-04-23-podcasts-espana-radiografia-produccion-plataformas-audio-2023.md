@@ -27,7 +27,6 @@ De hecho, según el informe *[Digital 2024: Global Overview Report](https://wear
 Figura 1. Tiempo dedicado a los medios por cada usuario en 2023 (Global)
 
 ![]({{ site.baseurl }}/images/001/podcast-2.png)
-
 <sup>Fuente: We Are Social, 2024
 
 Curiosamente, los datos del mismo informe aplicados a España invierten algunos de esos comportamientos: el tiempo diario de navegación en Internet descendió 2’ (se situó en 2023 en 5 horas y 42 minutos). Y así como cada usuario redujo su dedicación a ver la TV (-11’), a leer la prensa (-11’) y a escuchar la radio (-4’) o canciones a través de los servicios de *streaming* (-1’), los *podcasts* se mantuvieron invariables en la dieta de consumo de ocio y entretenimiento; en realidad, ganaron casi 1’ diario \[Figura 2].
@@ -37,12 +36,11 @@ No es la única fuente que refleja esta tendencia: la edición 2023 del *[Digita
 Figura 2. Tiempo dedicado a los medios por cada usuario en 2023 (España)
 
 ![]({{ site.baseurl }}/images/001/podcast-3.png)
-
 <sup>Fuente: We Are Social, 2024
 
 El Reuters Institute [constata](https://www.digitalnewsreport.es/2023/la-escucha-de-podcast-se-consolida-en-espana/) que, al igual que en otros territorios, los hombres escuchan más *podcasts* que las mujeres (51% *vs* 38%); que la penetración es mayor en los *targets* más jóvenes: 49% en el público de 35 a 44 años, 59% en el de 25 a 34, y 70% en el de 18 años; y que el perfil de audiencia tiene una estrecha correlación con el nivel educativo y económico: existe una proporción superior de oyentes de *podcasts* en los públicos con mayor nivel de formación e ingresos, incluso una mayor frecuencia en esa escucha.
 
-No obstante, estos informes sobre hábitos de consumo digital –y como los de [Prodigioso Volcán](https://www.prodigiosovolcan.com/pv/sismogramas/informe-voz-2022/podcast.html), [IMOP](https://www.imop.es/data/Informe/Ponencia_IMOP.pdf), [AIMC](https://www.aimc.es/otros-estudios-trabajos/navegantes-la-red/infografia-resumen-26o-navegantes-la-red/) o [IAB](https://iabspain.es/estudio/estudio-audio-digital-2023/)–, así como los publicados por algunos actores de la industria – [iVoox](https://www.ivoox.com/informes-ivoox-informe-consumo-podcast-en-espanol), [Spotify](https://ads.spotify.com/es-MX/insights-y-noticias/spotify-gen-z-employees-talk-culture/), [Audible](https://www.audible.es/blog/audible-compass-2023) o [Podimo](https://assets.ctfassets.net/e28r873tv5cq/UrMNuP8VCRUSzhb1JKG7d/113094bab30decf1f1d471e59b6a5a90/Resumen_Ejecutivo-_Espacios_de_oportunidad.pdf)– son útiles para conocer las tendencias de consumo de *podcasts*, pero son inevitablemente parciales: cada uno aporta indicadores a partir de distintas encuestas, con diferentes muestras y metodologías. Es decir, con desiguales grados de representación y reducidas posibilidades de comparación entre sí.
+No obstante, estos informes sobre hábitos de consumo digital –y otros igualmente ilustrativos como los de [Prodigioso Volcán](https://www.prodigiosovolcan.com/pv/sismogramas/informe-voz-2022/podcast.html), [IMOP](https://www.imop.es/data/Informe/Ponencia_IMOP.pdf), [AIMC](https://www.aimc.es/otros-estudios-trabajos/navegantes-la-red/infografia-resumen-26o-navegantes-la-red/) o [IAB](https://iabspain.es/estudio/estudio-audio-digital-2023/)–, así como los publicados por algunos actores de la industria del audio – [iVoox](https://www.ivoox.com/informes-ivoox-informe-consumo-podcast-en-espanol), [Spotify](https://ads.spotify.com/es-MX/insights-y-noticias/spotify-gen-z-employees-talk-culture/), [Audible](https://www.audible.es/blog/audible-compass-2023) o [Podimo](https://assets.ctfassets.net/e28r873tv5cq/UrMNuP8VCRUSzhb1JKG7d/113094bab30decf1f1d471e59b6a5a90/Resumen_Ejecutivo-_Espacios_de_oportunidad.pdf)– constituyen aproximaciones útiles para conocer la evolución y tendencias de consumo de podcasts, pero son inevitablemente parciales e indirectos: cada uno aporta indicadores a partir de distintas encuestas, con diferentes muestras y metodologías dispares. Es decir, con desiguales grados de representación y, sobre todo, reducidas posibilidades de comparación entre sí.
 
 ### **¿Cómo analizar el mercado del *podcasting* en España?**
 
@@ -55,9 +53,6 @@ El documento acredita cómo, a punto de cumplirse ocho años desde el lanzamient
 Figura 3. Estructura de la industria del audio digital hablado bajo demanda en España
 
 ![]({{ site.baseurl }}/images/001/podcast-4.png)
-
-![]({{ site.baseurl }}/images/001/podcast-5.png)
-
 <sup>Fuente: Elaboración propia a partir de Dosdoce.com (2024)
 
 Sin desmerecer otros medios y vías de distribución, son precisamente las plataformas las que generan un mayor interés, empatía y hasta complicidad del usuario con el contenido de audio, pues logran estimular la curiosidad, introducen contextos (textos, imágenes, vídeos y sistemas de recomendación), aumentan el compromiso, fomentan la participación y mejoran así la disposición a la escucha. La creciente popularización de estos servicios y su rol como dinamizadores en el descubrimiento y recurrencia hacia al audio hablado justifican su selección como muestra ilustrativa del sector atendiendo a su faceta como creadoras de producciones originales –a menudo también exclusivas– y a la búsqueda de su rentabilidad comercial mediante variadas estrategias.
@@ -76,10 +71,9 @@ El Observatorio Nebrija del Español ha vuelto a elaborar el estudio sobre la pr
 Imagen 1. IX Encuentro sobre Cultura e Internacionalización en español: el mercado del *podcast*
 
 ![]({{ site.baseurl }}/images/001/podcast-6.png)
-
 <sup>Fuente: Universidad Nebrija. Madrid, 03/04/2024
 
-Conviene apuntar que 2023 fue un ejercicio difícil en todo el mundo para la industria del audio digital, por el cambio de estrategia de Spotify y por sus desinversiones en este mercado tras haber adquirido compañías y comprometido producciones en el periodo 2018-2022 por un valor superior a los [1.200 millones de dólares](https://audiogen.substack.com/i/126086158/que-significan-los-despidos-de-spotify). En conjunto, las plataformas culturales de *streaming* redujeron un 13% a escala global la adquisición de nuevos contenidos originales, así como la compraventa de derechos de adaptaciones de libros a otros formatos como audiolibros, *podcasts*, series y películas. Aunque siguen pronosticándose índices de [crecimiento anual de dos dígitos](https://www.dosdoce.com/2024/04/15/el-mercado-mundial-del-podcast-alcanzara-los-43-mil-millones-de-dolares-en-2032/), los ingresos generados son todavía inferiores a los de la música *online* y los audiolibros, cuya audiencia es menor.
+Conviene apuntar que 2023 fue un ejercicio difícil en todo el mundo para la industria del audio digital, marcado por el cambio de estrategia de Spotify y por sus desinversiones en este mercado tras haber adquirido compañías y comprometido producciones en el periodo 2018-2022 por un valor superior a los [1.200 millones de dólares](https://audiogen.substack.com/i/126086158/que-significan-los-despidos-de-spotify). En conjunto, las plataformas culturales de *streaming* redujeron un 13% a escala global la adquisición de nuevos contenidos originales, así como la compraventa de derechos de adaptaciones de libros a otros formatos como audiolibros, *podcasts*, series y películas. Aunque siguen pronosticándose índices de [crecimiento anual de dos dígitos](https://www.dosdoce.com/2024/04/15/el-mercado-mundial-del-podcast-alcanzara-los-43-mil-millones-de-dolares-en-2032/), los ingresos generados son todavía inferiores a los de la música *online* y los audiolibros, cuya audiencia es menor.
 
 ***1. Los estrenos por plataformas: el efecto Sonora***
 
@@ -88,7 +82,6 @@ En su conjunto, las plataformas de audio en España produjeron 209 *podcasts* or
 Figura 4. Estrenos totales y por plataforma en España (2023 vs. 2022)
 
 ![]({{ site.baseurl }}/images/001/podcast-7.png)
-
 <sup>Fuente: Observatorio Nebrija del Español
 
 A finales de junio de 2023, justo al cumplirse [un año desde su lanzamiento](https://audiogen.substack.com/p/3x3-32#§sonora-abandona-el-modelo-de-suscripcion), Sonora –la plataforma de suscripción de audio bajo demanda del grupo Atresmedia– abandonó el modelo de pago para pasar a uno abierto financiado con publicidad. Pese a ofrecer un selecto catálogo de títulos (en su mayoría documentales, audioficciones y espacios de desarrollo personal, todos de gran factura narrativa y expresiva), no logró atraer a una base de abonados acorde con el plan previsto: había situado el [umbral de su rentabilidad](https://www.elconfidencial.com/empresas/2023-02-07/entrevista-gabriel-saenz-buruaga-sonora_3568134/) en 2025, cuando consiguiese 120.000 suscriptores. Atresmedia asumió la gestión directa del servicio y congeló el estreno de títulos durante el resto del año. Sonora dejó de estar operativa el 1 de abril, y [se anunció](https://x.com/LuismiPedrero/status/1768618324886196645) que sus contenidos se incorporarán a la web y app de Onda Cero, la radio generalista del grupo.
@@ -100,7 +93,6 @@ Con respecto a las horas de producción, en 2023 sí se estableció una correlac
 Figura 5. Horas de producción totales y por plataforma en España en 2023
 
 ![]({{ site.baseurl }}/images/001/podcast-8.png)
-
 <sup>Fuente: Observatorio Nebrija del Español
 
 ***2. Los podcasts conversacionales se imponen a los narrativos de ficción y no ficción***
@@ -116,7 +108,6 @@ Atendiendo a la producción original de cada plataforma, el análisis permite re
 Figura 6. La oferta de *podcasts* originales según géneros (2023 vs. 2022)
 
 ![]({{ site.baseurl }}/images/001/podcast-9.png)
-
 <sup>Fuente: Observatorio Nebrija del Español
 
 ***3. Las plataformas de pago siguen aglutinando la mayor parte de los estrenos***
@@ -128,7 +119,6 @@ La oferta en abierto la capitalizan los otros cuatro operadores, que acogen poco
 Figura 7. Acceso a la oferta de *podcasts* originales en 2023
 
 ![]({{ site.baseurl }}/images/001/podcast-10.png)
-
 <sup>Fuente: Observatorio Nebrija del Español
 
 La nueva edición del estudio sobre la producción de *podcasts* originales en las grandes plataformas de audio bajo demanda mantiene abiertas algunas preguntas del anterior informe: ¿Resulta viable un mercado donde la mayor parte de novedades son accesibles únicamente a través del pago? ¿La oferta en estas plataformas resulta suficientemente diferencial como para que el oyente se decida a contratar su escucha? La experiencia de Sonora puede interpretarse como una contundente respuesta, si bien cabría plantear algunas dudas sobre la gestión comercial del proyecto.
