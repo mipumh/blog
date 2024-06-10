@@ -37,7 +37,7 @@ Una experiencia pionera en este sentido fue la de *ElDesmarque*, medio deportivo
 
 ### **Los diarios deportivos españoles en WhatsApp**
 
-Teniendo en cuenta el precedente de *ElDesmarque* y teniendo en cuenta el dinamismo y la trascendencia de la información deportiva, especialmente en la antesala de un verano cargado de grandes competiciones internacionales, hemos querido analizar el uso que están haciendo los principales periódicos deportivos españoles de los canales de WhatsApp y hemos hablado con algunos de sus responsables.
+Teniendo en cuenta el precedente de *ElDesmarque* y el dinamismo y la trascendencia de la información deportiva, especialmente en la antesala de un verano cargado de grandes competiciones internacionales, hemos querido analizar el uso que están haciendo los principales periódicos deportivos españoles de los canales de WhatsApp y hemos hablado con algunos de sus responsables.
 
 En la evaluación de lo publicado por *AS, Marca, Sport* y *Mundo Deportivo* en estos canales a lo largo del último mes (el histórico almacenado en la app tiene una antigüedad máxima de 30 días), podemos identificar diferentes estrategias y criterios de noticiabilidad en las cabeceras mencionadas. Como característica general, todos los canales apuestan por una clara jerarquización y selección de los contenidos informativos que consideran de relevancia para sus lectores.
 
