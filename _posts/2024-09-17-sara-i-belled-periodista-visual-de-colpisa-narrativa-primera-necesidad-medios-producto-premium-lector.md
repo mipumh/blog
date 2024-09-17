@@ -25,6 +25,8 @@ R. Cuando hablamos de cómo se empieza, cuando junto vocación y periodismo en l
 
 Me gradué en periodismo en 2013 y tuve la suerte de formarme en el periodismo regional, de provincias. Empecé haciendo deportes y casi por casualidad terminé en una mesa de maquetación. Maquetar y mandar a imprenta un periódico a los 20 años espabila a cualquiera. Te sirve para ver y entender el diario completo, dónde va cada elemento en la página y lo más importante: el porqué. Desde la mesa de maquetación pergeñaba gráficos a toda página y cuando pasé a la mesa de redacción, buscaba historias y planteaba reportajes con una carga visual importante o pintaba esas historias a toda página, lo que la historia pedía. En 2017 llevé un suplemento deportivo de ocho páginas, y como no podía trasladar la parte visual del papel a la web, hacía historias en Instagram.
 
+![]({{ site.baseurl }}/images/001/sanfermin.jpg)
+
 La narrativa entendida como el relato visual en la web surgió en Colpisa. En realidad, soy bastante nueva en esto. La primera historia visual que publiqué fue sobre las gotículas del Covid-19 a comienzos de 2020. Hablé con un experto y planteé la narrativa con un texto y gráficos explicativos estáticos. Hoy desarrollo algunas de las soluciones narrativas que utilizamos en el Grupo Vocento y apoyo a los compañeros de las cabeceras con sus historias.
 
 **P. ¿Va adquiriendo más peso la labor de los periodistas visuales en la redacción cuando hay una gran apuesta por los modelos de suscripción y ofrecer calidad al lector?**
@@ -61,6 +63,8 @@ R. La apuesta del proyecto no era mía. Yo me incorporé una vez que estaba en s
 
 Cuando me llega un tema, necesito saber qué vamos a contar, de qué material disponemos, o de qué vamos a poder disponer, y si no tenemos el tema de la historia, con qué queremos trabajar. Eso es lo primero. Y conocer el trabajo de producción. En este caso estaba claro que cada diario y la Redacción Central iban a acompañar a una persona sin techo, que iban a estar con ellos un tiempo indeterminado y a partir de ahí, cuando entré en el proyecto ya estaba la idea de hacer una serie de preguntas similares.
 
+![]({{ site.baseurl }}/images/001/historias-ig.jpg)
+
 Me puse a trabajar con lo que se suponía que íbamos a tener y cuando me contaban la historia, enseguida vi el tema del cartón. Al lector tienes que darle un hilo, que le guíe en la narrativa. En este caso, sabía que iba a tener testimonios e imágenes potentes y tenía muy claro que quería darles voz. En el proceso creativo de la narrativa, quise que la voz tuviese un papel protagonista y en este caso el hilo fue el cartón, que va enlazando unos temas con otros y que además engloba todo el proyecto. Porque esto no fue solo una pieza principal y otras locales aparte. Además, se publicaron podcasts, un documental e incluso otras piezas en algunos diarios.
 
 En este caso, estaba muy centrada en desarrollar herramientas narrativas que tuviesen diferentes vidas dependiendo de la cabecera, pues desde Colpisa publicamos en todos los diarios del grupo. Trato de hacer herramientas reutilizables y aprovechar el conocimiento adquirido en estos formatos de grandes narrativas.
@@ -68,6 +72,8 @@ En este caso, estaba muy centrada en desarrollar herramientas narrativas que tuv
 **P. ¿Cómo surgen esas ideas sobre ‘voy a tirar por aquí, voy a experimentar con esto’?**
 
 R. Eso me gustaría saber a mí y así no daría tantas vueltas a las cosas… \[Risas]. Lo que hago es llegar un día a la redacción y ponerme a pensar, y cuando has visto un tema, empiezas una narrativa, y casi al final de repente ocurre algo y tienes que dejar lo que estabas haciendo y resolver. Resolver me gusta mucho, estoy todo el día tratando de hacerlo. Por ejemplo, [en el reportaje de los encierros en San Fermín](https://www.larioja.com/sociedad/recorrido-encierro-san-fermin-tramo-tramo-20240705071810-ntrc.html) quería experimentar con una pieza que fuese eminentemente visual y aproveché para definir el scroll del que hemos hablado antes, que además es una sola versión prácticamente para todos los formatos. Los equipos suelen ser mixtos, trabajan papel, maquetación, hacen diseño y narrativas. Lo que hago es probar muchas cosas.
+
+![]({{ site.baseurl }}/images/001/pellets.jpg)
 
 Durante el Covid me daba la sensación de que las víctimas se estaban convirtiendo en simples números y eso me daba un poco de vértigo, porque quizá estábamos perdiendo un poco el foco: las víctimas son números, pero en realidad no son números, son personas. Cuando estaba pensando sobre ello, se me ocurrió utilizar el sonido. No podía ponerles cara a todos los fallecidos por Covid, pero sí podíamos hacer que contasen más para nuestros lectores. Utilizamos el sonido del pulso, que se iba incrementando conforme había más casos, y publicamos “¿Se puede escuchar una pandemia? Así suenan las olas de Covid dentro de las UCI”.
 
@@ -82,6 +88,8 @@ En este sentido, trabajo mucho con la idea de que hagamos piezas que no sean vol
 R. Si hago el ejercicio de mirar con perspectiva, algo que intento a menudo, me fascina ver las narrativas que publicamos en el grupo y pienso en la suerte que tienen los lectores de encontrar ese periodismo visual. En los diarios regionales hay profesionales trabajando en pequeños equipos de diseño y maquetación que están publicando piezas que te dejan con la boca abierta. Y eso es inspirador, incluso viéndolo desde dentro. Debemos destacar más el trabajo que se hace en los diarios regionales, en muchas ocasiones no somos conscientes.
 
 A nivel internacional, la sección de narrativas y gráficos de Reuters siempre te sorprende. En los últimos meses me interesan mucho los procesos, la letra pequeña, digamos. Por ejemplo, me dio qué pensar la metodología del artículo de The Pudding [](https://pudding.cool/2024/07/scifi/) [sobre las películas y series de ciencia ficción](https://pudding.cool/2024/07/scifi/), donde explicaban que habían analizado los datos de 200 títulos con inteligencia artificial. El redactor concluye que utilizó las respuestas de ChatGPT, después de verificar los resultados manualmente, porque el modelo respondió de forma similar a como él lo haría. También me encanta el South China Morning Post y últimamente me fijo en el diario suizo NZZ. Reconozco que siempre ando mirando qué se está haciendo y cómo se está haciendo.
+
+![]({{ site.baseurl }}/images/001/quiz.jpg)
 
 **P. ¿Cuáles son los elementos clave del éxito de una narrativa?**
 
