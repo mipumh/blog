@@ -9,7 +9,6 @@ author:
   image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
-
 [Sara I. Belled Navallas](https://x.com/saraibelled) (Zaragoza, 1991) se define como periodista visual. Estudió periodismo en la Universidad de Zaragoza y se formó en varios diarios de provincias. Desde 2012 desarrolló tareas de redacción, coordinación y diseño en Agencia Efe, Heraldo de Aragón, Heraldo de Soria y 20 Minutos. En enero de 2020 comenzó a trabajar en la sección de Diseño de la Agencia Colpisa (Grupo Vocento), donde Sara es un referente en las narrativas interactivas. Ha cosechado varios reconocimientos internacionales (SND, European Newspaper Awards, INMA Global Media Awards), en los Premios La Buena Prensa y su proyecto “Madre a los 15” fue ganador del Taller de Periodismo de Datos de Medialab Prado en 2016. En 2022-23 cursó el Máster en Innovación en Periodismo.
 
 ![]({{ site.baseurl }}/images/001/sara-i-belled.jpg)
