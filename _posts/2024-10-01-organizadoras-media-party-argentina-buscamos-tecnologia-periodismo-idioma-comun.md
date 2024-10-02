@@ -41,13 +41,13 @@ El evento no quedó solamente en Argentina, es un referente en Latinoamérica. Y
 
 **P. ¿Quién es el equipo fundador de la iniciativa y el equipo actual que la impulsa?**
 
-**MB:** Mariano Blejmantuvo la idea. Yo me ocupé y me sigo ocupando de la producción general del evento. Otra persona que estaba muy implicada es Martín Sarsale, que es hacker. Y otros dos hackers, César Miquel y Guillermo Movia, que era de la comunidad Mozilla. Nosotros somos ‘primos’ de la comunidad Mozilla, la empresa que desarrolló el navegador y la cultura del software libre. Eso delineó la forma en que empezamos a hacer las cosas e intentamos seguir haciéndolas: las convocatorias abiertas para generar la propia agenda de contenidos, la propia gratuidad del evento y todo lo que tiene que ver con alejarnos de un evento tradicional.
+**MB:** Mariano Blejmantuvo la idea. Yo me ocupé y me sigo ocupando de la producción general del evento. Otra persona que estaba muy implicada es Martín Sarsale, que es hacker. Y otros dos hackers, César Miquel y Guillermo Movia, que era de la comunidad Mozilla. Nosotros somos ‘primos’ de la comunidad Mozilla, la empresa que desarrolló el navegador open source Firefox y hace un evento genial en Londres, el MozFest que nos voló la cabeza. Somos parte de la cultura del software libre. Eso delineó la forma en que empezamos a hacer las cosas e intentamos seguir haciéndolas: las convocatorias abiertas para generar la propia agenda de contenidos, la propia gratuidad del evento y todo lo que tiene que ver con alejarnos de un evento tradicional.
 
 En los primeros años, el evento demandaba cada vez más atención al igual que nuestras propias carreras profesionales, por lo que la gente se fue alejando. A lo largo de los años el equipo se fue transformando. Siempre trabajamos para hacer el evento con una red de voluntarios. Fuimos ampliando el equipo y cambiando. Cada uno que participa como voluntario tiene la posibilidad de proponer las cosas que le interesan. Nos fuimos nutriendo de nuevos espíritus. No es una actividad rentada. Algunos se fueron a colaborar con otras organizaciones también vinculadas a la innovación, como ICFJ o Chicas Poderosas.
 
 En el equipo ejecutivo actualmente somos siete personas. Mariano Blejmandirige la actividad, nos da la visión. Yo me ocupo de la parte económica y de llevar hacia lo concreto las cosas, en la producción general de las actividades. Manejo los recursos, organizo el equipo y ese tipo de cosas.
 
-Gino Cingolani se encarga de la estrategia de vinculación con otras organizaciones y el fundraising.  De hacer todo el coaching o el acompañamiento a los speakers que invitamos se ocupa Enzo Evangelista. Y Gino también trabaja en el desarrollo de fondos y de relaciones.
+Gino Cingolani se encarga hoy de la estrategia de vinculación con otras organizaciones y de fundraising. Hace el onboarding y el coaching a los speakers internacionales que invitamos, Durante años estuvo a cargo de la programación de contenidos, actividad clave que Enzo Evangelista está comenzando a liderar. Carola Fernández Moores es nuestra gran productora brújula, sabe todo lo necesitamos para ir cumpliendo los objetivos de cara a cada edición y nos persigue, aunque esté en Etiopía o haciendo el camino de Santiago. Nico Russo es nuestro realizador audiovisual. Tiene mucha experiencia en producto y liderando redacciones. Es nuestro influencer.
 
 FF: Yo empecé como voluntaria. Fui a hacer una nota de radio a una Media Party. Y me explotó el cerebro porque hice un taller con un chico que venía de otra parte del mundo. Había puesto una computadora, te enganchaba dos cables en la sien y te decía ‘vamos a medir tu concentración’. Y tenías que hacer explotar, supuestamente, un barril con la mente. Y pensé,’ no puede ser que esto exista’. Ese fue mi primer acercamiento a la Media Party.
 
@@ -103,7 +103,7 @@ Entrevisté a uno de los chicos que vino hace dos años a la Media Party, Mattia
 
 Hay personas que se encuentran con otras personas y “pasan cosas” en sus carreras individuales.
 
-**MB:** Hay muchas historias de personas que transformaron su carrera. Por ejemplo, Pepa, \[Paloma Augusti Verea], es física. Trabajaba en laboratorios con animales. Vino de casualidad el evento, porque su novio era programador, y empezó a interesarle mucho la programación y los medios. Pepa, que era física, se dio cuenta que podía quizás trabajar en algunas cosas que no se había imaginado. Y creó algunas aplicaciones que tenían un impacto social y le parecían más atractivas que otras cosas que quizás no les tocaba tan de cerca.
+**MB:** Hay muchas historias de personas que transformaron su carrera. Por ejemplo, Pepa, \[Paloma Urtizberea], es física. Trabajaba en laboratorios con animales. Vino de casualidad el evento, porque su novio era programador, y empezó a interesarle mucho la programación y los medios. Pepa, que era física, se dio cuenta que podía quizás trabajar en algunas cosas que no se había imaginado. Y creó algunas aplicaciones que tenían un impacto social y le parecían más atractivas que otras cosas que quizás no les tocaba tan de cerca.
 
 Me acuerdo de otro chico, un hacker que trabaja en el Texas Tribune. Al principio desarrollaba software y a través de la Media Party, con el programa Open News que tenía Mozilla, fue Fellow en un medio en Estados Unidos. Empezó a trabajar en los medios, en la parte de tecnología, integrando equipos multidisciplinarios con editores, en la parte de producto y audiencias.
 
@@ -114,3 +114,13 @@ La plataforma, de hecho, tiene un montón de usuarios y se han creado miles de i
 **P. ¿Qué retos os planteáis de aquí a cinco años?**
 
 **FF:** Le pregunté eso a Mariano Blejmany me dijo: “Al infinito y más allá”. Porque el humor no puede faltar. Aspiramos a celebrar actividades durante todo el año y seguir creciendo. Haciendo muchas más Media Parties, estrechando más los lazos y acompañando el crecimiento de la tecnología y de los medios, por ejemplo, a través del impacto de la Inteligencia Artificial.
+
+### Equipo de Media Party
+
+- [Mariano Blejman](https://www.linkedin.com/in/marianoblejman/)
+- [Gino Cingolani](https://www.linkedin.com/in/ginocingolani/)
+- [Carola Fernández Moores](https://www.linkedin.com/in/carolafernandezmoores/)
+- [Nico Russo](https://www.linkedin.com/in/nicorusso/)
+- [Enzo Evangelista](https://www.linkedin.com/in/enzoevangelista/)
+- [Florencia Figar](https://www.linkedin.com/in/florenciafigar/)
+- [Mariana Berruezo](https://www.linkedin.com/in/mariana-berruezo/)
