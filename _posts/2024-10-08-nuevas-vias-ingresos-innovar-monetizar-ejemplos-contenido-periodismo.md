@@ -14,7 +14,7 @@ La mayoría son variaciones de los ingresos procedentes de los tres grandes pila
 
 ![image alt text]({{ site.baseurl }}/images/001/monetiza_0.jpg)
 
-[Como señala Jose A. Navas](https://www.cuadernosdeperiodistas.com/diversificacion-de-ingresos-hacia-la-optimizacion-total/), responsable de Suscripciones en El Confidencial, la **diversificación de ingresos** es una estrategia esencual ante la constante crisis en los medios, agravada por la eliminación de cookies de terceros y el impacto de la inteligencia artificial (IA) en el tráfico web. 
+[Como señala Jose A. Navas](https://www.cuadernosdeperiodistas.com/diversificacion-de-ingresos-hacia-la-optimizacion-total/), responsable de Suscripciones en El Confidencial, la **diversificación de ingresos** es una estrategia esencial ante la constante crisis en los medios, agravada por la eliminación de cookies de terceros y el impacto de la inteligencia artificial (IA) en el tráfico web. 
 
 **Pagos con criptomonedas**. En 2022 la [clásica revista Time anunció](https://time.com/5955969/time-partners-with-crypto-com/) que aceptaría criptomonedas como forma de pago para sus suscripciones digitales a través de un acuerdo con Crypto.com. Los suscriptores que eligieran esa moneda recibirían acceso ilimitado al contenido de la revista como compra única durante 18 meses, además de eventos y ofertas exclusivas para suscriptores. 
 
