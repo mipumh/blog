@@ -20,7 +20,7 @@ R. Mi función es impulsar la estrategia de los contenidos que se hacen desde el
 
 Participo en la ideación y creación de nuevos formatos. Por ejemplo, hemos lanzado ‘Sastre y Maldonado’ y ‘La cena de los idiotés’, que han sido dos productos con muchísima personalidad y enseguida han logrado cifras destacadas. Dentro de las cabeceras voy más pegada a la identidad de marca de cada un medio. No es lo mismo hacer vídeo en As que en El País. Ni siquiera las temáticas que a priori se presuponen, pero también la forma y las necesidades reactivas.
 
-Vemos el vídeo como la palanca transformadora de los medios. Hay una frase que internamente decimos, que ya no hay unidad de costes y unidad de negocio. Antes el vídeo era un elemento más como la fotografía, se consideraba un recurso para mejorar la narrativa. Ahora es una oportunidad comercial para que los anunciantes se quieran posicionar en nuestros medios.
+Vemos el vídeo como la palanca transformadora de los medios. Antes el vídeo era un elemento más como la fotografía, se consideraba un recurso para mejorar la narrativa. Ahora es una oportunidad comercial para que los anunciantes se quieran posicionar en nuestros medios.
 
 **P. Pepa Bueno dice que El País es un diario que se lee, se escucha y se ve. ¿Cómo se traduce en concreto esa apuesta por el vídeo?**
 
