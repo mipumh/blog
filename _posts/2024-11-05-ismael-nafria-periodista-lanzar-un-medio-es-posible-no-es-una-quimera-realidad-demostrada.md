@@ -12,7 +12,7 @@ author:
 ---
 [Ismael Nafría](http://www.ismaelnafria.com/) es periodista, consultor, profesor y conferenciante especializado en medios digitales. Tiene una larga trayectoria en prensa digital y ha escrito varios libros relacionados con el periodismo. En 2023 publicó [Clarín, actualizado](https://www.ismaelnafria.com/libros/) sobre la exitosa experiencia del diario argentino Clarín con su sistema de suscripción, que le ha permitido superar el medio millón de suscriptores. En 2017 vio la luz [La reinvención del New York Times](http://www.ismaelnafria.com/nytimes/), en el que Nafría explica la transformación digital del diario de referencia en Estados Unidos. Ese mismo año lanzó la newsletter [Tendenci@s](https://tendencias.substack.com/), que se ha convertido en referencia en el sector. En nuestra conversación, Nafría se muestra optimista respecto a la situación de los medios españoles, ofrece certeros consejos para lanzar un medio de comunicación y anuncia la publicación de un nuevo libro dedicado a las newsletters de éxito.
 
-![]({{ site.baseurl }}/images/001/foto-ismael-nafría-color.jpg)
+![]({{ site.baseurl }}/images/001/ismael.jpg)
 
 **P. ¿Qué te lleva a estudiar tan a fondo los procesos de transformación como los del New York Times y Clarín, y escribir libros sobre ambos casos?**
 
