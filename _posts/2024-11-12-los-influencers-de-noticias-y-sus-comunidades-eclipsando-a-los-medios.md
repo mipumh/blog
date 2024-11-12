@@ -3,12 +3,12 @@ layout: post
 title: "Los influencers de noticias y sus comunidades: ¿Por qué los ‘no
   periodistas’ están eclipsando a los medios?"
 author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
+  name: Dámaso Mondéjar
+  twitter: Monde97
   gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+  bio: Doctorado UMH
+  image: monde97.webp
+  link: https://twitter.com/Monde97
 ---
 Los *influencers* de noticias están a la orden del día. Un anglicismo que suena lejano, [proveniente de la mercadotecnia](https://mip.umh.es/blog/2018/09/05/entrevista-bea-lara-influencers-periodismo-redes-sociales/), y que asociamos al mundo de la moda, los cosméticos y el *fitness*, ahora permea la política, la economía y la información.En su esencia, la aparición de individuos líderes de opinión y consagrados como marcas en sí mismos no hace más que reflejar una losa (o bendición, según se mire) inherente al periodismo: la profesión de informador **no requiere ni de un título universitario ni de formación reglada** **para su ejercicio**. Como en el mantra compartido en la película *Ratatouille* —*cualquiera puede cocinar*—, en la era de las plataformas, de la desintermediación y los algoritmos, uno podría pensar que *cualquiera* puede ser periodista.
 
