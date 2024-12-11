@@ -2,7 +2,7 @@
 layout: post
 title: "Ramón Salaverría, coordinador de IBERIFIER: “La inteligencia artificial no sustituirá al periodista, pero transformará la profesión para siempre”"
 author:
-  name: Elisa Escaneo
+  name: Elisa Escanero
   twitter: mipumh
   gplus:  
   bio: Estudiante de Periodismo UMH
