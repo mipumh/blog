@@ -6,7 +6,7 @@ author:
   twitter: mipumh
   gplus:  
   bio: Estudiante de Periodismo UMH
-  image: logo.webp
+  image: elisa.png
   link: https://twitter.com/mipumh
 ---
 El catedrático de Periodismo [Ramón Salaverría](https://www.salaverria.es/) coordina desde su creación el [Observatorio Ibérico de Medios Digitales Iberifier](https://iberifier.eu/observatorio/), ahora en su segunda etapa como proyecto de investigación Iberifier Plus. Este hub, formado por universidades, fact-checkers y entidades como la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/es) o el [Barcelona Supercomputing Center](https://www.bsc.es/) tiene como objetivo combatir la desinformación en un contexto en el que la tecnología juega un papel fundamental. 
