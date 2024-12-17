@@ -4,7 +4,6 @@ title: "Ramón Salaverría, coordinador de IBERIFIER: “La inteligencia artific
 author:
   name: Elisa Escanero
   twitter: mipumh
-  gplus:  
   bio: Estudiante de Periodismo UMH
   image: elisa.png
   link: https://twitter.com/mipumh
