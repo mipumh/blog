@@ -110,7 +110,7 @@ La infografía y la visualización de datos (información visual o visualizació
 
 **Lo más destacado: Ofrece amplia información sobre cómo plantear y desarrollar proyectos de información visual atractivos y funcionales, que cumplan su finalidad.**
 
-![]{{ site.baseurl }}(/images/001/infografias-literarias.png)
+![]({{ site.baseurl }}/images/001/infografias-literarias.png)
 
 **[Isabel González. *La geometría de los cuentos. Infografías literarias.* Universidad de León.](https://publicaciones.unileon.es/product/la-geometria-de-los-cuentos-infografias-literarias/)**
 
