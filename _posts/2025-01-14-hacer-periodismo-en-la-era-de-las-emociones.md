@@ -17,7 +17,7 @@ El poder de las emociones sobre nuestra forma de pensar, sobre lo que recordamos
 ![]({{ site.baseurl }}/images/001/carles-rius.jpg)
 <sup>Josep Carles Rius. Imagen: Catalunya Plural
 
-Pero las redes sociales, a diferencia del periodismo, no se sustentan en la verdad. **Por lo tanto, ¿qué papel juegan los medios en este escenario?** La cuestión es compleja y si hay alguien que consigue responderla es **[Josep Carles Rius en su obra](https://www.edicions.ub.edu/ficha.aspx?cod=16427)[Periodismo y democracia en la era de las emociones](https://www.edicions.ub.edu/ficha.aspx?cod=16427)**. Un libro que recoge la opinión de expertos, académicos, filósofas, periodistas, sociólogas, economistas y directoras de medios, con el objetivo de ofrecer una guía esencial sobre los retos actuales de la profesión.
+Pero las redes sociales, a diferencia del periodismo, no se sustentan en la verdad. **Por lo tanto, ¿qué papel juegan los medios en este escenario?** La cuestión es compleja y si hay alguien que consigue responderla es Josep Carles Rius en su obra **[Periodismo y democracia en la era de las emociones](https://www.edicions.ub.edu/ficha.aspx?cod=16427)**. Un libro que recoge la opinión de expertos, académicos, filósofas, periodistas, sociólogas, economistas y directoras de medios, con el objetivo de ofrecer una guía esencial sobre los retos actuales de la profesión.
 
 El libro se estructura en cinco apartados con títulos que avanzan tanto problemáticas como retos.
 
