@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Nacho Cardero (director, El Confidencial): “Nuestra labor de información
-  se ha visto atacada por el poder político; sufrimos un vacío desde la Moncloa
-  por los casos de corrupción que afectan al ejecutivo”"
+title: "Nacho Cardero (director, El Confidencial): “Nuestra labor de información se ha visto atacada por el poder político; sufrimos un vacío desde la Moncloa por los casos de corrupción que afectan al ejecutivo”"
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
-  gplus:  
+  gplus: 
   bio: Coordinador Módulo Audiencias
   image: jga.webp
   link: https://twitter.com/jagaraviles
