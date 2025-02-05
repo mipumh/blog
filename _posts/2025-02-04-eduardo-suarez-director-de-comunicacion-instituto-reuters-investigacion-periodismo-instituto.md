@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Eduardo Suárez, director de comunicación del Instituto Reuters: “La
-  conexión entre el mundo de la investigación y el mundo del periodismo es algo
-  especial en el Instituto; en esto, somos únicos”"
+title: "Eduardo Suárez, director editorial del Instituto Reuters: “La
+  conexión entre el mundo de la investigación y el mundo del periodismo es algo especial en el Instituto; en esto, somos únicos”"
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles
