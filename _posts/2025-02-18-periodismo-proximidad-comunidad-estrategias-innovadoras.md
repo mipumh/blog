@@ -6,7 +6,7 @@ author:
   name: Manuel Arenas
   twitter: Manuel7Arenas
   gplus:  
-  bio: Redactor Jefe de Audiencias El Periódico
+  bio: Coordinador área metropolitana El Periódico
   image: arenas.jpeg
   link: https://twitter.com/Manuel7Arenas
 ---
@@ -26,7 +26,7 @@ Ese sentido de pertenencia a una comunidad, de hecho, [se estudia](https://rq1.s
 
 **1. ‘El Periódico’: ‘newsletters’ de proximidad.** Desde mediados de 2022, ‘**[El Periódico](https://www.elperiodico.com/es/)**’ (España, Catalunya) implementa una estrategia específica para desarrollar audiencias locales en ciudades de la región metropolitana de Barcelona, demarcación de unos cinco millones de habitantes. Entre esas poblaciones destacan dos que tienen una ‘newsletter’ propia: L’Hospitalet de Llobregat y Badalona, editadas semanalmente por los periodistas **Àlex Rebollo y Gerardo Santos,** respectivamente. Los boletines locales incluyen información sencilla y directa sobre las principales noticias y claves de actualidad de la semana. Su evolución está siendo lenta, entre otras razones por la falta de madurez del mercado del ‘email marketing’ en municipios con importantes áreas caracterizadas por sus altos índices de vulnerabilidad. Sin embargo, 2024 fue el año del despegue de estas ‘newsletters’ de proximidad: la de L’Hospitalet, sin ir más lejos, empezó 2024 con unos 500 usuarios suscritos y lo acabó con 2.300.
 
-![]({{ site.baseurl }}/images/001/elperiodico2.png)
+![]({{ site.baseurl }}/images/001/elperiodico25.png)
 
 El número empieza a ser relevante en cuanto a comunidad fidelizada y segmentada localmente en un producto digital como la ‘newsletter’, formato que los medios usan como puente hacia la conversión de usuarios que se apuntan gratuitamente pero que se topan con contenidos cerrados con muro de pago, en este caso tipo ‘freemium’. Además, la tasa de apertura de ambos boletines locales ronda el 60% y el ‘**[Clickthrough rate](https://support.google.com/google-ads/answer/2615875?hl=en#:~:text=Clickthrough%20rate%20(CTR)%20can%20be,your%20CTR%20would%20be%205%25.)**’ (CTR) el 8-10%, ambos datos notablemente por encima de la media del sector de los medios que analiza ‘**[Mailchimp](https://mailchimp.com/es/resources/email-marketing-benchmarks/)**’: tasa de apertura de un 34% y un CTR en torno al 4%.
 
@@ -58,4 +58,4 @@ Según Kahn, el proyecto atesora dos claves determinantes. En primer lugar, que 
 
 ---
 
-<sup>**[Manuel Arenas](https://x.com/Manuel7Arenas) es periodista de Prensa Ibérica. Trabaja como redactor jefe de audiencias locales en El Periódico. Ha cursado el Máster en Innovación en Periodismo.**</sup>
+<sup>**[Manuel Arenas](https://x.com/Manuel7Arenas) es periodista de EL PERIÓDICO, cabecera en la que coordina el equipo de información local de la región metropolitana de Barcelona. Ha cursado el Máster en Innovación en Periodismo.**</sup>
