@@ -2,9 +2,9 @@
 layout: post
 title: "De la hoja de cálculo a la línea de código… con la IA en el horizonte. Así exprimen la tecnología los periodistas de datos en España"
 author:
-  name: Félix Arias y Enrique Ribera
+  name: Enrique Ribera y Félix Arias
   twitter: mipumh
-  bio: Director del Máster
+  bio: Redacción del Máster
   image: logo.webp
   link: https://twitter.com/mipumh
 ---
