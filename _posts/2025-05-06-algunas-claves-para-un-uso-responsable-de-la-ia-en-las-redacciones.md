@@ -9,7 +9,7 @@ author:
   image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
-La IA está presente en nuestravida cotidiana más de lo que pensamos. Cada vez que utilizamos un buscador, una red social, una aplicación de traducción o un asistente virtual, estamos interactuando con sistemas inteligentes que procesan datos y nos dan respuestas personalizadas. La IA nos permite diagnosticar enfermedades, aprender idiomas y detectar fraudes. Nos ayuda a filtrar el correo basura, recomendar productos y elegir series. En definitiva, nos facilita enormemente la existencia. Sin embargo, integrar la IA en la sociedad conlleva un riesgo inherente: si no se gestiona con cautela, podría exacerbar las desigualdades existentes. Los avances tecnológicos tienen el potencial de beneficiar a quienes ya ostentan riqueza económica, poder geopolítico y liderazgo de la tecnología. La integración cabal de la IA dependerá de si la usamos con responsabilidad para mejorar la calidad de vida y promover el bienestar social. Mediante un enfoque centrado en el ser humano, podremos aprovechar su potencial transformador al tiempo que mitigamos sus consecuencias negativas.
+La IA está presente en nuestra vida cotidiana más de lo que pensamos. Cada vez que utilizamos un buscador, una red social, una aplicación de traducción o un asistente virtual, estamos interactuando con sistemas inteligentes que procesan datos y nos dan respuestas personalizadas. La IA nos permite diagnosticar enfermedades, aprender idiomas y detectar fraudes. Nos ayuda a filtrar el correo basura, recomendar productos y elegir series. En definitiva, nos facilita enormemente la existencia. Sin embargo, integrar la IA en la sociedad conlleva un riesgo inherente: si no se gestiona con cautela, podría exacerbar las desigualdades existentes. Los avances tecnológicos tienen el potencial de beneficiar a quienes ya ostentan riqueza económica, poder geopolítico y liderazgo de la tecnología. La integración cabal de la IA dependerá de si la usamos con responsabilidad para mejorar la calidad de vida y promover el bienestar social. Mediante un enfoque centrado en el ser humano, podremos aprovechar su potencial transformador al tiempo que mitigamos sus consecuencias negativas.
 
 El viaje hacia el universo del futuro comienza con la comprensión de la Inteligencia Artificial (IA) y su potencial impacto en las actividades humanas. La IA siempre ha fascinado a la humanidad. Los mitos y leyendas a menudo presentaban objetos inanimados que cobraban vida o autómatas con inteligencia propia. Escritores como Isaac Asimov, Mary Shelley, Arthur C. Clarke y Philip K. Dick imaginaron mundos de ciencia ficción habitados por androides, replicantes y otros seres artificiales.
 
@@ -37,7 +37,7 @@ La IA brinda herramientas “increíbles” para innovar, según Stenbom, aunque
 
 ![]({{ site.baseurl }}/images/001/agnes_stenbom.jpg)
 
-Imagen: Agnes Stenbom, directora del laboratorio IN/LAB (Reuters Institute for the Study of Journalism)
+<sup>Imagen: Agnes Stenbom, directora del laboratorio IN/LAB (Reuters Institute for the Study of Journalism)
 
 [](<>)El IN/LAB lanzó el proyecto ‘News Changemaker Program’ asociado con un centro juvenil de una de las zonas más deprimidas de Estocolmo. Seleccionaron a diez jóvenes, entre 15 y 17 años, para que participaran durante diez semanas. Valoraron dos criterios: a) Tenían que ser críticos con los medios de comunicación, y b) Debían comprometerse a buscar soluciones.
 
