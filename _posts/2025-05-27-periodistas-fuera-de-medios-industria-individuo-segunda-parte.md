@@ -8,7 +8,7 @@ author:
   image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
-La industria mediática del individuo se compone de periodistas que viven de su trabajo mediante boletines de correo, podcasts o canales de YouTube ([primera parte](https://mip.umh.es/blog/2020/12/18/periodistas-individuales-substack-claves-exito/)). Son profesionales que emprenden un camino por cuenta propia, fuera del abrigo de los medios, para conectar con sus comunidades y financiarse gracias a suscriptores, mecenas o anunciantes ([segunda parte](https://mip.umh.es/blog/2025/03/11/periodistas-fuera-de-medios-industria-individuo/)). Este artículo es una continuación de la serie sobre creadores independientes, en el que pongo especial atención a periodistas políticos. 
+ [La industria mediática del individuo](https://mip.umh.es/blog/2020/12/18/periodistas-individuales-substack-claves-exito/) se compone de periodistas que viven de su trabajo mediante boletines de correo, podcasts o canales de YouTube. Son profesionales que emprenden un camino por cuenta propia, fuera del abrigo de los medios, para conectar con sus comunidades y financiarse gracias a suscriptores, mecenas o anunciantes ([segunda parte](https://mip.umh.es/blog/2025/03/11/periodistas-fuera-de-medios-industria-individuo/)). Este artículo es una continuación de la serie sobre creadores independientes, en el que pongo especial atención a periodistas políticos. 
 
 ### Bari Weiss · [The Free Press](https://www.thefp.com/) 
 
