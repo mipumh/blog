@@ -10,7 +10,7 @@ author:
   image: jga.webp
   link: https://twitter.com/jagaraviles
 ---
- **Julián Dueñas** es periodista, tiene 54 años y vive en Villanueva de la Cañada (Madrid). Ha dedicado su vida profesional —más de 27 años— al sector de las revistas. Durante 14 años dirigió la **revista GEO,** de viajes y naturaleza, y fue responsable de **BEEF!**, una publicación especializada en gastronomía. Es licenciado en Ciencias de la Información y Máster en Escritura Creativa por la UCM, Máster en Dirección de Comunicación y Publicidad por ESIC, y Diplomado en Análisis de Conflictos Internacionales por el Instituto de Estudios Políticos para África y América Latina. En 2021 lanzó [Your HomeTown](https://yourhometown.es/), *startup* de información local en Villanueva de la Cañada con el propósito de informar al ciudadano y ofrecer un servicio público. Charlamos con Julián sobre su proyecto.
+ **Julián Dueñas** es periodista, tiene 56 años y vive en Villanueva de la Cañada (Madrid). Ha dedicado su vida profesional —más de 27 años— al sector de las revistas. Durante 14 años dirigió la **revista GEO,** de viajes y naturaleza, y fue responsable de **BEEF!**, una publicación especializada en gastronomía. Es licenciado en Ciencias de la Información y Máster en Escritura Creativa por la UCM, Máster en Dirección de Comunicación y Publicidad por ESIC, y Diplomado en Análisis de Conflictos Internacionales por el Instituto de Estudios Políticos para África y América Latina. En 2021 lanzó [YOURHOMETOWN](https://yourhometown.es/), *startup* de información local en Villanueva de la Cañada con el propósito de informar al ciudadano y ofrecer un servicio público. Charlamos con Julián sobre su proyecto.
 
 > “El secreto de una newsletter está en encontrar el equilibrio entre el precio y el contenido de calidad”
 
@@ -22,9 +22,9 @@ Es un proyecto que nace de la necesidad. Llevo muchos años de periodista y nunc
 
 Te encuentras con 52 años, un perfil de “directivo” y sabes que volver a la rueda va a ser muy complicado. Llevaba tiempo dándole vueltas a hacer el doctorado, estaba investigando cómo evolucionaba el periodismo en Estados Unidos y en Inglaterra y cómo se podía financiar el periodismo local. Nunca había trabajado en un medio local y me llamaba la atención porque siempre he pensado que, si podemos revitalizar el periodismo, va a ser a partir de la base.
 
-Quería saber qué se hacía en periodismo local en otros lugares, porque aquí en España veía cosas muy similares. En Estados Unidos me llamó la atención Axios. No hacían nada muy novedoso, pero me dio ideas. Luego empezaron con sus newsletters, con ese lenguaje que acuñaron, el *Smart Brevity*, y que utilizo también en mi web, que en realidad son las cinco W de toda la vida adaptadas a la modernidad y al móvil, algo muy consumible.
+Quería saber qué se hacía en periodismo local en otros lugares, porque aquí en España veía cosas muy similares. En Estados Unidos me llamó la atención [Axios](https://www.axios.com/). No hacían nada muy novedoso, pero me dio ideas. Luego empezaron con sus newsletters, con ese lenguaje que acuñaron, el *Smart Brevity*, y que utilizo también en mi web, que en realidad son las cinco W de toda la vida adaptadas a la modernidad y al móvil, algo muy consumible.
 
-Vi la luz con la newsletter de The Manchester Mill, que ahora es The Mill y está en varias ciudades en Inglaterra. La lanzó alguien que se encontraba prácticamente en la misma situación que yo, el periodista Joshi Herrmann. A los 45 años, tuvo que emprender. Estaba en su casa y, como en mi caso, la alternativa era ponerte a llorar o ponerte a innovar y emprender.
+Vi la luz con la newsletter de The Manchester Mill, que ahora es [The Mill](https://manchestermill.co.uk/) y está en varias ciudades en Inglaterra. La lanzó alguien que se encontraba prácticamente en la misma situación que yo, el periodista Joshi Herrmann. A los 45 años, tuvo que emprender. Estaba en su casa y, como en mi caso, la alternativa era ponerte a llorar o ponerte a innovar y emprender.
 
 Fijándome en esos dos modelos, confiaba mucho en el formato newsletter porque me parecía que para los que tenemos una edad, existía el hábito de la lectura del periódico, casi con el café mañanero y la única manera de reproducir ese hábito era a través del mail. Prácticamente todo el mundo abre todas las mañanas el mail: la newsletter me pareció lo más idóneo.
 
@@ -46,9 +46,9 @@ Sales prácticamente de noche y vuelves de noche, con lo cual no te enteras del 
 
 No entienden que el periodista pueda ser un trabajo, parece que estás allí de fisgón, de cotilla… Hasta hacer entender esa mentalidad, que el periodismo es útil y que es un servicio más… ha llevado tiempo.
 
-![]({{ site.baseurl }}/images/001/julian-duenas.jpg)
+![]({{ site.baseurl }}/images/001/julian-dueas.jpg)
 
-<sup>Julián Dueñas, director de YourHomeTown, durante la entrevista realizada online. 
+<sup>Julián Dueñas, director de YOURHOMETOWN, durante la entrevista realizada online. 
 
 **Your HomeTown es un medio de servicio público que pretende informar a la ciudadanía sobre lo que está pasando en su pueblo. En este tipo de medios personales, se habla de construir una comunidad alrededor de la newsletter y la web. ¿Cómo lo concretas?**
 
