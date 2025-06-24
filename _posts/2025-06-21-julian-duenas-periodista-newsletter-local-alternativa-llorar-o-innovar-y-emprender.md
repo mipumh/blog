@@ -46,9 +46,7 @@ Sales prácticamente de noche y vuelves de noche, con lo cual no te enteras del 
 
 No entienden que el periodista pueda ser un trabajo, parece que estás allí de fisgón, de cotilla… Hasta hacer entender esa mentalidad, que el periodismo es útil y que es un servicio más… ha llevado tiempo.
 
-![]({{ site.baseurl }}/images/001/julian-dueas.jpg)
-
-<sup>Julián Dueñas, director de YOURHOMETOWN, durante la entrevista realizada online. 
+![]({{ site.baseurl }}/images/001/julian-duenas.jpg)
 
 **Your HomeTown es un medio de servicio público que pretende informar a la ciudadanía sobre lo que está pasando en su pueblo. En este tipo de medios personales, se habla de construir una comunidad alrededor de la newsletter y la web. ¿Cómo lo concretas?**
 
