@@ -13,7 +13,7 @@ Seleccionamos una serie de libros sobre periodismo, publicados a lo largo de 202
 
 ![]({{ site.baseurl }}/images/001/libros-para-leer-este-verano.jpg)
 
-**[Pablo Mancini. *Off the record: verdad, sangre, algoritmos y negocios*](https://www.edicionesampersand.com/product-page/off-the-record-pablo-mancini)**
+### **[Pablo Mancini. *Off the record: verdad, sangre, algoritmos y negocios*](https://www.edicionesampersand.com/product-page/off-the-record-pablo-mancini)**
 
 ![]({{ site.baseurl }}/images/001/off_the_record_mancini.jpg)
 
@@ -31,7 +31,7 @@ El libro consta de 24 capítulos que, en cierto modo, representan las 24 horas d
 
 El liderazgo de equipos y el trabajo en conjunto es un aspecto central. Eso es lo que hicieron bien el New York Times, el Washington Post, el Financial Times, The Guardian o Nikkei en Japón, entre otras grandes marcas. “Al final, lo que los distingue y los hace grandes es que hay gente que sabe a dónde va y toma decisiones sensatas para llegar ahí. Los mejores equipos están liderados por gente que entendió que hay que trabajar en conjunto y que los problemas no los resuelve una sola parte de la operación”, apostilla Mancini.
 
-[**Victor Manuel Amela, Lluís Amiguet e Ima Sanchís.** ***Cómo salir en "la Contra": Los secretos de la sección de entrevistas más longeva de la prensa europea.***](https://www.casadellibro.com/libro-como-salir-en-la-contra/9788418604515/16795719)
+### [**Victor Manuel Amela, Lluís Amiguet e Ima Sanchís.** ***Cómo salir en "la Contra": Los secretos de la sección de entrevistas más longeva de la prensa europea.***](https://www.casadellibro.com/libro-como-salir-en-la-contra/9788418604515/16795719)
 
 ![]({{ site.baseurl }}/images/001/como-salir-en-la-contra.jpg)
 
@@ -51,7 +51,7 @@ Sobre la técnica de ‘La Contra’, Amela explica que consistía en pasar una 
 
 Amela explica que le gustan las historias que permiten bucear más que surfear. “’La Contra’ vale la pena cuando el lector se mete contigo en el personaje y al final incluso ve más cosas que el propio entrevistado”.
 
-**[Juan Carlos Blanco. *La tiranía de las naciones pantalla.*](https://www.akal.com/libro/la-tirania-de-las-naciones-pantalla_54290/)**
+### **[Juan Carlos Blanco. *La tiranía de las naciones pantalla.*](https://www.akal.com/libro/la-tirania-de-las-naciones-pantalla_54290/)**
 
 ![]({{ site.baseurl }}/images/001/tirania-naciones.jpeg)
 
@@ -79,7 +79,7 @@ El periodista andaluz alerta que el poder de estas “naciones pantalla” aumen
 
 **Juan Carlos Blanco** es periodista y consultor de comunicación. Colabora en programas de análisis político en Canal Sur Televisión y Radio, la Cadena SER y Onda Cero en Andalucía, y escribe en la edición nacional de 20 Minutos. También dirige el podcast Algohumanos y asesora a empresas en estrategias de comunicación corporativa. Fue portavoz del Gobierno de Andalucía, director de El Correo de Andalucía y subdirector del Diario de Sevilla.
 
-**[Juan Candela. *Curso de media management.*](https://anayamultimedia.es/libro/social-media/curso-de-media-management-juan-candela-9788441551114/)**
+### **[Juan Candela. *Curso de media management.*](https://anayamultimedia.es/libro/social-media/curso-de-media-management-juan-candela-9788441551114/)**
 
 ![]({{ site.baseurl }}/images/001/curso-media.jpeg)
 
@@ -93,7 +93,7 @@ Especialmente relevante es el capítulo sobre la distribución del contenido y l
 
 **Juan Candela** es periodista y director de Negocio Digital en el diario 'Las Provincias' del grupo Vocento. Cofundó en 2013 una 'startup' de optimización de Google Ads y ha mentorizado emprendedores y startups. Comenzó su carrera en 1998, ejerciendo primero de periodista, y más tarde, de jefe de producto digital, jefe de ventas digital, director gerente de televisión y director de negocio. Ha participado en el lanzamiento de medios digitales y audiovisuales, ha creado equipos de alto rendimiento, implementado modelos de desarrollo de audiencia, SEO, lanzado decenas de productos digitales y desarrollado su monetización. Es licenciado en Communication and Media Studies por Hogeschool Zeeland, PDD por IESE, AMP por IE y ha cursado posgrados de Digital Business en ESIC y de Analítica Web y SEO & SEM en KSchool. Es profesor asociado en la Universidad CEU Cardenal Herrera.
 
-**[Agus Morales. *La hipocresía solidaria*](https://www.revista5w.com/tienda/la-hipocresia-solidaria).**
+### **[Agus Morales. *La hipocresía solidaria*](https://www.revista5w.com/tienda/la-hipocresia-solidaria).**
 
 ![]({{ site.baseurl }}/images/001/hipocresia.jpg)
 
@@ -105,7 +105,7 @@ Ocho años después del lanzamiento de *No somos refugiados,* radiografía glo
 
 **Agus Morales** (El Prat de Llobregat, 1983) es director de la revista *5W*. Fue corresponsal para la Agencia Efe en la India y en Pakistán y trabajó tres años para Médicos Sin Fronteras en África y Oriente Medio. Es licenciado en Periodismo y doctor en Lengua y Literatura por la Universitat Autònoma de Barcelona, donde colabora como profesor asociado. En 2015 fundó *5W*. Siempre navegando entre la literatura y el periodismo, Morales ha escrito sobre la vuelta de los talibanes al poder en Afganistán, el éxodo ucraniano, la cultura india y la experiencia refugiada. Ha colaborado con medios como *The New York Times, The Washington Post*, la revista *Gatopardo*, TV3, RNE, Catalunya Ràdio y la Cadena SER. Ganó el Premio Ortega y Gasset y el Premio de Periodismo sobre África Saliou Traoré. Es autor de *No somos refugiados,* que se tradujo al inglés, catalán, italiano y polaco. Ha publicado una crónica sobre la pandemia, *Cuando todo se derrumba* (2021), y la novela *Ya no somos amigos* (2022).
 
-**[José Alberto García Avilés. *Águilas y colibríes: periodistas innovadores en Europa.*](Jose%20Alberto%20García%20Avilés)**
+### **[José Alberto García Avilés. *Águilas y colibríes: periodistas innovadores en Europa.*](https://aguilasycolibries.es/)**
 
 ![]({{ site.baseurl }}/images/001/portada-libro-aguilas-y-colibries.jpg)
 
