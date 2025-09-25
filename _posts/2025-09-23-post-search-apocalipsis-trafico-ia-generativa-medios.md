@@ -51,9 +51,9 @@ Antes de vender tablas de salvación, piensa si esa tecnología que introduces e
 
 Finalmente, piensa en las [tres claves que el editor de The Economist considera](https://pressgazette.co.uk/news-leaders/why-the-economist-isnt-doing-ai-deals-but-has-launched-on-substack/) esenciales para seguir siendo relevantes en el mundo digital post-search:
 
-1. **Diferenciación**: ofrecer algo único, humano, editorial y artesanal. Apostar por texto, audio y vídeo como productos difíciles de replicar.
+1. **Ser diferentes**: ofrecer algo único, humano, editorial y artesanal. Apostar por texto, audio y vídeo como productos difíciles de replicar.
 
-2. **Directos**: evitar la desintermediación y dar razones al lector para usar nuestros productos directamente.
+2. **Ser directos**: evitar la desintermediación y dar razones al lector para usar nuestros productos directamente.
 
-3. **Descubribilidad**: generar puentes hacia la marca, puntos de entrada sólidos y experiencias que refuercen el valor del periodismo.
+3. **Ser descubiertos**: generar puentes hacia la marca, puntos de entrada sólidos y experiencias que refuercen el valor del periodismo.
 
