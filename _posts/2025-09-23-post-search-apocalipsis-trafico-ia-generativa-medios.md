@@ -21,7 +21,7 @@ La batalla por producir más contenido para SEO, ahora GEO (*generative engine o
 
 ## **Diferenciación y experiencia de producto**
 
-Como ha escrito[ Juan Candela](https://www.linkedin.com/in/juancandela/) en su Curso de Media Management, el periodismo es un contenido, sí, pero para que sea un producto (valioso, querido, deseado, rentable) debe experimentarse. El producto mediático es la experiencia del contenido periodístico. Para que el periodismo sea un producto debemos controlar su experiencia, su envoltorio, su punto de venta. No es lo mismo consumir un bife de chorizo que sorber una ternera triturada en pajita.
+Como ha escrito[ Juan Candela](https://www.linkedin.com/in/juancandela/) en su [Curso de Media Management](https://anayamultimedia.es/libro/social-media/curso-de-media-management-juan-candela-9788441551114/), el periodismo es un contenido, sí, pero para que sea un producto (valioso, querido, deseado, rentable) debe experimentarse. El producto mediático es la experiencia del contenido periodístico. Para que el periodismo sea un producto debemos controlar su experiencia, su envoltorio, su punto de venta. No es lo mismo consumir un bife de chorizo que sorber una ternera triturada en pajita.
 
 Ni siquiera las exclusivas tendrán tanto valor. Dos segundos después de publicarse habrá una IA capaz de sintetizar ese contenido de dominio público y aprovechar su valor para posicionar sus resultados. Por eso conviene ser mejores también en experiencia del contenido, en el producto periodístico. ¿Cómo son los motores de búsqueda de los sitios de los medios? ¿Cómo es la integración de la IA en esos buscadores? 
 
