@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Apocalípsis de tráfico? Claves para sobrevivir en la era post-search sin quemarse en la lava sintética de las IA"
+title: "¿Apocalipsis de tráfico? Claves para sobrevivir en la era post-search sin quemarse en la lava sintética de las IA"
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
