@@ -14,7 +14,7 @@ La obsesión por el tráfico desde buscadores ha generado enormes vicios en los 
 
 **P.:** ¿Hay datos fiables sobre el impacto de la IA generativa en buscadores?
 
-**R.:** He participado en un [estudio](https://laikateam.com/l/estudios/ai-overviews-insights-medios/)[liderado por la consultora SEO MJ Cachón](https://laikateam.com/l/estudios/ai-overviews-insights-medios/) publicado hace muy pocos días que confirma el descenso provocado por AI Overviews (AIO) en el tráfico a medios. Por temática, tecnología, ciencia y estilo de vida son las más perjudicadas. Los ámbitos que mejor resisten son cultura, deportes, política y sociedad, las categorías que más *breaking news* tienen y con las que menos se trabaja artículos atemporales (*evergreen)*. Aquí se pueden [ver los resultados](https://aioverviews.es/news) comparados en los distintos medios TOP 10 españoles.
+**R.:** He participado en un [estudio liderado por la consultora SEO MJ Cachón](https://laikateam.com/l/estudios/ai-overviews-insights-medios/), publicado hace muy pocos días, que confirma el descenso provocado por AI Overviews (AIO) en el tráfico a medios. Por temática, tecnología, ciencia y estilo de vida son las más perjudicadas. Los ámbitos que mejor resisten son cultura, deportes, política y sociedad, las categorías que más *breaking news* tienen y con las que menos se trabaja artículos atemporales (*evergreen)*. Aquí se pueden [ver los resultados](https://aioverviews.es/news) comparados en los distintos medios TOP 10 españoles.
 
 **P.:** ¿Cómo de pronunciado es el descenso?
 
