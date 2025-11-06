@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clara Soteras (SEO): «Los medios necesitan menos obsesión por el corto plazo y la generación de más y más páginas vistas, y más foco en el trabajo de autoridad, marca, producto y comunidad»"
+title: "Clara Soteras (SEO): «Los medios necesitan menos obsesión por el corto plazo y el volumen de páginas vistas, y más foco en el trabajo de autoridad, marca, producto y comunidad»"
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
@@ -22,13 +22,13 @@ La obsesión por el tráfico desde buscadores ha generado enormes vicios en los 
 
 **P.:** El *modo IA* en Chrome y ahora *Atlas* de OpenAI… Cada vez más jardines vallados. ¿Cómo puede lidiar con este panorama un editor SEO?
 
-**R.:** Desde el punto de vista de un editor SEO, mi discurso no cambia en lo esencial. No es el fin del SEO ni mucho menos: es el escenario al que vamos y con el que tenemos que aprender a trabajar. El SEO no muere; cambia de forma: al final nuestra función sigue siendo conseguir que los contenidos se posicionen y se descubran, aunque el entorno sea más cerrado.
+**R.:** Desde el punto de vista de un editor SEO, mi discurso no cambia en lo esencial. No es el fin del SEO ni mucho menos: es el escenario al que vamos y con el que tenemos que aprender a trabajar. El SEO no muere, cambia de forma: al final nuestra función sigue siendo conseguir que los contenidos se posicionen y se descubran, aunque el entorno sea más cerrado.
 
-> «Los medios están repitiendo con los chats de IA los mismos errores que cometieron con Google; buscan tráfico desesperadamente a costa de perder la relación con su audiencia»
+> «Los medios están repitiendo con los chats de IA los mismos errores que cometieron con Google: buscan tráfico desesperadamente a costa de perder la relación con su audiencia»
 
 **P.:** ¿Pero no este es un escenario más hostil?
 
-**R.:** Estos cambios se venían notando desde hace años en el tráfico. La diferencia ahora es que el modo IA ya se ha desplegado en Europa y en España: lo que hace unos meses explicamos a los directores de estrategia como "el futuro" y “los retos que vienen” se ha convertido en presente. Pero llevábamos tiempo advirtiendo que no se trataba de cerrar bien el año; sino de seguir existiendo dentro de dos años. Desde la óptica del SEO, la dirección de viaje es la misma: menos obsesión por el corto plazo y el volumen bruto de tráfico, y más trabajo de fondo en autoridad, marca, producto y comunidad para poder seguir siendo relevantes dentro de estos jardines vallados.
+**R.:** Estos cambios se venían notando desde hace años en el tráfico. La diferencia ahora es que el modo IA ya se ha desplegado en Europa y en España: lo que hace unos meses explicamos a los directores de estrategia como "el futuro" y “los retos que vienen” se ha convertido en presente. Pero llevábamos tiempo advirtiendo que no se trataba de cerrar bien el año, sino de seguir existiendo dentro de dos años. Desde la óptica del SEO, la dirección de viaje es la misma: menos obsesión por el corto plazo y el volumen bruto de tráfico, y más trabajo de fondo en autoridad, marca, producto y comunidad para poder seguir siendo relevantes dentro de estos jardines vallados.
 
 **P.:** ¿Cómo debe abordarse el reto? ¿Desde la redacción o desde la estrategia?
 
