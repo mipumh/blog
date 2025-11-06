@@ -52,7 +52,7 @@ La obsesión por el tráfico desde buscadores ha generado enormes vicios en los 
 
 **P.:** ¿Por qué?
 
-**R.:** Porque son quienes entienden hacia dónde va el sector, de dónde venimos y cómo trabajan las redacciones. Tienen una mentalidad transversal y una comprensión profunda de la *data*, el comportamiento de la audiencia y las necesidades del usuario en cada momento, así como las tendencias de consumo El foco ahora mismo es entender el negocio y la audiencia. Todo lo demás debe girar en torno a eso. Organizar eventos, lanzar productos, optimizar redes o desarrollar *merchandising*... Todo ello puede sumar SEO si se entiende desde una visión integral. 
+**R.:** Porque son quienes entienden hacia dónde va el sector, de dónde venimos y cómo trabajan las redacciones. Tienen una mentalidad transversal y una comprensión profunda de la *data*, el comportamiento de la audiencia y las necesidades del usuario en cada momento, así como las tendencias de consumo. El foco ahora mismo es entender el negocio y la audiencia. Todo lo demás debe girar en torno a eso. Organizar eventos, lanzar productos, optimizar redes o desarrollar *merchandising*... Todo ello puede sumar SEO si se entiende desde una visión integral. 
 
 **P.:** Pero existe un cierto hartazgo, entre los más puristas del periodismo, del perfil SEO de turno.  
 
@@ -68,7 +68,7 @@ La obsesión por el tráfico desde buscadores ha generado enormes vicios en los 
 
 **P.:** ¿Por ejemplo?
 
-**R.:** Hace poco hablé con una especialista en SEO de un medio de relevancia mundial de EEUU y me decía que trabajaban el SEO solo en *breaking news*, de forma muy pasiva. Los redactores publican y luego envían esos textos al SEO editorial que revisa titulares y poco más. Siempre *a posteriori *de su publicación, algo que no entenderíamos aquí y no es nuestra manera de aplicar el *real-time.* Hay grandes marcas mediáticas que no aprovechan todo su potencial por no tener un pensamiento estratégico: el SEO va mucho antes. En un medio estratégico y estructurado, el SEO debería conectar con la redacción: detectar temas, proponer titulares, seguir tendencias y evaluar resultados. Y eso es lo que en España y América Latina se está haciendo cada vez mejor.
+**R.:** Hace poco hablé con una especialista en SEO de un medio de relevancia mundial de EEUU y me decía que trabajaban el SEO solo en *breaking news*, de forma muy pasiva. Los redactores publican y luego envían esos textos al SEO editorial que revisa titulares y poco más. Siempre a posteriori de su publicación, algo que no entenderíamos aquí y no es nuestra manera de aplicar el *real-time.* Hay grandes marcas mediáticas que no aprovechan todo su potencial por no tener un pensamiento estratégico: el SEO va mucho antes. En un medio estratégico y estructurado, el SEO debería conectar con la redacción: detectar temas, proponer titulares, seguir tendencias y evaluar resultados. Y eso es lo que en España y América Latina se está haciendo cada vez mejor.
 
 **P.:** En ese sentido, ¿qué tácticas SEO deberían desterrarse ya, después de los cambios recientes —como la socialización de Discover o la llegada de AI Overviews?
 
