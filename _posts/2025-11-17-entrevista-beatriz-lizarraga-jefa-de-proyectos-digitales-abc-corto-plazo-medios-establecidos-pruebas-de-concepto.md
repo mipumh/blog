@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatriz Lizárraga (Jefa de Proyectos Digitales, ABC): “No preveo grandes
+title: "Beatriz Lizarraga (Jefa de Proyectos Digitales, ABC): “No preveo grandes
   desarrollos blockchain a corto plazo en medios establecidos. Sí pequeñas
   pruebas de concepto para investigar”"
 author:  
@@ -15,7 +15,7 @@ La conversación sobre blockchain en los medios sigue siendo muy limitada, y sus
 
 En febrero de 2023 lideró [BYN](https://byn.xyz/), el primer intento de un medio español por aplicar blockchain a un proyecto editorial mediante la comercialización de NFT propios y de terceros. Ese mismo año [la entrevistamos como parte del proyecto IBERIFIER](https://mip.umh.es/blog/2023/12/14/desintermediacion-trazabilidad-y-comunidades-los-medios-ante-el-internet-del-valor-de-blockchain-copia/), en una conversación en la que preveía la proliferación de comunidades descentralizadas de información (DAO), reparaba en la importancia de diseñar incentivos coherentes, y, sobre todo, incidía en la necesidad de construir puentes entre Web2 y Web3 para mejorar la experiencia de usuario y hacer accesible la tecnología.
 
-Hoy retomamos aquella conversación, en un contexto en el que Lizárraga impulsa también **Revista SIX**, un vertical de Vocento que podría convertirse en un futuro banco de pruebas para utilidades Web3, para entender qué ha cambiado en estos dos años y cómo se están reconfigurando las posibilidades reales del blockchain en los medios.
+Hoy retomamos aquella conversación, en un contexto en el que Lizarraga aborda qué ha cambiado en estos dos años y cómo se están reconfigurando las posibilidades reales del blockchain en los medios.
 
 ![]({{ site.baseurl }}/images/001/1000030341.jpg)
 
@@ -37,13 +37,11 @@ R.: No. Cada vez es mayor, pero con más conocimiento. Hay dos corrientes y las 
 
 **P.: ¿Vais a utilizar este conocimiento obtenido con la experiencia de BYN en otros proyectos?**
 
-R.: Tengo poco presupuesto de innovación, pero me encanta, así que sigo intentándolo. Por ejemplo, ahora estamos inmersos en el lanzamiento de Revista SIX, un vertical orientado al colectivo LGTBI que verá la luz el 3 de diciembre. El proyecto ya está en redes sociales, lo que marca unos flujos distintos a los tradicionales en ABC.
-
-Vamos a montar un gran evento, para el que me gustaría hacer un POAP \[Proof of Attendance Protocol, token digital que demuestra que has asistido a un evento]. Antes necesitaba una agencia para hacerlo, pero ya no: gracias a plataformas que han mejorado la conexión entre web2 y web3, puedo crear uno yo misma en un par de horas. No es solo por introducir una funcionalidad llamativa, sino para generar comunidad con algo nuevo. El POAP me sirve para dinamizar la revista, el evento o la invitación, obtener leads y ofrecer esa prueba de participación que la gente quiera coleccionar.
+R.: Tengo poco presupuesto de innovación, pero me encanta, así que sigo intentándolo. Por ejemplo, vamos a montar un gran evento, para el que me gustaría hacer un POAP \[Proof of Attendance Protocol, token digital que demuestra que has asistido a un evento]. Antes necesitaba una agencia para hacerlo, pero ya no: gracias a plataformas que han mejorado la conexión entre web2 y web3, puedo crear uno yo misma en un par de horas. No es solo por introducir una funcionalidad llamativa, sino para generar comunidad con algo nuevo. El POAP me sirve para dinamizar la revista, el evento o la invitación, obtener leads y ofrecer esa prueba de participación que la gente quiera coleccionar.
 
 ![]({{ site.baseurl }}/images/001/captura-de-pantalla-2025-11-17-130906.png)
 
-**P.: ¿Se aplicará algún aspecto más de Web3 a Revista SIX?**
+**P.: ¿Se aplicará algún aspecto más de Web3 a futuros proyectos?**
 
 R.: Cuando veamos que la prueba de concepto editorial funciona y atrae ingresos publicitarios, me podré permitir el lujo de utilizarlo como el laboratorio que ya no tengo. La idea del POAP es que les empiece a sonar, pero, en realidad, la intención es llevarlo a redes descentralizadas. Hicimos algún pinito con BYN, pero no teníamos capacidad humana para avanzar. No queremos quedarnos en las redes de toda la vida, sino generar una buena base de datos y de conexiones, que incluso pueden converger en lo físico. Entre este público objetivo hay un porcentaje mayor de personas activas y abiertas la innovación, así que una gamificación basada en méritos en redes descentralizadas puede encajar bien.
 
@@ -69,7 +67,7 @@ Todo lo relacionado con anonimidad está creciendo muchísimo. El mundo de los a
 
 ![]({{ site.baseurl }}/images/001/captura-de-pantalla-2025-11-17-131302.png)
 
-**P.: ¿Y se plantea esto para SIX?**
+**P.: ¿Y se plantea esto para nuevos proyectos?**
 
 R.: De momento, no aspiro a ello para nada, aunque me chiflaría. Me encantaría tener dos tipos de suscripciones: la anonimizada y la no anonimizada, y que la elección recaiga en el propio usuario. A mí me gusta que el usuario pueda elegir. Entonces, si quiere que le llame por su nombre, me tendría que decir, al menos, un nick. Pero a partir de ahí, cada usuario podría decidir.
 
@@ -85,7 +83,7 @@ Con los muros dinámicos, la idea es dejar de definir tantos tipos de suscripci�
 
 **P.: Entonces, ¿este tipo de desarrollos tiene posibilidades de crecer en los medios de comunicación?**
 
-**R.:** A corto plazo, no lo veo en los medios *mainstream*. Porque son instituciones muy tradicionales, sobre todo las que vienen de papel. Salvo el New Yorker, que les honra, porque es innovación pura. Sí estoy segura de que los grupos editoriales sacarán nuevas publicaciones que les permitan hacerlo para investigar, como voy a hacer yo con Revista SIX. En medios como The New York Times, si no lo han publicado ya, seguro que lo están testando, porque tienen esa vena de la innovación muy fuerte, y dinero para tener equipos dedicados.
+**R.:** A corto plazo, no lo veo en los medios *mainstream*. Porque son instituciones muy tradicionales, sobre todo las que vienen de papel. Salvo el New Yorker, que les honra, porque es innovación pura. Sí estoy segura de que los grupos editoriales sacarán nuevas publicaciones que les permitan hacerlo para investigar. En medios como The New York Times, si no lo han publicado ya, seguro que lo están testando, porque tienen esa vena de la innovación muy fuerte, y dinero para tener equipos dedicados.
 
 Yo no tengo dinero, me han quitado todo el presupuesto de innovación y lo han dispersado en jefes de proyecto. No hay una visión única, no hay una cultura de la innovación, y eso lo veo en todos los grandes medios clásicos.
 
