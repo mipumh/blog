@@ -4,18 +4,18 @@ title: "Beatriz Lizarraga (Jefa de Proyectos Digitales, ABC): “No preveo grand
   desarrollos blockchain a corto plazo en medios establecidos. Sí pequeñas
   pruebas de concepto para investigar”"
 author:  
-  name: Jose María Valero 
+  name: Chema Valero 
   twitter: josvap
   gplus:  
   bio: Profesor del Máster
   image: chema.webp
   link: https://twitter.com/josvap
 ---
-La conversación sobre blockchain en los medios sigue siendo muy limitada, y sus adeptos llevan años oscilando entre el entusiasmo por [las amplias posibilidades que se vislumbran para el periodismo](https://mip.umh.es/blog/2019/03/27/como-puede-afectar-blockchain-periodismo/) y la cautela ante unos cambios que no acaban de llegar. En este pequeño grupo se encuentra Beatriz Lizárraga, jefa de Proyectos Digitales e Innovación en ABC. Su trabajo implica conectar el negocio y la tecnología para identificar necesidades específicas en el ámbito digital. Además, coordina iniciativas innovadoras y explora tendencias que abran nuevas posibilidades de negocio, como la tokenización de activos, materia en la que es experta.
+La conversación sobre blockchain en los medios sigue siendo muy limitada, y sus adeptos llevan años oscilando entre el entusiasmo por [las amplias posibilidades que se vislumbran para el periodismo](https://mip.umh.es/blog/2019/03/27/como-puede-afectar-blockchain-periodismo/) y la cautela ante unos cambios que no acaban de llegar. En este pequeño grupo se encuentra Beatriz Lizarraga, jefa de Proyectos Digitales e Innovación en ABC. Su trabajo implica conectar el negocio y la tecnología para identificar necesidades específicas en el ámbito digital. Además, coordina iniciativas innovadoras y explora tendencias que abran nuevas posibilidades de negocio, como la tokenización de activos, materia en la que es experta.
 
 En febrero de 2023 lideró [BYN](https://byn.xyz/), el primer intento de un medio español por aplicar blockchain a un proyecto editorial mediante la comercialización de NFT propios y de terceros. Ese mismo año [la entrevistamos como parte del proyecto IBERIFIER](https://mip.umh.es/blog/2023/12/14/desintermediacion-trazabilidad-y-comunidades-los-medios-ante-el-internet-del-valor-de-blockchain-copia/), en una conversación en la que preveía la proliferación de comunidades descentralizadas de información (DAO), reparaba en la importancia de diseñar incentivos coherentes, y, sobre todo, incidía en la necesidad de construir puentes entre Web2 y Web3 para mejorar la experiencia de usuario y hacer accesible la tecnología.
 
-Hoy retomamos aquella conversación, en un contexto en el que Lizarraga aborda qué ha cambiado en estos dos años y cómo se están reconfigurando las posibilidades reales del blockchain en los medios.
+Hoy retomamos aquella conversación, en un contexto en el que Lizarraga impulsa también Revista SIX, un vertical de Vocento que le gustaría convertir en un futuro banco de pruebas para utilidades Web3, para entender qué ha cambiado en estos dos años y cómo se están reconfigurando las posibilidades reales del blockchain en los medios.
 
 ![]({{ site.baseurl }}/images/001/1000030341.jpg)
 
@@ -37,19 +37,21 @@ R.: No. Cada vez es mayor, pero con más conocimiento. Hay dos corrientes y las 
 
 **P.: ¿Vais a utilizar este conocimiento obtenido con la experiencia de BYN en otros proyectos?**
 
-R.: Tengo poco presupuesto de innovación, pero me encanta, así que sigo intentándolo. Por ejemplo, vamos a montar un gran evento, para el que me gustaría hacer un POAP \[Proof of Attendance Protocol, token digital que demuestra que has asistido a un evento]. Antes necesitaba una agencia para hacerlo, pero ya no: gracias a plataformas que han mejorado la conexión entre web2 y web3, puedo crear uno yo misma en un par de horas. No es solo por introducir una funcionalidad llamativa, sino para generar comunidad con algo nuevo. El POAP me sirve para dinamizar la revista, el evento o la invitación, obtener leads y ofrecer esa prueba de participación que la gente quiera coleccionar.
+R.: Tengo poco presupuesto de innovación, pero me encanta, así que sigo intentándolo. Por ejemplo, ahora estamos inmersos en el lanzamiento de Revista SIX, un vertical orientado al colectivo LGTBI que verá la luz el 3 de diciembre. El proyecto ya está en redes sociales, lo que marca unos flujos distintos a los tradicionales en ABC.
+
+Vamos a montar un gran evento, para el que me gustaría hacer un POAP \[Proof of Attendance Protocol, token digital que demuestra que has asistido a un evento]. Antes necesitaba una agencia para hacerlo, pero ya no: gracias a plataformas que han mejorado la conexión entre web2 y web3, puedo crear uno yo misma en un par de horas. No es solo por introducir una funcionalidad llamativa, sino para generar comunidad con algo nuevo. El POAP me sirve para dinamizar la revista, el evento o la invitación, obtener leads y ofrecer esa prueba de participación que la gente quiera coleccionar.
 
 ![]({{ site.baseurl }}/images/001/captura-de-pantalla-2025-11-17-130906.png)
 
-**P.: ¿Se aplicará algún aspecto más de Web3 a futuros proyectos?**
+**P.: ¿Se aplicará algún aspecto más de Web3 a SIX?**
 
-R.: Cuando veamos que la prueba de concepto editorial funciona y atrae ingresos publicitarios, me podré permitir el lujo de utilizarlo como el laboratorio que ya no tengo. La idea del POAP es que les empiece a sonar, pero, en realidad, la intención es llevarlo a redes descentralizadas. Hicimos algún pinito con BYN, pero no teníamos capacidad humana para avanzar. No queremos quedarnos en las redes de toda la vida, sino generar una buena base de datos y de conexiones, que incluso pueden converger en lo físico. Entre este público objetivo hay un porcentaje mayor de personas activas y abiertas la innovación, así que una gamificación basada en méritos en redes descentralizadas puede encajar bien.
+R.: Cuando veamos que la prueba de concepto editorial funciona y atrae ingresos publicitarios, me gustaría permitirme el lujo de utilizarlo como el laboratorio que ya no tengo. La idea del POAP es que les empiece a sonar, pero, en realidad, la intención es llevarlo a redes descentralizadas. Hicimos algún pinito con BYN, pero no teníamos capacidad humana para avanzar. No queremos quedarnos en las redes de toda la vida, sino generar una buena base de datos y de conexiones, que incluso pueden converger en lo físico. Entre este público objetivo hay un porcentaje mayor de personas activas y abiertas a la innovación, así que una gamificación basada en méritos en redes descentralizadas puede encajar bien.
 
 **P.: De descentralizar el propio medio ni hablamos…**
 
 R.: Ni de broma, sería descentralizar solo la comunidad. Antes era muy optimista, pero hemos tardado mucho en llegar a donde estamos hoy. Si incluso las propias entidades financieras que están muy metidas en blockchain están utilizando desarrollos anticuados, como KYC eternos \[Know Your Customer, procedimientos obligatorios que las empresas deben completar para verificar la identidad de sus clientes], los demás nos tenemos que aguantar simplemente con una optimización, más que con una innovación.
 
-A mí me apasiona la tokenización: crear productos y servicios desde cero con una comunidad y un token como moneda de cambio. Pero, cuando intentamos hacer cosas muy básicas para BYN —como abrir una cuenta en Bit2Me para poder operar con cripto y mintar \[acuñar] NFTs— ya vimos lo complicado que es integrarlo en una empresa grande: procesos internos lentos, fiscalidad complicada y mucha incomprensión. Y, además, seguimos dependiendo de un modelo publicitario basado en datos anónimos y gestionado por terceros. Con estas estructuras y dependencias, lo veo todavía muy lejos.
+A mí me apasiona la tokenización: crear productos y servicios desde cero con una comunidad y un token como moneda de cambio. Pero, cuando intentamos hacer cosas muy básicas para BYN —como abrir una cuenta en Bit2Me para poder operar con cripto y mintar \[acuñar] NFT— ya vimos lo complicado que es integrarlo en una empresa grande: procesos internos lentos, fiscalidad complicada y mucha incomprensión. Y, además, seguimos dependiendo de un modelo publicitario basado en datos anónimos y gestionado por terceros. Con estas estructuras y dependencias, lo veo todavía muy lejos.
 
 **P.: ¿Hay algún medio más intentando aplicar estas tecnologías en España?**
 
@@ -57,17 +59,17 @@ R.: En Vocento te aseguro que nadie lo está usando, salvo yo. La gente suele te
 
 **P.: ¿Y a nivel internacional?**
 
-R.: Sí, hay más ejemplos. De hecho, yo me inspiré bastante en el New Yorker, que tenía un desarrollo muy potente que permitía suscribirse o acceder al contenido, en caso de que ya fueras suscriptor, de forma totalmente anonimizada a través de Web3. Sin duda, es el más avanzado en este tipo de integración de la suscripción, y creo que sigue siendo el único. Es una cosa muy sencilla, pero que es básica y fundamental en cualquier negocio. Es muy estratégica. Pero el problema de esto es que, o tienen muy claro arriba qué es y qué supone, o no te lo van a dejar hacer.
+R.: Sí, hay más ejemplos. De hecho, yo me inspiré bastante en la revista Time, que tenía un desarrollo muy potente que permitía suscribirse o acceder al contenido, en caso de que ya fueras suscriptor, de forma totalmente anonimizada a través de Web3. Sin duda, es el más avanzado en este tipo de integración de la suscripción, y creo que sigue siendo el único. Es una cosa muy sencilla, pero que es básica y fundamental en cualquier negocio. Es muy estratégica. Pero el problema de esto es que, o tienen muy claro arriba qué es y qué supone, o no te lo van a dejar hacer.
 
 **P.: A la empresa le interesa manejar la máxima cantidad posible de datos de los usuarios…**
 
-R.: Claro, pero en realidad la integración puedes configurarla como quieras. Por ejemplo, yo estoy asociando el POAP a un mail. Ahí es donde entra realmente la estrategia de diseño de producto y diseño de marketing. El New Yorker lo hizo así para dar entrada a los nativos Web3 y a los usuarios que saben un poco más sobre la tecnología, tienen un monedero cripto y no quiere dar acceso a sus datos.
+R.: Claro, pero en realidad la integración puedes configurarla como quieras. Por ejemplo, yo estoy asociando el POAP a un mail. Ahí es donde entra realmente la estrategia de diseño de producto y diseño de marketing. Time lo hizo así para dar entrada a los nativos Web3 y a los usuarios que saben un poco más sobre la tecnología, tienen un monedero cripto y no quiere dar acceso a sus datos.
 
-Todo lo relacionado con anonimidad está creciendo muchísimo. El mundo de los adblockers también: en los últimos datos que sacamos, rondábamos ya un 25%. Hace años hicimos un desarrollo antiadblocker y generamos un flujo, pero aun así ha subido unos ocho puntos el porcentaje de usuarios que los utilizan, que es muchísimo. Esa gente quiere informarse sin que tengamos sus cookies ni su registro, por más que digas que les mejoras la experiencia. Sé que hay proyectos en este sentido, pero no sé si son solo betas o están realmente integrados en el día a día del negocio.
+Todo lo relacionado con la privacidad y el anonimato está creciendo muchísimo. El mundo de los adblockers es el mejor ejemplo: las cifras del mercado en España ya sitúan su uso cerca del 30%, una penetración altísima que sigue subiendo año tras año. Esa audiencia quiere informarse sin que capturemos sus cookies ni su registro, por más que les digamos que así mejoramos su experiencia. Sé que hay proyectos en este sentido, pero me pregunto si son solo betas o si están realmente integrados en el día a día del negocio.
 
 ![]({{ site.baseurl }}/images/001/captura-de-pantalla-2025-11-17-131302.png)
 
-**P.: ¿Y se plantea esto para nuevos proyectos?**
+**P.: ¿Y se plantea esto para SIX?**
 
 R.: De momento, no aspiro a ello para nada, aunque me chiflaría. Me encantaría tener dos tipos de suscripciones: la anonimizada y la no anonimizada, y que la elección recaiga en el propio usuario. A mí me gusta que el usuario pueda elegir. Entonces, si quiere que le llame por su nombre, me tendría que decir, al menos, un nick. Pero a partir de ahí, cada usuario podría decidir.
 
@@ -79,18 +81,16 @@ Con los muros dinámicos, la idea es dejar de definir tantos tipos de suscripci�
 
 **P.: El usuario percibiría solamente un botón más en las opciones de conexión…**
 
-**R.:** Es un botón, nada más. Pero como todavía no es mainstream, a mí no me van a dejar. En realidad, la tecnología que hay detrás requiere un desarrollo complejo, porque es otro entorno. Entonces, lo tiene que hacer alguien externo a la empresa. Acabo de estar con los compañeros de IT, y es imposible. Hay algunos a los que a nivel personal les encanta todo lo descentralizado, pero es que ni se espera al mundo de la descentralización en Vocento. Hace unos años le conté al anterior Consejero Delegado qué era esto de blockchain y, cuando le dije que todo era público, no le interesó porque no entendía el beneficio para el modelo de negocio. No va por ahí.
+**R.:** Visualmente, es un botón, nada más, pero al no ser todavía un estándar masivo, la integración se vuelve un reto. La tecnología subyacente es compleja y requiere unos recursos que los equipos de IT internos de los grandes grupos, saturados por el día a día, difícilmente pueden asumir. Hace años, al plantear esto a nivel directivo, el concepto de "registro público" generaba rechazo, costaba visualizar el beneficio para el negocio. Simplemente, la industria tradicional no estaba madura para entenderlo entonces, aunque eso espero que cambie pronto.
 
 **P.: Entonces, ¿este tipo de desarrollos tiene posibilidades de crecer en los medios de comunicación?**
 
-**R.:** A corto plazo, no lo veo en los medios *mainstream*. Porque son instituciones muy tradicionales, sobre todo las que vienen de papel. Salvo el New Yorker, que les honra, porque es innovación pura. Sí estoy segura de que los grupos editoriales sacarán nuevas publicaciones que les permitan hacerlo para investigar. En medios como The New York Times, si no lo han publicado ya, seguro que lo están testando, porque tienen esa vena de la innovación muy fuerte, y dinero para tener equipos dedicados.
-
-Yo no tengo dinero, me han quitado todo el presupuesto de innovación y lo han dispersado en jefes de proyecto. No hay una visión única, no hay una cultura de la innovación, y eso lo veo en todos los grandes medios clásicos.
+**R.:** A corto plazo, no lo veo en los medios *mainstream*. Porque son instituciones muy tradicionales, sobre todo las que vienen de papel. Salvo Time, que les honra, porque es innovación pura. Sí estoy segura de que los grupos editoriales sacarán nuevas publicaciones que les permitan hacerlo para investigar, como quiero hacer yo en Revista SIX. En medios como The New York Times, si no lo han publicado ya, seguro que lo están testando, porque tienen esa vena de la innovación muy fuerte, y dinero para tener equipos dedicados. La innovación exige un ritmo ágil que una gran estructura de medios tradicional, por su naturaleza, a veces no puede seguir.
 
 **P.: En general, ¿cómo imaginas la evolución de blockchain y la Web3 en los próximos años?**
 
 **R.** Veremos nuevos desarrollos, marcas y ecosistemas que unan anunciantes, medios y usuarios, como ya hace Brave de manera muy sólida, aunque todavía se usa poco en España. También Farcaster o Rainbow, que lo están haciendo de vicio con esos puentes con Web2.
 
-En el medio plazo, todos tendremos un *wallet* descentralizado, como quien ahora tiene una app bancaria, probablemente integrado en nuestro DNI. Europa ya va hacia una ID en blockchain que permita a los usuarios gestionar los permisos sobre sus datos. También surgirán nuevas figuras societarias con distintos tipos de tokens y permisos, y los gobiernos, la banca y los grandes fondos dependerán cada vez más de infraestructuras blockchain, sobre todo en sectores estratégicos como la energía. Además, la IA necesitará apoyarse en blockchain para garantizar la trazabilidad del contenido y abordar problemas como la desinformación.
+En el medio plazo, todos tendremos un *wallet* descentralizado, como quien ahora tiene una app bancaria, probablemente integrado en nuestro DNI. Europa ya va hacia una ID sustentada en parte por blockchain que permitirá a los usuarios gestionar los permisos sobre sus datos. También surgirán nuevas figuras societarias con distintos tipos de tokens y permisos, y los gobiernos, la banca y los grandes fondos dependerán cada vez más de infraestructuras blockchain, sobre todo en sectores estratégicos como la energía. Además, la IA necesitará apoyarse en blockchain no solo por la desinformación, sino para garantizar la 'procedencia del dato'. Será el único sello de garantía para saber que un contenido es real.
 
 A largo plazo, creo que en algún momento se hackeará una gran blockchain descentralizada, que causaría un pánico monumental, porque ya hay mucho dinero y negocio ahí. Eso obligará a crear otras tecnologías que resuelvan este tipo de problemas de forma descentralizada, especialmente cuando la computación cuántica avance.
