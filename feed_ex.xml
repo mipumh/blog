@@ -1,0 +1,80 @@
+---
+layout: null
+permalink: /feed-substack.xml
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.inc.title | xml_escape }}</title>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed-substack.xml" rel="self" type="application/rss+xml" />
+    <description>{{ site.inc.subtitle | xml_escape }}</description>
+    <language>es-es</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {%- comment -%}
+    cutoff = ahora - 2 años (en segundos)
+    2 años ≈ 63.072.000 segundos
+    {%- endcomment -%}
+    {% assign cutoff = site.time | date: '%s' | minus: 63072000 %}
+
+    {% for post in site.posts %}
+      {% unless post.draft %}
+        {% assign post_time = post.date | date: '%s' %}
+        {% if post_time >= cutoff %}
+
+          {%- comment -%}
+          content_fixed:
+          - Usamos el contenido HTML del post
+          - NO escapamos HTML (para conservar <img>)
+          - Hacemos absolutas algunas rutas de imágenes típicas
+          Ajusta los replace si ves otros patrones.
+          {%- endcomment -%}
+
+          {% assign content_fixed = post.content
+            | replace: "src='/blog/images/", "src='https://mip.umh.es/blog/images/"
+            | replace: 'src="/blog/images/', 'src="https://mip.umh.es/blog/images/'
+            | replace: "(/blog/images/", "(https://mip.umh.es/blog/images/"
+            | replace: "(/images/", "(https://mip.umh.es/blog/images/"
+          %}
+
+          <item>
+            <title>{{ post.title | xml_escape }}</title>
+            <link>{{ site.url }}{{ post.url }}</link>
+            <guid>{{ site.url }}{{ post.id }}</guid>
+            <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+            <author>
+              {% if post.author %}
+                {{ post.author.name }}
+              {% else %}
+                {% assign authorCount = post.authors | size %}
+                {% if authorCount == 0 %}
+                  No author
+                {% elsif authorCount == 1 %}
+                  {% assign author = page.authors | first %}
+                  {{ author.name }}
+                {% else %}
+                  {% for author in post.authors %}
+                    {% if forloop.first %}
+                      {{ author.name }}
+                    {% elsif forloop.last %}
+                      and {{ author.name }}
+                    {% else %}
+                      , {{ author.name }}
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+              {% endif %}
+            </author>
+            <description><![CDATA[
+              {{ content_fixed }}
+            ]]></description>
+          </item>
+
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+
+  </channel>
+</rss>
