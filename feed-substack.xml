@@ -1,0 +1,83 @@
+---
+layout: null
+permalink: /feed-substack.xml
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.inc.title | xml_escape }}</title>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed-substack.xml" rel="self" type="application/rss+xml" />
+    <description>{{ site.inc.subtitle | xml_escape }}</description>
+    <language>es-es</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {%- comment -%}
+    Últimos 3 años:
+    - Pasamos site.time a epoch (segundos)
+    - Lo convertimos explícitamente a número con | plus: 0
+    - Restamos 3 años ≈ 94.608.000 segundos
+    {%- endcomment -%}
+    {% assign now_epoch = site.time | date: '%s' | plus: 0 %}
+    {% assign cutoff_epoch = now_epoch | minus: 94608000 %}
+
+    {%- comment -%}
+    Base de imágenes:
+    imágenes relativas típicas: {{ site.baseurl }}/images/ → /blog/images/
+    Creamos una versión absoluta: https://mip.umh.es/blog/images/
+    usando site.url + site.baseurl.
+    {%- endcomment -%}
+    {% assign images_rel = site.baseurl | append: '/images/' %}
+    {% assign abs_images = site.url | append: images_rel %}
+
+    {% for post in site.posts %}
+      {% unless post.draft %}
+
+        {%- comment -%}
+        Epoch del post, convertido a número para comparar bien
+        {%- endcomment -%}
+        {% assign post_epoch = post.date | date: '%s' | plus: 0 %}
+
+        {% if post_epoch >= cutoff_epoch %}
+
+          {%- comment -%}
+          content_fixed:
+          - Usamos el HTML completo de post.content (NO xml_escape)
+          - Convertimos rutas relativas de imágenes a absolutas:
+            /blog/images/... → https://mip.umh.es/blog/images/...
+            (o lo que corresponda según site.url y site.baseurl)
+          {%- endcomment -%}
+
+          {% assign content_fixed = post.content
+            | replace: images_rel, abs_images
+          %}
+
+          <item>
+            <title>{{ post.title | xml_escape }}</title>
+            <link>{{ site.url }}{{ post.url }}</link>
+            <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+
+            {%- comment -%}
+            Autor: versión simplificada. Si quieres mantener tu lógica
+            larga de autores múltiples, se puede pegar aquí.
+            {%- endcomment -%}
+            {% if post.author %}
+              <author>{{ post.author }}</author>
+            {% endif %}
+
+            {%- comment -%}
+            OJO: aquí NO usamos xml_escape para no romper <img>.
+            Metemos el HTML en CDATA para que el XML siga siendo válido.
+            {%- endcomment -%}
+            <description><![CDATA[
+{{ content_fixed }}
+            ]]></description>
+          </item>
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+
+  </channel>
+</rss>
