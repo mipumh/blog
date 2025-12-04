@@ -42,6 +42,7 @@ permalink: /feed-substack.xml
 
           {% assign content_fixed = post.content
             | replace: images_rel, abs_images
+            | replace: 'https://mip.umh.es/blog/blog/', 'https://mip.umh.es/blog/'
           %}
 
           <item>
