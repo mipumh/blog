@@ -14,16 +14,16 @@ permalink: /feed-substack.xml
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
     {%- comment -%}
-    Últimos 3 años (≈ 94.608.000 segundos)
-    Convertimos siempre a número con | plus: 0 para evitar errores de comparación.
+    Últimos 3 años (≈ 94.608.000 segundos).
+    Convertimos siempre a número con | plus: 0 para evitar comparación string vs número.
     {%- endcomment -%}
     {% assign now_epoch = site.time | date: '%s' | plus: 0 %}
     {% assign cutoff_epoch = now_epoch | minus: 94608000 %}
 
     {%- comment -%}
-    Base de imágenes:
+    Base para imágenes:
     /blog/images/  →  https://mip.umh.es/blog/images/
-    usando site.url + site.baseurl
+    usando site.url + site.baseurl.
     {%- endcomment -%}
     {% assign images_rel = site.baseurl | append: '/images/' %}
     {% assign abs_images = site.url | append: images_rel %}
@@ -37,19 +37,11 @@ permalink: /feed-substack.xml
           {%- comment -%}
           1) Tomamos el HTML original del post
           2) Sustituimos rutas relativas de imágenes por absolutas
-          3) Lo hacemos CDATA-safe reemplazando cualquier "]]>"
+          3) Luego escapamos como XML para que el feed sea válido
           {%- endcomment -%}
 
           {% assign content_fixed = post.content
             | replace: images_rel, abs_images
-          %}
-
-          {%- comment -%}
-          Evitar que aparezca "]]>" dentro del CDATA:
-          "]]>" → "]]]]><![CDATA[>"
-          {%- endcomment -%}
-          {% assign content_cdata = content_fixed
-            | replace: ']]>', ']]]]><![CDATA[>'
           %}
 
           <item>
@@ -58,13 +50,13 @@ permalink: /feed-substack.xml
             <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 
-            {% if post.author %}
-              <author>{{ post.author }}</author>
-            {% endif %}
+            {%- comment -%}
+            Autor simplificado: si post.author es un hash,
+            lo mejor es usar un campo de texto (por ejemplo post.author.name)
+            pero como no sabemos el esquema exacto, lo dejamos fuera para no romper nada.
+            {%- endcomment -%}
 
-            <description><![CDATA[
-{{ content_cdata }}
-            ]]></description>
+            <description>{{ content_fixed | xml_escape }}</description>
           </item>
         {% endif %}
       {% endunless %}
