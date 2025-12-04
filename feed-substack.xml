@@ -14,19 +14,16 @@ permalink: /feed-substack.xml
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
     {%- comment -%}
-    Últimos 3 años:
-    - Pasamos site.time a epoch (segundos)
-    - Lo convertimos explícitamente a número con | plus: 0
-    - Restamos 3 años ≈ 94.608.000 segundos
+    Últimos 3 años (≈ 94.608.000 segundos)
+    Convertimos siempre a número con | plus: 0 para evitar errores de comparación.
     {%- endcomment -%}
     {% assign now_epoch = site.time | date: '%s' | plus: 0 %}
     {% assign cutoff_epoch = now_epoch | minus: 94608000 %}
 
     {%- comment -%}
     Base de imágenes:
-    imágenes relativas típicas: {{ site.baseurl }}/images/ → /blog/images/
-    Creamos una versión absoluta: https://mip.umh.es/blog/images/
-    usando site.url + site.baseurl.
+    /blog/images/  →  https://mip.umh.es/blog/images/
+    usando site.url + site.baseurl
     {%- endcomment -%}
     {% assign images_rel = site.baseurl | append: '/images/' %}
     {% assign abs_images = site.url | append: images_rel %}
@@ -34,23 +31,25 @@ permalink: /feed-substack.xml
     {% for post in site.posts %}
       {% unless post.draft %}
 
-        {%- comment -%}
-        Epoch del post, convertido a número para comparar bien
-        {%- endcomment -%}
         {% assign post_epoch = post.date | date: '%s' | plus: 0 %}
-
         {% if post_epoch >= cutoff_epoch %}
 
           {%- comment -%}
-          content_fixed:
-          - Usamos el HTML completo de post.content (NO xml_escape)
-          - Convertimos rutas relativas de imágenes a absolutas:
-            /blog/images/... → https://mip.umh.es/blog/images/...
-            (o lo que corresponda según site.url y site.baseurl)
+          1) Tomamos el HTML original del post
+          2) Sustituimos rutas relativas de imágenes por absolutas
+          3) Lo hacemos CDATA-safe reemplazando cualquier "]]>"
           {%- endcomment -%}
 
           {% assign content_fixed = post.content
             | replace: images_rel, abs_images
+          %}
+
+          {%- comment -%}
+          Evitar que aparezca "]]>" dentro del CDATA:
+          "]]>" → "]]]]><![CDATA[>"
+          {%- endcomment -%}
+          {% assign content_cdata = content_fixed
+            | replace: ']]>', ']]]]><![CDATA[>'
           %}
 
           <item>
@@ -59,20 +58,12 @@ permalink: /feed-substack.xml
             <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 
-            {%- comment -%}
-            Autor: versión simplificada. Si quieres mantener tu lógica
-            larga de autores múltiples, se puede pegar aquí.
-            {%- endcomment -%}
             {% if post.author %}
               <author>{{ post.author }}</author>
             {% endif %}
 
-            {%- comment -%}
-            OJO: aquí NO usamos xml_escape para no romper <img>.
-            Metemos el HTML en CDATA para que el XML siga siendo válido.
-            {%- endcomment -%}
             <description><![CDATA[
-{{ content_fixed }}
+{{ content_cdata }}
             ]]></description>
           </item>
         {% endif %}
