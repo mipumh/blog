@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quim Miró, director de Comunicació 21: “Si quieres crecer, encuentra una
+title: "Quim Miró, director editorial de Comunicació 21: “Si quieres crecer, encuentra una
   comunidad a la que ofrecerle un contenido diferente al de los medios
   generalistas”"
 author:
@@ -53,7 +53,7 @@ R. Así es. Tuve la suerte de empezar en la radio de mi pueblo (Radio Martorell)
 
 **P. Posiblemente seas una de las personas que mejor conoce la situación del periodismo en Cataluña, con todas sus luces y sombras. ¿Cómo valoras la salud del periodismo catalán?**
 
-R. Me cuesta hacer ciertas valoraciones porque soy un periodista de raza. Si bien es cierto que con este cargo de director puedes tener una perspectiva más amplia. Cataluña ha sido pionera en muchos aspectos, también en la comunicación y el periodismo. Prueba de ello es que la radio surgió en Cataluña. En 2025 celebramos el centenario de la primera emisora, Radio Barcelona. Los que la pusieron en marcha eran ingenieros, gente que tenía curiosidad porque en algunos puntos de Europa ya estaban apareciendo emisoras. Tuvieron la iniciativa de irse a al Tibidabo y en el punto más alto de Barcelona, pusieron en marcha la primera emisora de radio.
+R. Me cuesta hacer ciertas valoraciones porque soy un periodista de raza. Si bien es cierto que con este cargo de director editorial puedes tener una perspectiva más amplia. Cataluña ha sido pionera en muchos aspectos, también en la comunicación y el periodismo. Prueba de ello es que la radio surgió en Cataluña. En 2025 celebramos el centenario de la primera emisora, Radio Barcelona. Los que la pusieron en marcha eran ingenieros, gente que tenía curiosidad porque en algunos puntos de Europa ya estaban apareciendo emisoras. Tuvieron la iniciativa de irse a al Tibidabo y en el punto más alto de Barcelona, pusieron en marcha la primera emisora de radio.
 
 Destacaría otro momento clave a finales de los 70 y principios de los 80, con la puesta en marcha de las emisoras municipales. En casi cada rincón de Cataluña, surgieron radios que dieron un empuje sobre todo a la información y también a la lengua. En la época de la Transición y durante los primeros años de la democracia, supuso un auge importante. Pienso que la radio es el medio más fuerte que tenemos en Cataluña. Y prueba de ello es que muchos periodistas que han salido de Cataluña están triunfando en España. O sea, que la escuela catalana va más allá de Cataluña.
 
