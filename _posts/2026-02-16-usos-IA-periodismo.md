@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trabajo pensado vs trabajo pesado: ¿Cómo mantener el aura para seguir brillando en el periodismo?"
+title: "Trabajo pesado y trabajo pensado: ¿Cómo mantener el aura en el periodismo usando la IA?"
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
