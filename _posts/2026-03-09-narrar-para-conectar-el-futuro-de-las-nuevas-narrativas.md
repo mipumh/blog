@@ -6,7 +6,7 @@ author:
   twitter: albagortega
   gplus:  
   bio: Profesora de Nuevas Narrativas
-  image: alba.webp
+  image: alba.png
   link: https://twitter.com/albagortega
 ---
 Hace apenas unos años, la innovación en narrativas y formatos parecía una carrera por ver quién llegaba antes al futuro. Hackatones, gafas de realidad virtual, periodismo sensorial, narrativas inmersivas… La conversación giraba en torno a la tecnología como si fuera un destino en sí mismo. Hoy las conversaciones apuntan en una dirección diferente. La tecnología sigue ahí —más presente que nunca—, pero ya no ocupa el centro del escenario. Ha dejado de ser la meta para convertirse en una aliada. Y la palabra que más se repite no es “innovación” ni “inmersión”. Es “conexión”, un concepto que surgió con fuerza en las conversaciones mantenidas con expertas y profesionales del sector —Sara I. Belled, Iker Barinaga, Sara Pérez-Seijo y Ana Sofía Paiva—, cuyas miradas ayudan a entender mejor este nuevo modo de pensar la innovación.
@@ -47,7 +47,7 @@ A esto se suma una línea de trabajo que empieza a ganar relevancia: **la sonifi
 
 El hilo que une estas tendencias es la sensación de que la innovación periodística ha entrado en una fase de madurez. No porque haya menos posibilidades —nunca ha habido tantas—, sino porque la mirada ha cambiado. La pregunta ya no es qué tecnología podemos incorporar, sino qué historias necesitan ser contadas y qué formato funciona mejor. La innovación ya no se mide por el brillo de los formatos, sino **por su capacidad para reconectar**: con los lectores que se han alejado, con los jóvenes que aún no han llegado, con las comunidades que buscan información para tomar mejores decisiones. En esa reconexión está el verdadero desafío. Y también la oportunidad.
 
-PENDIENTE.
+![]({{ site.baseurl }}/images/001/logo_iberifier.png)
 
 Las reflexiones son fruto de las entrevistas realizadas a cuatro expertos: Sara I. Belled, periodista visual en Colpisa; Iker Barinaga, director de Producto de Vocento; Sara Pérez-Seijo, investigadora del Grupo Novos Medios (USC) especializada en nuevas narrativas, y Ana Sofía Paiva, experta en innovación sonora (ICNOVA), como parte del informe  “Tendencias e innovaciones en el ecosistema mediático de España y Portugal” del proyecto Iberifier Plus. 
 
