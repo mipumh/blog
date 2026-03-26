@@ -1,6 +1,9 @@
 .bundle
 .sass-cache
+.jekyll-cache
+.DS_Store
 Gemfile.lock
 _site
 *.gem
-*.obsidian
+.obsidian
+CLAUDE.md
