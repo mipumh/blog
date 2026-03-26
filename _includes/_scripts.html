@@ -1,5 +1,4 @@
-<script type="text/javascript" href="{{ site.baseurl }}/js/main.js"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
@@ -24,13 +23,7 @@ $.getJSON("{{ site.baseurl }}/search.json", function(json){
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=165618353570853";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>{% endif %}
-{% if site.inc.sharing.gplus %}<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>{% endif %}
+
 {% if site.inc.sharing.hn %}<script>
     (function(d, t) {
         var g = d.createElement(t),

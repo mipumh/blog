@@ -1,55 +1,17 @@
 # Tweet Liquid Tag
 #
-# Example: 
+# Generates a link to the tweet since the Twitter oEmbed API is discontinued.
+# Example:
 #   {% tweet 464180168303456256 %}
 #
-
-require 'net/http'
-require 'json'
 
 module Jekyll
   class TweetTag < Liquid::Tag
 
-    #
-    #
-    #
     def render(context)
-      
-      if tag_contents = determine_arguments(@markup.strip)
-        tweet_id = tag_contents #
-        tweet_script_tag(tweet_id)
-      else
-        raise ArgumentError.new <<-eos
-           Syntax error
-          eos
-      end
-
+      tweet_id = @markup.strip
+      %(<blockquote><p><a href="https://twitter.com/i/status/#{tweet_id}" target="_blank" rel="noopener">Ver tweet original</a></p></blockquote>)
     end
-
-   private
-
-   #
-   # 
-   #
-   def determine_arguments(input)
-
-    return input
-
-   end
-
-   #
-   #
-   #
-   def tweet_script_tag(tweet_id)
-
-      result = Net::HTTP.get(URI.parse("https://api.twitter.com/1/statuses/oembed.json?id=#{tweet_id}"))
-      json   = JSON.parser.new(result)
-      hash   =  json.parse()
-      parsed = hash['html']
-
-      return parsed     
-
-   end
 
   end
 end
