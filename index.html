@@ -11,7 +11,7 @@ layout: base
             {% for post in paginator.posts %}
               {% unless post.draft %}
                 <section class="index">
-                {% if post.author.image %}<img src="{{ site.baseurl }}/images/{{ post.author.image }}" class="avatar">{% endif %}
+                {% if post.author.image %}<img src="{{ site.baseurl }}/images/{{ post.author.image }}" class="avatar" alt="{{ post.author.name }}">{% endif %}
                     <div>
                         <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
 
@@ -21,7 +21,7 @@ layout: base
         {% if image contains 'src' %}
             {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
-                <img {{ html }} class="img-fluid img-rounded" alt="{{ post.title }}" />
+                <img {{ html }} class="img-fluid img-rounded" alt="{{ post.title }}" loading="lazy" decoding="async" />
                 {% assign foundImage = 1 %}
             {% endif %}
         {% endif %}
@@ -37,7 +37,7 @@ layout: base
                 </section>
                 {% endunless %}
                 {% endfor %}
-                <section class="pagination" style="text-align:center">
+                <nav class="pagination" aria-label="Paginación" style="text-align:center">
                   {% if paginator.previous_page %}
                     {% if paginator.previous_page == 1 %}
                     <a href="{{ site.baseurl }}/" class="btn btn-outline">‹ Recientes</a>
@@ -48,7 +48,7 @@ layout: base
                   {% if paginator.next_page %}
                     <a href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="btn btn-outline">Anteriores ›</a>
                   {% endif %}
-                </section>
+                </nav>
             </article>
         </div>
 

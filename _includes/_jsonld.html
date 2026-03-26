@@ -1,0 +1,41 @@
+{% if page.author %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author.name | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Revista de Innovación en Periodismo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://mip.umh.es/blog/images/logo.webp"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "description": {{ page.excerpt | strip_html | truncate: 160 | jsonify }}
+}
+</script>
+{% else %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Revista de Innovación en Periodismo",
+  "url": "https://mip.umh.es/blog",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Máster en Innovación en Periodismo, UMH"
+  }
+}
+</script>
+{% endif %}

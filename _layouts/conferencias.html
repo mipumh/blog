@@ -5,7 +5,7 @@ category: nomap
 {% if page.cover_image %}
 <div class="article-cover">
     <div>
-        <img src="{{ site.baseurl }}/images/{{ page.cover_image }}" class="image">
+        <img src="{{ site.baseurl }}/images/{{ page.cover_image }}" class="image" alt="{{ page.antetitulo }}">
     </div>
 </div>
 {% endif %}
@@ -22,7 +22,7 @@ category: nomap
                 </header>
 
                 <section>
-                    {{ content }}
+                    {{ content | lazy_load }}
                 </section>
 
                     {% if site.inc.disqus.shortname %}
