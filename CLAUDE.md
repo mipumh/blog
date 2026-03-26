@@ -20,7 +20,7 @@ The site is served under `/blog` subpath (configured via `baseurl` in `_config.y
 
 - **Static site generator:** Jekyll with kramdown markdown and `jekyll-paginate` plugin
 - **Styling:** SCSS partials in `_sass/`, compiled via `css/main.scss`. Based on Bootstrap grid (Incorporated Theme by Kippt Inc)
-- **JavaScript:** Minimal jQuery (CDN-loaded) in `js/main.js` (image zoom only)
+- **JavaScript:** Minimal jQuery (CDN-loaded) for search functionality
 - **Deployment:** GitHub Pages on `gh-pages` branch. Daily auto-commit via `.github/workflows/schedule_commit.yml`
 
 ## Content Structure
@@ -47,14 +47,16 @@ The site is served under `/blog` subpath (configured via `baseurl` in `_config.y
 
 ## Custom Plugin
 
-`_plugins/tweet.rb` provides a Liquid tag `{% tweet TWEET_ID %}` for embedding tweets.
+`_plugins/tweet.rb` provides a Liquid tag {% raw %}`{% tweet TWEET_ID %}`{% endraw %} for embedding tweets.
 
 ## Image References in Posts
 
 Images use Jekyll's `site.baseurl` variable:
+{% raw %}
 ```markdown
 ![]({{ site.baseurl }}/images/path/to/image.webp)
 ```
+{% endraw %}
 
 ## Key URLs
 
