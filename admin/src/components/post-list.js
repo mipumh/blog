@@ -69,6 +69,7 @@ async function loadPosts() {
  */
 function renderPosts(page, query) {
   const container = document.getElementById('post-list-container');
+  container.classList.remove('loading');
   const paginationEl = document.getElementById('pagination-container');
   const { posts } = getState();
 
