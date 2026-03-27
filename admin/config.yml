@@ -20,11 +20,7 @@ collections:
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    sortable_fields:
-      fields: ["title"]
-      default:
-        field: "date"
-        direction: "Descending"
+    sortable_fields: ["title", "date"]
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Título", name: "title", widget: "string" }
