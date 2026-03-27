@@ -1,6 +1,7 @@
 ---
 layout: basepost
 ---
+{% include _author-resolve.html %}
 {% if page.iberifier == "si"  %}
 <div class="blog-cover" style="background: linear-gradient(45deg, #7B1FA2, #1A237E, #000000), radial-gradient(circle at 100px 200px, rgba(255,255,255,0.4), rgba(255,255,255,0) 70%), radial-gradient(circle at 200px 100px, rgba(255,255,255,0.4), rgba(255,255,255,0) 70%); color: white; padding: 20px; background-size: cover; position: relative;">
     <section class="text-white">
@@ -35,7 +36,7 @@ layout: basepost
 
                         {% else %}
 
-                        <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a> &mdash;
+                        <address><a rel="author" href="{{ author_link }}" title="{{ author_name }}" target="_blank">{{ author_name }}</a> &mdash;
                         <time pubdate datetime="{{ page.date | date: "%d/%m/%Y" }}" title="{{ page.date | date: "%d/%m/%Y" }}">{{ page.date | date: "%d/%m/%Y" }}</time></address>
 
                     {% endif %}
@@ -45,7 +46,7 @@ layout: basepost
                 </header>
 
                     {% if page.periscopio == "si" %}
-                    <section class="index">Firma invitada: {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}" class="avatar" style="display:inline-block;">{% endif %}<div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br><span class="muted">{{ page.author.bio }}.</span></p></div></section>
+                    <section class="index">Firma invitada: {% if author_image %}<img src="{{ site.baseurl }}/images/{{ author_image }}" class="avatar" style="display:inline-block;">{% endif %}<div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/{{ author_twitter }}" title="{{ author_name }}" target="_blank">{{ author_name }}</a></strong><br><span class="muted">{{ author_bio }}.</span></p></div></section>
                     {% endif %}
                     
                 <section>
@@ -56,9 +57,9 @@ layout: basepost
                 <footer>
 
                     <address>
-                       {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}" alt="{{ page.author.name }}" loading="lazy" decoding="async">{% endif %}
-                        <p><strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
-                        <span class="muted">{{ page.author.bio }}</span>
+                       {% if author_image %}<img src="{{ site.baseurl }}/images/{{ author_image }}" alt="{{ author_name }}" loading="lazy" decoding="async">{% endif %}
+                        <p><strong><a rel="author" href="https://twitter.com/{{ author_twitter }}" title="{{ author_name }}" target="_blank">{{ author_name }}</a></strong><br>
+                        <span class="muted">{{ author_bio }}</span>
                         </p>
                     </address>
                 </footer>

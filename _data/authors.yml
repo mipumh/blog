@@ -26,13 +26,6 @@ alicia_de_lara:
   image: alicia.webp
   link: https://twitter.com/porqueeeyo
 
-lorena_escandell:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
-
 cristian_marin:
   name: Cristian R. Marín
   twitter: crms74
@@ -74,38 +67,3 @@ chema_valero:
   bio: Profesor del Máster
   image: chema.webp
   link: https://twitter.com/josvap
-
-mari_carmen_borrull:
-  name: Mari Carmen Borrull
-  twitter: mamenbor
-  bio: Periodismo UMH
-  image: mabor.webp
-  link: https://twitter.com/mamenbor
-
-fatima_navarro:
-  name: Fátima Navarro
-  twitter: fnmaillo
-  bio: Coordinadora Redes Sociales
-  image: fn.webp
-  link: https://twitter.com/fnmaillo
-
-thais_penalver:
-  name: Thais Peñalver
-  twitter: ThaisC21
-  bio: Periodismo UMH
-  image: thais.webp
-  link: https://twitter.com/ThaisC21
-
-sergio_mahugo:
-  name: Sergio M. Mahugo
-  twitter: smmahugo
-  bio: Coordinador de Tecnologías
-  image: mahugo.jpg
-  link: https://twitter.com/smmahugo
-
-laura_sanchez_benejama:
-  name: Laura Sánchez Benejama
-  twitter: LauraSB_7
-  bio: Periodismo UMH
-  image: benejama.webp
-  link: https://twitter.com/LauraSB_7
