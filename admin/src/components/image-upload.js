@@ -36,9 +36,9 @@ export async function uploadImage(file, branch = 'gh-pages', onSuccess) {
       branch
     );
 
-    // 4. Return the full URL for editor display (GitHub Pages)
+    // 4. Return raw GitHub URL (available instantly, no rebuild needed)
     // postprocessMarkdown converts back to {{ site.baseurl }} on save
-    const editorPath = `https://mip.umh.es/blog/${path}`;
+    const editorPath = `https://raw.githubusercontent.com/mipumh/blog/gh-pages/${path}`;
 
     showStatus('Imagen subida', 'saved');
 

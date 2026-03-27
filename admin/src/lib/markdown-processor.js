@@ -4,15 +4,15 @@
  * TipTap can't handle {{ site.baseurl }} or {% tweet %} tags.
  * We convert them to standard values on load and restore on save.
  *
- * Images use the full GitHub Pages URL so they display correctly
- * in the editor (hosted on Netlify, separate from the blog).
+ * Images use raw.githubusercontent.com so they display instantly
+ * in the editor without waiting for GitHub Pages to rebuild.
  */
 
-const SITE_URL = 'https://mip.umh.es/blog';
+const RAW_BASE = 'https://raw.githubusercontent.com/mipumh/blog/gh-pages';
 
 /**
  * Pre-process markdown BEFORE feeding to TipTap editor.
- * Replaces Jekyll Liquid tags with full URLs.
+ * Replaces Jekyll Liquid tags with raw GitHub URLs.
  *
  * @param {string} raw - Raw markdown from post file
  * @returns {string} - Markdown safe for TipTap
@@ -20,10 +20,16 @@ const SITE_URL = 'https://mip.umh.es/blog';
 export function preprocessMarkdown(raw) {
   let processed = raw;
 
-  // {{ site.baseurl }} → https://mip.umh.es/blog
+  // {{ site.baseurl }}/images/ → raw GitHub URL for images
+  processed = processed.replace(
+    /\{\{\s*site\.baseurl\s*\}\}\/(images\/)/g,
+    `${RAW_BASE}/$1`
+  );
+
+  // {{ site.baseurl }} in other contexts (links, etc) → /blog
   processed = processed.replace(
     /\{\{\s*site\.baseurl\s*\}\}/g,
-    SITE_URL
+    '/blog'
   );
 
   // {% tweet 1234567890 %} → <!--jekyll:tweet:1234567890-->
@@ -45,15 +51,15 @@ export function preprocessMarkdown(raw) {
 export function postprocessMarkdown(markdown) {
   let processed = markdown;
 
-  // Full URL → {{ site.baseurl }} in image markdown: ![alt](https://mip.umh.es/blog/images/...)
+  // Raw GitHub URL → {{ site.baseurl }} in markdown images
   processed = processed.replace(
-    /(\!\[[^\]]*\]\()https:\/\/mip\.umh\.es\/blog\/(images\/)/g,
+    /(\!\[[^\]]*\]\()https:\/\/raw\.githubusercontent\.com\/mipumh\/blog\/gh-pages\/(images\/)/g,
     '$1{{ site.baseurl }}/$2'
   );
 
-  // Also handle HTML img tags that TipTap might produce
+  // Also handle HTML img tags
   processed = processed.replace(
-    /(src=["'])https:\/\/mip\.umh\.es\/blog\/(images\/)/g,
+    /(src=["'])https:\/\/raw\.githubusercontent\.com\/mipumh\/blog\/gh-pages\/(images\/)/g,
     '$1{{ site.baseurl }}/$2'
   );
 
