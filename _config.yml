@@ -40,4 +40,3 @@ exclude:
   - admin
   - netlify.toml
   - node_modules
-  - prompt-tiptap-cms-netlify.md
