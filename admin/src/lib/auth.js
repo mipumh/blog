@@ -40,3 +40,19 @@ export async function getToken() {
   if (!user) throw new Error('No autenticado');
   return user.jwt(true);
 }
+
+/**
+ * Recover a user account from a recovery token.
+ * Returns the user object.
+ */
+export function recover(token) {
+  return auth.recover(token);
+}
+
+/**
+ * Accept an invite token.
+ * Returns the user object.
+ */
+export function acceptInvite(token) {
+  return auth.acceptInvite(token);
+}
