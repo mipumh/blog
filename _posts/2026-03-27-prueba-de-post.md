@@ -8,5 +8,6 @@ author:
   bio: Coordinadora de Diseño Web
   image: alicia.webp
   link: https://twitter.com/porqueeeyo
+draft: true
 ---
 Dejame ver si se carga adecuadamente.
