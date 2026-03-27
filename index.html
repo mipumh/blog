@@ -10,8 +10,17 @@ layout: base
             <article>                
             {% for post in paginator.posts %}
               {% unless post.draft %}
+                {% assign _post_author = nil %}
+                {% for _a in site.data.authors %}
+                  {% if _a[1].name == post.author.name %}
+                    {% assign _post_author = _a[1] %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+                {% assign _author_image = _post_author.image | default: post.author.image %}
+                {% assign _author_name = post.author.name %}
                 <section class="index">
-                {% if post.author.image %}<img src="{{ site.baseurl }}/images/{{ post.author.image }}" class="avatar" alt="{{ post.author.name }}">{% endif %}
+                {% if _author_image %}<img src="{{ site.baseurl }}/images/{{ _author_image }}" class="avatar" alt="{{ _author_name }}">{% endif %}
                     <div>
                         <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
 
@@ -29,7 +38,7 @@ layout: base
 
                         <p>{{ post.excerpt | strip_html }}</p>
                         <div class="meta">
-                            <address>{{ post.author.name }}</address> &mdash;
+                            <address>{{ _author_name }}</address> &mdash;
                             <time pubdate datetime="{{ post.date | date: "%d/%m/%Y" }}" title="{{ post.date | date: "%d/%m/%Y" }}">{{ post.date | date: "%d/%m/%Y" }}</time>
                         </div>
                     </div>
