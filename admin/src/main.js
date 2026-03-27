@@ -27,7 +27,7 @@ async function init() {
   // Load author presets from _data/authors.yml
   try {
     const file = await gitClient.getFile('_data/authors.yml');
-    const content = atob(file.content);
+    const content = new TextDecoder().decode(Uint8Array.from(atob(file.content), c => c.charCodeAt(0)));
     const authors = yaml.load(content) || {};
     setState({ authors });
   } catch (err) {
