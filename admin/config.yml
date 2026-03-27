@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+  branch: gh-pages
+
+publish_mode: editorial_workflow
+
+media_folder: "images/001"
+public_folder: "{{site.baseurl}}/images/001"
+
+locale: "es"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: "posts"
+    label: "Artículos"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Subtítulo", name: "subtitle", widget: "string", required: false }
+      - label: "Autor"
+        name: "author"
+        widget: "object"
+        fields:
+          - { label: "Nombre", name: "name", widget: "string" }
+          - { label: "Twitter", name: "twitter", widget: "string", required: false }
+          - { label: "Bio", name: "bio", widget: "string", required: false }
+          - { label: "Imagen", name: "image", widget: "string", required: false, hint: "Nombre del archivo (ej: yo.webp)" }
+          - { label: "Enlace", name: "link", widget: "string", required: false }
+      - { label: "Imagen de portada", name: "cover_image", widget: "string", required: false, hint: "Nombre del archivo (ej: portada.webp)" }
+      - { label: "Contenido", name: "body", widget: "markdown" }

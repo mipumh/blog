@@ -7,6 +7,4 @@ _site
 *.gem
 .obsidian
 CLAUDE.md
-admin/node_modules/
-admin/dist/
 .env
