@@ -175,11 +175,12 @@
 /* Status bar */
 .status-bar {
   position: fixed;
-  bottom: var(--space-md);
-  right: var(--space-md);
+  top: var(--space-md);
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 200;
-  padding: var(--space-sm) var(--space-md);
-  font-size: var(--text-xs);
+  padding: var(--space-sm) var(--space-lg);
+  font-size: var(--text-sm);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-md);
   transition: opacity 0.3s, transform 0.3s;
@@ -202,7 +203,7 @@
 
 .status-bar--hidden {
   opacity: 0;
-  transform: translateY(8px);
+  transform: translateX(-50%) translateY(-8px);
   pointer-events: none;
 }
 
