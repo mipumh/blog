@@ -29,7 +29,26 @@ collections:
         name: "author"
         widget: "object"
         fields:
-          - { label: "Nombre", name: "name", widget: "string" }
+          - label: "Nombre"
+            name: "name"
+            widget: "select"
+            options:
+              - "Miguel Carvajal"
+              - "Félix Arias"
+              - "Jose A. García Avilés"
+              - "Alicia de Lara"
+              - "Cristian R. Marín"
+              - "José Luis Rojas"
+              - "Alba García Ortega"
+              - "Chema Valero"
+              - "Lorena Escandell"
+              - "Dámaso Mondéjar"
+              - "Fátima Navarro"
+              - "Thais Peñalver"
+              - "Sergio M. Mahugo"
+              - "Itziar Martínez"
+              - "Mari Carmen Borrull"
+              - "Laura Sánchez Benejama"
           - { label: "Twitter", name: "twitter", widget: "string", required: false }
           - { label: "Bio", name: "bio", widget: "string", required: false }
           - { label: "Imagen", name: "image", widget: "string", required: false, hint: "Nombre del archivo (ej: yo.webp)" }
