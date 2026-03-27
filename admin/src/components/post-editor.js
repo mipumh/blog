@@ -59,6 +59,7 @@ export async function renderPostEditor(params = {}) {
       <div class="editor-header">
         <a class="editor-header__back" id="btn-back">← Volver a artículos</a>
         <div class="editor-header__actions">
+          ${!isNew ? '<button class="btn btn--danger" id="btn-delete">Borrar</button>' : ''}
           <button class="btn btn--secondary" id="btn-save-draft">Guardar borrador</button>
           <button class="btn btn--primary" id="btn-publish">Publicar</button>
         </div>
@@ -185,6 +186,11 @@ export async function renderPostEditor(params = {}) {
     savePost(false);
   });
 
+  // Delete handler (only for existing posts)
+  document.getElementById('btn-delete')?.addEventListener('click', () => {
+    deletePost();
+  });
+
   // Keyboard shortcut: Ctrl+S to save draft
   document.addEventListener('keydown', handleKeyboard);
 }
@@ -273,6 +279,35 @@ async function savePost(asDraft) {
     }
   } catch (err) {
     showStatus(`Error al guardar: ${err.message}`, 'error');
+  }
+}
+
+/**
+ * Delete the current post from the repository.
+ */
+async function deletePost() {
+  if (!currentFile) return;
+
+  const title = document.getElementById('post-title').value.trim() || currentFile.name;
+  if (!confirm(`¿Eliminar "${title}"? Esta acción no se puede deshacer.`)) return;
+
+  showStatus('Eliminando...', 'saving');
+
+  try {
+    await gitClient.deleteFile(
+      currentFile.path,
+      currentFile.sha,
+      `Eliminar: ${title}`,
+      currentFile.branch
+    );
+
+    const store = await import('../lib/store.js');
+    store.setState({ postsLoaded: false });
+
+    showStatus('Eliminado', 'saved');
+    navigate('#/posts');
+  } catch (err) {
+    showStatus(`Error al eliminar: ${err.message}`, 'error');
   }
 }
 
