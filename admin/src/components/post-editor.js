@@ -9,7 +9,7 @@ import { gitClient } from '../lib/git-gateway.js';
 import { getState, showStatus } from '../lib/store.js';
 import { parseFrontmatter, buildFileContent } from '../lib/frontmatter.js';
 import { preprocessMarkdown, postprocessMarkdown } from '../lib/markdown-processor.js';
-import { postFilename, parseFilename } from '../lib/slug.js';
+import { postFilename, slugify, parseFilename } from '../lib/slug.js';
 import { navigate } from '../router.js';
 import { getContentEl } from './app.js';
 import { renderToolbar, attachToolbar } from './toolbar.js';
@@ -17,7 +17,10 @@ import { renderAuthorSelect, attachAuthorSelect, getAuthorFromForm } from './aut
 import { uploadImage, createImagePicker, setupDragDrop, setupPasteHandler } from './image-upload.js';
 
 let editor = null;
-let currentFile = null; // { name, path, sha, metadata, branch }
+let currentFile = null; // { name, path, sha, branch }
+let cmsBranch = null;   // e.g. 'cms/mi-nuevo-articulo'
+
+const PROD_BRANCH = 'gh-pages';
 
 /**
  * Render the post editor view.
@@ -31,7 +34,7 @@ export async function renderPostEditor(params = {}) {
 
   el.innerHTML = '<div class="loading">Cargando editor</div>';
 
-  // Load existing post
+  // Load existing post (always read from gh-pages)
   if (!isNew) {
     try {
       const file = await gitClient.getFile(`_posts/${params.filename}`);
@@ -43,7 +46,7 @@ export async function renderPostEditor(params = {}) {
         name: params.filename,
         path: file.path,
         sha: file.sha,
-        branch: 'gh-pages',
+        branch: PROD_BRANCH,
       };
     } catch (err) {
       el.innerHTML = `<div class="empty-state"><p>Error al cargar: ${err.message}</p></div>`;
@@ -53,15 +56,17 @@ export async function renderPostEditor(params = {}) {
     currentFile = null;
   }
 
+  // Reset branch for this editing session
+  cmsBranch = null;
+
   // Render editor layout
   el.innerHTML = `
     <div class="editor-page">
       <div class="editor-header">
         <a class="editor-header__back" id="btn-back">← Volver a artículos</a>
         <div class="editor-header__actions">
-          ${!isNew ? '<button class="btn btn--danger" id="btn-delete">Borrar</button>' : ''}
           <button class="btn btn--secondary" id="btn-save-draft">Guardar borrador</button>
-          <button class="btn btn--primary" id="btn-publish">Publicar</button>
+          <button class="btn btn--primary" id="btn-publish">Enviar a revisión</button>
         </div>
       </div>
 
@@ -91,10 +96,6 @@ export async function renderPostEditor(params = {}) {
             <label class="form-check">
               <input type="checkbox" id="flag-iberifier" ${metadata.iberifier === 'si' ? 'checked' : ''}>
               Informe Iberifier
-            </label>
-            <label class="form-check">
-              <input type="checkbox" id="flag-draft" ${metadata.draft ? 'checked' : ''}>
-              Borrador (no publicar)
             </label>
           </div>
         </div>
@@ -158,11 +159,11 @@ export async function renderPostEditor(params = {}) {
     content: processedBody,
   });
 
-  // Image upload handlers
-  const currentBranch = () => currentFile?.branch || 'gh-pages';
+  // Image upload handlers — images always go to the cms branch
+  const imageBranch = () => cmsBranch || PROD_BRANCH;
 
   const handleImageFile = (file) => {
-    uploadImage(file, currentBranch(), (imagePath) => {
+    uploadImage(file, imageBranch(), (imagePath) => {
       editor.chain().focus().setImage({ src: imagePath }).run();
     });
   };
@@ -179,16 +180,11 @@ export async function renderPostEditor(params = {}) {
 
   // Save handlers
   document.getElementById('btn-save-draft').addEventListener('click', () => {
-    savePost(true);
+    saveDraft();
   });
 
   document.getElementById('btn-publish').addEventListener('click', () => {
-    savePost(false);
-  });
-
-  // Delete handler (only for existing posts)
-  document.getElementById('btn-delete')?.addEventListener('click', () => {
-    deletePost();
+    submitForReview();
   });
 
   // Keyboard shortcut: Ctrl+S to save draft
@@ -198,84 +194,122 @@ export async function renderPostEditor(params = {}) {
 function handleKeyboard(e) {
   if ((e.ctrlKey || e.metaKey) && e.key === 's') {
     e.preventDefault();
-    savePost(true);
+    saveDraft();
   }
 }
 
 /**
- * Save the current post to the repository.
+ * Ensure a cms/ branch exists for this post.
+ * Creates one from gh-pages HEAD if needed.
  */
-async function savePost(asDraft) {
+async function ensureCmsBranch(title) {
+  if (cmsBranch) return cmsBranch;
+
+  const slug = slugify(title);
+  const branchName = `cms/${slug}`;
+
+  try {
+    // Check if branch already exists
+    await gitClient.getBranch(branchName);
+    cmsBranch = branchName;
+    return cmsBranch;
+  } catch (_) {
+    // Branch doesn't exist, create it
+  }
+
+  const ghPages = await gitClient.getBranch(PROD_BRANCH);
+  await gitClient.createBranch(branchName, ghPages.commit.sha);
+  cmsBranch = branchName;
+  return cmsBranch;
+}
+
+/**
+ * Collect metadata and markdown from the editor form.
+ */
+function collectPostData() {
+  const title = document.getElementById('post-title').value.trim();
+  if (!title) return null;
+
+  const metadata = {
+    title,
+    subtitle: document.getElementById('post-subtitle').value.trim(),
+    author: getAuthorFromForm(),
+    cover_image: document.getElementById('post-cover').value.trim(),
+    periscopio: document.getElementById('flag-periscopio').checked,
+    iberifier: document.getElementById('flag-iberifier').checked,
+    draft: false,
+  };
+
+  const rawMarkdown = editor.storage.markdown.getMarkdown();
+  const jekyllMarkdown = postprocessMarkdown(rawMarkdown);
+  const fileContent = buildFileContent(metadata, jekyllMarkdown);
+  const contentBase64 = btoa(unescape(encodeURIComponent(fileContent)));
+
+  let filename;
+  if (currentFile) {
+    filename = currentFile.name;
+  } else {
+    filename = postFilename(new Date(), title);
+  }
+
+  return { title, metadata, contentBase64, filename };
+}
+
+/**
+ * Save draft to a cms/ branch (never to gh-pages).
+ */
+async function saveDraft() {
   if (!editor) return;
 
-  const title = document.getElementById('post-title').value.trim();
-  if (!title) {
+  const data = collectPostData();
+  if (!data) {
     showStatus('El título es obligatorio', 'error');
     return;
   }
 
-  showStatus('Guardando...', 'saving');
+  showStatus('Guardando borrador...', 'saving');
 
   try {
-    // Collect metadata
-    const metadata = {
-      title,
-      subtitle: document.getElementById('post-subtitle').value.trim(),
-      author: getAuthorFromForm(),
-      cover_image: document.getElementById('post-cover').value.trim(),
-      periscopio: document.getElementById('flag-periscopio').checked,
-      iberifier: document.getElementById('flag-iberifier').checked,
-      draft: asDraft || document.getElementById('flag-draft').checked,
-    };
+    const branch = await ensureCmsBranch(data.title);
 
-    // Get markdown from TipTap and post-process for Jekyll
-    const rawMarkdown = editor.storage.markdown.getMarkdown();
-    const jekyllMarkdown = postprocessMarkdown(rawMarkdown);
-
-    // Build file content
-    const fileContent = buildFileContent(metadata, jekyllMarkdown);
-    const contentBase64 = btoa(unescape(encodeURIComponent(fileContent)));
-
-    // Determine filename
-    let filename;
-    if (currentFile) {
-      filename = currentFile.name;
-    } else {
-      const date = new Date();
-      filename = postFilename(date, title);
+    // Get the sha of the file on the cms branch (may differ from gh-pages)
+    let sha = null;
+    try {
+      const existing = await gitClient.getFile(`_posts/${data.filename}`, branch);
+      sha = existing.sha;
+    } catch (_) {
+      // File doesn't exist on this branch yet — that's fine
+      // For existing posts, try to get sha from gh-pages
+      if (currentFile?.sha) {
+        sha = currentFile.sha;
+      }
     }
 
-    const branch = currentFile?.branch || 'gh-pages';
     const message = currentFile
-      ? `Actualizar: ${title}`
-      : `Nuevo artículo: ${title}`;
+      ? `Actualizar: ${data.title}`
+      : `Nuevo artículo: ${data.title}`;
 
-    // Save to repo
     const result = await gitClient.createOrUpdateFile(
-      `_posts/${filename}`,
-      contentBase64,
+      `_posts/${data.filename}`,
+      data.contentBase64,
       message,
-      currentFile?.sha || null,
+      sha,
       branch
     );
 
     // Update current file reference
     currentFile = {
-      name: filename,
-      path: `_posts/${filename}`,
+      name: data.filename,
+      path: `_posts/${data.filename}`,
       sha: result.content.sha,
       branch,
     };
 
-    // Force refresh of post list cache
-    const store = await import('../lib/store.js');
-    store.setState({ postsLoaded: false });
+    showStatus(`Borrador guardado en ${branch}`, 'saved');
 
-    showStatus('Guardado', 'saved');
-
-    // If new post, update URL without reloading
-    if (!window.location.hash.includes(filename)) {
-      history.replaceState(null, '', `#/edit/${encodeURIComponent(filename)}`);
+    // Update URL
+    if (!window.location.hash.includes(data.filename)) {
+      history.replaceState(null, '', `#/edit/${encodeURIComponent(data.filename)}`);
     }
   } catch (err) {
     showStatus(`Error al guardar: ${err.message}`, 'error');
@@ -283,31 +317,72 @@ async function savePost(asDraft) {
 }
 
 /**
- * Delete the current post from the repository.
+ * Save to cms/ branch and create a PR to gh-pages for review.
  */
-async function deletePost() {
-  if (!currentFile) return;
+async function submitForReview() {
+  if (!editor) return;
 
-  const title = document.getElementById('post-title').value.trim() || currentFile.name;
-  if (!confirm(`¿Eliminar "${title}"? Esta acción no se puede deshacer.`)) return;
+  const data = collectPostData();
+  if (!data) {
+    showStatus('El título es obligatorio', 'error');
+    return;
+  }
 
-  showStatus('Eliminando...', 'saving');
+  if (!confirm(`¿Enviar "${data.title}" a revisión? Se creará una solicitud de publicación.`)) {
+    return;
+  }
+
+  showStatus('Guardando y creando solicitud...', 'saving');
 
   try {
-    await gitClient.deleteFile(
-      currentFile.path,
-      currentFile.sha,
-      `Eliminar: ${title}`,
-      currentFile.branch
+    // First save the latest version to the cms branch
+    const branch = await ensureCmsBranch(data.title);
+
+    let sha = null;
+    try {
+      const existing = await gitClient.getFile(`_posts/${data.filename}`, branch);
+      sha = existing.sha;
+    } catch (_) {
+      if (currentFile?.sha) sha = currentFile.sha;
+    }
+
+    const message = currentFile
+      ? `Actualizar: ${data.title}`
+      : `Nuevo artículo: ${data.title}`;
+
+    await gitClient.createOrUpdateFile(
+      `_posts/${data.filename}`,
+      data.contentBase64,
+      message,
+      sha,
+      branch
     );
 
-    const store = await import('../lib/store.js');
-    store.setState({ postsLoaded: false });
+    // Create PR from cms/ branch to gh-pages
+    const prTitle = currentFile
+      ? `Actualizar: ${data.title}`
+      : `Nuevo: ${data.title}`;
 
-    showStatus('Eliminado', 'saved');
-    navigate('#/posts');
+    const author = getAuthorFromForm();
+    const prBody = `Artículo enviado desde el editor.\n\nAutor: ${author.name || 'Sin definir'}\nArchivo: \`_posts/${data.filename}\``;
+
+    const pr = await gitClient.createPR(prTitle, branch, PROD_BRANCH, prBody);
+
+    showStatus(`PR #${pr.number} creado — pendiente de revisión`, 'saved');
+
+    // Update button to show it's been submitted
+    const btnPublish = document.getElementById('btn-publish');
+    if (btnPublish) {
+      btnPublish.textContent = `PR #${pr.number} enviado`;
+      btnPublish.disabled = true;
+    }
   } catch (err) {
-    showStatus(`Error al eliminar: ${err.message}`, 'error');
+    // If PR already exists, that's ok
+    if (err.message.includes('already exists') || err.message.includes('A pull request already exists')) {
+      showStatus('Ya existe una solicitud de revisión para este artículo', 'saved');
+    } else {
+      showStatus(`Error: ${err.message}`, 'error');
+    }
   }
 }
 
@@ -320,6 +395,7 @@ export function destroyEditor() {
     editor = null;
   }
   currentFile = null;
+  cmsBranch = null;
   document.removeEventListener('keydown', handleKeyboard);
 }
 
