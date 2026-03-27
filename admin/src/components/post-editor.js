@@ -35,7 +35,7 @@ export async function renderPostEditor(params = {}) {
   if (!isNew) {
     try {
       const file = await gitClient.getFile(`_posts/${params.filename}`);
-      const content = atob(file.content);
+      const content = new TextDecoder().decode(Uint8Array.from(atob(file.content), c => c.charCodeAt(0)));
       const parsed = parseFrontmatter(content);
       metadata = parsed.metadata;
       body = parsed.body;
