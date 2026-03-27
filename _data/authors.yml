@@ -1,17 +1,111 @@
-# specify site authors in this file
-# you can add .yml files for any other global data in this folder
+miguel_carvajal:
+  name: Miguel Carvajal
+  twitter: mcarvajal_
+  bio: Director del Máster
+  image: yo.webp
+  link: https://twitter.com/mcarvajal_
 
-dan_urbanowicz:
-    name: Dan Urbanowicz
-    email: dan.urbanowicz@gmail.com
-    web: https://www.danurbanowicz.com
-john_doe:
-    name: John Doe
-    email: johndoe@email.com
-    web: http://twitter.com/johndoe
-alicia_delara:
-    name: Alicia de Lara
-    twitter: porqueeeyo
-    bio: Coordinadora de Diseño Web
-    image: alicia.webp
-    link: https://twitter.com/porqueeeyo
+jose_garcia_aviles:
+  name: Jose A. García Avilés
+  twitter: jagaraviles
+  bio: Coordinador Módulo Audiencias
+  image: jga.webp
+  link: https://twitter.com/jagaraviles
+
+felix_arias:
+  name: Félix Arias
+  twitter: cibermensaje
+  bio: Subdirector del Máster
+  image: flx.webp
+  link: https://twitter.com/flxarias
+
+alicia_de_lara:
+  name: Alicia de Lara
+  twitter: porqueeeyo
+  bio: Profesora Titular en Periodismo UMH
+  image: alicia.webp
+  link: https://twitter.com/porqueeeyo
+
+lorena_escandell:
+  name: Lorena Escandell
+  twitter: lorenaescandell
+  bio: Community Manager del MIP
+  image: les.webp
+  link: https://twitter.com/lorenaescandell
+
+cristian_marin:
+  name: Cristian R. Marín
+  twitter: crms74
+  bio: Profesor coordinador de Proyectos
+  image: crms.webp
+  link: https://twitter.com/crms74
+
+jose_luis_rojas:
+  name: José Luis Rojas
+  twitter: rojastorrijos
+  bio: Periodista y profesor de la Universidad de Sevilla
+  image: rojas.webp
+  link: https://twitter.com/rojastorrijos
+
+damaso_mondejar:
+  name: Dámaso Mondéjar
+  twitter: Monde97
+  bio: Doctorado UMH
+  image: monde97.webp
+  link: https://twitter.com/Monde97
+
+alba_garcia_ortega:
+  name: Alba García Ortega
+  twitter: albagortega
+  bio: Profesora de Nuevas Narrativas
+  image: alba.png
+  link: https://twitter.com/albagortega
+
+itziar_martinez:
+  name: Itziar Martínez
+  twitter: itziarmartinez_
+  bio: Periodismo UMH
+  image: itziar.webp
+  link: https://twitter.com/itziarmartinez_
+
+chema_valero:
+  name: Chema Valero
+  twitter: josvap
+  bio: Profesor del Máster
+  image: chema.webp
+  link: https://twitter.com/josvap
+
+mari_carmen_borrull:
+  name: Mari Carmen Borrull
+  twitter: mamenbor
+  bio: Periodismo UMH
+  image: mabor.webp
+  link: https://twitter.com/mamenbor
+
+fatima_navarro:
+  name: Fátima Navarro
+  twitter: fnmaillo
+  bio: Coordinadora Redes Sociales
+  image: fn.webp
+  link: https://twitter.com/fnmaillo
+
+thais_penalver:
+  name: Thais Peñalver
+  twitter: ThaisC21
+  bio: Periodismo UMH
+  image: thais.webp
+  link: https://twitter.com/ThaisC21
+
+sergio_mahugo:
+  name: Sergio M. Mahugo
+  twitter: smmahugo
+  bio: Coordinador de Tecnologías
+  image: mahugo.jpg
+  link: https://twitter.com/smmahugo
+
+laura_sanchez_benejama:
+  name: Laura Sánchez Benejama
+  twitter: LauraSB_7
+  bio: Periodismo UMH
+  image: benejama.webp
+  link: https://twitter.com/LauraSB_7

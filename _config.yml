@@ -35,3 +35,10 @@ plugins: [jekyll-paginate]
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
+
+exclude:
+  - admin
+  - netlify.toml
+  - EDITORIAL-WORKFLOW.md
+  - node_modules
+  - prompt-tiptap-cms-netlify.md
