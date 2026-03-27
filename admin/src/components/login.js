@@ -1,4 +1,4 @@
-import { login, recover, acceptInvite } from '../lib/auth.js';
+import { login, recover, acceptInviteWithPassword } from '../lib/auth.js';
 import { setState } from '../lib/store.js';
 
 /**
@@ -124,13 +124,12 @@ function renderPasswordReset(app, token, type) {
     btn.textContent = 'Guardando...';
 
     try {
-      let user;
       if (type === 'invite') {
-        user = await acceptInvite(token);
+        await acceptInviteWithPassword(token, password);
       } else {
-        user = await recover(token);
+        const user = await recover(token);
+        await user.update({ password });
       }
-      await user.update({ password });
 
       successEl.textContent = 'Contraseña actualizada. Redirigiendo...';
       successEl.style.display = 'block';

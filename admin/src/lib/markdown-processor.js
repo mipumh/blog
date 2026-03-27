@@ -3,13 +3,16 @@
  *
  * TipTap can't handle {{ site.baseurl }} or {% tweet %} tags.
  * We convert them to standard values on load and restore on save.
+ *
+ * Images use the full GitHub Pages URL so they display correctly
+ * in the editor (hosted on Netlify, separate from the blog).
  */
 
-const BASEURL = '/blog';
+const SITE_URL = 'https://mip.umh.es/blog';
 
 /**
  * Pre-process markdown BEFORE feeding to TipTap editor.
- * Replaces Jekyll Liquid tags with standard values.
+ * Replaces Jekyll Liquid tags with full URLs.
  *
  * @param {string} raw - Raw markdown from post file
  * @returns {string} - Markdown safe for TipTap
@@ -17,10 +20,10 @@ const BASEURL = '/blog';
 export function preprocessMarkdown(raw) {
   let processed = raw;
 
-  // {{ site.baseurl }} → /blog
+  // {{ site.baseurl }} → https://mip.umh.es/blog
   processed = processed.replace(
     /\{\{\s*site\.baseurl\s*\}\}/g,
-    BASEURL
+    SITE_URL
   );
 
   // {% tweet 1234567890 %} → <!--jekyll:tweet:1234567890-->
@@ -42,16 +45,15 @@ export function preprocessMarkdown(raw) {
 export function postprocessMarkdown(markdown) {
   let processed = markdown;
 
-  // Only in image src: /blog/images/ → {{ site.baseurl }}/images/
-  // Matches markdown image syntax: ![alt](/blog/images/...)
+  // Full URL → {{ site.baseurl }} in image markdown: ![alt](https://mip.umh.es/blog/images/...)
   processed = processed.replace(
-    /(\!\[[^\]]*\]\()\/blog\/(images\/)/g,
+    /(\!\[[^\]]*\]\()https:\/\/mip\.umh\.es\/blog\/(images\/)/g,
     '$1{{ site.baseurl }}/$2'
   );
 
   // Also handle HTML img tags that TipTap might produce
   processed = processed.replace(
-    /(src=["'])\/blog\/(images\/)/g,
+    /(src=["'])https:\/\/mip\.umh\.es\/blog\/(images\/)/g,
     '$1{{ site.baseurl }}/$2'
   );
 

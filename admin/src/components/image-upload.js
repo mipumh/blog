@@ -36,9 +36,9 @@ export async function uploadImage(file, branch = 'gh-pages', onSuccess) {
       branch
     );
 
-    // 4. Return the path for editor insertion
-    // Use /blog/ prefix that will be converted to {{ site.baseurl }} on save
-    const editorPath = `/blog/${path}`;
+    // 4. Return the full URL for editor display (GitHub Pages)
+    // postprocessMarkdown converts back to {{ site.baseurl }} on save
+    const editorPath = `https://mip.umh.es/blog/${path}`;
 
     showStatus('Imagen subida', 'saved');
 

@@ -50,9 +50,18 @@ export function recover(token) {
 }
 
 /**
- * Accept an invite token.
- * Returns the user object.
+ * Accept an invite token with password.
+ * gotrue-js doesn't pass password, so we call the API directly.
  */
-export function acceptInvite(token) {
-  return auth.acceptInvite(token);
+export async function acceptInviteWithPassword(token, password) {
+  const resp = await fetch(`${IDENTITY_URL}/verify`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ token, type: 'signup', password }),
+  });
+  if (!resp.ok) {
+    const err = await resp.json().catch(() => ({}));
+    throw new Error(err.msg || err.message || 'Error al aceptar invitación');
+  }
+  return resp.json();
 }
