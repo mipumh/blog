@@ -5,13 +5,10 @@ cover_image: redaccion.webp
 title: eldiario.es, un caso de éxito 
 subtitle: "Buenos contenidos y un equipo humano profesional y bien estructurado mantienen la pujanza e identidad de este proyecto"
 excerpt: "Durante el último año se han puesto en marcha en España más de 300 ‘micromedios’, alguno no tan ‘micro’. El ecosistema de medios se atomiza, los medios tradicionales lo pasan mal, y la pugna por las audiencias se sujeta en el binomio contenido-tecnología y en la búsqueda de modelos de negocio ajustados a los nuevos tiempos y a las audiencias a la carta."
-author:
-  name: José L. González
-  twitter: eurogaceta
-  gplus:  
-  bio: Coordinador Periodismo Especializado
-  image: jlg.webp
-  link: https://twitter.com/eurogaceta
+author: José L. González
+categories:
+  - industria
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

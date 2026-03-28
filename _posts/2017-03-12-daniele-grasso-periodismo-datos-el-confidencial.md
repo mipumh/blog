@@ -2,13 +2,10 @@
 layout: post
 title: Daniele Grasso (El Confidencial)&#58 'La clave para que un medio sea innovador es tener una mente abierta y buenos periodistas'
 excerpt: "Daniele Grasso  es coordinador de la unidad de datos de El Confidencial. Tras estudiar una licenciatura en Filología Española en Milán, se trasladó a Madrid. Dio sus primeros pasos como periodista freelance, colaborando con varios medios mientras cursaba un Máster en Periodismo en Madrid. Después de una etapa en un diario digital, trabajó como corresponsal para una agencia y un periódico transalpinos. Grasso ha impartido un curso en el Máster de Innovación en Periodismo."
-author:
-  name: Mari Carmen Borrull
-  twitter: mamenbor
-  gplus:  
-  bio: Periodismo UMH
-  image: mabor.webp
-  link: https://twitter.com/mamenbor
+author: Mari Carmen Borrull
+categories:
+  - redaccion
+image: /images/shots/grasso0.jpg
 ---
 Daniele Grasso  **es coordinador de la unidad de datos de El Confidencial**. Tras estudiar una licenciatura en Filología Española en Milán, se trasladó a Madrid. Dio sus primeros pasos como periodista freelance, colaborando con varios medios mientras cursaba un Máster en Periodismo en Madrid. Después de una etapa en un diario digital, trabajó como corresponsal para una agencia y un periódico transalpinos. Grasso ha impartido un curso en el Máster de Innovación en Periodismo.
 

@@ -1,0 +1,37 @@
+sections:
+  - title: Narrativas
+    slug: narrativas
+    url: /narrativas/
+    color: "#00C853"
+
+  - title: Industria
+    slug: industria
+    url: /industria/
+    color: "#AA00FF"
+
+  - title: Tecnología
+    slug: tecnologia
+    url: /tecnologia/
+    color: "#2979FF"
+
+  - title: Redacción
+    slug: redaccion
+    url: /redaccion/
+    color: "#00B8D4"
+
+  - title: Audiencias
+    slug: audiencias
+    url: /audiencias/
+    color: "#FF6D00"
+
+secondary:
+  - title: Innovadores
+    url: /innovadores/
+  - title: El Máster
+    url: /el-master/
+  - title: Quiénes somos
+    url: /about/
+  - title: Autores
+    url: /authors/
+  - title: Archivo
+    url: /archivo/

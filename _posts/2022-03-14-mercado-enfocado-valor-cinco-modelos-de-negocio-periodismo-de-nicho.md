@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Mercado pequeño, gran valor añadido: cinco modelos de negocio para la empresa periodística de nicho"
-author:
-  name: Cristian R. Marín
-  twitter: crms74
-  gplus:
-  bio: Doctorando Periodismo UMH
-  image: crms.webp
-  link: https://twitter.com/crms74
+author: marin
+categories:
+  - tecnologia
+image: /images/shots/post-nicho-blog.jpg
 ---
 ![]({{ site.baseurl }}/images/shots/post-nicho-blog.jpg)
 

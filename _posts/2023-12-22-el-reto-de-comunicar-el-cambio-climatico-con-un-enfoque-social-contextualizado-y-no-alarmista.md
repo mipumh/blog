@@ -2,13 +2,10 @@
 layout: post
 title: El reto de comunicar el cambio climático con un enfoque social,
   contextualizado y no alarmista
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus:  
-  bio: Profesora Titular en Periodismo UMH
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/001/sostenibilidad-1.jpg
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *sostenibilidad*.
 

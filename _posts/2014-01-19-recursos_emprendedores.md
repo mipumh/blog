@@ -3,19 +3,16 @@ published: true
 layout: post
 title: Recursos para periodistas emprendedores
 excerpt: "Hace apenas unos días ha concluído un MOOC, un curso masivo online y abierto, en el Centro Knight para el Periodismo en la Universidad de Texas en Austin  que llevaba por título Periodismo para Emprendedores: el Desarrollo de Proyectos Periodísticos para la Web."
-author:
-  name: Sergio M. Mahugo
-  twitter: smmahugo
-  gplus:  
-  bio: Coordinador de Tecnologías
-  image: mahugo.jpg
-  link: https://twitter.com/smmahugo
+author: Sergio M. Mahugo
 tags: 
   - asignaturas
   - redes sociales
   - profesores
   - periodismo
 type: text
+categories:
+  - industria
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

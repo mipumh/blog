@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Los modelos de innovación periodística explicados mediante 5 gráficos
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/modelo-innovacion.jpg
 ---
 Un modelo de innovación es una herramienta estratégica que puede ayudar a identificar y priorizar las oportunidades de innovación. Ofrece un marco para analizar y evaluar las oportunidades y centrarse en el enfoque más adecuado para el crecimiento. En el Máster en Innovación en Periodismo utilizamos diversos modelos a lo largo del desarrollo de un proyecto, con objeto de plantear los objetivos y acciones que contribuyen a innovar. La finalidad es que quienes emprenden un proyecto se aseguren de que sus decisiones se focalizan en las prioridades que han identificado. En este artículo selecciono cinco modelos muy útiles para entender cómo los periodistas y los medios de comunicación pueden ser más innovadores.
 

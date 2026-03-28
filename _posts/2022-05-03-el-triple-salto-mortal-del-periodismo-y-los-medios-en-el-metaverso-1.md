@@ -1,13 +1,10 @@
 ---
 layout: post
 title: El triple salto mortal del periodismo (y los medios) en el metaverso
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/1facebook-workrooms.jpg
 ---
 Los grandes avances tecnológicos siempre han ido acompañados de atractivas promesas sobre las enormes ventajas que supondrían para la sociedad. El marketing sobre la TV Interactiva, Second Life y ahora el metaverso se ha construido a partir del potencial que ofrece la tecnología para generar nuevas formas de ocio, entretenimiento, comunicación y negocio. Para que estos escenarios futuristas se trasladaran al imaginario colectivo, se diseñaron campañas persuasivas millonarias que identificaban esa utópica realidad con el futuro más halagüeño que podamos imaginar. Sin embargo, la ausencia de demanda real por parte de los usuarios, las dificultades que implicaba su uso y su elevado coste para el consumidor lastraron la implantación de la TV Interactiva y de Second Life. Ahora los medios aguardan con incertidumbre las posibilidades que ofrece el metaverso. Se trata de **un triple salto mortal** ante la incertidumbre de la audiencia, la tecnología y el modelo de negocio.
 

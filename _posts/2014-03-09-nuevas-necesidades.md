@@ -2,13 +2,10 @@
 layout: post
 title: Nuevas necesidades, nuevos perfiles
 excerpt: "La economía generada en torno a los contenidos digitales ha experimentado una etapa de enorme crecimiento en la última década. Factores como la democratización en el acceso a los dispositivos móviles inteligentes, el aumento de la velocidad de conexión en los hogares, el desarrollo de nuevas plataformas de creación de contenidos y la popularización de las redes sociales han disparado la alta penetración de Internet."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora de Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

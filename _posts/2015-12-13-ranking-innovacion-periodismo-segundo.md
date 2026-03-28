@@ -2,13 +2,10 @@
 layout: post
 title: Pre-selección para el Ranking de Innovación Periodística 2016
 excerpt: "El proceso de elaboración del Ranking de Innovación Periodística 2016 ya se ha puesto en marcha con el lanzamiento de un cuestionario para recibir candidaturas de medios o iniciativas periodísticas. El objetivo de esta investigación es estudiar las principales innovaciones en el sector periodístico español y reconocer así el trabajo de periodistas y editores. En enero de 2015 se publicó la primera edición de este Ranking, que destacó la emergencia y la experimentación en el panorama periodístico más allá de la industria mediática tradicional o, incluso, de instituciones sin ánimo de lucro."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

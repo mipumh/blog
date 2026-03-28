@@ -2,13 +2,9 @@
 layout: post
 title: Seis modelos de negocio para el periodismo en la era de las plataformas
 excerpt: "La economía del periodismo es un tema de conversación recurrente en los foros profesionales. Hace veinte años preocupaban más otras cuestiones, pero el cambio de paradigma experimentado durante la última década, como señalan los informes, terminará con lo que queda del viejo modelo industrial (publicidad y atención). Por eso urge buscar nuevos modelos o integrarse en las industrias más fuertes, con sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que pronto publicaré en un libro para nuestro Máster planteo seis modelos de negocio para el periodismo en la era de las plataformas."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
 ---
 La economía del periodismo es un tema de conversación recurrente en los foros profesionales. Hace veinte años preocupaban más otras cuestiones, pero **el cambio de paradigma** experimentado durante la última década, como señalan los informes, **terminará con lo que queda del viejo modelo industrial (publicidad y atención)**. Por eso **urge buscar nuevos modelos** o integrarse en las industrias más fuertes, con sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que pronto publicaré en un libro para nuestro Máster planteo **seis modelos de negocio para el periodismo** en la era de las plataformas. 
 

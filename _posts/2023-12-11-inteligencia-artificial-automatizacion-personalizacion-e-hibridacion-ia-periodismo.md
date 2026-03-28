@@ -2,13 +2,10 @@
 layout: post
 title: "Automatización, personalización e hibridación: el impacto de la IA en el periodismo será determinante"
 iberifier: si
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/001/ia-1.jpg
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *inteligencia artificial*. 
 

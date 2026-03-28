@@ -4,13 +4,10 @@ periscopio: si
 cover_image: periscopio.webp
 title: El creciente uso de bots y la expansión de las coberturas deportivas
 excerpt: "La inteligencia artificial (AI) se ha ido abriendo paso de forma paulatina dentro de las redacciones periodísticas en estos últimos años. Y quizá hasta la fecha la principal aplicación de esta tecnología en la producción periodística es el uso de bots y algoritmos para la escritura automática de textos informativos. Hablamos de lo que se conoce como 'generación de lenguaje natural' (NLG), esto es, la programación para producir una determinada narrativa periodística a partir de un conjunto de datos."
-author:
-  name: José Luis Rojas
-  twitter: rojastorrijos
-  gplus:  
-  bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.webp
-  link: https://twitter.com/rojastorrijos
+author: rojas
+categories:
+  - tecnologia
+image: /images/shots/botsport_0.jpg
 ---
 La inteligencia artificial (AI) se ha ido abriendo paso de forma paulatina dentro de las redacciones periodísticas en estos últimos años. Y quizá hasta la fecha la principal aplicación de esta tecnología en la producción periodística es el uso de bots y algoritmos para la escritura automática de textos informativos. Hablamos de lo que se conoce como "generación de lenguaje natural" (NLG), esto es, la programación para producir una determinada narrativa periodística a partir de un conjunto de datos.
 

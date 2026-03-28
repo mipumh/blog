@@ -2,13 +2,10 @@
 layout: post
 title: Las periodistas más innovadoras e influyentes en los medios digitales 
 excerpt: "Chicas Poderosas es una iniciativa para aumentar la presencia de periodistas latinas en la innovación digital. Desde 2013, trata de involucrar a más mujeres en el desarrollo de aplicaciones, producción de contenidos interactivos y la integración de nuevas herramientas en las redacciones. Es una apuesta clara por un periodismo de análisis de datos, visualización y nuevas narrativas, afirma su fundadora, Mariana Santos."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - redaccion
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

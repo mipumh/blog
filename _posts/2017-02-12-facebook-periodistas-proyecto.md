@@ -2,15 +2,11 @@
 layout: post
 title: Facebook Journalism Project&#58 &#191La consolidación del gigante social en las noticias&#63 
 excerpt: "El 2016 terminó con dos conceptos sobre la mesa que preocuparán al periodismo y a los medios a lo largo de este año, posverdad y fake news. Aunque desde el mismo origen de las redes sociales siempre existieron bulos que circularon a través de internet, y más de un medio cayó en la trampa, la elección de Donald Trump como presidente de Estados Unidos plantea la posibilidad que las noticias falsas pudieran incidir incluso en resultados electorales."
-author:
-  name: Patricio Figueroa
-  twitter: pafien
-  gplus: 104274993391260139803 
-  bio: Investigador Universidad Pompeu Fabra
-  image: patricio.webp
-  link: https://twitter.com/pafien
+author: Patricio Figueroa
+categories:
+  - tecnologia
+image: /images/shots/platform0.jpg
 ---
-
 El 2016 terminó con dos conceptos sobre la mesa que (pre)ocuparán al periodismo y a los medios a lo largo de este año: **"posverdad"** ([palabra del año según el diccionario Oxford](https://www.oxforddictionaries.com/press/news/2016/12/11/WOTY-16)) y “**fake news**” (noticias falsas). Aunque desde el mismo origen de las redes sociales siempre existieron bulos que circularon a través de internet, y más de un medio cayó en la trampa, la elección de Donald Trump como presidente de Estados Unidos plantea la posibilidad que las noticias falsas pudieran incidir incluso en resultados electorales.
 
 La pregunta que surge es ¿cómo se puede combatir la propagación de las noticias falsas? Uno de los primeros en dar un paso adelante fue **Facebook**, anunciando en las primeras semanas de 2017 el lanzamiento del **"[Facebook Journalism Project](https://media.fb.com/2017/01/11/facebook-journalism-project/)**". Como ya planteamos en el artículo **“[Oportunidades y desafíos para cibermedios en la era del Mobile First: Instant Articles de Facebook y los nuevos formatos móviles](http://raco.cat/index.php/Hipertext/article/view/310534/405630)”**, la principal plataforma social desde la cual se accede a noticias es Facebook, donde el 44% de usuarios de esta red lo usa para informarse, superando de lejos a Twitter, que ocupa el cuarto lugar con un 10% ([News Digital Report](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/Digital-News-Report-2016.pdf), 2016).

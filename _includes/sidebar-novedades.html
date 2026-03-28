@@ -1,0 +1,15 @@
+<div class="sidebar-block">
+  <h3 class="sidebar-label">Novedades</h3>
+  {% for item in site.data.novedades limit:2 %}
+  <div class="novedad">
+    <h4 class="novedad__title">{{ item.title }}</h4>
+    <p class="novedad__body">{{ item.body }}</p>
+    {% if item.cta_url %}
+    <a href="{{ item.cta_url }}" class="novedad__cta"
+       {% if item.cta_url contains "http" %}target="_blank" rel="noopener"{% endif %}>
+      {{ item.cta_text | default: "Saber mas" }} &rarr;
+    </a>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>

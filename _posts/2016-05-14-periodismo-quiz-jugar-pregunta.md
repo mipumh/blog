@@ -2,13 +2,10 @@
 layout: post
 title: Periodismo Quiz. Herramientas para jugar con la pregunta informativa
 excerpt: "La gamificación del periodismo, la aplicación de elementos propios de los juegos a la información, presenta una de sus manifestaciones más evidentes -y efectivas- en la generación de quiz. Por eso presentamos aquí dos herramientas que, con un poco de ingenio, pueden explotar la viralidad -y de paso la permanencia en página- de cualquier proyecto periodístico."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/shots/apeplay.jpg
 ---
 [La gamificación del periodismo]( http://mip.umh.es/blog/2015/01/08/informacion_gamificacion/), la aplicación de elementos propios de los juegos a la información, presenta una de sus manifestaciones más evidentes -y efectivas- en la generación de quiz. Por eso presentamos aquí dos herramientas que, con un poco de ingenio, pueden explotar la viralidad -y de paso la permanencia en página- de cualquier proyecto periodístico.
 

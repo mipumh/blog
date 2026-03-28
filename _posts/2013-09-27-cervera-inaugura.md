@@ -3,14 +3,11 @@ published: true
 layout: post
 title: José Cervera inaugura el MIP
 excerpt: "El Máster de Innovación en Periodismo abre sus puertas a la primera promoción el próximo 3 de octubre en el Edificio Innova con una conferencia inaugural a cargo de José Cervera, periodista y profesor, recién nombrado Defensor de la Comunidad en el eldiario.es."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
 type: text
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

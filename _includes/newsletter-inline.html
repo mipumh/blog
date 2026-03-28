@@ -1,0 +1,13 @@
+<aside class="newsletter-inline" aria-label="Newsletter">
+  <p class="newsletter-inline__title">Te gusta lo que lees?</p>
+  <p class="newsletter-inline__desc">{{ site.data.newsletter.description }}</p>
+  <form class="newsletter-inline__form" action="{{ site.data.newsletter.action_url }}" method="post"
+        aria-label="Suscripcion al newsletter">
+    <label for="nl-inline-email" class="visually-hidden">Correo electronico</label>
+    <input type="email" id="nl-inline-email" name="email" required
+           placeholder="tu@email.com"
+           class="newsletter-input"
+           autocomplete="email">
+    <button type="submit" class="btn-newsletter">Suscribirse</button>
+  </form>
+</aside>

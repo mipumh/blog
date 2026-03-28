@@ -2,13 +2,10 @@
 layout: post
 title: Maquinando en el corazón del periodismo europeo. Así apuestan los medios
   austriacos por la transparencia y el desarrollo de la IA en sus redacciones
-author: 
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/001/img_7189r.jpg
 ---
 ![]({{ site.baseurl }}/images/001/img_7189r.jpg)
 <sup>Una vista de la redacción de informativos de ORF, la televisión pública austriaca.

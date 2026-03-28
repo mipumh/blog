@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Javier Bardají, consejero delegado de Atresmedia: “La regulación es un aliado de la innovación al servicio de las personas, no simplemente al servicio de las cuentas de resultados de las empresas”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/javier-bardaji-foto-roberto-garver-0009-ok.jpg
 ---
 Javier Bardají es doctor en Comunicación Audiovisual y licenciado en Ciencias de la Información por la Universidad de Navarra, PDD y PADE en Dirección de Empresas por el IESE. Es consejero delegado de Atresmedia desde junio de 2022. Desde marzo de 2010 hasta junio de 2022 fue director general de Atresmedia TV, con responsabilidad en el negocio audiovisual (Antena3, laSexta, Neox, Nova, Mega, Atreseries y Atresplayer, así como de las ventas internacionales de contenidos. Hasta marzo de 2010 ocupó diversos cargos directivos en Antena 3, el Grupo Vocento, la agencia ATLAS, Mediaset y El Mundo. Es miembro del Patronato de la Fundación Atresmedia e imparte docencia en varias universidades. Mientras Antena 3, y por tanto Atresmedia, cumplen 35 años, coincidiendo con su mejor momento histórico, conversamos con el alto directivo sobre la salud del sector audiovisual y los retos que plantean la inteligencia artificial y la desinformación. Bardají aboga por una mayor regulación de las plataformas de redes sociales.
 

@@ -2,13 +2,10 @@
 layout: post
 title: Mari Luz Peinado (Verne)&#58 "Nacimos con la premisa de ser un medio de información viral de calidad en El País"
 excerpt: "En otras épocas, exploradores, aventureros y escritores recorrían el mundo buscando lo asombroso. Hoy tenemos internet. Verne: mil maravillas por minuto. Mari Luz Peinado es coordinadora de redacción de Verne, la sección del diario El País dedicada a explorar las informaciones curiosas que pueblan internet. Se trata de una sección que apuesta por los contenidos virales, sin renunciar a la calidad periodística."
-author:
-  name: Itziar Martínez
-  twitter: itziarmartinez_
-  gplus:  
-  bio: Periodismo UMH
-  image: itziar.webp
-  link: https://twitter.com/itziarmartinez_
+author: martinez
+categories:
+  - redaccion
+image: /images/shots/verne17_0.jpg
 ---
 "En otras épocas, exploradores, aventureros y escritores recorrían el mundo buscando lo asombroso. Hoy tenemos internet. *[Verne](https://verne.elpais.com/verne/2016/02/10/articulo/1455114499_340783.html): mil maravillas por minuto".* [Mari Luz Peinado](https://twitter.com/mluzpeinado) es coordinadora de redacción de *Verne*, la sección del diario [El País](https://elpais.com/) dedicada a explorar las informaciones curiosas que pueblan internet. Se trata de [una sección que apuesta por los contenidos virales](http://mip.umh.es/blog/2016/12/11/lucia-gonzalez-verne-periodismo-viral/), sin renunciar a la calidad periodística.
 

@@ -1,0 +1,50 @@
+---
+# Main SCSS entry point (canonical new path for the redesign)
+---
+@charset "utf-8";
+
+// ==========================================================================
+// Main SCSS Entry Point — Editorial Redesign
+// ==========================================================================
+// Import order matters: variables and fonts first, then framework,
+// then base styles, then components, then overrides.
+//
+// Canonical entry point: assets/css/main.scss
+// Backward-compatible copy: css/main.scss
+// ==========================================================================
+
+// Jekyll baseurl for asset paths in partials (e.g. @font-face URLs)
+$baseurl: "{{ site.baseurl }}";
+
+// --------------------------------------------------------------------------
+// 1. Design Tokens & Fonts
+// --------------------------------------------------------------------------
+@import "variables";     // CSS custom properties: colors, typography, spacing
+@import "fonts";         // Self-hosted @font-face declarations
+
+// --------------------------------------------------------------------------
+// 2. Framework (Bootstrap 5 — selective imports)
+// --------------------------------------------------------------------------
+@import "bootstrap-custom";  // Only grid, nav, buttons, pagination, utilities
+
+// --------------------------------------------------------------------------
+// 3. Base / Reset
+// --------------------------------------------------------------------------
+@import "base";          // Typography resets, body, headings, links, images
+
+// --------------------------------------------------------------------------
+// 4. Layout Components
+// --------------------------------------------------------------------------
+@import "header";        // Sticky nav bar, mobile hamburger
+@import "hero";          // Hero article component (homepage)
+@import "cards";         // Card editorial, category pill, tag pill, avatars
+@import "homepage";      // Homepage blocks, section rivers, pagination
+@import "sidebar";       // Sticky sidebar, breves, novedades, popular posts
+@import "article";       // Article body, header, hero image, author bio, related
+@import "newsletter";    // Banner, compact (sidebar), inline (article body)
+@import "footer";        // 4-column editorial footer
+
+// --------------------------------------------------------------------------
+// 5. Dark Mode Overrides
+// --------------------------------------------------------------------------
+@import "dark-mode";     // Component-specific dark mode adjustments

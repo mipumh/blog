@@ -3,13 +3,10 @@ layout: post
 title: Cómo innovar en periodismo. Entrevistas a 27 profesionales
 subtitle: "Descarga gratis este libro editado por el Máster en Innovación en Periodismo"
 excerpt: "Este libro reúne, por primera vez en nuestro país, entrevistas a un amplio número de profesionales a los que caracteriza el denominador común de ser innovadores. Son expertos que colaboran en distintos módulos del Master de Innovación en Periodismo o han participado en las Jornadas Internacionales de Periodismo en la Universidad Miguel Hernández. Si bien algunos ya han cambiado de ocupación, hemos mantenido el cargo que ocupaban en el momento de la entrevista. A todos ellos les agradecemos su inestimable colaboración."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - innovadores
+image: /images/shots/libro-como-innovar.jpg
 ---
 Este libro reúne, por primera vez en nuestro país, **entrevistas a un amplio número de profesionales** a los que caracteriza el denominador común de ser innovadores. Son **expertos que colaboran en distintos módulos del Master de Innovación en Periodismo** o han participado en las Jornadas Internacionales de Periodismo en la Universidad Miguel Hernández. Si bien algunos ya han cambiado de ocupación, hemos mantenido el cargo que ocupaban en el momento de la entrevista. A todos ellos les agradecemos su inestimable colaboración.
 

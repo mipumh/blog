@@ -1,13 +1,10 @@
 ---
 layout: post
 title: ¿Crees que puedes escapar de la desinformación? Llegan los escapes rooms de alfabetización mediática
-author:
-  name: Alba García Ortega
-  twitter: albagortega
-  gplus:  
-  bio: Profesora de Nuevas Narrativas
-  image: alba.webp
-  link: https://twitter.com/albagortega
+author: garcia-ortega
+categories:
+  - tecnologia
+image: /images/shots/escape_room2.png
 ---
 ![]({{ site.baseurl }}/images/shots/escape_room2.png)
 

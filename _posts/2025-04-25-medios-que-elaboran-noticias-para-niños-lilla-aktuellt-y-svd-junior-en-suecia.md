@@ -2,13 +2,10 @@
 layout: post
 title: "Medios que elaboran noticias para niños: Lilla Aktuellt y SvD Junior en
   Suecia"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/lilla-aktuellt-valet-låg.jpg
 ---
 Las autoridades de la Unión Europea [advierten](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2825) de la escasez de contenidos informativos para los más pequeños. La mayoría de los contenidos a los que acceden los niños se encuentran en TikTok, YouTube y otras plataformas y redes sociales que habitualmente carecen de regulaciones y control de calidad. Pero muchos niños acuden a estos espacios. La mayoría de los medios de comunicación tradicionales no se dirigen a los más pequeños ni como futuros votantes, ni siquiera como consumidores. Los expertos consideran que, en el futuro, los niños no van a ir de TikTok o YouTube a los medios para informarse, ni cabe esperar que se interesen por las cuestiones relevantes. Afrontamos un gran reto social [que diversos medios de comunicación están abordando](https://mip.umh.es/blog/2025/01/21/medios-que-producen-noticias/). En este artículo, exploramos cómo trabajan los periodistas que informan a los niños en Suecia.
 

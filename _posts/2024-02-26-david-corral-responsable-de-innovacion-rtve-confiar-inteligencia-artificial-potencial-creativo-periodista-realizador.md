@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "David Corral, responsable de innovación (RTVE): “¿Debemos confiar todos los procesos a la IA? Creo que no, no debemos perder el potencial creativo del periodista o del realizador”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/david-corral-2023.jpg
 ---
 David Corral Hernández es responsable de Innovación en RTVE. Es licenciado en Periodismo por la Universidad Complutense de Madrid, Máster Interuniversitario en Diplomacia y Relaciones Internacionales, y experto en Servicios de Inteligencia por el Instituto Universitario General Gutiérrez Mellado y la UNED. En 2001 ingresó en RTVE como redactor en Intercambios Internaciones (EBU/UER). Ha sido subdirector y editor del Canal 24 Horas, donde dirigió el [informativo juvenil 2.4](http://www.rtve.es/alacarta/videos/24-informativo-juvenil/) y coordinador del Área Internacional en los telediarios Fin de Semana. Ha impartido docencia en el Máster en Innovación en Periodismo y participó [en las XIV Jornadas en Innovación en Periodismo de la UMH](https://mip.umh.es/blog/2019/01/15/david-corral-innovacion-rtve/).
 

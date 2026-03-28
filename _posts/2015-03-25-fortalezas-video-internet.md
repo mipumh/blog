@@ -2,13 +2,10 @@
 layout: post
 title: Las fortalezas del vídeo en internet
 excerpt: "La periodista visual del periódico The New York Times Alexandra García lleva a cabo reportajes interactivos y ha sido galardonada con una beca Nieman de la Nieman Foundation for Journalism. En su intervención en el XVI Congreso de Periodismo Digital de Huesca, explicó que lo importante a la hora de crear contenido audiovisual para la web es aprovechar realmente las características del vídeo online y hacer cosas que sólo son posibles en la web. La reportera hizo hincapié en la necesidad de dar con el enfoque que mejor se adapte a cada formato."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora de Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/Fotos_MIP/nytimes_alexandra.jpg
 ---
 La periodista visual del periódico [The New York Times](http://www.nytimes.com/) Alexandra García lleva a cabo reportajes interactivos y ha sido galardonada con una beca Nieman de la [Nieman Foundation for Journalism](http://nieman.harvard.edu/). En su intervención en el [XVI Congreso de Periodismo Digital de Huesca](http://www.congresoperiodismo.com/), explicó que **lo importante a la hora de crear contenido audiovisual para la web es aprovechar realmente las características del vídeo online y "hacer cosas que sólo son posibles en la web"**. La reportera hizo hincapié en la necesidad de dar con el enfoque que mejor se adapte a cada formato.
 

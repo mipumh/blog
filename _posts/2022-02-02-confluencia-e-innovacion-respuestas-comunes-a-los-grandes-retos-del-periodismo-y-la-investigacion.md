@@ -2,13 +2,10 @@
 layout: post
 title: "Confluencia e innovación: respuestas comunes a los grandes retos del
   periodismo y la investigación"
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/shots/innovacon.png
 ---
 El periodista y quien lo investiga están más cerca que nunca. O eso me gustaría. Ya no hay torres de marfil ni tampoco máquinas de escribir que muevan fronteras. O muy pocas. No digo que tenga que desaparecer la reflexión teórica ni la inspiración romántica. Pero al menos en el periodismo, en un momento crucial desde todos los puntos de vista, cada vez parece más necesaria la **rotura de barreras entre la academia y la profesión**. 
 

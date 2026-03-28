@@ -7,4 +7,4 @@ _site
 *.gem
 .obsidian
 CLAUDE.md
-.env
+.envscripts/__pycache__/

@@ -1,0 +1,12 @@
+<div class="newsletter-compact">
+  <p class="newsletter-compact__desc">{{ site.data.newsletter.description }}</p>
+  <form class="newsletter-compact__form" action="{{ site.data.newsletter.action_url }}" method="post"
+        aria-label="Suscripcion al newsletter">
+    <label for="nl-compact-email" class="visually-hidden">Correo electronico</label>
+    <input type="email" id="nl-compact-email" name="email" required
+           placeholder="tu@email.com"
+           class="newsletter-input"
+           autocomplete="email">
+    <button type="submit" class="btn-newsletter">Enviar</button>
+  </form>
+</div>

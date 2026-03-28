@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Las narrativas interactivas más destacadas de 2023 (II)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/001/narrativas-2023-2.jpg
 ---
 Los trabajos innovadores en cuanto a su forma de narrar potencian un periodismo visual, explicativo, interactivo, multimedia, contextualizado, constructivo, útil, personalizado y que, además, se puede servir de la colaboración ciudadana para denunciar situaciones injustas o abusivas. Se trata de narrativas que cuentan lo que sucede de manera distinta a lo habitual, porque conectan el contenido con la forma. [Tras la primera selección](https://mip.umh.es/blog/2024/04/17/las-narrativas-interactivas-ma-s-destacadas-de-2023-i/) de las narrativas más destacadas de 2023, ofrecemos ahora la segunda entrega, centrada en trabajos con un alto impacto social.
 

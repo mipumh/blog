@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Así trabajan los medios de comunicación durante la crisis del COVID-19
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/montanes.jpg
 ---
 Redacciones vacías, planes de contingencia, equipos que trabajan desde casa, medidas de higiene extraordinarias… Medios y periodistas se están volcando para ofrecer la información sobre el estado de alarma generado por la pandemia del Coronavirus en nuestro país. El periodismo ejercido con responsabilidad desempeña un valioso servicio público para mantener informada a la sociedad. En esta crisis, la cobertura y la agenda informativa han cambiado, así como las necesidades de comunicación. Ante el riesgo de contagio, los medios modifican sus procesos de trabajo y establecen protocolos para no exponer la salud de los profesionales y sus familiares.
 

@@ -2,13 +2,10 @@
 layout: post
 title: "Beatriz Lara (Prensa Ibérica, Relevo Magazine)&#58 'La red social más adecuada para ti es aquella donde esté tu público y donde te sientas más cómodo'"
 excerpt: "Beatriz Lara Pascual es periodista por la Universidad Miguel Hernández de Elche. Ha desarrollado su labor en diversos medios, entre ellos Weblogs SL. Actualmente trabaja en branded content para el grupo Prensa Ibérica e integra el equipo fundador de [Relevo Magazine."
-author:
-  name: Mari Carmen Borrull
-  twitter: mamenbor
-  gplus:  
-  bio: Periodismo UMH
-  image: mabor.webp
-  link: https://twitter.com/mamenbor
+author: Mari Carmen Borrull
+categories:
+  - audiencias
+image: /images/shots/bealara0.jpg
 ---
 Beatriz Lara Pascual es periodista por la Universidad Miguel Hernández de Elche. Ha desarrollado su labor en diversos medios, entre ellos Weblogs SL. Actualmente trabaja en *branded content* para el grupo Prensa Ibérica e integra el equipo fundador de [Relevo Magazine](http://relevomagazine.com/).
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Las mejores narrativas interactivas de 2019 (I)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/people-map.jpg
 ---
 Además de las coberturas minuto a minuto, los titulares clickbait y el *branded content*, por fortuna, numerosos medios apuestan por un periodismo explicativo, que a través de diversas narrativas aborda temas en profundidad de modo creativo e innovador. Se trata de formatos interactivos que combinan el rigor informativo y **una experiencia interactiva, inmersiva y, en ocasiones, lúdica**.
 

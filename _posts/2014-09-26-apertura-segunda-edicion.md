@@ -2,13 +2,11 @@
 layout: post
 title:  El Confidencial, punto de partida de la segunda edición del MIP
 excerpt: "El director de proyectos de El Confidencial, Alejandro Laso, intervino ayer en la apertura de la 2ª edición del Máster en Innovación en Periodismo (MIP) de la Universidad Miguel Hernández. Además, entregó los diplomas a las dos ganadoras del Concurso Innova en Periodismo, alumnas de la UMH, y renovó su oferta de prácticas para este título oficial de innovación y emprendimiento en comunicación digital."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - el-master
+image: /images/Perfiles_MIP/alaso.jpg
+ "Alejandro Laso, project manager de elconfidencial.com"
 ---
 El director de proyectos de [El Confidencial](www.elconfidencial.com), **Alejandro Laso**, intervino ayer en la apertura de la 2ª edición del Máster en Innovación en Periodismo (MIP) de la Universidad Miguel Hernández. Además, entregó los diplomas a [las dos ganadoras del Concurso Innova en Periodismo](http://mip.umh.es/blog/2014/09/10/concurso-innnova-premios/), alumnas de la UMH, y renovó su oferta de prácticas para este título oficial de innovación y emprendimiento en comunicación digital. 
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Las mejores narrativas de 2020 (y III)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/las-mejores-narrativas-de-2020-y-iii.jpg
 ---
 Tras las anteriores selecciones de [narrativas sobre la COVID-19](https://mip.umh.es/blog/2021/03/30/las-mejores-narrativas-de-2020-i/) y [sobre investigaciones periodísticas](https://mip.umh.es/blog/2021/04/07/las-mejores-narrativas-de-2020-ii/), presentamos una serie de formatos que abordan un tipo de contenidos imperecederos, desde el cambio climático a los sonidos de la naturaleza, pasando por el rediseño de los carriles-bici en Berlín o la subida al Everest. Destacan los trabajos de varios medios de servicio público en Alemania, Dinamarca, España y Noruega, e iniciativas de diarios como The Guardian, The New York Times y The Washington Post. Utilizan diseños originales, Realidad Aumentada, visualizaciones de datos, estructuras múltiples… con un mismo objetivo: contar algo del modo que mejor se adecue al contenido de la información, facilitando que el usuario experimente la historia y se sumerja en ella.
 

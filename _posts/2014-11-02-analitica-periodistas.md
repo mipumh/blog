@@ -2,13 +2,9 @@
 layout: post
 title: Herramientas básicas para analizar tu audiencia 
 excerpt: "A menudo no son pocos los que me intentan vender motos de redes sociales, crecepelos que hacen subir la audiencia o ungüentos que restablecen la reputación digital a límites de gurú 2.0. Las herramientas digitales deben ser una parte importante de nuestra estrategia digital."
-author:
-  name: Miquel Pellicer
-  twitter: mik1977
-  gplus: +MiquelPellicer 
-  bio: Profesor Módulo Audiencias
-  image: mqp.jpeg
-  link: https://twitter.com/mik1977
+author: Miquel Pellicer
+categories:
+  - tecnologia
 ---
 A menudo no son pocos los que me intentan vender motos de redes sociales, crecepelos que hacen subir la audiencia o ungüentos que restablecen la reputación digital a límites de gurú 2.0. Las herramientas digitales deben ser una parte importante de nuestra estrategia digital.
 

@@ -2,13 +2,10 @@
 layout: post
 title: 10 razones que hacen interesante Ctxt.es
 excerpt: "Un nuevo medio digital se ha introducido en 2015 en la lista Medios lanzados por periodistas de la Asociación de la Prensa de Madrid, que sumaba 439 proyectos en enero. Se trata de Ctxt.es, una apuesta por el Slow Journalism para aportar reflexión y contexto (de ahí el nombre) a las informaciones de la Red."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - industria
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

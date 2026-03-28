@@ -3,13 +3,10 @@ layout: post
 title: "La experiencia de Marca y Relevo en TikTok: experimentar, buscar nichos y conectar con los jóvenes mediante vídeos de infoentretenimiento"
 periscopio: si
 cover_image: periscopio.webp
-author:
-  name: José Luis Rojas
-  twitter: rojastorrijos
-  gplus:  
-  bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.webp
-  link: https://twitter.com/rojastorrijos
+author: rojas
+categories:
+  - tecnologia
+image: /images/shots/1_dnsre.jpg
 ---
 Cada vez más los medios periodísticos están volcando esfuerzos en TikTok
 para captar audiencias jóvenes, pese a las dificultades que presenta un

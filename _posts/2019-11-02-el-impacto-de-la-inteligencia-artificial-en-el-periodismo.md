@@ -1,13 +1,10 @@
 ---
 layout: post
 title: El impacto de la Inteligencia Artificial en el periodismo
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/gif-bbc-chat-bot.gif "Chatbot de la BBC, creado en 2017, para mantener conversaciones sobre informaciones políticas."
 ---
 La creciente irrupción de la Inteligencia Artificial (IA) y la tecnología automatizada está transformando la manera de captar, procesar, generar y distribuir las informaciones y el trabajo de los periodistas. Las principales empresas de comunicación ya apuestan por el periodismo automatizado en Europa y Estados Unidos. A medio plazo, lo que se pueda automatizar en las redacciones, se automatizará: **en 2025 los “reporteros humanos” trabajarán junto con las herramientas de IA**.
 

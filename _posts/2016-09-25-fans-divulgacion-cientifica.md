@@ -3,13 +3,10 @@ layout: post
 title: Fans de la divulgación científica
 subtitle: "Naukas 2016 congrega a comunicadores y expertos que trasladan al público su pasión por la ciencia de forma desinteresada"
 excerpt: "La idea no es acercar la ciencia a la sociedad, sino mostrar a la gente que vive rodeada de ciencia. Esta revelación del químico y divulgador José M. López Nicolas es un buen lema para concentrar la esencia del evento Naukas Bilbao 2016. La revista se ha convertido en una de las plataformas de divulgación científica más importantes en lengua castellana: ciencia contada por expertos y periodistas que comunican de forma atractiva y con gancho. Profesores, comunicadores y expertos pueden tomar nota de estas charlas de 10 estrictos minutos, capaces de trasladar resultados, investigaciones o reflexiones críticas bien argumentadas, todo sin olvidar la diversión."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora Módulo Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/shots/nauimage_0.jpg
 ---
 **"La idea no es acercar la ciencia a la sociedad, sino mostrar a la gente que vive rodeada de ciencia".** Esta revelación del químico y divulgador [José M. López Nicolas](https://twitter.com/ScientiaJMLN?lang=es) es un buen lema para concentrar la esencia del evento [Naukas Bilbao 2016](http://naukas.com/2016/07/18/programa-provisional-de-charlas-naukas-bilbao-2016/). La revista se ha convertido en una de las plataformas de divulgación científica más importantes en lengua castellana: **ciencia contada por expertos y periodistas que comunican de forma atractiva y con gancho.** Profesores, comunicadores y expertos pueden tomar nota de estas charlas de **10 estrictos minutos**, capaces de trasladar resultados, investigaciones o reflexiones críticas bien argumentadas, todo sin olvidar la diversión.
 

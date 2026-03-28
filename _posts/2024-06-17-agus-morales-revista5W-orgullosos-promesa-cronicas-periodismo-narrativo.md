@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Agus Morales: “Estamos orgullosos de mantener intacta la promesa de Revista 5W. La hemos radicalizado alargando aún más las crónicas, hasta llegar a límites antieconómicos”"
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
+image: /images/001/entrevista_agus_0.jpg
 ---
 **Agus Morales** (El Prat de Llobregat, 1983) es un periodista de la estirpe de Manu Leguineche o Ramón Lobo, que se ha complicado la vida para lanzar y sostener, junto a otros colegas, el sitio con la mejor crónica internacional publicada en España, la [Revista 5W](https://www.revista5w.com/). Flexiona los músculos de la cara para hablar de modelo de negocio, mientras su mirada refleja cierta contradicción interna. Es la condena del periodista editor de nuestros tiempos, en los que reporteros con alma viajera se han visto obligados, por vocación y convicción, a emprender un proyecto en busca de la sostenibilidad. 
 

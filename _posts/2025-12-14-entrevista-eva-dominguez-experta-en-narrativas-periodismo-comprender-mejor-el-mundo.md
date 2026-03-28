@@ -3,13 +3,10 @@ layout: post
 title: "Eva Domínguez, experta en narrativas: “El periodismo es una actividad
   narrativa para comprender mejor el mundo; somos traductores de una realidad
   compleja”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles  
+author: garcia-aviles
+categories:
+  - innovadores
+image: /images/001/eva-dominguez-ancho.jpg
 ---
 [Eva Domínguez](https://www.evadominguez.com/) es periodista. Dirige el estudio [Immersive Creatures](https://immersivecreatures.com/), dedicado al a divulgación de ciencia, tecnología y cultura con lenguajes inmersivos. Trabajan desde el guion hasta la producción e ilustración, 3D, web y realidad aumentada y mixta. Comenzó trabajando en el Diari de Barcelona y El Periódico de Catalunya. Cursó un máster en tecnología en Nueva York y a su vuelta se incorporó a La Vanguardia Digital como redactora jefe multimedia. Durante 15 años mantuvo el boletín sobre comunicación y nuevas tecnologías [“El Cuarto Bit”](https://blogs.lavanguardia.com/elcuartobit), que alcanzó 45.000 subscriptores. Luego dirigió proyectos digitales de comunicación desde distintas empresas primero y, posteriormente, como emprendedora. En esta entrevista charlamos sobre la construcción de narrativas interactivas y las cualidades que exige este trabajo.
 

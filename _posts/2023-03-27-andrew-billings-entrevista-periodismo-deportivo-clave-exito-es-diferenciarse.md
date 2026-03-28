@@ -3,13 +3,10 @@ layout: post
 title: "Andrew Billings, experto en periodismo deportivo: “En el periodismo actual, más que ser el primero o el mejor, la clave del éxito está en diferenciarse”"
 periscopio: si
 cover_image: periscopio.webp
-author:
-  name: José Luis Rojas
-  twitter: rojastorrijos
-  gplus:  
-  bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.webp
-  link: https://twitter.com/rojastorrijos
+author: rojas
+categories:
+  - tecnologia
+image: /images/shots/b6a4fcee-43ef-4b28-8c7e-011d661b6f2c.jpg
 ---
 La importancia creciente del deporte como industria que mueve coberturas multimillonarias y la consolidación de este campo informativo como laboratorio de experimentación y creatividad narrativa ha hecho que la consideración del periodismo deportivo como "un departamento de juguete" de los medios, que ya hace dieciséis años cuestionó David Rowe (Western Sydney University) en [el posiblemente artículo académico sobre comunicación y deporte más citado de la historia](https://journals.sagepub.com/doi/10.1177/1464884907078657), haya quedado más que superada por los acontecimientos.
 

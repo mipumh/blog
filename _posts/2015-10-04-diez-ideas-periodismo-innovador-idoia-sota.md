@@ -2,13 +2,10 @@
 layout: post
 title: Diez ideas para innovar con éxito en un proyecto periodístico, según Idoia Sota
 excerpt: "Es una periodista vital, que reúne rasgos de emprendedora, hacker y creativa compulsiva. A sus 33 años, Idoia Sota ha participado en el lanzamiento de revistas como OKS, La Otra Crónica de El Mundo y El País SModa. Dirige la publicación Acuerdo, que lanzó en abril de 2013, a través de una campaña de crowdfunding. En la actualidad, según explica, Acuerdo “se halla en standby porque quienes lo lanzamos hemos seguido adelante con otros proyectos”. Idoia también ha colaborado en la creación de Bez, que vio la luz el pasado 28 de septiembre, dirigido por los periodistas Juan Zafra y Braulio Calleja. Y acaba de fichar como redactora jefe de la edición digital de La Vanguardia."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/idoia_1.jpg
 ---
 Es una periodista vital, que reúne rasgos de emprendedora, hacker y creativa compulsiva. A sus 33 años, [Idoia Sota](https://twitter.com/IdoiaSota) ha participado en el lanzamiento de revistas como **OKS**, **La Otra Crónica** de El Mundo y El País **SModa**. Dirige la publicación [Acuerdo](http://www.acuerdo.us/), que lanzó en abril de 2013, a través de una campaña de crowdfunding. En la actualidad, según explica, Acuerdo “se halla en standby porque quienes lo lanzamos hemos seguido adelante con otros proyectos”. Idoia también ha colaborado en la creación de [Bez](http://www.bez.es/), que vio la luz el pasado 28 de septiembre, dirigido por los periodistas Juan Zafra y Braulio Calleja. Y acaba de fichar como redactora jefe de la edición digital de **La Vanguardia**.
 

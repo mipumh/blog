@@ -2,13 +2,10 @@
 layout: post
 title: "Superpoderes para los periodistas: La implementación de la IA en
   Politiken (Dinamarca)"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/equipo-politiken.jpg
 ---
 Cuando crece la incertidumbre sobre el impacto de la Inteligencia Artificial (IA) en los medios, **JP Politiken Media Group** de Dinamarca demuestra que el valor reside en las sinergias entre la inteligencia humana y la IA. El grupo ha incorporado la IA como una herramienta para empoderar a sus periodistas, dándoles lo que algunos llaman "superpoderes". Se trata de una revolución que no busca sustituir la creatividad y el juicio humano, sino amplificarlos, permitiendo que el periodismo de calidad prospere en el competitivo ecosistema digital. Los medios del grupo (*Politiken*, *Ekstra Bladet* y *Jyllands-Posten*) iniciaron esta estrategia en 2019, conscientes de que la IA implicaba una “transformación cualitativa” para liberar el potencial creativo, optimizar los procesos e incluso fortalecer el vínculo con la audiencia.
 

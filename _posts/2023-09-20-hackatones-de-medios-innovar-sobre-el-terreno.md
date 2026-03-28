@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Hackatones de medios: innovar sobre el terreno"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/shots/hackatones-de-medios.jpg
 ---
 Los hackatones empezaron a popularizarse en los años noventa como un ejercicio de resolución de problemas entre informáticos y desarrolladores. Varios equipos competían entre sí, tratando de obtener soluciones creativas mientras se enfrentaban a retos planteados con limitaciones de tiempo y recursos. Este énfasis en la innovación y la competición a través de estos eventos abiertos se ha adaptado desde entonces a otros sectores, incluido el de los medios de comunicación. En este artículo analizamos el potencial de los hackatones para generar innovación periodística y por qué no deberían abandonarse.
 

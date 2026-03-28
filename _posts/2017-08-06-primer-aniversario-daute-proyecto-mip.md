@@ -2,13 +2,10 @@
 layout: post
 title: Daute Digital&#58 La gestación universitaria de un proyecto apasionante
 excerpt: "Crear un proyecto periodístico desde cero no es una tarea fácil, pero sí muy ilusionante. Algo tan lógico como esta afirmación cobra todo su sentido dentro del Máster en Innovación en Periodismo. Al menos, fue lo que ocurrió con Daute Digital, un pequeño medio online de corte hiperlocal en Tenerife que justo ahora cumple un año de su lanzamiento en la web."
-author:
-  name: Daniel Pinelo
-  twitter: daniel_pinelo
-  gplus:  
-  bio: Codirector de Daute Digital
-  image: pinelo.webp
-  link: https://twitter.com/daniel_pinelo
+author: Daniel Pinelo
+categories:
+  - industria
+image: /images/shots/daute_1.jpg
 ---
 <div class="card">
   <div class="card-block">

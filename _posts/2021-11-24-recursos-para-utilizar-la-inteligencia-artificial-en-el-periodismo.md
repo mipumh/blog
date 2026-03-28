@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Recursos para utilizar la Inteligencia Artificial en el periodismo "
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/tipos-aprendizaje-inteligencia-artificial-1200x675.jpg
 ---
 La irrupción de la Inteligencia Artificial (IA) y la tecnología automatizada está transformando la manera de captar, procesar, generar y distribuir las informaciones y el trabajo de los periodistas, [como ya analizamos en este blog en febrero de 2019](https://mip.umh.es/blog/2019/11/02/el-impacto-de-la-inteligencia-artificial-en-el-periodismo/). Asimismo, la IA desempeña [un papel cada vez más sofisticado en la generación de “Deepfakes”](https://mip.umh.es/blog/2019/12/01/deepfakes-c%C3%B3mo-los-medios-combaten-la-desinformaci%C3%B3n-m%C3%A1s-sofisticada/) y en la propagación de desinformación en las redes. En este artículo ofrecemos una selección de 14 recursos muy útiles para profundizar en el desarrollo de la IA y aplicarla al periodismo y la comunicación.
 

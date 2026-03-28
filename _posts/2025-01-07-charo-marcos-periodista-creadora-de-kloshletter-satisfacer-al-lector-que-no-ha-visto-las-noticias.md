@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Charo Marcos, periodista, creadora de Kloshletter: “Es importantísima la forma en la que entro en el buzón de correo de la gente, tengo que intentar satisfacer al lector que no sabe nada y al que ya ha visto las noticias”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/charo-marcos-m.jpg
 ---
 [Charo Marcos](https://kloshletter.com/quienes-somos/) es fundadora del [boletín Kloshletter](https://kloshletter.com/), del pódcast AM y cocreadora de los pódcasts Geopolítica Pop y Geopolis.​ En 2022 fue galardonada con el premio Blasillo de Huesca al ingenio español en internet. Charo estudió periodismo en la Universidad de Navarra e inició su carrera profesional en La Razóny Antena 3. Después pasó siete años en elmundo.es y ocho dirigiendo el equipo de informativos de RTVE.es. En 2015 se unió a la agenciaProdigioso Volcán donde, entre otros cometidos, coordinó 'No me cuentes cuentos' que recoge los relatos infantiles de cien mujeres españolas. Charo imparte docencia en el Máster en Innovación en Periodismo. “Los medios tienen que bajarse del pedestal en el que se encuentran”, afirma en esta entrevista.
 

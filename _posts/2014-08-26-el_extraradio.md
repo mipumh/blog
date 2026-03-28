@@ -2,13 +2,10 @@
 layout: post
 title: Innovar desde El Extrarradio
 excerpt: "Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos variables que en esta ciudad no siempre coinciden, por desgracia. La biblioteca de la Facultad estaba casi vacía, despertando de unas largas vacaciones, silenciosa."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - narrativas
+image: /images/Perfiles_MIP/extrarradio.jpg "Olga Ruiz y Mª Jesús Espinosa"
 ---
 Crear, creer y soñar son las claves para ser periodista en un momento convulso como el actual, según **Olga Ruiz** y **María Jesús Espinosa**. Lideran [El Extrarradio](http://www.elextrarradio.com/), un proyecto que las sitúa en la vanguardia de la innovación periodística en nuestro país en la línea de aquellos que pretendemos formar e impulsar desde el Máster.
  

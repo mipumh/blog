@@ -2,13 +2,10 @@
 layout: post
 title: Herramientas y formatos para dar vida a las historias. Una recopilación de trabajos del módulo de Nuevas Narrativas
 excerpt: "Encontrar buenas historias ya es sólo un requisito. Necesitas explotar todos los recursos para obtener información y distribuirla de la manera más visual y efectiva posible. La esencia no cambia, pero hay que ir más allá. Y no se trata sólo de dominar la tecnología, sino variables como la composición, el diseño y, sobre todo, la constancia y la curiosidad."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/shots/gifna/GIF1.gif
 ---
 Encontrar buenas historias ya es sólo un requisito. Necesitas explotar todos los recursos para obtener información y distribuirla de la manera más visual y efectiva posible. La esencia no cambia, pero hay que ir más allá. Y no se trata sólo de dominar la tecnología, sino variables como la composición, el diseño y, sobre todo, la constancia y la curiosidad.
 

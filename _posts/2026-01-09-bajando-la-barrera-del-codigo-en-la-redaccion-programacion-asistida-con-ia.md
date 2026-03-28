@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Bajando la barrera del código en la redacción: programación asistida con IA para un mejor periodismo"
-author: 
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/001/vibecoding-1.png
 ---
 El impacto de la Inteligencia Artificial (IA) en la generación de imágenes, vídeo y texto para la producción periodística está acaparando casi toda nuestra atención. ¿Pero y si la verdadera revolución estuviera en aplicar esta tecnología a la programación informática? ¿No tiene más sentido centrar los esfuerzos en lo que todavía es una carencia en la profesión y dejar en segundo plano lo que siempre ha sido su especialidad?
 

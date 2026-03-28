@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Jugar y disfrutar en el trabajo: dinámicas de construcción de equipos"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/shots/lluvia-ideas.jpg
 ---
 Damos por supuesto que sabemos trabajar en equipo, pero no es así. Necesitamos aprender y para ello no hay nada mejor que el juego. Las dinámicas de equipo son **actividades participativas** que permiten reforzar estas capacidades en un grupo de personas. Cada dinámica promueve procedimientos que se adaptan a las necesidades del grupo. Para los participantes, se trata de una forma amena de interiorizar aspectos que pueden incorporar a su día a día y así evitar disfunciones en los proyectos en equipo y crear un clima laboral agradable. Si las pones en práctica, te aseguro que querrás repetir.
 

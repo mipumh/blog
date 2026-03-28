@@ -2,13 +2,10 @@
 layout: post
 title: El cambio, una constante en periodismo
 excerpt: "De un discurso de fin de máster se espera inspiración y esperanza, sobre todo cuando se trata de innovar en periodismo, un sector en estado de cambio, afectado por una crisis económica global y otra estructural, relacionada con los nuevos modelos de comunicación. En este sentido, el discurso de Pau Llop, padrino de la I Promoción del Máster en Innovación en Periodismo (MIP, no nos ha defraudado."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - el-master
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

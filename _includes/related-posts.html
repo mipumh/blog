@@ -1,0 +1,18 @@
+{% assign cat_slug = page.categories | first %}
+{% assign related = site.posts
+  | where_exp: "p", "p.categories contains cat_slug"
+  | where_exp: "p", "p.url != page.url"
+  | slice: 0, 3 %}
+
+{% if related.size > 0 %}
+<section class="related-posts" aria-label="Articulos relacionados">
+  <h2 class="block-label">Articulos relacionados</h2>
+  <div class="row g-4">
+    {% for post in related %}
+    <div class="col-12 col-sm-6 col-lg-4">
+      {% include card.html post=post %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

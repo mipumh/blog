@@ -3,13 +3,10 @@ layout: post
 title: Verificadores de verificadores, la Unión Europea y Facebook&#58 actores en la lucha contra la desinformación
 subtitle: Analizamos el trabajo de entidades como The Trust Project, la Unión Europea  o la International Fact-Checking Network que, entre otras, avalan a los medios que están luchando eficazmente contra los bulos
 excerpt: "Verificar está de moda. Desde hace más de diez años, numerosas empresas periodísticas han surgido con el único fin de luchar contra la desinformación. En Estados Unidos, cabeceras como Snopes, Politifact o FactCheck.org llevan desmintiendo bulos desde la década del 2000 y esta costumbre se ha internacionalizado con el paso del tiempo, desde Latinoamérica hasta el Reino Unido. No obstante, el fenómeno de la verificación no llegó a España hasta hace unos pocos años, principalmente gracias al programa El Objetivo de LaSexta. Después se sumaron Maldita.es, La Chistera de El Confidencial o Newtral, y, hace poco más de un mes, con motivo del Día Internacional del Fact-checking, arrancó la primera plataforma de verificación en Catalán (Verificat)."
-author:
-  name: Dámaso Mondéjar
-  twitter: Monde97
-  gplus:  
-  bio: Periodismo UMH
-  image: damaso.webp
-  link: https://twitter.com/Monde97
+author: mondejar
+categories:
+  - tecnologia
+image: /images/shots/verifica_0.jpg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/verifica_0.jpg)
 <sup>Fuente: [Pexels](https://www.pexels.com/photo/person-reading-the-daily-fake-news-newspaper-sitting-on-gray-couch-1327218/)

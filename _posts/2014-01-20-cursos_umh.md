@@ -3,13 +3,10 @@ layout: post
 title: ¿Quieres ser un periodista web ninja? 
 subtitle: "El Máster de Innovación en Periodismo (MIP) oferta tres cursos de perfeccionamiento en edición avanzada de contenidos digitales"
 excerpt: "Cada vez es más importante dominar la publicación de contenidos digitales, gestionar y mantener una comunidad de usuarios, presentar las historias en un formato atractivo y, sobre todo, hacerlo con el diseño adecuado para que sea consumible en cualquier soporte móvil. Ante esa demanda, el Máster de Innovación en Periodismo (MIP) oferta tres cursos de perfeccionamiento en edición avanzada de contenidos digitales."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - el-master
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

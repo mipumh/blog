@@ -1,15 +1,11 @@
 ---
 layout: post
 title: Las mejores narrativas digitales de 2021 (y 3)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/las-mejores-narrativas-de-2021-y-iii-.jpg
 ---
-
 Ofrecemos la tercera y última entrega de las narrativas digitales de 2021 (aquí puedes consultar [la primera](https://mip.umh.es/blog/2022/02/16/las-mejores-narrativas-digitales-de-2021-i/) y [la segunda](https://mip.umh.es/blog/2022/02/23/las-mejores-narrativas-digitales-de-2021-2/)). Seleccionamos lo más destacado en los formatos narrativos del periodismo internacional durante el pasado año. En este caso, destaca la creatividad en el desarrollo de las narrativas relacionadas con el deporte, la ciencia, la salud y la sociedad.
 
 ![]({{ site.baseurl }}/images/shots/las-mejores-narrativas-de-2021-y-iii-.jpg)

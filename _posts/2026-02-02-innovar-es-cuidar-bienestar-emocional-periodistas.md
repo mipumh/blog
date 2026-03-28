@@ -2,15 +2,11 @@
 layout: post
 title: "Innovar también es cuidar: el bienestar emocional de los periodistas en
   un contexto de cambio"
-author:  
-  name: Chema Valero 
-  twitter: josvap
-  gplus:  
-  bio: Profesor del Máster
-  image: chema.webp
-  link: https://twitter.com/josvap
+author: valero
+categories:
+  - redaccion
+image: /images/001/pexels-polina-zimmerman-3958403.jpg
 ---
-
 Cuando se habla de innovación en periodismo, el foco suele ponerse en la tecnología, los formatos o los modelos de negocio. Plataformas digitales, automatización de rutinas, inteligencia artificial o métricas de audiencia concentran buena parte del debate académico y profesional. Esta mirada deja a menudo en segundo plano una **dimensión importante para la sostenibilidad del periodismo: el bienestar emocional** de quienes lo ejercen.
 
 Esta cuestión es el eje central de [una revisión sistemática publicada esta semana en la revista *Journalism & Media*](https://www.mdpi.com/2673-5172/7/1/21)*,* fruto de una investigación propia. El estudio analiza 15 investigaciones empíricas revisadas por pares para comprender cómo la literatura científica ha conceptualizado el bienestar emocional de los periodistas, cómo describen los propios profesionales sus experiencias emocionales y qué estrategias individuales, organizacionales y sectoriales se han documentado para protegerlo.

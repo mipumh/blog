@@ -3,13 +3,10 @@ layout: post
 title: Descarga el libro&#58 La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales
 subtitle: "Descarga gratis este libro editado por el Máster en Innovación en Periodismo"
 excerpt: "Publicamos el libro La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales que contiene las aportaciones y propuestas de una treintena de expertos -profesionales y académicos- sobre cómo transformar los informativos. Puedes descargarlo gratuitamente a través de esta página."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/crisis_libro.jpg
 ---
 Publicamos el libro **La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales** que contiene las aportaciones y propuestas de una treintena de expertos -profesionales y académicos- sobre cómo transformar los informativos. Puedes descargarlo gratuitamente a través de esta página.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Nacho Cardero (director, El Confidencial): “Nuestra labor de información se ha visto atacada por el poder político; sufrimos un vacío desde la Moncloa por los casos de corrupción que afectan al ejecutivo”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - innovadores
+image: /images/001/f.elconfidencial.com_original_64c_c50_ccf_64cc50ccfd2b8706ab60f293870acb47.jpg
 ---
 [Nacho Cardero](https://x.com/nachocardero) (Guadalajara, 1974) es licenciado en Ciencias de la Información por la Universidad Complutense. Dirige [El Confidencial](https://www.elconfidencial.com/) desde marzo de 2011. En este período, el diario ha registrado sus mayores cuotas de audiencia y se ha consolidado como referente de los medios generalistas. En 2020 implantaron un modelo de subscripción. Cardero ha publicado ['Aquello que dábamos por bueno'](https://www.planetadelibros.com/libro-aquello-que-dabamos-por-bueno/380475) (Espasa, 2023), el grito de una generación que contempla cómo se derrumban los fundamentos sobre los que se levantaban sus vidas. El director de El Confidencial denuncia la presión que sufren desde la administración central y la Moncloa por la publicación de los casos de corrupción vinculados a Koldo, Ábalos y Begoña Gómez, entre otros, que se traduce en un vacío informativo por parte del ejecutivo, en eliminar totalmente la publicidad institucional en 2024 y en presionar para que otras entidades participen en ese vacío informativo a los periodistas de El Confidencial.
 

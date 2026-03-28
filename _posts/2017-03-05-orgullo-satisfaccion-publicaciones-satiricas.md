@@ -2,13 +2,10 @@
 layout: post
 title: Adiós a 'Orgullo y Satisfacción'&#58 modelos de negocio en las publicaciones de humor político
 excerpt: "El cierre de la publicación satírica Orgullo y Satisfacción, anunciado para diciembre de este mismo año, evidencia una vez más la importancia de conseguir un modelo de negocio estable para poner en marcha proyectos comunicativos. Ahora no solo cuenta la calidad de los contenidos que se producen, sino que resulta clave aportar un valor añadido único y suficiente al público, y ser capaz de diversificar las vías de ingresos."
-author:
-  name: Chema Valero
-  twitter: josvap
-  gplus: 105651624538664882557 
-  bio: Doctorando UMH
-  image: josvap.webp
-  link: https://twitter.com/josvap
+author: valero
+categories:
+  - industria
+image: /images/shots/orgys0.jpg
 ---
 El **cierre de la publicación satírica Orgullo y Satisfacción**, anunciado para diciembre de este mismo año, evidencia una vez más la importancia de [conseguir un modelo de negocio estable](http://mip.umh.es/blog/2015/10/12/seis-modelos-negocio-periodismo-plataformas/) para poner en marcha proyectos comunicativos. Ahora no solo cuenta la calidad de los contenidos que se producen, sino que resulta clave aportar un valor añadido único y suficiente al público, y ser capaz de diversificar las vías de ingresos. 
 

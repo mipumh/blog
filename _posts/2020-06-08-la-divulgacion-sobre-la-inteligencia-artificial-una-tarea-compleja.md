@@ -1,13 +1,10 @@
 ---
 layout: post
 title: La divulgación sobre la Inteligencia Artificial, una tarea compleja
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora Módulo Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/shots/nuria-oliver.jpg
 ---
 Desde que despertamos y hasta que nos acostamos, vivimos rodeados de sistemas de Inteligencia Artificial (IA), a través de las utilidades que ofrece nuestro móvil con los asistentes de voz (Siri y Alexa); las cámaras mediante el enfoque inteligente, la detección de caras o transformaciones faciales, y las aplicaciones web que interaccionan con funcionalidades inteligentes basadas en recomendaciones o el tratamiento de la información (Facebook, Twitter, Netflix, etc.). Pero a pesar de este uso diario… ¿Entiende realmente la sociedad lo que es la IA? La comunicación de cuestiones complejas como la IA implica una mayor especialización por parte de los comunicadores y el conocimiento de técnicas de divulgación científica.
 

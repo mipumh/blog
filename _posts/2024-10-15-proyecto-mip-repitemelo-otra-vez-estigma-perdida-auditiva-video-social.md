@@ -2,12 +2,10 @@
 layout: post
 title: "Un proyecto nacido en el MIP: “Repítemelo otra vez”, atizar el estigma
   de la pérdida auditiva a través del video social"
-author:
-  name: Silvia Cobo
-  twitter: silviacobo
-  bio: Periodista
-  image: silviacobo.jpg
-  link: https://twitter.com/silviacobo
+author: Silvia Cobo
+categories:
+  - narrativas
+image: /images/001/logo_horizontal.png
 ---
 ![]({{ site.baseurl }}/images/001/logo_horizontal.png)
 

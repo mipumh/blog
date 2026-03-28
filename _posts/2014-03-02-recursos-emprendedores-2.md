@@ -3,14 +3,11 @@ published: true
 layout: post
 title: Recursos para periodistas emprendedores (II)&#58 Dónde obtener fotografías libres de derechos
 excerpt: "Hace unos días recopilábamos una serie de recursos, libros y materiales útiles para periodistas emprendedores. Y prometíamos volver con más. Para este segundo capítulo de esta serie de posts hemos listado los mejores sitios donde los periodistas emprendedores (o no) pueden encontrar buenos materiales gráficos para un proyecto periodístico."
-author:
-  name: Sergio M. Mahugo
-  twitter: smmahugo
-  gplus:  
-  bio: Coordinador de Tecnologías
-  image: mahugo.jpg
-  link: https://twitter.com/smmahugo
+author: Sergio M. Mahugo
 type: text
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

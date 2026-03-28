@@ -2,12 +2,10 @@
 layout: post
 title: Abierta la convocatoria de la IV edición del Premio Vicente Verdú de Periodismo e Innovación, en el que colabora el Máster
 subtitle: El certamen, cuyo plazo de admisión finaliza el 29 de febrero de 2024, está dotado con 6.000 euros
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - narrativas
+image: /images/001/verdu-copia.jpeg
 ---
 La Asociación de Informadores de Elche (AIE) convoca la IV edición del Premio Vicente Verdú de Periodismo e Innovación, en colaboración con el Ayuntamiento ilicitano y la Universidad Miguel Hernández de Elche (UMH). La finalidad del galardón, con el que la AIE homenajea al destacado periodista, escritor y pintor ilicitano, es reconocer e incentivar, en una época de profundos cambios en el periodismo, la búsqueda de la innovación y el desarrollo de nuevos medios, contenidos, lenguajes y formas de relación con la audiencia, así como la aplicación de técnicas innovadoras para explicar los cambios sociales, políticos, culturales y de otra índole. **El premio está dotado con 6.000 euros** para el trabajo ganador y el jurado podrá conceder hasta dos accésits, con una dotación de 500 euros cada uno, cantidades aportadas por el Ayuntamiento de Elche. 
 

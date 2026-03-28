@@ -2,13 +2,10 @@
 layout: post
 title: Consejos para emprender en el sector de la información (I)
 excerpt: "Contamos con la firma invitada de Javier Padilla, periodista y emprendedor. Ha sido cofundador de Nabumbu, El Desmarque, 3dsignia y otras iniciativas. Fue director técnico del Departamento de Internet de ABC Sevilla. También ha desarrollado trabajos de diseño, programación y marketing online. Imparte clases en el Master de Innovación en Periodismo."
-author:
-  name: Javier Padilla
-  twitter: elpady
-  gplus:  
-  bio: Cofundador de Nabumbu y El Desmarque
-  image: padi.webp
-  link: https://twitter.com/elpady
+author: Javier Padilla
+categories:
+  - tecnologia
+image: /images/shots/pad0.jpg
 ---
 _Contamos con la firma invitada de Javier Padilla, periodista y emprendedor. Ha sido cofundador de Nabumbu, El Desmarque, 3dsignia y otras iniciativas. Fue director técnico del Departamento de Internet de ABC Sevilla. También ha desarrollado trabajos de diseño, programación y marketing online. Imparte clases en el Master de Innovación en Periodismo_.
 

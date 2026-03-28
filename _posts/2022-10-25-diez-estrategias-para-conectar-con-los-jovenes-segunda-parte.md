@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Diez estrategias para conectar con los jóvenes (2ª parte)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/gettyimages-karrastock-971413018.jpg
 ---
 [Tras la primera entrega](https://mip.umh.es/blog/2022/10/18/diez-estrategias-para-conectar-con-los-jovenes/), continuamos con las estrategias que algunos medios adoptan para llegar a la Generación Z y los Millenials:
 

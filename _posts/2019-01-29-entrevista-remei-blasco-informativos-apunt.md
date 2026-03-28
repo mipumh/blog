@@ -2,13 +2,10 @@
 layout: post
 title: Remei Blasco (Directora de informativos, À Punt)&#58 "Hemos intentado hacer informativos plurales donde todo el territorio estuviese representado, para que no puedan decir que estamos al servicio de unos y otros"
 excerpt: "Remei Blasco, directora de informativos de À Punt Media, es licenciada en Ciencias de la Información por la Universidad Autónoma de Barcelona. Comenzó trabajando en el semanario El Temps antes de entrar por oposición en Radio Televisión Valenciana en 1989, año en el que se fundó. Desarrolló casi toda su carrera en este medio en la sección de internacional de los informativos de Canal 9, hasta su cierre en 2013. Remei es profesora asociada en el Grado de Periodismo de la Universitat de València. Fue una de las redactoras del libro de estilo de À Punt Media, que recoge las claves sobre el tratamiento de la información en el medio público autonómico."
-author:
-  name: Claudia Cózar
-  twitter: ClaudiaCozar
-  gplus:  
-  bio: Periodismo UMH
-  image: cozar.webp
-  link: https://twitter.com/ClaudiaCozar
+author: Claudia Cózar
+categories:
+  - tecnologia
+image: /images/shots/remei_0.jpg
 ---
 Remei Blasco, directora de informativos de À Punt Media, es licenciada en Ciencias de la Información por la Universidad Autónoma de Barcelona. Comenzó trabajando en el semanario El Temps antes de entrar por oposición en Radio Televisión Valenciana en 1989, año en el que se fundó. Desarrolló casi toda su carrera en este medio en la sección de internacional de los informativos de Canal 9, hasta su cierre en 2013. Remei es profesora asociada en el Grado de Periodismo de la Universitat de València. Fue una de las redactoras del libro de estilo de À Punt Media, que recoge las claves sobre el tratamiento de la información en el medio público autonómico.
 

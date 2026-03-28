@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Mar Manrique (Fleet Street): “Tener un proyecto propio es ese empujoncito necesario para abrirte las puertas al mercado“"
-author:
-  name: David Gozálvez
-  twitter: dav_gzm
-  gplus:  
-  bio: Estudiante de Periodismo y CAU
-  image: dav_gzm.webp
-  link: https://twitter.com/dav_gzm
+author: David Gozálvez
+categories:
+  - industria
+image: /images/shots/gv5WvKKj.jpg-medium.jpeg
 ---
 **Mar Manrique** se graduó en Periodismo y Comunicación Corporativa en la Universitat Ramon Llull de Barcelona en 2020. Poco después de terminar la carrera, puso en marcha su gran proyecto personal, [Fleet Street](https://fleetstreet.substack.com/), una newsletter sobre periodismo y comunicación. Desde entonces, su estilo fresco y personal ha logrado atraer a una gran variedad de personas del mundo del periodismo, desde recién graduados hasta profesionales con muchas horas de vuelo a sus espaldas. Manrique continúa formándose en el [Máster en Innovación en Periodismo](https://mip.umh.es/), mientras cada dos domingos se cuela en las bandejas de entrada de sus **más de 4.500 suscriptores** para reflexionar sobre la industria de la comunicación
 

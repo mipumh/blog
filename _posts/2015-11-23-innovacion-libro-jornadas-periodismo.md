@@ -2,15 +2,11 @@
 layout: post
 title: Descarga gratis el libro “Innovar en Periodismo” de la Universidad Miguel Hernández
 excerpt: "La innovación es el foco de las X Jornadas Internacionales de Periodismo celebradas el 24 y 25 de marzo de 2015 en la Universidad Miguel Hernández. Un grupo de profesionales y académicos nos dedicamos a recabar experiencias, analizar casos y plantear retos a varios profesionales de los medios más innovadores en nuestro país. El libro “Innovar en Periodismo” es el resultado de esas reflexiones."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/portada_libro_innovar.jpg
 ---
-
 La innovación es el foco de las X Jornadas Internacionales de Periodismo celebradas el 24 y 25 de marzo de 2015 en la Universidad Miguel Hernández. Un grupo de profesionales y académicos nos dedicamos a recabar experiencias, analizar casos y plantear retos a varios profesionales de los medios más innovadores en nuestro país. El libro “Innovar en Periodismo” es el resultado de esas reflexiones.
 
 Esta obra inicia una colección de publicaciones del [**Máster de Innovación en Periodismo**](http://mip.umh.es/), ya en su tercera edición presencial y la primera en la modalidad online. En él, el director del Máster, Miguel Carvajal, presenta el [**Ranking de Innovación Periodística en España 2014**](http://mip.umh.es/ranking). Este ranking surgió con el objetivo de reivindicar la verdadera innovación y valorar el trabajo de aquellos medios que están innovando, es decir, que proponen soluciones originales y novedosas a los problemas del sector. “La innovación no consiste en rodearse de tecnología”, afirma Carvajal; “la innovación es buscar una solución a un reto, el reto de la audiencia, el reto del soporte, el reto de las rutinas de trabajo, el reto de la financiación y del modelo de negocio o el reto de la transparencia”.

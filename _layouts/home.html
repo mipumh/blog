@@ -1,0 +1,76 @@
+---
+layout: default
+---
+{% assign featured = site.posts | where: "featured", true | first %}
+{% unless featured %}{% assign featured = site.posts | first %}{% endunless %}
+{% assign latest = site.posts
+  | where_exp: "p", "p.url != featured.url" | slice: 0, 4 %}
+
+<div class="homepage">
+  <div class="container-xl">
+    <div class="row g-5">
+
+      <!-- MAIN COLUMN -->
+      <div class="col-12 col-lg-8">
+
+        {% include hero.html post=featured %}
+
+        <section class="hp-block" aria-label="Ultimos articulos">
+          <h2 class="block-label">Ultimos articulos</h2>
+          <div class="row g-4">
+            {% for post in latest %}
+            <div class="col-12 col-sm-6">
+              {% include card.html post=post %}
+            </div>
+            {% endfor %}
+          </div>
+        </section>
+
+        <!-- Mobile: breves inline -->
+        <div class="d-lg-none">{% include breves.html %}</div>
+
+        {% include newsletter-banner.html %}
+
+        {% for section in site.data.navigation.sections %}
+          {% assign sec_posts = site.posts
+            | where_exp: "p", "p.categories contains section.slug"
+            | where_exp: "p", "p.url != featured.url"
+            | slice: 0, 3 %}
+          {% if sec_posts.size > 0 %}
+          <section class="hp-block section-river"
+                   aria-labelledby="sec-{{ section.slug }}">
+            <div class="river-header">
+              <h2 class="block-label" id="sec-{{ section.slug }}"
+                  style="--accent: {{ section.color }}">
+                {{ section.title }}
+              </h2>
+              <a href="{{ site.baseurl }}/{{ section.slug }}/" class="river-more">
+                Ver todos &rarr;
+              </a>
+            </div>
+            <div class="row g-4">
+              {% for post in sec_posts %}
+              <div class="col-12 col-sm-6{% if forloop.last and sec_posts.size == 3 %} col-sm-12 col-md-6{% endif %}">
+                {% include card.html post=post %}
+              </div>
+              {% endfor %}
+            </div>
+          </section>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+
+      <!-- SIDEBAR (desktop only) -->
+      <aside class="col-lg-4 d-none d-lg-block">
+        <div class="sidebar-sticky">
+          {% include breves.html %}
+          {% include sidebar-novedades.html %}
+          {% include newsletter-compact.html %}
+          {% include sidebar-popular.html %}
+        </div>
+      </aside>
+
+    </div>
+  </div>
+</div>

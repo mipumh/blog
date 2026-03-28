@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Innovar en el modelo de negocio del periodismo deportivo: decálogo para mejorar el rendimiento de las empresas"
-author:
-  name: Cristian R. Marín
-  twitter: crms74
-  gplus:
-  bio: Doctor en Periodismo UMH
-  image: crms.webp
-  link: https://twitter.com/crms74
+author: marin
+categories:
+  - industria
+image: /images/shots/untitled-5-.png
 ---
 ![]({{ site.baseurl }}/images/shots/untitled-5-.png)
 

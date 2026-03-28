@@ -1,0 +1,155 @@
+// ==========================================================================
+// Dark Mode — Specific Overrides Beyond Variables
+// ==========================================================================
+// CSS custom property overrides are in _variables.scss [data-theme="dark"].
+// This file handles component-specific dark mode adjustments that cannot
+// be solved with variable swaps alone (shadows, borders, images, etc.).
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// Global Dark Mode Adjustments
+// --------------------------------------------------------------------------
+[data-theme="dark"] {
+  // Reduce image brightness slightly to avoid eye strain
+  img:not([src*=".svg"]) {
+    filter: brightness(0.9);
+  }
+
+  // --------------------------------------------------------------------------
+  // Header
+  // --------------------------------------------------------------------------
+  .site-header {
+    background: rgba(var(--color-bg-rgb), 0.92);
+    border-bottom-color: var(--color-border);
+  }
+
+  // --------------------------------------------------------------------------
+  // Cards — adjust shadow and border for dark surfaces
+  // --------------------------------------------------------------------------
+  .card-ed {
+    border-color: var(--color-border);
+    background: var(--color-surface-alt);
+
+    &:hover {
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  // --------------------------------------------------------------------------
+  // Category Pill — ensure readability on dark bg
+  // --------------------------------------------------------------------------
+  .category-pill {
+    color: #000;
+  }
+
+  // --------------------------------------------------------------------------
+  // Newsletter Variants
+  // --------------------------------------------------------------------------
+  .newsletter-banner {
+    background: var(--color-brand-tint);
+  }
+
+  .newsletter-compact {
+    background: var(--color-surface-alt);
+  }
+
+  .newsletter-inline {
+    background: var(--color-brand-tint);
+  }
+
+  .newsletter__input {
+    background: var(--color-bg);
+    border-color: var(--color-border);
+    color: var(--color-text);
+  }
+
+  // --------------------------------------------------------------------------
+  // Sidebar
+  // --------------------------------------------------------------------------
+  .breves-item--hl {
+    background: var(--color-brand-tint);
+  }
+
+  // --------------------------------------------------------------------------
+  // Author Bio
+  // --------------------------------------------------------------------------
+  .author-bio {
+    background: var(--color-surface-alt);
+  }
+
+  // --------------------------------------------------------------------------
+  // Footer — already dark, minor tweaks
+  // --------------------------------------------------------------------------
+  .site-footer {
+    background: var(--color-surface-dark);
+  }
+
+  // --------------------------------------------------------------------------
+  // Code Blocks
+  // --------------------------------------------------------------------------
+  code {
+    background: var(--color-surface-alt);
+    color: var(--color-text);
+  }
+
+  pre {
+    background: var(--color-surface-alt);
+  }
+
+  // --------------------------------------------------------------------------
+  // Blockquotes
+  // --------------------------------------------------------------------------
+  blockquote {
+    border-left-color: var(--color-brand);
+  }
+
+  // --------------------------------------------------------------------------
+  // Horizontal Rules
+  // --------------------------------------------------------------------------
+  hr {
+    border-top-color: var(--color-border);
+  }
+
+  // --------------------------------------------------------------------------
+  // Selection
+  // --------------------------------------------------------------------------
+  ::selection {
+    background: rgba(105, 240, 174, 0.2);
+    color: var(--color-text);
+  }
+}
+
+// --------------------------------------------------------------------------
+// Dark Mode Toggle Button
+// --------------------------------------------------------------------------
+.theme-toggle {
+  // Light mode icon (sun)
+  .icon-sun {
+    display: none;
+  }
+
+  .icon-moon {
+    display: block;
+  }
+}
+
+[data-theme="dark"] .theme-toggle {
+  // Dark mode icon (moon hidden, sun shown)
+  .icon-sun {
+    display: block;
+  }
+
+  .icon-moon {
+    display: none;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Prefers Reduced Motion (accessibility)
+// --------------------------------------------------------------------------
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

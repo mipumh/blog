@@ -2,13 +2,10 @@
 layout: post
 title: 40 expertos analizan en Viena el impacto de la innovación periodística y
   rinden homenaje a Mario Tascón
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/simposio-viena.jpg
 ---
 El proyecto internacional [“Journalism Innovation in Democratic Societies: Index, Impact and Prerequisites in International Comparison (JoIn-DemoS)”](https://innovations-in-journalism.com/nuestro-proyecto) ha reunido a un grupo de profesionales y expertos en un Simposio sobre el impacto de la Innovación celebrado en la Academia de Ciencias de Austria. En el proyecto, iniciado en octubre de 2020, participan 15 investigadores de la Catholic University Eichstaett-Ingolstadt (Alemania), la Austrian Academic of Sciences (Austria), el Institute of Applied Media Studies y la Università della Svizzera italiana (Suiza), y la Universidad Miguel Hernández (España).
 

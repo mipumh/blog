@@ -1,13 +1,10 @@
 ---
 layout: post
 title: La transformación del periodismo explicada en 9 gráficos
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/shots/1-2021-internetminute.png
 ---
 Los cambios experimentados en los últimos meses están generando un ecosistema mediático cada vez más complejo. Las empresas de comunicación afrontan **la batalla por la atención**, el desplome de las ventas de diarios y de ingresos publicitarios, la financiación mediante suscripciones y membresías, y una **creciente pérdida de credibilidad**. Estas tendencias demuestran la magnitud de la transformación, que supone un profundo replanteamiento del negocio para las organizaciones periodísticas. Este artículo ilustra y debate el alcance de estos cambios a través de una serie de gráficos.
 

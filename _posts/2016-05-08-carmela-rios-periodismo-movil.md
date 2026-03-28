@@ -2,13 +2,10 @@
 layout: post
 title: Carmela Ríos&#58 estrategia para coberturas móviles  
 excerpt: "Responsable de Redes Sociales del diario El Mundo, Carmela Ríos es veterana en el uso de Twitter como herramienta de trabajo. De hecho tuiteó el cierre de CNN + y el 15M. Convencidísima de que #SiSePuede hacer periodismo en redes sociales, en su blog Jugaba en el Betis da pistas sobre nuevas narrativas y periodismo móvil."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

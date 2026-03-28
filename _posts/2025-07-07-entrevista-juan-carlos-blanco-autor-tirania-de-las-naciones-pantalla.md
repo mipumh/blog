@@ -3,13 +3,10 @@ layout: post
 title: "Juan Carlos Blanco, autor de ‘La tiranía de las naciones pantalla’:
   “Todas aquellas sociedades donde la industria de los medios está muy
   debilitada, se están precipitando hacia un desfiladero muy peligroso”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/001/img_8213.jpg
 ---
 **[Juan Carlos Blanco](https://juancarlosblanco.es/)** es periodista y consultor de comunicación. Colabora en programas de análisis político en Canal Sur Televisión y Radio, la Cadena SER y Onda Cero en Andalucía, y escribe en la edición nacional de 20 Minutos. También dirige el podcast Algohumanos y asesora a empresas sobre estrategias de comunicación corporativa. Fue portavoz del Gobierno de Andalucía, director de El Correo de Andalucía y subdirector del Diario de Sevilla. Acaba de publicar ***[La tiranía de las naciones pantalla (Akal).](https://www.akal.com/libro/la-tirania-de-las-naciones-pantalla_54290/)*** Charlamos extensamente sobre cómo las plataformas tecnológicas han transformado el ecosistema comunicativo, sus efectos nocivos sobre la ciudadanía y qué pueden hacer los medios de comunicación y los usuarios al respecto.
 

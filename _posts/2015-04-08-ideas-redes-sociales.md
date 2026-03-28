@@ -2,13 +2,10 @@
 layout: post
 title: Ideas para gestionar redes sociales con éxito
 excerpt: "España es uno de los países del mundo con mayor consumo de redes sociales. Aun en proceso de optimización, cada vez son más los medios y profesionales del periodismo que integran el uso de las plataformas de comunicación online a sus rutinas de trabajo. ¿Cómo hacerlo con éxito? En el curso Gestión avanzada de redes sociales impulsado por el MIP hemos aprendido a comunicar e informar en nuestras comunidades virtuales."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - audiencias
+image: /images/Fotos_MIP/gestion_redes_mip_umh.jpg
 ---
 España es uno de los países del mundo con mayor [consumo](http://bit.ly/19rehPl) de redes sociales. Aun en proceso de [optimización](http://bit.ly/1BOiAvr), cada vez son más los medios y [profesionales](http://mun.do/1OY168Z) del periodismo que integran el uso de las plataformas de comunicación online a sus rutinas de trabajo. ¿Cómo hacerlo con éxito? En el curso [Gestión avanzada de redes sociales](http://bit.ly/1B0Lzzd) impulsado por el [MIP](http://mip.umh.es) hemos aprendido a comunicar e informar en nuestras comunidades virtuales. Éstas son algunas ideas:
 

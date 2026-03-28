@@ -3,13 +3,10 @@ layout: post
 title: "Juan Andrés Muñoz (CEO, Pamplonews): “He aprendido a integrar el servir
   a la audiencia hasta las últimas consecuencias; aunque te cueste, es la forma
   de convertir”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/juan-andres.jpg
 ---
 **[Juan Andrés Muñoz](https://twitter.com/jamunfer)** (Pamplona, 1975), estudió periodismo en la Universidad de Navarra y es Máster en Interacción Persona-Computadora por el Georgia Institute of Technology. Fue director digital de CNN en Español hasta 2022. En la actualidad, ocupa un puesto directivo en la cadena EWTN. En junio de 2023 lanzó [Pamplonews](https://www.pamplonews.com/), un medio hiperlocal que ofrece “información útil para sacarle todo el jugo a Pamplona”. Se distribuye por WhatsApp y por una aplicación web y cuenta con más de 20.000 suscriptores. El año pasado [ya le entrevistamos](https://mip.umh.es/blog/2023/06/06/juan-andres-munoz-exdirector-de-cnn-estrategia-periodismo-sostenible-innovador-calidad/) en esta Revista de Innovación. Ahora, Juan Andrés Muñoz nos habla del crecimiento de Pamplonews, del lanzamiento de [la aplicación Qrro](https://qrro.pamplonews.com/) para acceder a las ofertas de empleo y de los retos que afronta su proyecto hiperlocal.
 

@@ -3,13 +3,10 @@ published: true
 layout: post
 title: Guía rápida para manejar las redes sociales de tu negocio
 excerpt: "OK, ya (casi) tienes tu empresa en marcha, ¿verdad? Claro tu plan de negocio, terminando tu web corporativa y creadas tus cuentas sociales. ¡Ha sido duro pero lo has conseguido! Ahora debes conseguir que te conozcan y te recomienden."
-author:
-  name: Fátima Navarro
-  twitter: fnmaillo
-  gplus: 104394152817479105314 
-  bio: Coordinadora Redes Sociales
-  image: fn.webp
-  link: https://twitter.com/fnmaillo
+author: Fátima Navarro
+categories:
+  - industria
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

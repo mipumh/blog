@@ -2,13 +2,10 @@
 layout: post
 title: Entrevista con la directora de Zetland, el medio danés que innova con su peculiar mezcla de longform y show en directo
 excerpt: "Con casi cuatro años de existencia y una apuesta editorial que combina el largo formato (al que denominan e-single) y la interacción real con su audiencia mediante eventos en directo, Zetland es uno de los medios digitales más innovadores del panorama europeo."
-author:
-  name: Iker Barinagarrementeria
-  twitter: ikerbarinaga
-  gplus:  
-  bio: Director de arte en área de Innovación de Vocento
-  image: ikerbarinaga.webp
-  link: https://twitter.com/ikerbarinaga
+author: Iker Barinagarrementeria
+categories:
+  - tecnologia
+image: /images/shots/zetland0.jpg
 ---
 Con casi cuatro años de existencia y una apuesta editorial que combina el largo formato (al que denominan *e-single*) y la interacción real con su audiencia mediante eventos en directo, [Zetland es uno de los medios digitales más innovadores](https://www.zetland.dk/) del panorama europeo.
 

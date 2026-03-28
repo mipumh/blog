@@ -2,13 +2,10 @@
 layout: post
 title: Huesca o la obstinación por contar el mundo
 subtitle: Crónica del congreso donde los periodistas se reúnen para preguntarse cómo seguir siendo relevantes
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/001/congreso.jpg
 ---
 A las nueve y media de la mañana, cuando todavía arrecia el frío del Pirineo, llego al auditorio Carlos Saura del Palacio de Congresos de Huesca. Vengo al [XXVII Congreso de Periodismo](https://congresoperiodismo.com/congreso/ponencias/) con una mezcla de ilusión y expectativas. Se trata de uno de los encuentros profesionales más veteranos en España, una oportunidad de pararnos, pensar y discutir qué periodismo queremos en estos tiempos de incertidumbre.
 

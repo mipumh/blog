@@ -1,0 +1,39 @@
+{% assign post = include.post %}
+{% assign author = site.data.authors[post.author] %}
+{% assign cat_slug = post.categories | first %}
+{% assign section = site.data.sections[cat_slug] %}
+
+<section class="hero" aria-label="Articulo destacado">
+  <a href="{{ site.baseurl }}{{ post.url }}" class="hero__link">
+    {% if post.image %}
+    <div class="hero__img-wrap">
+      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}"
+           class="hero__img" loading="eager" fetchpriority="high"
+           width="800" height="450">
+    </div>
+    {% endif %}
+    <div class="hero__body">
+      {% if cat_slug %}
+      <span class="category-pill"
+            style="--pill-color: {% if section %}{{ section.color }}{% else %}var(--color-brand){% endif %}">
+        {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
+      </span>
+      {% endif %}
+      <h2 class="hero__title">{{ post.title }}</h2>
+      {% if post.subtitle %}
+      <p class="hero__subtitle">{{ post.subtitle }}</p>
+      {% endif %}
+      <div class="hero__meta">
+        {% if author %}
+        {% if author.avatar %}
+        <img src="{{ site.baseurl }}{{ author.avatar }}" alt="" class="avatar avatar--sm">
+        {% endif %}
+        <span class="hero__author">{{ author.name }}</span>
+        {% endif %}
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%d %b %Y" }}
+        </time>
+      </div>
+    </div>
+  </a>
+</section>

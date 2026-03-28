@@ -3,13 +3,10 @@ layout: post
 title: Nuevo libro&#58 Pistas y tendencias sobre la innovación periodística
 subtitle: "Descarga gratis este libro editado por el Máster en Innovación en Periodismo"
 excerpt: "Idea, diseña, emprende. Con este breve lema, un grupo de profesores de periodismo de la Universidad Miguel Hernández de Elche empezamos a diseñar un proyecto de máster en 2011. Queríamos ofrecer algo útil a los profesionales del sector. Tras infinidad de reuniones y debates interminables sobre el futuro de la comunicación, el periodismo, la educación y la empresa, llegamos a la conclusión de que debíamos crear un programa muy versátil, adaptable a los tiempos y orientado a profesionales emprendedores o que deseen actualizarse."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /blog/images/shots/libro_portada.jpg
 ---
 **Idea, diseña, emprende**. Con este breve lema, un grupo de profesores de periodismo de la **Universidad Miguel Hernández de Elche** empezamos a diseñar un proyecto de máster en 2011. Queríamos ofrecer algo útil a los profesionales del sector. Tras infinidad de reuniones y debates interminables sobre el futuro de la comunicación, el periodismo, la educación y la empresa, llegamos a la conclusión de que debíamos crear un programa muy versátil, adaptable a los tiempos y orientado a profesionales emprendedores o que deseen actualizarse.
 

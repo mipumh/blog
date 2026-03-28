@@ -3,13 +3,10 @@ layout: post
 title: "Mar Cabra, The Self-Investigation: “Aspiramos a un futuro en el que la
   salud mental sea un elemento más en todos los aspectos del trabajo de los
   periodistas”  "
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/001/foto-mar-cabra.jpeg
 ---
 En 2017, la periodista [Mar Cabra](https://x.com/cabralens) (Madrid, 1983) ganó el premio Pulitzer por su trabajo con los Papeles de Panamá. A los pocos meses, cuando había llegado a lo más alto de su carrera profesional, decidió abandonar el periodismo. Estaba quemada, sufría estrés postraumático. En 2020 fundó [The Self-Investigation](https://theselfinvestigation.com/es/), una organización sin ánimo de lucro que promueve la salud mental en los medios de comunicación para que los periodistas trabajen en un entorno laboral más saludable. No resulta nada fácil. Hablar de ansiedad o depresión todavía es un tema tabú en la mayoría de las redacciones en España, pero Mar Cabra no ceja en su empeño. “Todas las semanas me llaman periodistas que me dicen que lo están pasando mal y que no se atreven a compartirlo”, confiesa. Del 8 al 10 de octubre, The Self-Investigation celebra [la primera Cumbre Mundial sobre salud mental y periodismo](https://theselfinvestigation.com/es/cumbre/), con más de 1.500 personas inscritas.
 

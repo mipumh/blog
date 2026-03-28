@@ -2,13 +2,10 @@
 layout: post
 title: Diez claves del Congreso Internacional Mediamorfosis. Perspectivas de la innovación en periodismo
 excerpt: "El XXIII Congreso Internacional de la Sociedad Española de Periodística, organizado por la Universidad Miguel Hernández de Elche el 9 y 10 de junio, congregó a 200 profesores de periodismo de toda España y otros países. En este congreso, impulsado por el equipo de profesores del Máster de Innovación en Periodismo de la UMH, analizó la transformación que afrontan los medios y las claves para desarrollar un periodismo de calidad que sea viable e innovador. A continuación, seleccionamos las principales ideas que se abordaron al hilo de las sesiones plenarias y mesas redondas."
-author:
-  name: Jose María Valero y Alba Ortega
-  twitter: mipumh
-  gplus:  
-  bio: Investigadores Periodismo UMH
-  image: albtxe.webp
-  link: https://twitter.com/mipumh
+author: valero
+categories:
+  - industria
+image: /images/shots/sep_cart.jpg
 ---
 El [XXIII Congreso Internacional de la Sociedad Española de Periodística](http://sep2017.umh.es/), organizado por la Universidad Miguel Hernández de Elche el 9 y 10 de junio, congregó a 200 profesores de periodismo de toda España y otros países. En este congreso, impulsado por el equipo de profesores del[ Máster de Innovación en Periodismo de la UMH](http://mip.umh.es/), analizó la transformación que afrontan los medios y las claves para desarrollar un periodismo de calidad que sea viable e innovador. A continuación, seleccionamos las principales ideas que se abordaron al hilo de las sesiones plenarias y mesas redondas.
 

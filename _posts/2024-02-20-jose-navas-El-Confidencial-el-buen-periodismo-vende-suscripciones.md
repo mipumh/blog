@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Jose A. Navas, jefe de suscripciones (El Confidencial): “El buen periodismo vende suscripciones. Siempre que tenemos exclusivas potentes crecemos”"
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
+image: /images/001/1-navas.jpg
 ---
 El periodista **Jose A. Navas** se incorporó a El Confidencial en 2019, pocos meses antes de que este periódico digital pionero en España lanzara su modelo de suscripción. Navas cuenta con más de quince años de experiencia en la industria mediática (Mediaset, Unidad Editorial, Atresmedia), en su mayoría como responsable de los equipos de transformación digital. 
 

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.short_name] %}
+
+<div class="author-page">
+  <div class="container-xl">
+
+    <header class="author-page__header">
+      {% if author.avatar %}
+      <img src="{{ site.baseurl }}{{ author.avatar }}" alt="{{ author.name }}"
+           class="avatar avatar--lg" width="64" height="64">
+      {% endif %}
+      <div class="author-page__info">
+        <h1 class="author-page__name">{{ author.name }}</h1>
+        {% if author.role %}
+        <p class="author-page__role">{{ author.role }}</p>
+        {% endif %}
+        {% if author.bio %}
+        <p class="author-page__bio">{{ author.bio }}</p>
+        {% endif %}
+        {% if author.twitter %}
+        <div class="author-page__social">
+          <a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener"
+             aria-label="Twitter de {{ author.name }}">
+            @{{ author.twitter }}
+          </a>
+        </div>
+        {% endif %}
+      </div>
+    </header>
+
+    {% assign author_posts = site.posts | where: "author", page.short_name %}
+    {% if author_posts.size > 0 %}
+    <section aria-label="Articulos de {{ author.name }}">
+      <h2 class="block-label">Articulos de {{ author.name }}</h2>
+      <div class="row g-4">
+        {% for post in author_posts %}
+        <div class="col-12 col-sm-6 col-lg-4">
+          {% include card.html post=post %}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+  </div>
+</div>

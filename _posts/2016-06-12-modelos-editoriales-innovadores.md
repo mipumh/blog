@@ -2,13 +2,10 @@
 layout: post
 title: Nueve reflexiones sobre los modelos editoriales innovadores
 excerpt: "De la jornada ‘Modelos editoriales innovadores’ organizada por la asociación “Conversaciones con…” hemos extraído, a modo de resumen, las principales claves de la apuesta por la innovación aportadas por los expertos y profesionales que participaron en el evento."
-author:
-  name: José Antonio González Alba
-  twitter: jagonzalezalba
-  gplus: 6359f4950faf7851 
-  bio: Periodista y alumno del MIP
-  image: galba.webp
-  link: https://twitter.com/jagonzalezalba
+author: José Antonio González Alba
+categories:
+  - industria
+image: /images/shots/galba0.jpg
 ---
 De la jornada [‘Modelos editoriales innovadores’](http://conversacionescon.es/innovacion-al-servicio-de-esencia/) organizada por la asociación **“Conversaciones con…”** hemos extraído, a modo de resumen, las principales claves de la apuesta por la innovación aportadas por los expertos y profesionales que participaron en el evento:
 

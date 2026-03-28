@@ -2,13 +2,10 @@
 layout: post
 title: Mark Frankel (director de redes sociales, BBC News)&#58 "Hay oportunidades para las empresas periodísticas, sólo hay que saber trabajar dentro de los límites que Facebook y compañía te dan"
 excerpt: "Mark Frankel es responsable de redes sociales para BBC News. Su labor incluye la estrategia y supervisión de las cuentas más conocidas del medio británico, tales como @BBCBreaking (Twitter), @BBCNews (Instagram) o la propia cuenta de Facebook de la BBC (https://www.facebook.com/bbcnews/) —la mayor cuenta de noticias del mundo en esta red social—. El trabajo desempeñado por Frankel en sus más de 19 años de experiencia en la BBC ha sido reconocido en multitud de ocasiones con premios y logros. Entre ellos destacan la calificación que hizo NewsWhip de su página de Facebook en 2016, como 'la mejor publicadora de contenidos en directo'; el premio Digiday Publishing Award al mejor bot de noticias (@BBCPolitics Brexit Bot) en 2017, o los tres Online Media Awards otorgados de forma consecutiva a su cuenta de Twitter (@BBCBreaking) entre 2014 y 2016. En octubre pasado fue ponente en las XIV Jornadas de Innovación en Periodismo de la UMH."
-author:
-  name: Dámaso Mondéjar
-  twitter: Monde97
-  gplus:  
-  bio: Periodismo UMH
-  image: damaso.webp
-  link: https://twitter.com/Monde97
+author: mondejar
+categories:
+  - tecnologia
+image: /images/shots/frankel_0.jpg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/frankel_0.jpg)
 

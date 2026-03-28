@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Irene Gómez Peña, consultora de medios: “A las nuevas generaciones de periodistas las tienes que entender mucho y muy de cerca. Y preguntarles: ¿Cómo estás? ¿Te pasa algo?”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/001/irene_gomez.jpg
 ---
 [Irene Gómez Peña](https://x.com/IreneGomezPena) es impulsora de procesos de transformación digital en los medios de comunicación. Desde hace más de 15 años ha liderado estrategias de contenido, data y analítica digital, SEO, social media, canales verticales y vídeo, producto y marketing digital. Desde octubre de 2022 trabaja en Prodigioso Volcán y lo compagina como consultora del Grupo Joly. Fue directora de desarrollo de audiencias en el grupo HENNEO (20Minutos.es, LaInformación.com, Heraldo de Aragón). Antes trabajó en El Confidencial y Vanitatis, Ferrovial, ABC, Qué! y Europa Press. Es licenciada en periodismo por la Universidad Carlos III, certificado de Marketing Science por ESIC y de Analista Digital y SEO por Kschool, y Máster de Profesorado en Lengua y Literatura Castellana. Desde 2015 es profesora en el Máster en Innovación en Periodismo de la Universidad de Miguel Hernández.
 

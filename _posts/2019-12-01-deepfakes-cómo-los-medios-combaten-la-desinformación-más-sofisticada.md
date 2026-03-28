@@ -1,13 +1,10 @@
 ---
 layout: post
 title: 'Deepfakes: cómo los medios combaten la desinformación más sofisticada'
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/1-deepfake-video.jpg
 ---
 Ver es creer. Las grabaciones de vídeo permiten que cualquiera se convierta en testigo de primera mano de un evento, lo que le ahorra la necesidad de decidir si confiar en el testimonio de otra persona. Gracias a los teléfonos inteligentes y a las redes sociales, que permiten compartir y consumir esas grabaciones de forma masiva, las personas pueden confiar en sus propios ojos y oídos como si fueran notarios de la realidad. Sin embargo, en un mundo de mentiras cada vez más sofisticadas, ver ya no es creer. Los _deepfakes_, vídeos fabricados mediante modelos de Inteligencia Artificial, pretenden generar polémica y manipular a la opinión pública. Y ya hay varios medios que trabajan para combatirlos.
 

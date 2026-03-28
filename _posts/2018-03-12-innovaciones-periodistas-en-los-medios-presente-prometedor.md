@@ -2,13 +2,10 @@
 layout: post
 title: Innovaciones periodísticas en los medios españoles&#58 un presente prometedor
 excerpt: "Innovar resulta esencial para la supervivencia de los medios en un contexto marcado por el cambio constante en la tecnología, los comportamientos de la audiencia, las estrategias de la competencia y los modelos de negocio. En este artículo sintetizamos las conclusiones de una investigación basada en entrevistas a 27 profesionales de diversos medios que están innovando en nuestro país."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/shots/gicov_0.jpg
 ---
 Innovar resulta esencial para la supervivencia de los medios en un contexto marcado por el cambio constante en la tecnología, los comportamientos de la audiencia, las estrategias de la competencia y los modelos de negocio. En este artículo sintetizamos las conclusiones de una investigación basada en entrevistas a 27 profesionales de diversos medios que están innovando en nuestro país.
 

@@ -3,13 +3,9 @@ layout: post
 title: Un programa noticioso 
 subtitle: El equipo de UMH TV ha dedicado una de sus piezas al Máster de Innovación en Periodismo
 image: https://mip.umh.es/blog/images/shots/innovacion-medios-comunicaci%C3%B3n_ppal.jpg
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - narrativas
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

@@ -2,12 +2,10 @@
 layout: post
 title: "El contenido ya no es el solista: 8 claves para analizar la experiencia
   de usuario de un proyecto periodístico"
-author:
-  name: Cristian R. Marín
-  twitter: crms74
-  bio: Profesor coordinador de Proyectos  
-  image: crms.webp
-  link: https://twitter.com/crms74
+author: marin
+categories:
+  - audiencias
+image: /images/001/ux_contenido_periodismo_1.jpeg
 ---
 Durante siglos, la industria periodística experimentó las ventajas de tener productos casi imperecederos que sobrevivían a sectores completos, como el del transporte o la tecnología. El periódico y la revista empaquetaban ―y siguen empaquetando― contenido cuya calidad y enfoque marcaban la diferencia. El diseño visual, la capacidad de escritura de quien firmaba, su prestigio, el uso de las fuentes o, simplemente, qué se contaba, eran métricas clave para el éxito, que a su vez se medía en ejemplares vendidos. 
 

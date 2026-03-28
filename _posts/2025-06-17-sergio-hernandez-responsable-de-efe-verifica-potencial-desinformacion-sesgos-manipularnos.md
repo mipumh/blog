@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Sergio Hernández, responsable de EFE Verifica: “Como el potencial de la desinformación muchas veces son nuestros sesgos, hace falta poco para manipularnos”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/sergio-efe.jpeg
 ---
 **[EFE Verifica](https://verifica.efe.com/que-es-efe-verifica/)** surge en la agencia pública de noticias española en 2019, con el objetivo de luchar contra la creciente desinformación. En 2020 obtiene  la certificación de la International **[Fact-Checking Network (IFCN) del Instituto Poynter](https://agenciaefe.es/efe-verifica-entra-en-la-international-fact-checking-network-la-principal-red-de-verificadores-del-mundo/)**, que reúne a los principales verificadores a nivel mundial. En 2024 se integra en la red europea de verificadores **[European Fact-Checking Standards Network](https://efcsn.com/)** (EFCSN). Su responsable, Sergio Hernández (Palma de Mallorca, 1976), es licenciado en Ciencias de la Información y experto en Comunicación y Arte por la Universidad Complutense. Cuenta con una amplia experiencia profesional en prensa, radio y televisión. En esta entrevista conversamos sobre el trabajo de **EFE Verifica** y los retos de la creciente desinformación.
 

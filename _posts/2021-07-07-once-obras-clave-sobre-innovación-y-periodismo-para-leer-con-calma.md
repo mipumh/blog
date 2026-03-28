@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Once obras clave sobre innovación y periodismo para leer con calma"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/libros_innovacion.jpg
 ---
 Abordan el periodismo de datos, la Inteligencia Artificial, la transformación de las audiencias, la ética, la desinformación o la innovación en los formatos y las narrativas. Se trata de obras corales, elaboradas colectivamente, que aportan una mirada global o fijan el foco en zonas concretas como Latinoamérica, Europa o Estados Unidos. Estos once libros -fruto de una selección muy personal- representan el estado del arte en la investigación sobre la innovación periodística durante el último año. ¡Que disfrutes de su lectura este verano!
 

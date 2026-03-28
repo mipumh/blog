@@ -2,13 +2,10 @@
 layout: post
 title: BBC Taster&#58 la mesa de pruebas de la innovación periodística
 excerpt: "Prueba, valora y comparte. Con esas tres acciones se presenta BBC Taster, la punta del iceberg de su laboratorio de innovación. Esta iniciativa, que cumple ahora un año y medio de vida, está pensada para que cualquier usuario pueda trastear y evaluar los últimos experimentos en productos interactivos y sociales."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - industria
+image: /images/shots/bbctaster0.jpg
 ---
 Prueba, valora y comparte. Con esas tres acciones se presenta [BBC Taster](http://www.bbc.co.uk/taster/), la punta del iceberg de su [laboratorio de innovación](http://bbcnewslabs.co.uk/). Esta iniciativa, que [cumple ahora un año y medio de vida](http://www.digitalspy.com/tech/internet/feature/a624289/bbc-taster-what-we-know-so-far-about-the-beebs-new-experimental-project/), está pensada para que cualquier usuario pueda trastear y evaluar los últimos experimentos en productos interactivos y sociales.
 

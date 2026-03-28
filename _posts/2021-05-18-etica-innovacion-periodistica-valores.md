@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "La ética de la innovación periodística: fines, procedimientos y valores"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/ethics-ji.jpg
 ---
 La ética de la innovación puede convertirse en un valor estratégico para las empresas de comunicación, que contribuya a superar la crisis generada por la incertidumbre sobre el modelo de negocio, la pérdida de confianza por parte de los lectores o el incremento de la desinformación. **No podemos entender un periodismo innovador que no sea ético. Y para ello, debemos tener en cuenta la ética de los fines (¿Para qué lo hago?), de los procedimientos (¿Cómo lo hago?) y de los valores (por qué lo hago).** En este artículo reflexionamos sobre estas cuestiones que marcarán el escenario del periodismo en los próximos años.
 

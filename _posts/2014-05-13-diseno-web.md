@@ -2,13 +2,10 @@
 layout: post
 title: Cuestiones importantes a la hora de diseñar una web
 excerpt: "Cuando nos enfrentemos al reto de diseñar una web, ya se trate de llevar a cabo la ejecución nosotros mismos o de encargar su desarrollo a un experto, lo primero que debemos preguntarnos es qué objetivos queremos alcanzar con nuestra página."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora de Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

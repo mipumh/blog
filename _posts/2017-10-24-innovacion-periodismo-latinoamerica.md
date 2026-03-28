@@ -2,13 +2,10 @@
 layout: post
 title: Innovación periodística en Latinoamérica&#58 una mirada arbitraria y parcial, pero alentadora
 excerpt: "Este artículo podría partir con una obviedad del tipo 'en los últimos veinte años el periodismo ha cambiado drásticamente'. En vez de eso prefiero constatar una situación. Dos situaciones, mejor dicho, relacionadas con lo que podríamos llamar “el periodismo sobre periodismo”: el metaperiodismo, una rama del oficio a la que le gusta mirarse el ombligo."
-author:
-  name: Patricio Conteras
-  twitter: pfcontrerasv
-  gplus:  
-  bio: Editor de Puroperiodismo
-  image: contreras.webp
-  link: https://twitter.com/pfcontrerasv
+author: Patricio Conteras
+categories:
+  - tecnologia
+image: /images/shots/latampa_0.jpg
 ---
 Este artículo podría partir con una obviedad del tipo "en los últimos veinte años el periodismo ha cambiado drásticamente". En vez de eso prefiero constatar una situación. Dos situaciones, mejor dicho, relacionadas con lo que podríamos llamar “el periodismo sobre periodismo”: el metaperiodismo, una rama del oficio a la que le gusta mirarse el ombligo. 
 

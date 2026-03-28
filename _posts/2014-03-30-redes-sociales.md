@@ -3,13 +3,10 @@ published: true
 layout: post
 title: Si ya somos infinitos en internet, ¿para qué un módulo de redes sociales en el MIP?
 excerpt: "¿Cuántas veces has consultado opiniones sobre un restaurante mientras Google Maps te lleva de vacaciones? ¿Qué red social usas inmediatamente después de tomar la foto espectacular con tus amigos en un chiringuito? ¿Sientes curiosidad por páginas visitan tus contactos de Facebook, hasta que las pruebas? ¿Algún amigo entra en su Facebook o consulta el correo mientras habla contigo? Seguramente habrás respondido sí a casi todas. La causa está en internet: la socialización desde el móvil nos ha hecho ubicuos e infinitos."
-author:
-  name: Fátima Navarro
-  twitter: fnmaillo
-  gplus: 104394152817479105314 
-  bio: Coordinadora Redes Sociales
-  image: fn.webp
-  link: https://twitter.com/fnmaillo
+author: Fátima Navarro
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

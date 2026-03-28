@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Diez libros sobre periodismo, comunicación e innovación
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/lo-imprevisible.jpg
 ---
 Seleccionamos una serie de lecturas estivales. Se trata de libros publicados en los últimos meses que abarcan aspectos muy relevantes para quienes deseen formarse en el ámbito de la innovación periodística y la comunicación. Esperamos que os gusten. ¡Feliz verano!
 

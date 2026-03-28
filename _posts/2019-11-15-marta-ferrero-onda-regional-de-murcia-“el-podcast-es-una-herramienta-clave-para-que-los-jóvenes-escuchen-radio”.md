@@ -3,13 +3,10 @@ layout: post
 title: >-
   Marta Ferrero (Onda Regional de Murcia): “El podcast es una herramienta clave
   para que los jóvenes escuchen radio”
-author:
-  name: Marina Cantó
-  twitter: marinaCL7
-  gplus:  
-  bio: Estudiante Periodismo UMH
-  image: marina.png
-  link: https://twitter.com/marinaCL7
+author: Marina Cantó
+categories:
+  - tecnologia
+image: /images/shots/marta-ferrero.jpg "Marta Ferrero, periodista en Onda Regional, durante las Jornadas de Innovación en Periodismo en la Universidad Miguel Hernández de Elche (Marina Cantó
 ---
 [Marta Ferrero](https://twitter.com/MFerreroB) (Murcia, 1978) lleva más de 23 años ejerciendo como periodista en [Onda Regional de Murcia](https://www.orm.es/), donde ha desarrollado funciones de redactora, productora, responsable de contenidos de la página web o locutora, entre otros. Actualmente, entre otros cometidos, es la creadora y coordinadora de un programa sobre divulgación científica dirigido al público juvenil que se llama [Reacción en Cadena](https://www.orm.es/eorm/reaccionencadena/) y se emite los lunes de 22:00 a 23:00 y los sábados de 15:00 a 16:00. El ansia por saber siempre le ha llevado a compaginar su vida laboral con diferentes cursos e incluso dos másteres: un Máster de Formación del Profesorado y el Máster en Innovación en Periodismo que estudió en la Universidad Miguel Hernández de Elche. Recientemente, Marta Ferrero ha participado en las [XV Jornadas Internacionales de Innovación en Periodismo ](https://periodismo.umh.es/2019/10/17/jornadas-internacionales-de-periodismo-ciencia-y-periodismo/)de la UMH, dedicadas a la divulgación científica.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Innovación periodística en Italia: el panorama mediático se revoluciona"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/will-media-reunión.jpg
 ---
 Una hornada de iniciativas periodísticas innovadoras aporta frescura en Italia. Conforme madura el ecosistema mediático digital, surgen oportunidades para experimentar y lanzar proyectos muy interesantes, como Will Media, el pódcast Stories, Linkiesta y Geopop. Estas startups, con un propósito claro y fuerte presencia en las redes sociales, ya empiezan a plantar cara a los *legacy* media y a las ofertas mediáticas tradicionales.
 

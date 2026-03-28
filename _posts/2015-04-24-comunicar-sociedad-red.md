@@ -2,13 +2,9 @@
 layout: post
 title: En la Sociedad Red, el "medio es la red" y el "mensaje son los usuarios"
 excerpt: "Manuel Castells ha subrayado que internet se ha convertido en el medio y en la forma organizativa de la sociedad contemporánea, en parte integral de nuestra vida diaria. Internet se configura como el medio de medios donde encuentran cabida todos los medios anteriores, reinventados y adaptados. Las redes inciden en el modo en que pensamos, experimentamos, producimos y consumimos los medios online; influyen en cómo nos relacionamos con los amigos, colegas, familiares y la sociedad. Como argumento en el libro Comunicar en la Sociedad Red, en el nuevo ecosistema mediático, el medio es la red y el mensaje son los usuarios."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
 ---
 Manuel Castells ha subrayado que [internet se ha convertido en el medio y en la forma organizativa de la sociedad contemporánea](http://www.uoc.edu/web/cat/articles/castells/castellsmain2.html ), en parte integral de nuestra vida diaria. Internet se configura como el “medio de medios” donde encuentran cabida todos los medios anteriores, reinventados y adaptados. Las redes inciden en el modo en que pensamos, experimentamos, producimos y consumimos los medios online; influyen en cómo nos relacionamos con los amigos, colegas, familiares y la sociedad. Como argumento en el libro ["Comunicar en la Sociedad Red"](http://www.editorialuoc.cat/comunicarenlasociedadred-p-1672.html?cPath=1), en el nuevo ecosistema mediático, **"el medio es la red y el mensaje son los usuarios"**.
 

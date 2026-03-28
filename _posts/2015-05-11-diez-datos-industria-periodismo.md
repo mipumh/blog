@@ -2,13 +2,9 @@
 layout: post
 title: Diez claves de la industria periodística en Estados Unidos que debes conocer
 excerpt: "Si no anticipamos el futuro, no podremos construir ninguno, dice Jeff Jarvis en la introducción de su último libro Geeks bearing gifts. La anticipación es básica en cualquier estratega: debe reconocer las tendencias, obtener datos sobre lo que ocurre en entornos similares y comprender cómo la tecnología está afectando al producto que desarrolla. En lo que llevamos de 2015 podemos identificar diez datos que afectan a la realidad del periodismo y de la industria que lo financia y que merece la pena conocer antes de lanzar o renovar un proyecto periodístico."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
 ---
 _Si no anticipamos el futuro, no podremos construir ninguno_, dice **Jeff Jarvis** en la introducción de su último libro [Geeks bearing gifts](https://medium.com/geeks-bearing-gifts/new-relationships-forms-and-models-for-news-92ef9fd4758b). La anticipación es básica en cualquier estratega: debe reconocer las tendencias, obtener datos sobre lo que ocurre en entornos similares (como Estados Unidos) y comprender cómo la tecnología está afectando al producto que desarrolla. En lo que llevamos de 2015 podemos identificar **diez claves** que afectan a la industria que financia el periodismo y que merece la pena conocer **antes de lanzar o renovar un proyecto periodístico**.
 

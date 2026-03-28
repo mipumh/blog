@@ -2,13 +2,10 @@
 layout: post
 title: Julio Alonso, fundador de WeblogsSL&#58 "El secreto del éxito tiene que ver con tomarnos en serio las pasiones de la audiencia"
 excerpt: "Con más de 40 cabeceras, WeblogsSL es el principal grupo de medios digitales especializados en España. Su fundador y Director General, Julio Alonso, ha apostado por la calidad de los productos informativos desde su fundación en 2005. Además, es autor del blog Merodeando en el que trata temas como internet, los blogs, la publicidad online, la analítica web, la evolución digital y el activismo en la Red. Durante seis años ha formado parte de la lista de El Mundo de las 25 personas más influyentes en internet en España."
-author:
-  name: Mari Carmen Borrull
-  twitter: mamenbor
-  gplus:  
-  bio: Periodismo UMH
-  image: mabor.webp
-  link: https://twitter.com/mamenbor
+author: Mari Carmen Borrull
+categories:
+  - industria
+image: /images/shots/jalonso1.jpg
 ---
 Con más de 40 cabeceras y más de [50 millones de usuarios en septiembre](https://www.weblogssl.com/trafico-wsl-de-septiembre-2016-superando-los-50-millones-de-usuarios-unicos/), [WeblogsSL](https://www.weblogssl.com/) es el principal grupo de medios digitales especializados en España. Su fundador y director general, [Julio Alonso](https://twitter.com/JulioAlonso), ha apostado por la calidad de los productos informativos desde su fundación en 2005. Además, es autor del blog [Merodeando](http://www.merodeando.com/) en el que trata temas como internet, los blogs, la publicidad online, la analítica web, la evolución digital y el activismo en la red. Durante seis años ha formado parte de la lista de El Mundo de las [25 personas más influyentes en internet en España](http://www.gurusblog.com/archives/los-tops-25-mas-influyentes-de-internet-en-espana/06/01/2014/). 
 

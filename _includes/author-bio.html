@@ -1,0 +1,28 @@
+{% assign author = include.author %}
+{% assign author_slug = include.author_slug %}
+
+<div class="author-bio">
+  {% if author.avatar %}
+  <img src="{{ site.baseurl }}{{ author.avatar }}" alt="{{ author.name }}"
+       class="avatar avatar--lg" width="64" height="64" loading="lazy">
+  {% endif %}
+  <div class="author-bio__info">
+    <p class="author-bio__name">
+      {% if author_slug %}
+      <a href="{{ site.baseurl }}/authors/{{ author_slug }}/">{{ author.name }}</a>
+      {% else %}
+      {{ author.name }}
+      {% endif %}
+    </p>
+    {% if author.role %}
+    <p class="author-bio__role">{{ author.role }}</p>
+    {% endif %}
+    {% if author.bio %}
+    <p class="author-bio__text">{{ author.bio }}</p>
+    {% endif %}
+    {% if author.twitter %}
+    <a href="https://twitter.com/{{ author.twitter }}" class="author-bio__social"
+       target="_blank" rel="noopener">@{{ author.twitter }}</a>
+    {% endif %}
+  </div>
+</div>

@@ -3,13 +3,10 @@ layout: post
 title: WordPress, no solo un blog 
 subtitle: "Una herramienta basada en código abierto que permite desarrollar múltiples sitios orientados a la gestión de contenidos"
 excerpt: "Cuando se habla de WordPress, normalmente se piensa en un blog, pero como señala el profesor del Máster de Innovación en Periodismo *Miguel Onofre*, esta herramienta es mucho más que eso. Wordpress es la plataforma para la gestión de contenidos web más usada en el mundo. Además, su desarrollo se basa en código abierto, es decir, es gratis y puede ser usada sin ningún tipo de restricción. ."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora de Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - el-master
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

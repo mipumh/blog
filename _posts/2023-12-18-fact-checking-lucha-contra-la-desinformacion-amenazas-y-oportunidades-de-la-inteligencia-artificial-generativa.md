@@ -2,13 +2,10 @@
 layout: post
 title: "Retos del fact-checking y la lucha contra la desinformación: amenazas y
   oportunidades de la inteligencia artificial generativa"
-author:
-  name: Miguel Crespo
-  twitter: mask1967
-  gplus:  
-  bio: Investigador del ISCTE-IUL (Portugal)
-  image: mask1967.jpeg
-  link: https://twitter.com/mask1967
+author: Miguel Crespo
+categories:
+  - tecnologia
+image: /images/001/desinf-.jpg
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *fact-checking y desinformación*.
 

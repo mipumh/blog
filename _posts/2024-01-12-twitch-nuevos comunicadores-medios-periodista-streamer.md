@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Twitch, nuevos comunicadores y medios: radiografía del periodista-streamer"
-author:
-  name: Dámaso Mondéjar
-  twitter: Monde97
-  gplus:  
-  bio: Doctorado UMH
-  image: monde97.webp
-  link: https://twitter.com/Monde97
+author: mondejar
+categories:
+  - tecnologia
+image: /images/001/streamers.png
 ---
 La relación entre el periodismo y las plataformas tecnológicas ha sido compleja desde sus inicios. Cuando las mentes de las *big tech* engendraban los primeros esbozos de lo que en el futuro sería Facebook, Twitter (ahora X) y YouTube, los medios de comunicación todavía nadaban en las calmadas aguas del monopolio de la atención. Con el paso del tiempo se ha constatado una dicotomía:[ las plataformas son amigas y enemigas al mismo tiempo](https://www.cjr.org/tow_center_reports/platforms-and-publishers-end-of-an-era.php). A la vista está esa necesidad de los medios de estar donde está el público y, a su vez, el riesgo de caer en la irrelevancia ante la altísima competitividad del entorno digital.
 

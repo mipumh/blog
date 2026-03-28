@@ -2,13 +2,10 @@
 layout: post
 title: Ideas y proyectos nacidos en un máster (II)
 excerpt: "Cada año, y con éste van dos, lanzamos el reto de innovar en periodismo, una propuesta estimulante con la que pretendemos aportar al sector de la comunicación digital ideas y proyectos que se adapten a las nuevas exigencias profesionales y tengan cabida en un mercado cada vez más exigente."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - redaccion
+image: /images/Perfiles_MIP/TFMblog2.jpg "Alumnos del MIP"
 ---
 Cada año, y con éste van dos, lanzamos el reto de innovar en periodismo, una propuesta estimulante con la que pretendemos aportar al sector de la comunicación digital ideas y proyectos que se adapten a las nuevas exigencias profesionales y tengan cabida en un mercado cada vez más exigente. 
 

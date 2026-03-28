@@ -2,13 +2,10 @@
 layout: post
 title: Cómo y por qué es más importante que nunca hacer periodismo en la era de
   las emociones
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus:  
-  bio: Profesora Titular en Periodismo UMH
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo  
+author: de-lara
+categories:
+  - tecnologia
+image: /images/001/carles-rius.jpg
 ---
 **[Josep Carles Rius ha sido decano del Colegio de Periodistas de Cataluña](https://cic.periodistes.cat/es/que-es-cic/miembros-de-cic/presidente/roger-jimenez/)** (2007-2010) y es autor de *Periodismo en reconstrucción* (Universidad de Barcelona, 2016). Ha ejercido durante 25 años como profesor de Periodismo en la Universidad Autónoma de Barcelona. En su amplia faceta profesional, ha sido subdirector de La Vanguardia, redactor en El Noticiero Universal, redactor jefe en El Periódico de Catalunya y director del diario Público en Catalunya. Ha trabajado en TVE, ha sido comentarista en la cadena SER y colabora en Diari de Tarragona. Ha impulsado y preside la **[Fundación Periodismo Plural](https://fundacioperiodismeplural.cat/index.php/contacte/)**, entidad sin ánimo de lucro dedicada al periodismo en Cataluña. En este artículo reseñamos el libro de Josep Carles Rius *Periodismo y democracia en la era de las emociones.*
 

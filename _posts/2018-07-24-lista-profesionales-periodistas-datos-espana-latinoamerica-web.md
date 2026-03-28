@@ -2,13 +2,9 @@
 layout: post
 title: Periodistas de datos, una lista para registrarlos a todos
 excerpt: "Todo comenzó con una pregunta mental: ¿cómo puedo localizar a los periodistas de datos en España? Un primer rastreo me proporcionó alguna lista de Twitter, un grupo de trabajo en Meetup y algún artículo científico exploratorio. Las incógnitas se multiplicaron: ¿faltan nombres? ¿Están actualizados? ¿Hay forma de ponerse en contacto con ellos?."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - narrativas
 ---
 Todo comenzó con una pregunta mental: ¿cómo puedo localizar a los periodistas de datos en España? Un primer rastreo me proporcionó alguna [lista de Twitter](https://twitter.com/calvoesperanza/lists/periodismo-de-datos/members), un [grupo de trabajo en Meetup](https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/) y algún [artículo científico exploratorio](https://revistas.ucm.es/index.php/ESMP/article/viewFile/52594/48347). Las incógnitas se multiplicaron: ¿faltan nombres? ¿Están actualizados? ¿Hay forma de ponerse en contacto con ellos?
 

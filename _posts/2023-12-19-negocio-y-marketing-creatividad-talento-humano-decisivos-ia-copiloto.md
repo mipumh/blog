@@ -2,12 +2,10 @@
 layout: post
 title: "Negocio y marketing: La creatividad y el talento humano serán decisivos,
   con la IA de copiloto"
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - tecnologia
+image: /images/001/negocio-1.jpg
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *negocio y marketing*.
 

@@ -3,13 +3,10 @@ published: true
 layout: post
 title: ¿Puede Anonymous ser una amenaza para los asesinos de Charlie Hebdo?
 excerpt: "Estos días el mundo tiembla tras el terrible asesinato de ocho periodistas del diario francés Charlie Hebdo, varios policías y ciudadanos. Las viñetas de Mahoma que provocaron la ira entre los extremistas y terroristas musulmanes han dado la vuelta al mundo. A pesar del cruel varapalo a la libertad de expresión, no han sido los grandes medios de comunicación quienes más se han hecho eco de estas imágenes –con algunas excepciones-, sino cabeceras menores, páginas personales y cuentas sociales que consideraron esta publicación como una “muestra de solidaridad” con la revista gala y demás víctimas."
-author:
-  name: Fátima Navarro
-  twitter: fnmaillo
-  gplus: 104394152817479105314 
-  bio: Coordinadora Redes Sociales
-  image: fn.webp
-  link: https://twitter.com/fnmaillo
+author: Fátima Navarro
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

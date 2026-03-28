@@ -2,13 +2,10 @@
 layout: post
 title: 'Una brújula para la innovación periodística: "Inovação nas Indústrias
   Criativas” '
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/001/criativas.jpg
 ---
 **[Inovação nas Indústrias Criativas: Tendências e Labs Para Reinventar a Mídia e os Negócios](https://altabooks.com.br/produto/inovacao-nas-industrias-criativas/)** no es simplemente un libro sobre el futuro del periodismo; es una brújula intelectual para quienes se enfrentan al reto de innovar en un ecosistema mediático en constante transformación. Publicada por las investigadoras brasileñas **Ana Cecilia Bisso Nunes y Ana Marta M. Flores**, esta obra ofrece una guía práctica y esperanzadora, demostrando que la innovación no es un lujo, sino una necesidad vital para la supervivencia y la relevancia del periodismo.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: 24 recursos para seguir las tendencias y la innovación en periodismo
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/webs.jpg
 ---
 Cada inicio de curso, muchos profesionales y estudiantes me preguntan cómo mantenerse al día sobre la transformación de los medios de comunicación y la innovación periodística. En nuestro [Máster en Innovación en Periodismo](http://mip.umh.es/) hacemos un seguimiento de numerosas fuentes y centros de investigación que abordan los cambios en el sector. Este proceso exige un enfoque multidisciplinar acerca de las principales vertientes de cualquier proyecto periodístico: contenidos, servicios, tecnologías, procesos de producción y distribución, audiencias y modelos de negocio. Selecciono 24 recursos, newsletters y pódcasts en castellano e inglés, para ayudarte a crear tu propio “radar de tendencias”.
 

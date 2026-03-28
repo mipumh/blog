@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Qué podemos aprender de los medios más innovadores
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/shots/innovation-medios.jpg
 ---
 Innovar resulta esencial para la supervivencia de los medios de comunicación en un contexto marcado por el cambio constante, especialmente tras el impacto de la COVID-19. Cambian no solo las tecnologías, sino los productos, la organización de las redacciones, los hábitos de consumo y la forma en que las audiencias se relacionan con los medios. Las profundas transformaciones en el sector permiten que las empresas puedan innovar a partir de las necesidades detectadas. En este artículo analizamos tres casos de medios iberoamericanos que incorporan la innovación en su ADN para solucionar problemas concretos: Nexo Jornal (Brasil), El Observador (Uruguay) y Pictoline (México).
 

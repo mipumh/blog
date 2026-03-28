@@ -2,13 +2,10 @@
 layout: post
 title: Todos a por las fake news (o noticias falsas, bulos, mentiras…)
 excerpt: "Se crean para difamar, ensalzar, despistar, convencer o hasta para divertir (como esta broma en forma de chat). Se difunden por interés, ignorancia, fanatismo o, a menudo, por simple dejadez. A veces tienen varias vidas. Y pueden remover emociones, carteras e incluso votos."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

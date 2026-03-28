@@ -1,13 +1,10 @@
 ---
 layout: post
 title: ¿Hacia dónde van los labs de medios? La alternativa es transformación o cierre
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/001/media-lab.jpg
 ---
 Durante la última década, [los medios europeos han recurrido cada vez más a los laboratorios de medios](https://mip.umh.es/blog/2023/01/24/media-labs-de-segunda-generacion-aceleradores-de-innovacion-perioditica/) para afrontar el acelerado cambio tecnológico, la transformación de los hábitos de la audiencia y las crecientes presiones económicas. Un equipo de investigación en el que participo, con colegas de seis países, hemos publicado en la revista *Journalism Studies* el artículo «[Sandbox Journalism: The Role of Media Labs as Innovation Drivers in European News Organisations](https://www.tandfonline.com/doi/full/10.1080/1461670X.2025.2594650)» (*Periodismo sandbox: la función de los laboratorios de medios como motores de innovación en las organizaciones de noticias europeas*), que puede descargarse gratuitamente. Aquí comparto las claves de la investigación .y las incógnitas sobre su futuro.
 

@@ -2,12 +2,10 @@
 layout: post
 title: "Abrimos la VI edición del Premio Vicente Verdú de Periodismo e Innovación"
 subtitle: El certamen, impulsado por la Asociación de Informadores de Elche, con el patrocinio del Ayuntamiento y la Universidad Miguel Hernández, está dotado con 6.000 euros y el plazo se cierra el 8 de marzo
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - el-master
+image: /images/001/quinta_verdu.jpg
 ---
 La Asociación de Informadores de Elche (AIE) convoca [la sexta edición del Premio Vicente Verdú de Periodismo e Innovación](https://informadoreselche.com/premio-vicente-verdu/), en colaboración con el Ayuntamiento ilicitano y la **Universidad Miguel Hernández de Elche (UMH)**, a través de nuestro Máster. La finalidad del galardón, con el que la AIE homenajea al destacado periodista, escritor y pintor ilicitano **Vicente Verdú**, es reconocer e incentivar —en una época de profundos cambios en el periodismo— la búsqueda de la **innovación** que ayude a contar mejor las historias.
 

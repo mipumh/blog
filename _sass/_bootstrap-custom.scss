@@ -1,0 +1,44 @@
+// ==========================================================================
+// Bootstrap 5 — Selective Imports
+// ==========================================================================
+// Import only the Bootstrap modules an editorial site actually needs.
+// Full Bootstrap 5 CSS: ~499KB. This selective approach: ~40-60KB before
+// PurgeCSS, ~15-20KB after. Reference: renove/performance.md
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// Required core (must be in this order)
+// --------------------------------------------------------------------------
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/variables-dark";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/root";
+@import "bootstrap/scss/utilities";
+
+// --------------------------------------------------------------------------
+// Layout essentials
+// --------------------------------------------------------------------------
+@import "bootstrap/scss/reboot";
+@import "bootstrap/scss/type";
+@import "bootstrap/scss/containers";
+@import "bootstrap/scss/grid";
+
+// --------------------------------------------------------------------------
+// Navigation (desktop nav + mobile collapse)
+// --------------------------------------------------------------------------
+@import "bootstrap/scss/nav";
+@import "bootstrap/scss/navbar";
+@import "bootstrap/scss/transitions";
+
+// --------------------------------------------------------------------------
+// Components used in the editorial design
+// --------------------------------------------------------------------------
+@import "bootstrap/scss/buttons";
+@import "bootstrap/scss/pagination";
+
+// --------------------------------------------------------------------------
+// Generate only needed utility classes
+// --------------------------------------------------------------------------
+@import "bootstrap/scss/utilities/api";

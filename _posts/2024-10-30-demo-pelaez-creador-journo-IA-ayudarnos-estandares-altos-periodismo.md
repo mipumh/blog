@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Demo Peláez, creador de Journo: ”La IA debe ayudarnos a llegar a estándares más altos de periodismo”"
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/001/journo_0.jpg
 ---
 ![image alt text]({{ site.baseurl }}/images/001/journo_0.jpg)
 

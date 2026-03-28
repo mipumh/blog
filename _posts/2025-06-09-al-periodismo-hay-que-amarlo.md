@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Al periodismo hay que amarlo
-author: 
-  name: Jose A González Alba
-  twitter: jagonzalezalba
-  gplus:  
-  bio: Coordinador de SembraMedia
-  image: gonzalez_alba.jpg
-  link: https://twitter.com/jagonzalezalba
+author: Jose A González Alba
+categories:
+  - tecnologia
+image: /images/001/portada-aguilas-y-colibries-2025.jpg
 ---
 “Solo los periodistas enamorados salvarán el periodismo”. No se me ocurre mejor *claim* para que cualquier periodista, estudiante, profesional de la industria de los medios… se pare, observe y de inmediato adquiera ese libro en cuya portada aparece de manera destacada dicha llamada de atención. Desconozco si José Alberto García Avilés contrató alguna empresa de renombre especializada en marketing para dicha llamada, pero en caso de no hacerlo, creo que podemos afirmar que este perfecto resumen de su trabajo le ha ahorrado una importante inversión económica.
 

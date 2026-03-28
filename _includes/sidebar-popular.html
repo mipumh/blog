@@ -1,0 +1,14 @@
+<div class="sidebar-block">
+  <h3 class="sidebar-label">Lo mas leido</h3>
+  <ol class="popular-list" role="list">
+    {% assign popular = site.posts | sort: "popular" | reverse | slice: 0, 5 %}
+    {% for post in popular %}
+    {% if post.popular and post.popular > 0 %}
+    <li class="popular-item">
+      <span class="popular-rank" aria-hidden="true">{{ forloop.index }}</span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ol>
+</div>

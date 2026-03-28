@@ -2,13 +2,10 @@
 layout: post
 title: Idea-Diseña-Emprende. Once proyectos que merecen un título de Máster como éste
 excerpt: "A medio camino entre la emoción y los nervios, así afrontan los alumnos del Máster en Innovación en Periodismo el Demo Day, o lo que es lo mismo, la última jornada del curso que culmina con un ejercicio práctico en el que defienden sus proyectos innovadores en cinco minutos ante un grupo de profesionales. En esta ocasión, presidido por Ana Ormaechea, Founder&CEO de Cuonda y Partner de Prodigioso Volcán."
-author:
-  name: María Montesinos
-  twitter: MeryCina
-  gplus:  
-  bio: Periodista (MIP' 17)
-  image: montesinos.webp
-  link: https://twitter.com/MeryCina
+author: María Montesinos
+categories:
+  - el-master
+image: /images/shots/demoday20170.jpg
 ---
 A medio camino entre la **emoción y los nervios**, así afrontan los alumnos del Máster en Innovación en Periodismo el Demo Day, o lo que es lo mismo, la **última jornada del curso** que culmina con un ejercicio práctico en el que **defienden sus proyectos innovadores** en cinco minutos ante un grupo de profesionales. En esta ocasión, presidido por [Ana Ormaechea](https://twitter.com/aormaechea?lang=es), Founder&CEO de [Cuonda](http://www.cuonda.com/) y Partner de [Prodigioso Volcán](http://www.prodigiosovolcan.com/). 
 

@@ -3,13 +3,10 @@ layout: post
 title: "Beatriz Lizarraga (Jefa de Proyectos Digitales, ABC): “No preveo grandes
   desarrollos blockchain a corto plazo en medios establecidos. Sí pequeñas
   pruebas de concepto para investigar”"
-author:  
-  name: Chema Valero 
-  twitter: josvap
-  gplus:  
-  bio: Profesor del Máster
-  image: chema.webp
-  link: https://twitter.com/josvap
+author: valero
+categories:
+  - industria
+image: /images/001/1000030341.jpg
 ---
 La conversación sobre blockchain en los medios sigue siendo muy limitada, y sus adeptos llevan años oscilando entre el entusiasmo por [las amplias posibilidades que se vislumbran para el periodismo](https://mip.umh.es/blog/2019/03/27/como-puede-afectar-blockchain-periodismo/) y la cautela ante unos cambios que no acaban de llegar. En este pequeño grupo se encuentra Beatriz Lizarraga, jefa de Proyectos Digitales e Innovación en ABC. Su trabajo implica conectar el negocio y la tecnología para identificar necesidades específicas en el ámbito digital. Además, coordina iniciativas innovadoras y explora tendencias que abran nuevas posibilidades de negocio, como la tokenización de activos, materia en la que es experta.
 

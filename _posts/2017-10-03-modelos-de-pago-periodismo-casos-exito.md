@@ -2,13 +2,10 @@
 layout: post
 title: El auge de los modelos de pago en el periodismo&#58 ¿Por qué a ellos sí les funciona?
 excerpt: "The Washington Post. El diario de Bezos se acerca a los 1,27 millones de The Wall Street Journal; ambos lejos de los 2,3 millones de The New York Times. También Los Ángeles Times y The Boston Globe, a pesar de los recortes en plantilla durante la última década, rondan ya los 100.000 suscriptores digitales. El goteo de este tipo de noticias me ha generado una pregunta: ¿Por qué a algunos sí les funciona el modelo de pago y consiguen suscriptores?."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
+image: /images/shots/datoscircul.jpg
 ---
 **The Washington Post** [ha superado el millón de suscriptores digitales](http://money.cnn.com/2017/09/26/media/washington-post-digital-subscriptions/). El diario de Bezos se acerca a los 1,27 millones de **The Wall Street Journal**; ambos lejos de los 2,3 millones de **The New York Times**. También **Los Ángeles Times** y **The Boston Globe**, a pesar de los recortes en plantilla durante la última década, rondan ya los 100.000 suscriptores digitales. El goteo de este tipo de noticias me ha generado una pregunta: ¿Por qué a algunos sí les funciona el modelo de pago y consiguen suscriptores?
 

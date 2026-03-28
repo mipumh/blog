@@ -2,15 +2,11 @@
 layout: post
 title: "Antonio Delgado (Datadista, Weblogs SL)&#58 'Queremos centrarnos en lo importante y no generar ruido'"
 excerpt: "Antonio Delgado es referente de la prensa digital en español y pionero del periodismo de datos en nuestro país. Ha creado, junto a Ana Tudela, Datadista, un proyecto periodístico basado en la investigación, análisis y explicación de la actualidad. Además, Delgado forma parte de Weblogs SL, el principal grupo de medios digitales especializados en español. Imparte clases en el módulo de nuevas narrativas del Máster de Innovación en Periodismo."
-author:
-  name: Mari Carmen Borrull
-  twitter: mamenbor
-  gplus:  
-  bio: Periodismo UMH
-  image: mabor.webp
-  link: https://twitter.com/mamenbor
+author: Mari Carmen Borrull
+categories:
+  - narrativas
+image: /images/shots/adelga_0.jpg
 ---
-
 [Antonio Delgado](https://twitter.com/adelgado) es referente de la prensa digital en español y pionero del periodismo de datos en nuestro país. Ha creado, junto a **Ana Tudela**, [Datadista](https://datadista.com/), un proyecto periodístico basado en la investigación, análisis y explicación de la actualidad. Además, Delgado forma parte de [Weblogs SL](https://www.weblogssl.com/), el principal grupo de medios digitales especializados en español. Imparte clases en el módulo de nuevas narrativas del Máster de Innovación en Periodismo.
 
 **Has lanzado junto a Ana Tudela la iniciativa Datadista, basada en el periodismo de datos. ¿Por qué apostáis por este tipo de periodismo?**

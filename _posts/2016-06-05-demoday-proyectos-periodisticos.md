@@ -2,13 +2,9 @@
 layout: post
 title: DemoDay, once proyectos periodísticos que valen un título de Máster
 excerpt: "La industria periodística necesita no solo creadores de contenidos, sino también periodistas que entiendan todas las fases del proceso, desde la ideación hasta el lanzamiento, pasando por el desarrollo de audiencia o la comercialización publicitaria. Con ese objetivo, nuestro alumnado afronta el proyecto fin de Máster, bien porque realmente quieren darse la oportunidad de emprender o bien para plasmar su aprendizaje y preparar su mejor carta de presentación. Así aprenden algunas de las habilidades y competencias más demandadas en la industria periodística."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - tecnologia
 ---
 La industria periodística necesita no solo creadores de contenidos, sino también **periodistas que entiendan todas las fases del proceso**, desde la ideación hasta el lanzamiento, pasando por el desarrollo de audiencia o la comercialización publicitaria. Con ese objetivo, nuestro alumnado afronta el proyecto fin de Máster, bien **porque realmente quieren darse la oportunidad de emprender o bien para plasmar su aprendizaje y preparar así su mejor carta de presentación**. De ese modo aprenden algunas de las habilidades y competencias más demandadas en la industria periodística. 
 

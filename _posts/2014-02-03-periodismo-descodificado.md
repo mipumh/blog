@@ -4,13 +4,10 @@ layout: post
 title: Periodismo descodificado
 subtitle: "El profesional de la información no tiene que ser un informático, pero sí debe conocer las herramientas y sus posibilidades expresivas"
 excerpt: "Code is everywhere. No se puede ignorar, pero sí se debe aprovechar. El lenguaje informático se encuentra en la esencia de cualquier aplicación digital y, por supuesto, de la innovación en los contenidos periodísticos. Ante esta realidad, hay quien considera que no se puede ser periodista sin programar y quien cree que se debe seguir ignorando esta revolución. La clave, como casi siempre, se encuentra en el término medio, en dominar sus bases y seguir la pista a las nuevas tendencias."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/cibermensaje
+author: arias
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

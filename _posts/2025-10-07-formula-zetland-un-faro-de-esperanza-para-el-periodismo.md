@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "La ‘fórmula Zetland’: Un faro de esperanza para el periodismo"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/001/zetland-team.jpg
 ---
 En un panorama mediático marcado por la fragilidad de los modelos de negocio y la crisis de confianza en los medios, [el caso de Zetland](https://www.zetland.dk/aboutzetland), nacido en Dinamarca en 2016 es una excepción luminosa. Contra todo pronóstico, este proyecto logró rentabilidad en apenas tres años, ha atraído a una audiencia joven y fiel, y ha exportado su modelo a Finlandia y Noruega. Una de las principales empresas de medios nórdicos, el grupo sueco **Bonnier News**, [acaba de anunciar](https://drive.google.com/file/d/1x8DroeMbQyh-8oL6N8QgTF4X5faA8mpx/view) la compra de Zetland.  ¿Cómo ha conseguido Zetland convertirse en referente? En este artículo desglosamos las razones del éxito y las claves que pueden inspirar.
 

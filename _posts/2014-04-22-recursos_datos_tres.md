@@ -2,13 +2,10 @@
 layout: post
 title: Recursos esenciales para el periodista de datos (3). La limpieza de la información
 excerpt: "El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. Los grandes proyectos requieren una importante inversión, pero unos conocimientos básicos, interés y herramientas relativamente sencillas permiten realizar trabajos de gran valor periodístico."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/cibermensaje
+author: arias
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

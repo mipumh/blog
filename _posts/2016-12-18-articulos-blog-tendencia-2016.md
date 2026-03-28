@@ -2,13 +2,9 @@
 layout: post
 title: Seleccionamos los artículos del blog que marcaron tendencia en 2016
 excerpt: "2016 ha sido un año intenso: hemos trabajado para mejorar la calidad de los contenidos del Máster, celebramos las XI Jornadas Internacionales de Innovación Mobile First, publicamos el libro Cómo innovar en Periodismo y lanzamos el XXIII Congreso Internacional de la Sociedad Española de Periodística que tendrá lugar en Elche en junio de 2017. También ha crecido la frecuencia y calidad de las publicaciones en el blog. Aquí tienes una selección de los artículos de este año."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
 ---
 2016 ha sido un año intenso: hemos trabajado para mejorar la calidad de los contenidos del Máster, celebramos las XI Jornadas Internacionales de Innovación **_Mobile First_**, publicamos el libro **Cómo innovar en Periodismo** y lanzamos el [XXIII Congreso Internacional de la Sociedad Española de Periodística](http://sep2017.umh.es/) que tendrá lugar en Elche en junio de 2017. También ha crecido la frecuencia y calidad de las publicaciones en el blog. Aquí tienes una selección de los artículos de este año. 
 

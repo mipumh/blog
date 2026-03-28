@@ -2,12 +2,10 @@
 layout: post
 title: En tiempos de incertidumbre para la industria, el periodismo deportivo
   tiene (muchas) respuestas
-author:
-  name: Cristian R. Marín
-  twitter: crms74
-  bio: Profesor coordinador de Proyectos  
-  image: crms.webp
-  link: https://twitter.com/crms74
+author: marin
+categories:
+  - industria
+image: /images/001/periodismo-deportivo-.png
 ---
 La industria periodística se enfrenta a su enésimo cambio de paradigma, en esta ocasión por los avances en materia de Inteligencia Artificial y su consecuencia más inmediata: la pérdida de tráfico de los medios.  ¿Lo superará? No hay duda, como ha ocurrido tantas veces hasta ahora. Las implicaciones no son únicamente publicitarias, sino de negocio, porque un menor número de páginas vistas también acarrea  consecuencias para los modelos de pago. Menos páginas vistas, menos relevancia para la marca, un embudo más reducido, mayor dificultad para conseguir suscriptores.  En este contexto, la especialización deportiva se consolida como una avanzadilla perfecta para entender qué hay más allá del horizonte. Por su capacidad para conectar con públicos masivos y de nicho, el papel de los hábitos, las pistas que ―siempre― deja el dinero y la capacidad de innovación que están demostrando muchos de sus actores.
 

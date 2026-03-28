@@ -2,13 +2,10 @@
 layout: post
 title: "Eva Belmonte (Civio): “Cuando cuento qué pasa con las ayudas públicas
   destinadas a la gente que más lo necesita, me siento útil como periodista”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/eva-belmonte.jpg
 ---
 **Eva Belmonte** (Elche, 1982) comenzó su andadura periodística en 2004 trabajando en El Mundo, tras licenciarse en la Universidad Autónoma de Barcelona. En 2012 se unió a la [Fundación Ciudadana Civio](https://civio.es/), de la que es directora. Además de ser experta en periodismo de análisis de datos, una de sus creaciones más sonadas es “[El BOE nuestro de cada día](https://civio.es/el-boe-nuestro-de-cada-dia/)”, en el que explica las decisiones más cruciales del gobierno en el Boletín Oficial del Estado. Su trayectoria también recoge la creación de “[Medicamentalia](https://medicamentalia.org/)” y “[El indultómetro](https://civio.es/el-indultometro/)”. En esta conversación, **Belmonte** habla de las investigaciones en profundidad y del periodismo de servicio público basado en el derecho a la información de los ciudadanos. La entrevista se realizó antes de la DANA que ha asolado Valencia.
 

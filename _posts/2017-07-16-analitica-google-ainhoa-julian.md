@@ -2,13 +2,10 @@
 layout: post
 title: Ainhoa Julián&#58 "La analítica web permite elaborar contenido que interese al usuario y lograr que un medio sea útil"
 excerpt: "Consumidor. Usuario. Cliente. Público. Distintas maneras de referirse a la la verdadera incógnita para medios y empresas en general: un sujeto tan individual como sus gustos. Por eso, Ainhoa Julián, consultora de marketing online y profesora del Máster de Innovación en Periodismo, subraya que la medición digital funciona como el sello de calidad para conocer si los contenidos que las empresas elaboran para sus usuarios funcionan correctamente."
-author:
-  name: Thais Peñalver
-  twitter: ThaisC21
-  gplus:  
-  bio: Periodismo UMH
-  image: thais.webp
-  link: https://twitter.com/ThaisC21
+author: Thais Peñalver
+categories:
+  - tecnologia
+image: /images/shots/ajulian0.jpg
 ---
 Consumidor. Usuario. Cliente. Público. Distintas maneras de referirse a la la verdadera incógnita para medios y empresas en general: un sujeto tan individual como sus gustos. Por eso, [Ainhoa Julián](http://ainhoajulian.com/), consultora de marketing online y profesora del Máster de Innovación en Periodismo, subraya que la medición digital funciona como el "sello de calidad" para conocer si los contenidos que las empresas elaboran para sus usuarios funcionan correctamente.
 

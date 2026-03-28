@@ -2,13 +2,10 @@
 layout: post
 title: Ismael Nafría&#58 "El análisis del New York Times ofrece muchas lecciones que los medios españoles pueden tener en cuenta"
 excerpt: "Ismael Nafría es periodista, consultor, profesor y conferenciante especializado en medios digitales. Tiene una larga trayectoria en radio y prensa digital, colabora en Lavanguardia.com y ha escrito varios libros relacionados con el periodismo y la comunicación digital. Recientemente ha publicado La reinvención del New York Times, un libro en el que explica la transformación digital que ha sufrido el diario en las últimas décadas. El pasado viernes 29 de septiembre inauguró la quinta edición Máster de Innovación en Periodismo de la Universidad Miguel Hernández de Elche."
-author:
-  name: Itziar Martínez
-  twitter: itziarmartinez_
-  gplus:  
-  bio: Periodismo UMH
-  image: itziar.webp
-  link: https://twitter.com/itziarmartinez_
+author: martinez
+categories:
+  - industria
+image: /images/shots/ismaelnafria_0.jpg
 ---
 [Ismael Nafría](http://www.ismaelnafria.com/) es periodista, consultor, profesor y conferenciante especializado en medios digitales. Tiene una larga trayectoria en radio y prensa digital, colabora en [Lavanguardia.com](http://www.lavanguardia.com/) y ha escrito varios libros relacionados con el periodismo y la comunicación digital. Recientemente ha publicado [La reinvención del New York Times](http://www.ismaelnafria.com/nytimes/), un libro en el que explica la transformación digital que ha sufrido el diario en las últimas décadas. El pasado viernes 29 de septiembre inauguró la quinta edición [Máster de Innovación en Periodismo](http://mip.umh.es/) de la Universidad Miguel Hernández de Elche. 
 

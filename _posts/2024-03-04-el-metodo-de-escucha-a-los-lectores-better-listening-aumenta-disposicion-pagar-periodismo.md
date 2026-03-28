@@ -1,13 +1,10 @@
 ---
 layout: post
 title: El método de escucha a los lectores “Better listening” aumenta su disposición a pagar por los contenidos periodísticos o hacer donaciones al medio
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/diapositiva1.jpg
 ---
 Nanna Holst es periodista y editora en la televisión danesa TV 2 Kosmopol. Licenciada por la Escuela Nacional Danesa de Periodismo y la Aarhus Business School, y becaria del Instituto Constructivo de la Universidad de Aarhus, Holst ha creado el método "Better Listening" con el que ayuda a los periodistas a escuchar mejor a su público. Según Holst, **los profesionales que escuchan estratégicamente** logran una mayor disposición de su audiencia a pagar por contenidos o hacer donaciones al medio. En este artículo explicamos cómo lo consigue.
 

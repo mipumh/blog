@@ -2,13 +2,10 @@
 layout: post
 title: La formación periodística del siglo XXI&#58 tecnohumanistas con herramientas… y buenas botas
 excerpt: "El periodista de El Confidencial Daniele Grasso, en un seminario celebrado recientemente en Málaga, criticaba que algunos profesores de periodismo 'se han quedado atascados en el pasado' y reivindicaba este lema: 'Menos Kapuściński y más ProPublica'. La reflexión de Grasso me ha llevado a escribir estas líneas"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/perioXXI_0.jpg
 ---
 El periodista de El Confidencial [Daniele Grasso](https://twitter.com/danielegrasso), en un seminario celebrado recientemente en Málaga, criticaba que algunos profesores de periodismo "se han quedado atascados en el pasado" y reivindicaba este lema: "Menos Kapuściński y más ProPublica". La reflexión de Grasso me ha llevado a escribir estas líneas. 
 

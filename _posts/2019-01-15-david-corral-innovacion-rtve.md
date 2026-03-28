@@ -2,13 +2,10 @@
 layout: post
 title: David Corral (Área de Innovación, TVE)&#58 "Afrontamos un momento de redefinición, no sólo de los informativos sino de los medios digitales, la prensa y las redes"
 excerpt: "David Corral se licenció en Periodismo por la Universidad Complutense de Madrid. Ha cursado el Máster Interuniversitario en Diplomacia y Relaciones Internacionales y es experto en Servicios de Inteligencia por el Instituto universitario General Gutiérrez Mellado y la UNED. Su experiencia laboral comenzó en 2001, cuando ingresó en TVE como redactor en Intercambios Internaciones (EBU/UER). Ha sido subdirector y editor del Canal 24 Horas, donde dirigió el informativo juvenil2.4 y fue coordinador del Área Internacional de los telediarios Fin de Semana. En la actualidad trabaja en el área de Innovación de TVE. David Corral ha intervenido en las XIV Jornadas Internacionales de Innovación en Periodismo."
-author:
-  name: Patricia López Barceló
-  twitter: Pat_barcelo
-  gplus:  
-  bio: Periodismo UMH
-  image: pat.webp
-  link: https://twitter.com/Pat_barcelo
+author: Patricia López Barceló
+categories:
+  - tecnologia
+image: /images/shots/corral_0.jpg
 ---
 [David Corral Hernández](http://periodismo.umh.es/2018/10/22/ponentes-xiv-jornadas-internacionales-david-corral-unidad-innovacion-tve/) se licenció en Periodismo por la Universidad Complutense de Madrid. Ha cursado el Máster Interuniversitario en Diplomacia y Relaciones Internacionales y es experto en Servicios de Inteligencia por el Instituto universitario General Gutiérrez Mellado y la UNED. Su experiencia laboral comenzó en 2001, cuando ingresó en **TVE** como redactor en Intercambios Internaciones (EBU/UER). Ha sido subdirector y editor del **[Canal 24 Horas](http://www.rtve.es/directo/canal-24h/)**, donde dirigió el **[informativo juvenil 2.4](http://www.rtve.es/alacarta/videos/24-informativo-juvenil/)** y fue coordinador Área Internacional de los telediarios Fin de Semana. En la actualidad trabaja en el área de Innovación de TVE. David Corral ha intervenido en las **[XIV Jornadas Internacionales de Innovación en Periodismo](http://mip.umh.es/blog/2018/11/20/diez-formas-innovar-formatos-audiovisuales-informativo/) en la UMH**.
 

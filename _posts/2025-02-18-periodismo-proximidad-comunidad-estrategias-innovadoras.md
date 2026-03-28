@@ -2,13 +2,10 @@
 layout: post
 title: "Cómo el periodismo de proximidad construye comunidad: cinco estrategias
   innovadoras"
-author:
-  name: Manuel Arenas
-  twitter: Manuel7Arenas
-  gplus:  
-  bio: Coordinador área metropolitana El Periódico
-  image: arenas.jpeg
-  link: https://twitter.com/Manuel7Arenas
+author: Manuel Arenas
+categories:
+  - tecnologia
+image: /images/001/image-9-1024x662.png
 ---
 La importancia de que las marcas periodísticas cultiven su conexión con las comunidades que las sustentan no es un mantra hueco de la industria de los medios. Las estrategias editoriales que fomentan ese vínculo tienen un impacto directo tanto en los modelos de negocio como en las propias ofertas informativas. Y esa influencia es la que explica por qué los periódicos digitales han virado en los últimos tiempos hacia los contenidos de pago. La dimensión del fenómeno la proporciona el ‘[Digital News Report 2024](https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2024/dnr-resumen-ejecutivo)’ del Reuters Institute: en la última década, de media, los niveles de pago por noticias casi se han duplicado (del 10% al 17%) en 20 países. España está en un 12%.
 

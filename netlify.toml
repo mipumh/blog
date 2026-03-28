@@ -1,7 +1,50 @@
 [build]
-  publish = "admin"
+  command = """
+    npm ci && \
+    JEKYLL_ENV=production bundle exec jekyll build && \
+    npx pagefind --source _site && \
+    npm run postbuild
+  """
+  publish = "_site/"
 
+[build.environment]
+  RUBY_VERSION = "3.3.0"
+  NODE_VERSION = "20"
+  JEKYLL_ENV = "production"
+  LANG = "en_US.UTF-8"
+  LC_ALL = "en_US.UTF-8"
+
+[[plugins]]
+  package = "netlify-plugin-jekyll-cache"
+
+# HTML: always revalidate
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    X-Content-Type-Options = "nosniff"
+
+# Static assets: immutable, cache forever
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Fonts: immutable + CORS
+[[headers]]
+  for = "/assets/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+    Access-Control-Allow-Origin = "*"
+
+# Pagefind assets
+[[headers]]
+  for = "/pagefind/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# CMS admin (SPA redirect)
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/admin/*"
+  to = "/admin/index.html"
   status = 200

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Inside JournalismAI: investigación y acción frente a la complejidad del cambio"
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/shots/journalismai-20.09.23-00094.jpg
 ---
 JournalismAI ha vuelto a reflejar mejor que nadie el estado actual de la Inteligencia Artificial (IA) en el periodismo con el informe [Generating Change](https://www.journalismai.info/research/2023-generating-change). Pero más allá de la instantánea que tan bien retratan estos últimos datos y testimonios, la trayectoria de este think tank universitario permite entrever ilusionantes horizontes en la intersección entre investigación, transferencia y formación.
 

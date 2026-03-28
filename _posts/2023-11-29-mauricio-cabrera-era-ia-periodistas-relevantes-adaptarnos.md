@@ -2,13 +2,10 @@
 layout: post
 title: "Mauricio Cabrera, consultor de medios: “En la era de la IA, los periodistas vamos a seguir siendo relevantes. Pero hemos de entender cómo
   adaptarnos”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/001/mauricio1.jpg
 ---
 El mexicano [Mauricio Cabrera](http://mauriciocabrera.com/) se describe como un “terapeuta de contenidos” y “obsesivo de la Creator Economy”. En 2017 lanzó **Story Baker**, un medio de medios en el que mediante su [newsletter](https://www.storybaker.co/) diaria, podcasts, eventos y publicaciones, analiza las tendencias de la industria de los medios y conversa con las voces más relevantes en los países de habla hispana. Previamente se desempeñó durante casi dos décadas en el sector, como director editorial de Medio Tiempo, de Yahoo! México y CDO de Prowell Media y también fundó juanfutbol, del que fue director general. En esta entrevista, Mauricio Cabrera ofrece un valioso análisis de la situación actual de los medios y plantea cómo los periodistas pueden innovar en su trabajo.
 

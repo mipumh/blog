@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Alfredo Casares (Instituto de Periodismo Constructivo): “Hay que cambiar las preguntas y las perspectivas con las que miramos, hay que salirse del carril”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/alfredo1.jpg
 ---
 Alfredo Casares es fundador y director del [Instituto de Periodismo Constructivo](https://periodismoconstructivo.com/), integrado en una red global y respaldado por la Solutions Journalism Network con su LEDE Fellowship 2021. Casares tiene una amplia trayectoria en puestos directivos y ha dirigido proyectos que han cosechado premios nacionales e internacionales. Ejerce como consultor y formador de directivos y periodistas para incorporar el periodismo constructivo a su estrategia editorial. Ha trabajado como redactor jefe en The Miami Herald (Estados Unidos); como director de comunicación en El Corte Inglés en Pamplona, y en Diario de Navarra, donde fundó en 2013 el primer laboratorio de innovación en un diario español. Ha publicado el libro “[La hora del periodismo constructivo](https://www.eunsa.es/libro/la-hora-del-periodismo-constructivo_118362/)” (2022). En esta entrevista, Casares explica cómo el periodismo constructivo puede contribuir a transformar la profesión.
 

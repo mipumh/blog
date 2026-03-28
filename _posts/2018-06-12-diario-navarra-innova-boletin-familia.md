@@ -4,13 +4,10 @@ periscopio: si
 cover_image: periscopio.webp
 title: Diario de Navarra innova con un boletín semanal sobre educación y familia
 excerpt: "Los periodistas tenemos un largo camino que recorrer para construir espacios que favorezcan el encuentro y el diálogo constante con las personas a las que servimos, de tal forma que nos permita conectar mejor con sus intereses. En Diario de Navarra llevamos tiempo trabajando en esa dirección, buscando la innovación periodística a partir de las necesidades de los ciudadanos. Como caso concreto, hemos lanzado un boletín semanal sobre educación y familia que recoge una selección de nuestros mejores contenidos de modo innovador."
-author:
-  name: Alfredo Casares
-  twitter: AlfredoCasares
-  gplus:  
-  bio: Fundador del @DNLaboratorio
-  image: casares.webp
-  link: https://twitter.com/AlfredoCasares
+author: Alfredo Casares
+categories:
+  - industria
+image: /images/shots/casares_0.jpg
 ---
 Los periodistas tenemos un largo camino que recorrer para construir espacios que favorezcan el encuentro y el diálogo constante con las personas a las que servimos, de tal forma que nos permita conectar mejor con sus intereses. En Diario de Navarra llevamos tiempo trabajando en esa dirección, buscando la innovación periodística a partir de las necesidades de los ciudadanos. Como caso concreto, hemos lanzado un boletín semanal sobre educación y familia que recoge una selección de nuestros mejores contenidos de modo innovador. 
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Las mejores narrativas digitales de 2021 (1)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/las-mejores-narrativas-de-2021.jpg
 ---
 2021 ha sido un año de consolidación del storytelling que explota al máximo el lenguaje de internet. Destacan los atributos de la imagen y del video que apelan al usuario mediante propuestas dotadas de gran fuerza visual. Desde los gráficos sobre el Covid-19 hasta los mapas que describen el cambio climático, pasando por las explicaciones de los avances tecnológicos o las crónicas sobre las tragedias. Un gráfico o una imagen pueden valer más que mil palabras. Y en estos tiempos, valen mucho más. Medios de todo el mundo usan narrativas que incorporan eficazmente elementos informativos, inmersivos, argumentativos e interpretativos. En esta primera entrega de la serie selecciono 11 trabajos.
 

@@ -2,13 +2,10 @@
 layout: post
 title: La apuesta por el “periodismo lento” (Slow Journalism)
 excerpt: "El actual flujo continuo de noticias del ecosistema digital ha traído consigo una oferta informativa hiperabundante. El solapamiento de viejos y nuevos medios que publican y actualizan sus noticias cada vez con mayor frecuencia ha contribuido a ello. Este escenario resuelve unas determinadas necesidades informativas del público, pero crea otras nuevas. Ante la saturación y el estilo fragmentado de consumo actual, ofrecer un orden coherente y profundidad al lector, puede suponer un valor añadido."
-author:
-  name: Vicente Coves
-  twitter: vcovesmasterumh
-  gplus:  
-  bio: Investigador GICOV
-  image: vic.webp
-  link: https://twitter.com/VCovesMasterUMH
+author: Vicente Coves
+categories:
+  - tecnologia
+image: /images/shots/lento.jpg
 ---
 El actual flujo continuo de noticias del ecosistema digital ha traído consigo una oferta informativa hiperabundante. El solapamiento de viejos y nuevos medios que publican y actualizan sus noticias cada vez con mayor frecuencia ha contribuido a ello. Este escenario resuelve unas determinadas necesidades informativas del público, pero crea otras nuevas. Ante la saturación y el estilo fragmentado de consumo actual, ofrecer un orden coherente y profundidad al lector, puede suponer un valor añadido.
 

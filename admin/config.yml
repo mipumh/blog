@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: gh-pages
+  branch: redesign
 
 publish_mode: editorial_workflow
 
@@ -27,23 +27,43 @@ collections:
       - { label: "Subtítulo", name: "subtitle", widget: "string", required: false }
       - label: "Autor"
         name: "author"
-        widget: "object"
-        fields:
-          - label: "Nombre"
-            name: "name"
-            widget: "select"
-            options:
-              - "Miguel Carvajal"
-              - "Félix Arias"
-              - "Jose A. García Avilés"
-              - "Alicia de Lara"
-              - "Cristian R. Marín"
-              - "Alba García Ortega"
-              - "Chema Valero"
-              - "Dámaso Mondéjar"
-          - { label: "Twitter", name: "twitter", widget: "string", required: false }
-          - { label: "Bio", name: "bio", widget: "string", required: false }
-          - { label: "Imagen", name: "image", widget: "string", required: false }
-          - { label: "Enlace", name: "link", widget: "string", required: false }
-      - { label: "Imagen de portada", name: "cover_image", widget: "string", required: false, hint: "Nombre del archivo (ej: portada.webp)" }
+        widget: "select"
+        options:
+          - { label: "Miguel Carvajal", value: "carvajal" }
+          - { label: "Jose A. García Avilés", value: "garcia-aviles" }
+          - { label: "Félix Arias", value: "arias" }
+          - { label: "Alicia de Lara", value: "de-lara" }
+          - { label: "Cristian R. Marín", value: "marin" }
+          - { label: "Alba García Ortega", value: "garcia-ortega" }
+          - { label: "Chema Valero", value: "valero" }
+          - { label: "Dámaso Mondéjar", value: "mondejar" }
+          - { label: "José Luis Rojas", value: "rojas" }
+          - { label: "Itziar Martínez", value: "martinez" }
+      - label: "Sección"
+        name: "categories"
+        widget: "select"
+        options:
+          - { label: "Narrativas", value: "narrativas" }
+          - { label: "Industria", value: "industria" }
+          - { label: "Tecnología", value: "tecnologia" }
+          - { label: "Redacción", value: "redaccion" }
+          - { label: "Audiencias", value: "audiencias" }
+          - { label: "Innovadores", value: "innovadores" }
+          - { label: "El Máster", value: "el-master" }
+        default: "narrativas"
+      - label: "Etiquetas"
+        name: "tags"
+        widget: "list"
+        required: false
+      - label: "Imagen de portada"
+        name: "image"
+        widget: "image"
+        required: false
+        media_folder: "/images/covers"
+      - label: "Destacado"
+        name: "featured"
+        widget: "boolean"
+        default: false
+        required: false
+      - { label: "Borrador", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Contenido", name: "body", widget: "markdown" }

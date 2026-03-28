@@ -1,0 +1,238 @@
+// ==========================================================================
+// Header — Sticky Nav Bar
+// ==========================================================================
+// Sticky navigation that hides on scroll down and shows on scroll up.
+// Mobile hamburger menu uses Bootstrap collapse.
+// JS for scroll behavior is inline in the layout (see performance.md).
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// Site Header
+// --------------------------------------------------------------------------
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+  background: rgba(var(--color-bg-rgb), 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--color-border);
+  transition: transform 0.3s ease;
+  height: 64px;
+
+  // Applied via JS when scrolling down
+  &.header--hidden {
+    transform: translateY(-100%);
+  }
+
+  // Applied via JS when scrolling up
+  &.header--visible {
+    transform: translateY(0);
+  }
+}
+
+// --------------------------------------------------------------------------
+// Header Inner (container layout)
+// --------------------------------------------------------------------------
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  gap: var(--space-md);
+}
+
+// --------------------------------------------------------------------------
+// Logo / Brand
+// --------------------------------------------------------------------------
+.site-header__brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  text-decoration: none;
+  color: var(--color-text);
+  font-family: var(--font-serif);
+  font-weight: 900;
+  font-size: var(--text-lg);
+  white-space: nowrap;
+  flex-shrink: 0;
+
+  &:hover {
+    color: var(--color-brand);
+    text-decoration: none;
+  }
+
+  img {
+    height: 32px;
+    width: auto;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Main Navigation (desktop)
+// --------------------------------------------------------------------------
+.site-nav {
+  display: none;
+  align-items: center;
+  gap: var(--space-2xs);
+
+  @media (min-width: 992px) {
+    display: flex;
+  }
+}
+
+.site-nav__link {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-sm);
+  transition: color 0.15s, background-color 0.15s;
+  white-space: nowrap;
+
+  &:hover {
+    color: var(--color-text);
+    background-color: var(--color-surface-alt);
+  }
+
+  &.active {
+    color: var(--color-brand);
+    position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: var(--space-sm);
+      right: var(--space-sm);
+      height: 2px;
+      background: var(--color-brand);
+      border-radius: 1px;
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Header Actions (search, dark mode toggle)
+// --------------------------------------------------------------------------
+.site-header__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  flex-shrink: 0;
+}
+
+.btn-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--color-text-muted);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: color 0.15s, background-color 0.15s;
+
+  &:hover {
+    color: var(--color-text);
+    background-color: var(--color-surface-alt);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+  }
+
+  svg {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Mobile Hamburger Toggle
+// --------------------------------------------------------------------------
+.site-header__toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--color-text);
+  cursor: pointer;
+
+  @media (min-width: 992px) {
+    display: none;
+  }
+
+  // Hamburger icon lines
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 22px;
+  }
+
+  .hamburger__line {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: currentColor;
+    border-radius: 1px;
+    transition: transform 0.3s, opacity 0.3s;
+  }
+
+  // Open state (set via JS)
+  &[aria-expanded="true"] {
+    .hamburger__line:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .hamburger__line:nth-child(2) {
+      opacity: 0;
+    }
+    .hamburger__line:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Mobile Nav (collapsed)
+// --------------------------------------------------------------------------
+.mobile-nav {
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-md) 0;
+
+  @media (min-width: 992px) {
+    display: none !important;
+  }
+}
+
+.mobile-nav__link {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: var(--text-md);
+  font-weight: 600;
+  color: var(--color-text);
+  text-decoration: none;
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  transition: background-color 0.15s;
+
+  &:hover {
+    background-color: var(--color-surface-alt);
+  }
+
+  &.active {
+    color: var(--color-brand);
+  }
+}

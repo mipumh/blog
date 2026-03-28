@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Las mejores narrativas interactivas de 2019 (II)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/auto-wapo-cove.png
 ---
 Continuamos con la segunda entrega de [los mejores interactivos de 2019](https://mip.umh.es/blog/2020/02/29/las-mejores-narrativas-interactivas-de-2019-i/). En esta ocasión, nos detenemos en formatos explicativos, reportajes multimedia que incluyen visualizaciones de datos y gráficos interactivos, cuyo denominador común es un sólido trabajo de reporterismo y una brillante ejecución. Son trabajos realizados por equipos multidisciplinares que conjugan el talento periodístico, la innovación y una cuidada factura. Auténtico **periodismo caviar.** Pasen y disfruten.
 

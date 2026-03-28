@@ -2,13 +2,10 @@
 layout: post
 title: El periodismo de datos será local(izado) (2)&#58 el Local Data Lab
 excerpt: "Un grupo de correo, un seminario sin créditos ECTS, una guerrilla de periodismo local, un taller de análisis de datos, un par de mini hackatones, un laboratorio. El Local Data Lab UMH aún no ha cumplido 4 meses, así que no es fácil definirlo. Quizás se entienda mejor con estas preguntas frecuentes."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - narrativas
+image: /images/shots/localdata_0.jpg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/localdata_0.jpg)
 

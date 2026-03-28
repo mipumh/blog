@@ -1,42 +1,111 @@
+# Site
+title: "Revista de Innovación en Periodismo"
+description: "Análisis, casos y entrevistas sobre innovación en periodismo"
+url: "https://mip.umh.es"
+baseurl: "/blog"
+lang: "es"
+
+# Legacy branding (kept for backward compat with old includes)
 inc:
-  # Blog Information
-  title:        "Revista de Innovación en Periodismo"
-  subtitle:     "Amplía tu conocimiento sobre innovación en periodismo con análisis, casos y entrevistas a profesionales."
-  cover_image:  portada21.webp
-  logo:         logo.webp
-
-  # Company information
-  company:      Máster en Innovación en Periodismo
-  url:          https://mip.umh.es
-  facebook:     mipumh
-  twitter:      mipumh
-
-  # Product Information
+  title: "Revista de Innovación en Periodismo"
+  subtitle: "Amplía tu conocimiento sobre innovación en periodismo con análisis, casos y entrevistas a profesionales."
+  cover_image: portada21.webp
+  logo: logo.webp
+  company: Máster en Innovación en Periodismo
+  url: https://mip.umh.es
+  facebook: mipumh
+  twitter: mipumh
   product_link: https://mip.umh.es/?utm_source=blog&utm_campaign=blog
-  tagline:      "Idea, diseña, emprende"
-  google_font: 'Droid+Sans:400,700'
-
-# Analytics     
+  tagline: "Idea, diseña, emprende"
   analytics:
     google: true
- 
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: https://mip.umh.es/blog
 
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+
+# Collections
 collections:
+  authors:
+    output: true
+    permalink: /authors/:name/
   conferencias:
     output: true
     permalink: /:collection/:title
 
-# Build settings
-markdown: kramdown
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "article"
+      featured: false
+      popular: 0
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
-plugins: [jekyll-paginate]
-permalink:     pretty
-paginate_path: 'page:num'
-paginate: 10
+# Pagination (jekyll-paginate-v2)
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: "/page/:num/"
+  sort_field: "date"
+  sort_reverse: true
 
+autopages:
+  enabled: true
+  categories:
+    enabled: true
+    layouts: ["section.html"]
+    permalink: "/:cat/"
+  tags:
+    enabled: true
+    layouts: ["tag.html"]
+    permalink: "/tags/:tag/"
+  collections:
+    enabled: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-include-cache
+
+# Feed
+feed:
+  categories:
+    - narrativas
+    - industria
+    - tecnologia
+    - redaccion
+    - audiencias
+
+# SEO
+twitter:
+  username: mipumh
+  card: summary_large_image
+
+# Exclude
 exclude:
-  - admin
-  - netlify.toml
   - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - purgecss.config.js
+  - netlify.toml
+  - vendor
+  - renove
+  - scripts

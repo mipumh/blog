@@ -2,13 +2,10 @@
 layout: post
 title: "Escalando el mínimo producto viable. Tres casos de iniciativas
   periodísticas que empezaron en pequeño para crecer más fuertes "
-author:  
-  name: Jose María Valero 
-  twitter: josvap
-  gplus:  
-  bio: Profesor del Máster
-  image: chema.webp
-  link: https://twitter.com/josvap
+author: valero
+categories:
+  - industria
+image: /images/shots/jason-goodman-oalh2mojuuk-unsplash.jpg
 ---
 Innovar en periodismo va más allá de adoptar tecnologías punteras o implementar flujos de trabajo complejos. En realidad, la clave suele estar en ofrecer productos, servicios o funcionalidades que satisfagan las necesidades de un público previamente desatendido. Lo fundamental es el valor que aportan las nuevas soluciones. Por ello, cuando se introduce un producto informativo en el mercado, la perfección y la potencia técnica no son prioridades. En esa etapa es más importante ofrecer **una versión que, aunque carezca de todas sus funcionalidades finales, pueda empezar a resolver los problemas** de su público objetivo. La propuesta se pulirá —y eventualmente crecerá— con el tiempo y el feedback.
 

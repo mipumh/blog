@@ -2,13 +2,10 @@
 layout: post
 title: Herramientas GIF para periodistas. 16 opciones para dar vida a la imagen
 excerpt: "Están por todas partes. Sólo hay que echarle un vistazo a la sonrisa que dibuja su popularidad:."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/shots/GIF%201.gif
 ---
 Están por todas partes. Sólo hay que echarle un vistazo a la sonrisa que dibuja su popularidad:
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Periodismo y no-code: herramientas e ideas para potenciar la información con tecnología sin necesidad de programar"
-author:
-  name: Cristian R. Marín
-  twitter: crms74
-  gplus:
-  bio: Doctorando Periodismo UMH
-  image: crms.webp
-  link: https://twitter.com/crms74
+author: marin
+categories:
+  - tecnologia
+image: /images/shots/periodismo-no-code-herramientas.jpg
 ---
 ![]({{ site.baseurl }}/images/shots/periodismo-no-code-herramientas.jpg)
 

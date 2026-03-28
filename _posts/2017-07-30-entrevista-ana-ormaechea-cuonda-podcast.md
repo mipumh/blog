@@ -2,13 +2,10 @@
 layout: post
 title: Ana Ormaechea&#58 "El podcast en España no está profesionalizado; en EEUU, sí"
 excerpt: "El podcast: la radio a la carta del s.XXI. Los hay de todo tipo, desde la historia de iniciación intimista de una millenial, hasta una serie de no ficción sobre un crimen, pasando por los que divulgan la ciencia o destripan la serie de moda. Pero el recorrido es mucho más extenso y Ana Ormaechea, fundadora de la plataforma de podcasts Cuonda, ha sido la encargada de arrojar una chispa de luz a un tema que, todavía, parece no estar explotado en su totalidad."
-author:
-  name: Thais Peñalver
-  twitter: ThaisC21
-  gplus:  
-  bio: Periodismo UMH
-  image: thais.webp
-  link: https://twitter.com/ThaisC21
+author: Thais Peñalver
+categories:
+  - narrativas
+image: /images/shots/anaormaechea.jpg
 ---
 El podcast: la radio a la carta del s.XXI. Los hay de todo tipo, desde la historia de iniciación intimista de una millenial, hasta una serie de no ficción sobre un crimen, pasando por los que divulgan la ciencia o destripan la serie de moda. Pero en España  todavía el fenómeno debe crecer en profesionalización. Ese es el reto de [Ana Ormaechea](https://www.linkedin.com/in/anaormaechea/?locale=es_ES), fundadora de la plataforma de podcasts [_Cuonda_](http://www.cuonda.com/), que ha impartido un seminario sobre podcasting en el Máster. 
 

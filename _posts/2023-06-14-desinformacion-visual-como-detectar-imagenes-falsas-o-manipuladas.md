@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Desinformación visual: cómo detectar imágenes falsas o manipuladas"
-author:
-  name: Alba García Ortega
-  twitter: albagortega
-  gplus:  
-  bio: Profesora de Nuevas Narrativas
-  image: alba.webp
-  link: https://twitter.com/albagortega
+author: garcia-ortega
+categories:
+  - tecnologia
+image: /images/shots/desinfovisual.png
 ---
 Los contenidos audiovisuales se han convertido en el foco de gran parte de las estrategias de desinformación actuales. La aparición de herramientas de edición cada vez más sofisticadas, unida a los continuos avances en las técnicas de inteligencia artificial generativa, han dado lugar a **un escenario comunicativo en el que se cuestiona la autenticidad y veracidad de lo que vemos**. En los últimos meses hemos sido testigos de [una oleada de imágenes falsas](https://www.newtral.es/bulos-imagenes-inteligencia-artificial/20230327/) sin precedentes, difundidas en las redes sociales. Por suerte, algunas herramientas y trucos pueden ayudarte a detectarlas, como explicamos en este artículo.
 

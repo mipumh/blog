@@ -1,0 +1,24 @@
+---
+layout: default
+title: Buscar
+permalink: /pages/search/
+---
+<div class="container-xl" style="padding: 3rem 0; min-height: 60vh;">
+  <h1 class="section-header__title" style="margin-bottom: 2rem;">Buscar</h1>
+  <div id="search"></div>
+</div>
+
+<link href="{{ site.baseurl }}/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      translations: {
+        placeholder: "Buscar articulos...",
+        zero_results: "No se encontraron resultados para [SEARCH_TERM]"
+      }
+    });
+  });
+</script>

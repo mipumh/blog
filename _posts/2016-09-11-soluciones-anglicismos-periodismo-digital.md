@@ -2,13 +2,10 @@
 layout: post
 title: Soluciones a los anglicismos más cool del periodismo digital (I)
 excerpt: "La comunicación en Internet es cada día más anglófona: desde nuestra actividad online hasta los social media, pasando por el storytelling. La moda cool ha calado fuerte en todos los sectores que viven la transformación digital. Y el periodismo no es una excepción."
-author:
-  name: José R. Narejos
-  twitter: Auditurus
-  gplus:  
-  bio: Periodista y alumni del MIP
-  image: jrnar.webp
-  link: https://twitter.com/Auditurus
+author: José R. Narejos
+categories:
+  - narrativas
+image: /images/shots/efectolin.jpg
 ---
 La comunicación en Internet es cada día más anglófona: desde nuestra actividad _online_ hasta los social media, pasando por el _storytelling_. La moda _cool_ ha calado fuerte en todos los sectores que viven la transformación digital. Y el periodismo no es una excepción. 
 

@@ -2,13 +2,10 @@
 layout: post
 title: “La guerra TikTokeada”. ¿Qué funciones comunicativas tienen los vídeos en
   TikTok?
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/tt-ukraine.jpg
 ---
 Un impactante documento al inicio de la invasión rusa de Ucrania es [este vídeo de TikTok](https://www.tiktok.com/@martavasyuta/video/7068478605428346117) del 24 de febrero de 2022 que muestra imágenes de una lluvia de misiles sobre Kiev. El vídeo, que ha alcanzado más de doce millones de "me gusta", fue publicado por un usuario según la estética de TikTok: entrecortado, descontextualizado y con la canción "Little Dark Age" del grupo de indie-pop MGMT, cuya letra se convirtió en una especie de meme sonoro en la plataforma. TikTok ha calado en la conciencia colectiva, documentando los ataques del ejército ruso y cómo los ucranianos sufren la guerra. En este artículo analizamos las distintas funciones comunicativas de los vídeos sobre la invasión de Ucrania, denominada la "primera guerra en TikTok".
 

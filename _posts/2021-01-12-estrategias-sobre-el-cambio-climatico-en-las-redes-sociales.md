@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Estrategias sobre el cambio climático en las redes sociales
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora Módulo Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/shots/greta-thunberg-persona-año-time-580x330.png
 ---
 No es nada nuevo que los gabinetes de prensa, colectivos o personalidades individuales utilicen las redes sociales para alcanzar sus objetivos comunicativos como parte de su estrategia de imagen, con objeto de ganar adeptos, llamar a la acción o atacar al contrario. Sin embargo, las formas de comunicar en Twitter, Facebook o Instagram y de generar emociones son muy distintas dependiendo del tipo de fuente que emita el mensaje. No todos los colectivos utilizan las mismas estrategias y el éxito en cuanto a reacción y generación de emociones entre sus seguidores tampoco parece ser proporcional a la maquinaria “marketiniana” que haya tras las cuentas. Las redes sociales tienen sus propias dinámicas, cada una las suyas. Y ahí está la diversión.
 

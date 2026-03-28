@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Clara Soteras (SEO): «Los medios necesitan menos obsesión por el corto plazo y el volumen de páginas vistas, y más foco en el trabajo de autoridad, marca, producto y comunidad»"
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - audiencias
+image: /images/001/clara_soteras_0.jpg
 ---
 La obsesión por el tráfico desde buscadores ha generado enormes vicios en los medios, pero es cierto que también ha sido una fuente fundamental para sostener el modelo de negocio. El SEO bien entendido es una apuesta estratégica vital para los editores. Por eso, los profesionales de esa disciplina han sido protagonistas durante las últimas décadas. Un buen ejemplo de este rol es Clara Soteras, consultora SEO y Estrategia Digital para distintos medios, y actualmente Jefa de Innovación y Estrategia Digital en AMIC, una asociación de medios de información y comunicación de proximidad con más de 600 asociados. Acaba de publicar el libro ["Manual de instrucciones SEO para medios"](https://clarasoteras.com/libros/), editado por la newsletter Tendenci@s, disponible en formato impreso y digital. Además, también cuenta con una versión en inglés ([SEO Playbook for News Publishers](https://clarasoteras.com/en/books/)) completamente adaptada a una audiencia global con ejemplos y capturas en inglés después de recibir buen *feedback* del sector. También es profesora asociada en la Universidad Autónoma de Barcelona y en otras escuelas de negocio y forma parte del panel de jueces en distintos premios de periodismo de organizaciones internacionales como Online News Association, WAN-IFRA y LION Publishers. 
 

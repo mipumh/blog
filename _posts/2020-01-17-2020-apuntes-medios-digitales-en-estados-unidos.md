@@ -3,12 +3,11 @@ layout: post
 title: >-
   2020 ya está aquí. Apuntes sobre la situación de los medios digitales en
   Estados Unidos
-author:
-  name: Jose María Valero 
-  twitter: josvap
-  bio: Investigador Periodismo UMH
-  image: chema.webp
-  link: https://twitter.com/josvap
+author: valero
+categories:
+  - tecnologia
+image: /images/shots/machine.png
+image_caption: "Contenido de Quartz investigado mediante inteligencia artificial. Fuente: Quartz"
 ---
 Si algo define a la industria mediática es el cambio constante. 25 años después de la aparición de los primeros medios digitales en Estados Unidos, reparamos en que el futuro se parecía poco o nada a lo entonces imaginable. En este artículo reflexionamos sobre algunas de las tendencias y características de la industria norteamericana de los medios digitales que se prevén especialmente relevantes a lo largo de 2020.
 

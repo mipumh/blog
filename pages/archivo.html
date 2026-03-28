@@ -1,0 +1,49 @@
+---
+layout: default
+title: Archivo
+permalink: /archivo/
+---
+<div class="archive-page">
+  <div class="container-xl">
+
+    <header class="section-header">
+      <div class="section-header__bar" aria-hidden="true"></div>
+      <h1 class="section-header__title">Archivo</h1>
+      <p class="section-header__desc">Todos los articulos publicados, ordenados por fecha.</p>
+    </header>
+
+    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in posts_by_year %}
+    <section class="archive-year" aria-label="{{ year.name }}">
+      <h2 class="archive-year__heading">{{ year.name }}</h2>
+      <ul class="archive-list" role="list">
+        {% for post in year.items %}
+        {% assign author = site.data.authors[post.author] %}
+        <li class="archive-item">
+          <time datetime="{{ post.date | date_to_xmlschema }}" class="archive-item__date">
+            {{ post.date | date: "%d %b" }}
+          </time>
+          <div class="archive-item__content">
+            <a href="{{ site.baseurl }}{{ post.url }}" class="archive-item__title">
+              {{ post.title }}
+            </a>
+            {% if author %}
+            <span class="archive-item__author">{{ author.name }}</span>
+            {% endif %}
+            {% assign cat_slug = post.categories | first %}
+            {% assign section = site.data.sections[cat_slug] %}
+            {% if section %}
+            <span class="category-pill category-pill--sm"
+                  style="--pill-color: {{ section.color }}">
+              {{ section.title }}
+            </span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endfor %}
+
+  </div>
+</div>

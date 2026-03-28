@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Bienvenida a la 13ª Promoción del Máster: comienza vuestro viaje "
-author:
-  name: José Albero García Avilés y Miguel Carvajal
-  twitter: mipumh
-  bio: Redacción del Máster
-  image: logo.webp
-  link: https://twitter.com/mipumh
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/001/máster-portada.jpg
 ---
 Es un inmenso honor y una gran alegría daros la bienvenida a esta casa. Cuando hace doce años se concibió este máster, nos planteamos una premisa clara: el periodismo no está en crisis, sino en transformación. Y hoy, al recibiros, esa premisa la sentimos más viva y urgente que nunca. El camino que vais a recorrer no es el de la mera especialización; es el de la vanguardia. No sois sólo estudiantes; sois la próxima generación de arquitectos de la información en una época de turbulencias sin precedentes.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: 31 razones para contar historias en clase
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/profesores.jpg
 ---
 Según un artículo de la revista Harvard Business Review (HBR), ahora es más importante que nunca desarrollar la habilidad de comunicar con eficacia.  El estudio del HBR dice que entre el 60 y el 80% del tiempo lo dedicamos a comunicar. El reto es que si dedicas todo este tiempo a comunicar (correos, charlas, clases, reuniones…) transmites ideas, estrategias, conocimientos e información. El estudio de HBR demuestra que apenas el 10% de esos mensajes son efectivos. Piensa esto. Si en torno al 80% de tu trabajo consiste en comunicar y menos del 10% de tus mensajes están siendo eficaces, pierdes mucha energía a diario.
 

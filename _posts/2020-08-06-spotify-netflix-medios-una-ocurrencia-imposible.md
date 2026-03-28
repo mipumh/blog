@@ -2,12 +2,10 @@
 layout: post
 title: El Spotify/Netflix de medios, una ocurrencia que nunca existirá
 subtitle: Las razones económicas y empresariales que impiden la aparición de una plataforma aglutinadora de toda la oferta periodística
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
+image: /images/shots/liquidflix.jpg
 ---
 Cada vez que un diario anuncia que cobrará por el acceso a sus contenidos, alguien se queja amargamente ("otro más") y luego suelta la ocurrencia de que sí pagaría por un “Spotify de medios”. Con los últimos anuncios de suscripciones digitales (El Mundo, Vocento, El País o El Confidencial), algunos tuiteros nos cuentan que, si toda la prensa pusiera su contenido en una plataforma similar, eso salvaría al periodismo.
 

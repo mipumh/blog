@@ -3,13 +3,10 @@ published: true
 layout: post
 title: Pequeñas innovaciones en grandes formatos. Las nuevas narrativas de los alumnos del MIP (1)&#58 Immersive
 excerpt: "Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que aprenden los alumnos del Máster en Innovación en Periodismo (MIP)."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/cibermensaje
+author: arias
+categories:
+  - narrativas
+image: /images/shots/blogpics/Immersive%201.jpg
 ---
 Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que aprenden los alumnos del Máster en Innovación en Periodismo (MIP).
 

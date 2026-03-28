@@ -2,12 +2,10 @@
 layout: post
 title: "La industria periodística del individuo: cómo funciona el modelo del periodista solitario"
 subtitle: Reporteros y escritores mantienen una relación directa y autónoma con sus lectores gracias al boletín de correo y al podcast y se financian con herramientas como Substack y Patreon  
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - tecnologia
+image: /images/shots/pluma_ax.jpg
 ---
 Una de las pocas buenas noticias en la economía del periodismo de este 2020 ha sido el crecimiento de la industria periodística del individuo: profesionales que emprenden su camino por libre, lejos del abrigo de los medios, para conectar con sus comunidades y financiarse gracias a suscriptores, mecenas o anunciantes. El incremento de periodistas que viven de su trabajo mediante boletines de correo, podcasts o blogs, debe celebrarse, pero no se trata de un modelo asumible o fácilmente imitable por cualquiera. En este artículo exploro los rasgos de esta pujante y sobreexpuesta industria periodística individual.
 

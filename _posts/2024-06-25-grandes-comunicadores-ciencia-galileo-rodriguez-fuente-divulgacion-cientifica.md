@@ -2,13 +2,10 @@
 layout: post
 title: "“Grandes comunicadores de la ciencia: de Galileo a Rodríguez de la
   Fuente”. El poder de las historias en la divulgación científica"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/card_grandescomunicadores__2_.png
 ---
 ![]({{ site.baseurl }}/images/001/card_grandescomunicadores__2_.png)
 

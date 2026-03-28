@@ -2,13 +2,10 @@
 layout: post
 title: Los mejores artículos del 2015
 excerpt: "Te presentamos una selección de los diez mejores artículos publicados este año en el blog. Aprovechamos para agradecer su apoyo a todos nuestros colaboradores y expertos. Y te deseamos un 2016 lleno de proyectos enriquecedores: que se hagan realidad todos tus sueños."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/portada_libro_innovar.jpg
 ---
 Te presentamos una selección de los diez mejores artículos publicados este año en el blog. Aprovechamos para agradecer su apoyo a todos nuestros colaboradores y expertos. Y te deseamos un 2016 lleno de proyectos enriquecedores: que se hagan realidad todos tus sueños. 
 

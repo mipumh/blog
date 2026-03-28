@@ -2,12 +2,10 @@
 layout: post
 title: La matriz de necesidades del usuario, una brújula para crear formatos y propuestas de valor en periodismo
 subtitle: La herramienta impulsada por Dmitry Shishkin se emplea en equipos de producto de medios y en programas formativos para incentivar la innovación periodística
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - narrativas
+image: /images/shots/userneeds_0.png
 ---
 "Cuando entendemos a las personas que nos leen, nuestro trabajo es mucho más sólido", [recordaba Emily Goligoski](https://medium.com/building-the-atlantic/audience-research-at-the-atlantic-how-we-use-it-and-what-we-dont-expect-it-to-do-for-us-dacbb53bc053), directora de investigación de audiencia en The Atlantic. Aunque el diseño de productos basado en los usuarios ya es común en otros sectores, se empieza a consolidar también en el mundo periodístico. Uno de sus principales promotores es el consultor [Dmitry Shishkin](https://twitter.com/dmitryshishkin), que propone una matriz para repensar los contenidos que las organizaciones periodísticas elaboran según su utilidad para los lectores. En este artículo, explicamos el concepto y lo ilustramos con ejemplos.
 

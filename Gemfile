@@ -1,5 +1,12 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.3" # Versión que usas actualmente
-gem "webrick" # Necesario para Jekyll >= 4.0
-gem "jekyll-paginate" # Plugin que aparece en tu _config.yml
+gem "jekyll", "~> 4.3"
+gem "webrick"
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-paginate-v2"
+  gem "jekyll-include-cache"
+end

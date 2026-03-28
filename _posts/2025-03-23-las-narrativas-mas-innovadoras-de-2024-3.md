@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Las narrativas más innovadoras de 2024 (3)
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/lab-orquesta.jpg
 ---
 Tras [la primera](https://mip.umh.es/blog/2025/03/04/las-narrativas-mas-innovadoras-de-2024-1/) y [la segunda entrega](https://mip.umh.es/blog/2025/03/11/las-narrativas-mas-innovadoras-de-2024-2/), continuamos con la selección de las narrativas interactivas que destacaron el año pasado en medios de todo el mundo, con especial foco en los españoles.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Juan Andrés Muñoz, exdirector de CNN en Español: “Es fundamental tener clara una estrategia no solo para sobrevivir, sino para hacer un periodismo sostenible, innovador y de calidad”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/shots/juan-andres-muñoz.jpg
 ---
 [**Juan Andrés Muñoz**](https://twitter.com/jamunfer) ha sido director digital de CNN en Español. Bajo su supervisión, **[CNNEspanol.com](https://cnnespanol.cnn.com/)** pasó de ser un sitio de promoción y marketing, a una prestigiosa web informativa para usuarios de habla hispana en todo el mundo. Además, **consolidó el liderazgo para CNN en Español en las redes sociales**. Juan Andrés se incorporó a CNN Interactive en 1998 y participó en la cobertura de la guerra de Kosovo, las elecciones presidenciales en Venezuela, los premios Oscar y el mundial de fútbol. En 2004 fue nombrado editor en CNN en Español y participó en coberturas galardonadas con los premios Peabody y DuPont, como el tsunami de Asia, el huracán Katrina y las elecciones presidenciales en Estados Unidos en 2008. Nacido en Pamplona, Juan Andrés Muñoz estudió periodismo en la Universidad de Navarra y obtuvo el Máster en Interacción Persona-Computadora del Georgia Institute of Technology. Creó [un blog personal](http://gentedigital.es/comunidad/allendegui/) que en 2009 fue reconocido con el Premio Blasillo. En la actualidad colabora [con Zenda Libros](https://www.zendalibros.com/blogs/prosas-agrafas/) y es consultor de medios. En esta entrevista, Juan Andrés Muñoz **analiza la situación de los medios en Estados Unidos** y aporta algunas claves para comprender la evolución del sector.
 

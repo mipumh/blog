@@ -1,0 +1,41 @@
+narrativas:
+  title: "Narrativas"
+  slug: narrativas
+  color: "#00C853"
+  description: "Formatos, periodismo de datos, visualización, multimedia y storytelling"
+
+industria:
+  title: "Industria"
+  slug: industria
+  color: "#AA00FF"
+  description: "Modelos de negocio, suscripciones, monetización y sostenibilidad"
+
+tecnologia:
+  title: "Tecnología"
+  slug: tecnologia
+  color: "#2979FF"
+  description: "IA, herramientas, plataformas, automatización e infraestructura digital"
+
+redaccion:
+  title: "Redacción"
+  slug: redaccion
+  color: "#00B8D4"
+  description: "Organización, cultura, flujos de trabajo, perfiles y laboratorios"
+
+audiencias:
+  title: "Audiencias"
+  slug: audiencias
+  color: "#FF6D00"
+  description: "Métricas, engagement, redes sociales, distribución y comunidad"
+
+innovadores:
+  title: "Innovadores"
+  slug: innovadores
+  color: "#E91E63"
+  description: "Entrevistas, perfiles de profesionales y casos de éxito"
+
+el-master:
+  title: "El Máster"
+  slug: el-master
+  color: "#F57F17"
+  description: "Premio Vicente Verdú, convocatorias y noticias del MIP"

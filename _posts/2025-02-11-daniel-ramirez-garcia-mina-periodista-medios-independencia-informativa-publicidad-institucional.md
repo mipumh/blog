@@ -3,13 +3,10 @@ layout: post
 title: "Daniel Ramírez García-Mina, escritor y periodista: “Los medios han
   perdido muchísima independencia informativa y son cada vez más vulnerables a
   la publicidad institucional”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/ramirez-calle.jpg
 ---
 [Daniel Ramírez García-Mina](https://x.com/DanielRamirez99) (Pamplona, 1992) es periodista y escritor. Estudió Periodismo en la Universidad de Navarra y vive en Madrid. Trabaja en “Más de uno”, el programa de Carlos Alsina en Onda Cero y como redactor jefe en El Español. Fue columnista en The Objective y pasó por las redacciones de Onda Cero y ABC. Ha publicado cinco libros de no ficción, un género en el que también podría encuadrarse su poesía: la mirada cercana a la realidad. Sus poemarios [“Es sólo vivir” (2021) y “Tus canciones y las mías” (2024)](https://www.penguinlibros.com/es/106556-daniel-ramirez-garcia-mina) han recibido excelentes críticas. Ramírez ha obtenido el Premio Nacional de Periodismo Francisco Valdés (2019), el Tiflos (2018) al mejor reportaje de carácter social y el galardón al mejor periodista navarro por la Asociación de Periodistas de la Comunidad Foral (2018). En 2016, *La Buena Prensa* le consideró el “periodista joven más completo” por sus reportajes en El Español. En 2014, ganó el certamen de relato corto del Nuevo Casino Principal de Pamplona. Conversamos distendidamente sobre la profesión, la literatura, el reportaje y quienes han influido en su formación.
 

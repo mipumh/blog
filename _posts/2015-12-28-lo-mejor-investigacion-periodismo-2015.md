@@ -3,13 +3,10 @@ layout: post
 cover_image: cloud.webp
 title: Investigaciones sobre periodismo que destacaron en 2015
 excerpt: "Recogemos una selección de artículos sobre temas periodísticos publicados en las revistas científicas de referencia en nuestro país en 2015. Como se suele decir, “no están todos los que son pero sí son todos los que están”. Estos trabajos constituyen una buena muestra de cómo la investigación sobre cuestiones relevantes (uso de redes sociales, iniciativas innovadoras en periodismo deportivo, la transformación del fotoperiodista, los medios hiperlocales, etc.) ofrece resultados que iluminan el cambiante entorno de los medios y los profesionales. Nos encontramos por tanto en un momento óptimo [para estrechar lazos y establecer puentes más sólidos entre la academia y la profesión."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/hires3.jpg
 ---
 Recogemos una selección de artículos sobre temas periodísticos publicados en las revistas científicas de referencia en nuestro país en 2015. Como se suele decir, “no están todos los que son pero sí son todos los que están”. Estos trabajos constituyen una buena muestra de cómo la investigación sobre cuestiones relevantes (uso de redes sociales, iniciativas innovadoras en periodismo deportivo, la transformación del fotoperiodista, los medios hiperlocales, etc.) ofrece resultados que iluminan el cambiante entorno de los medios y los profesionales. Nos encontramos por tanto en un momento óptimo [para estrechar lazos y establecer puentes más sólidos entre la academia y la profesión](http://www.miquelpellicer.info/2015/03/nuevos-puentes-entre-periodistas-y-universidad-una-colaboracion-necesaria/).
 

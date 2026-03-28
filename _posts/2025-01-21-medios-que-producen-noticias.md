@@ -2,13 +2,10 @@
 layout: post
 title: "Medios que producen noticias para niños: Info-k (CMMA), Hetklokhuis
   (NTR) y Časoris "
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/info-k-2.jpg
 ---
 Las noticias son omnipresentes. Los niños perciben lo que sucede en el mundo a través de la televisión, las películas, los juegos y en las redes sociales. Para ellos, la jerarquía entre las diversas fuentes suele ser totalmente difusa. ¿Cómo saben los niños qué información es correcta y qué fuentes son confiables? ¿Cómo distinguen lo que es verdad y mentira? Los más pequeños son vulnerables y pueden ser fácilmente manipulados. El reto es informarles de manera adecuada a su mentalidad, sin desmerecer rigor ni *edulcorar* los contenidos. En este artículo analizamos tres iniciativas que buscan informar a los espectadores y usuarios más jóvenes: *Info-k* en España, *Hetklokhuis* en Países Bajos y *Časoris* en Eslovenia.
 

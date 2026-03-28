@@ -2,13 +2,9 @@
 layout: post
 title: El MIP se apunta al optimismo para periodistas de Miquel Pellicer 
 excerpt: "El periodismo es una profesión en constante cambio y la crisis, una oportunidad para hacerlo mejor. Es la filosofía de Miquel Pellicer, periodista especializado en redes sociales y contenidos digitales, antropólogo y profesor del Máster en Innovación en Periodismo de la Universidad Miguel Hernández (UMH) Elche, a quien tendremos en clase el próximo 16 de octubre."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - narrativas
 ---
 El periodismo es una profesión en constante cambio y la crisis, una oportunidad para hacerlo mejor. Es la filosofía de [Miquel Pellicer](http://miquelpellicer.com/), periodista especializado en redes sociales y contenidos digitales, antropólogo y [profesor del Máster en Innovación en Periodismo](mip.umh.es/profesores.htm) de la Universidad Miguel Hernández [(UMH)](http://umh.es/) Elche, a quien tendremos en clase el próximo 16 de octubre.
 

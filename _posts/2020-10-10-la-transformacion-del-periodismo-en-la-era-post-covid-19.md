@@ -1,13 +1,10 @@
 ---
 layout: post
 title: La transformación del periodismo en la era post-COVID-19
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/inversión-publicitaria-covid-19.jpg
 ---
 “Ya nada volverá a ser como antes”. Tras este mantra que recorre las conferencias y los encuentros profesionales en los últimos meses, surge la oportunidad para repensar cómo deben afrontar los medios su transformación a causa de la COVID-19. La crisis del Coronavirus y sus efectos económicos están acelerando cambios originados desde hace años hacia innovadoras formas de producción, distribución y consumo de información, y a nuevos modelos de negocio que diversifiquen los ingresos de las empresas periodísticas. Es demasiado pronto todavía para dilucidar las profundas implicaciones que la pandemia tendrá en la industria y en qué medida esta disrupción va a alterar radicalmente el panorama actual. Sin embargo, cabe señalar algunas tendencias en esta nueva etapa.
 

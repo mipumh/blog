@@ -2,13 +2,10 @@
 layout: post
 title: Por qué este post no será viral (5 efectos relacionados con contenidos virales)
 excerpt: "La viralidad es una tendencia cada vez más asumida por los medios online. El creciente consumo de información a través de redes sociales nos lleva a replantear las formas de producción y distribución orientadas a estos canales. Como ejemplifica este reportaje sobre la información viral en el periodismo, pueden ser virales los artículos en forma de lista con vídeos breves y llamativos, algún número en sus titulares, un lenguaje que despierte la curiosidad del lector y una distribución estratégica en Facebook. El grado de mediante la acción de compartir el contenido publicado determinará que el artículo se convierta o no de hecho en viral."
-author:
-  name: Vicente Coves
-  twitter: vcovesmasterumh
-  gplus:  
-  bio: Investigador GICOV
-  image: vic.webp
-  link: https://twitter.com/VCovesMasterUMH
+author: Vicente Coves
+categories:
+  - tecnologia
+image: /images/shots/virality.jpg
 ---
 La viralidad es una tendencia cada vez más asumida por los medios online. El creciente consumo de información a través de redes sociales nos lleva a replantear las formas de producción y distribución orientadas a estos canales. Como ejemplifica [**este reportaje sobre la información viral en el periodismo**](http://politica.elpais.com/politica/2015/02/06/actualidad/1423226797_792858.html),  pueden ser virales los artículos en forma de lista con vídeos breves y llamativos, algún número en sus titulares, un lenguaje que despierte la curiosidad del lector y una distribución estratégica en Facebook. El grado de [**contagio entre los lectores**](http://www.pnas.org/content/111/24/8788) mediante la acción de compartir el contenido publicado determinará que el artículo se convierta o no de hecho en viral.
 

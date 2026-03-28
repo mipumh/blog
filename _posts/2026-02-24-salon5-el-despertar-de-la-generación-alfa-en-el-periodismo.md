@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Salon5: el despertar de la Generación Alfa en el periodismo "
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - audiencias
+image: /images/001/salon5-1412x772.jpg
 ---
 En un mundo saturado de información, donde el algoritmo de TikTok dicta la agenda y las noticias en los medios parecen hablar un idioma que los adolescentes no comprenden, ha surgido una iniciativa que pretende reconectar a los jóvenes con la información en Alemania. Se trata de **[Salon5](https://correctiv.org/projekte/salon5/)**, el equipo editorial juvenil de la organización periodística sin ánimo de lucro **[Correctiv](https://correctiv.org/en/)**. Desde su creación en 2019, Salon5 no busca simplemente "informar" a los jóvenes, sino que sean ellos quienes definan qué es noticia y ayudarles a contarlo a la gente de su edad. El proyecto, con sus luces y sombras, marca una tendencia interesante que analizamos en este artículo.
 

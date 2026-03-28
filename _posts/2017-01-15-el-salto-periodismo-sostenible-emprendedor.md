@@ -2,13 +2,10 @@
 layout: post
 title: Cuenta atrás para el lanzamiento de ElSalto, periodismo social y colaborativo
 excerpt: "Diagonal publicó su último número el pasado 15 de diciembre y las redes sociales, con el hashtag #HastaSiempreDiagonal, respondieron con mensajes de agradecimiento y buenos deseos para el futuro. Doce años y 248 portadas después, el proyecto se transforma en un nuevo modelo de comunicación basado en la cooperación e integración entre iniciativas afines. Lo llaman #ElSalto."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

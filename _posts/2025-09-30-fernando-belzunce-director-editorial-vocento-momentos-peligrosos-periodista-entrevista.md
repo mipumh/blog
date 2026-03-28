@@ -3,13 +3,10 @@ layout: post
 title: "Fernando Belzunce, director editorial de Vocento: “Estamos viviendo en
   momentos peligrosos y, precisamente por eso, ser periodista es muy
   interesante”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/oscar-chamorro-2.jpg
 ---
 [Fernando Belzunce](https://x.com/beltxun?lang=es) (Pamplona, 1976) es director editorial de Vocento. Antes fue redactor, reportero, editor digital, subdirector o director de innovación en una carrera ligada a la transformación del periodismo. Miembro del World Editors Forum Board de WAN-IFRA, acaba de publicar **['Periodistas en tiempos de oscuridad'](https://www.planetadelibros.com/libro-periodistas-en-tiempos-de-oscuridad/424283 "'Periodistas en tiempos de oscuridad'")** (Ariel), un ensayo que recoge las voces de más de cien periodistas de todo el mundo. A través de los testimonios de reporteros, investigadores, corresponsales de guerra, directores de medios, empresarios, premios Nobel y Pulitzer, exiliados y jóvenes promesas, Belzunce analiza la situación actual del periodismo.
 

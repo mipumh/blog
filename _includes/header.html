@@ -1,27 +1,107 @@
-<header class="site-header">
+<header class="site-header" role="banner">
+  <nav class="site-nav" aria-label="Navegacion principal">
+    <div class="container-xl site-nav__inner">
 
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
+      <!-- Logo -->
+      <a href="{{ site.baseurl }}/" class="site-nav__logo" aria-label="Inicio">
+        <strong>{{ site.title }}</strong>
       </a>
 
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
+      <!-- Desktop section links -->
+      <ul class="site-nav__sections d-none d-lg-flex" role="list">
+        {% for section in site.data.navigation.sections %}
+        <li>
+          <a href="{{ site.baseurl }}{{ section.url }}"
+             class="site-nav__link"
+             style="--nav-accent: {{ section.color }}"
+             {% if page.url contains section.slug %}aria-current="page"{% endif %}>
+            {{ section.title }}
+          </a>
+        </li>
         {% endfor %}
+      </ul>
+
+      <!-- Right side: search + dark mode + hamburger -->
+      <div class="site-nav__actions">
+        <!-- Search toggle -->
+        <button data-search-open class="site-nav__icon" aria-label="Buscar">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+        </button>
+
+        <!-- Dark mode toggle -->
+        <button id="theme-toggle" class="site-nav__icon" aria-label="Cambiar tema claro/oscuro">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/>
+            <line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/>
+            <line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+
+        <!-- Mobile hamburger -->
+        <button id="menu-toggle" class="site-nav__icon d-lg-none"
+                aria-label="Abrir menu" aria-expanded="false" aria-controls="mobile-menu">
+          <svg class="icon-menu" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="3" y1="6" x2="21" y2="6"/>
+            <line x1="3" y1="12" x2="21" y2="12"/>
+            <line x1="3" y1="18" x2="21" y2="18"/>
+          </svg>
+          <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"/>
+            <line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
       </div>
-    </nav>
 
+    </div>
+  </nav>
+
+  <!-- Mobile menu (offcanvas) -->
+  <div id="mobile-menu" class="mobile-menu d-lg-none" aria-label="Menu movil">
+    <div class="mobile-menu__inner">
+      <nav aria-label="Secciones">
+        <h3 class="mobile-menu__heading">Secciones</h3>
+        <ul class="mobile-menu__list" role="list">
+          {% for section in site.data.navigation.sections %}
+          <li>
+            <a href="{{ site.baseurl }}{{ section.url }}" class="mobile-menu__link"
+               style="--nav-accent: {{ section.color }}">
+              {{ section.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+      {% if site.data.navigation.secondary %}
+      <nav aria-label="Mas paginas">
+        <h3 class="mobile-menu__heading">Mas</h3>
+        <ul class="mobile-menu__list" role="list">
+          {% for item in site.data.navigation.secondary %}
+          <li>
+            <a href="{{ site.baseurl }}{{ item.url }}" class="mobile-menu__link">
+              {{ item.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+      {% endif %}
+    </div>
   </div>
-
 </header>

@@ -3,13 +3,10 @@ published: true
 layout: post
 title: Recursos esenciales para el periodista de datos (1). La búsqueda de información
 excerpt: "El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. La investigación sobre los paraísos fiscales impulsada por el International Consortium of Investigative Journalists (ICIJ), descrita en este blog, constituye sólo uno de los ejemplos más recientes y relevantes."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/cibermensaje
+author: arias
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

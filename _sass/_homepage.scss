@@ -1,0 +1,121 @@
+// ==========================================================================
+// Homepage — Layout Blocks, Section Rivers, Pagination
+// ==========================================================================
+// Homepage-specific layout styles: spacing between editorial blocks,
+// section river headers, section pages, and pagination.
+// Reference: renove/layout-homepage.md
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// Homepage Block Spacing ("aire")
+// --------------------------------------------------------------------------
+.hp-block {
+  margin-bottom: var(--space-3xl); // 64px breathing room
+  padding-top: var(--space-md);
+}
+
+// Column gutter — wider than Bootstrap default
+.homepage .row.g-5 {
+  --bs-gutter-x: 3rem;
+}
+
+// --------------------------------------------------------------------------
+// Block Label (shared heading for sections)
+// --------------------------------------------------------------------------
+.block-label {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent, var(--color-text));
+  margin: 0;
+}
+
+// --------------------------------------------------------------------------
+// Section River Headers
+// --------------------------------------------------------------------------
+.river-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-bottom: var(--space-sm);
+  margin-bottom: var(--space-lg);
+  border-bottom: 3px solid var(--accent, var(--color-brand));
+}
+
+.river-more {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--color-brand);
+  }
+}
+
+// --------------------------------------------------------------------------
+// Section Page Header
+// --------------------------------------------------------------------------
+.section-header {
+  padding: var(--space-2xl) 0 var(--space-xl);
+}
+
+.section-header__bar {
+  width: 48px;
+  height: 4px;
+  background: var(--section-accent, var(--color-brand));
+  border-radius: 2px;
+  margin-bottom: var(--space-md);
+}
+
+.section-header__title {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 900;
+  line-height: 1.12;
+  margin-bottom: var(--space-xs);
+}
+
+.section-header__desc {
+  font-family: var(--font-sans);
+  font-size: var(--text-lg);
+  color: var(--color-text-muted);
+  max-width: 55ch;
+}
+
+// --------------------------------------------------------------------------
+// Pagination
+// --------------------------------------------------------------------------
+.pagination-wrapper {
+  padding: var(--space-2xl) 0;
+  display: flex;
+  justify-content: center;
+}
+
+.pagination .page-link {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  color: var(--color-text);
+  border-color: var(--color-border);
+}
+
+.pagination .page-item.active .page-link {
+  background: var(--color-brand);
+  border-color: var(--color-brand);
+  color: var(--color-on-brand);
+}
+
+.pagination .page-link:hover {
+  background: var(--color-surface-alt);
+  color: var(--color-brand);
+  border-color: var(--color-border);
+}
+
+.pagination .page-item.disabled .page-link {
+  color: var(--color-text-muted);
+  border-color: var(--color-border);
+  background: transparent;
+}

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Es hora de que pongas en práctica tu creatividad
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/pexels-andrea-piacquadio-3758105.jpg
 ---
 En el vertiginoso sector de los medios de comunicación, la creatividad se ha convertido en un elemento crucial para el éxito, aunque en las redacciones apenas se potencia (e incluso se la ahoga o asfixia). En las profesiones relacionadas con la comunicación, ser creativo te ayudará a destacar y alcanzar tus objetivos. Pero esta cualidad no es innata ni tampoco se improvisa; requiere esfuerzo, constancia, y está al alcance de todos. Aunque solo tú puedes dar el primer paso. Por eso, te recomendamos una serie de buenas prácticas que te ayudarán a llevar tu creatividad a otro nivel.
 

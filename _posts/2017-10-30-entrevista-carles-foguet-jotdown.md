@@ -2,13 +2,10 @@
 layout: post
 title: Carles A. Foguet, dircom de Jot Down&#58 "Decidimos tomarnos muy en serio las cosas que la gente se debería tomar a broma y al revés"
 excerpt: "Carles A. Foguet es director de comunicación del magazine cultural Jot Down. Es diplomado en Comunicación y Estrategia Política por el Institut de Ciències Polítiques i Socials (ICPS). El pasado 23 de octubre participó en una  charla-coloquio en la Universidad Miguel Hernández de Elche. Allí explicó la clave del éxito de esta revista, caracterizada por ofrecer un periodismo reposado y de calidad, con artículos en profundidad y extensas entrevistas."
-author:
-  name: Itziar Martínez
-  twitter: itziarmartinez_
-  gplus:  
-  bio: Periodismo UMH
-  image: itziar.webp
-  link: https://twitter.com/itziarmartinez_
+author: martinez
+categories:
+  - redaccion
+image: /images/shots/jotdown_0.jpg
 ---
 [Carles A. Foguet](https://twitter.com/hooligags?lang=es) es director de comunicación del magazine cultural [Jot Down](http://www.jotdown.es/). Es diplomado en Comunicación y Estrategia Política por el Institut de Ciències Polítiques i Socials (ICPS). El pasado 23 de octubre participó en una  charla-coloquio en la [Universidad Miguel Hernández de Elche](https://www.umh.es/). Allí explicó la clave del éxito de esta revista, caracterizada por ofrecer un periodismo reposado y de calidad, con artículos en profundidad y extensas entrevistas.
 

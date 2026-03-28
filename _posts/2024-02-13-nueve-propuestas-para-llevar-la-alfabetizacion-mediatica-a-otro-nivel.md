@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Nueve propuestas para llevar la alfabetización mediática a otro nivel
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/ami-0.jpg
 ---
 Dominar las tecnologías de la comunicación no consiste en apretar botones, deslizar pantallas, ni manejar aparatos. Ni tampoco exclusivamente en utilizar cámaras, móviles y programas informáticos. Va un paso más allá: implica usar los medios y herramientas para producir creaciones, saber compartirlas, entender la identidad en los entornos virtuales, y saber moverse en las plataformas, medios y redes sociales con mentalidad crítica. La Alfabetización Mediática e Informacional (AMI) afecta a todas las edades. Es importantísima en la vida de los jóvenes y los mayores, de los profesionales, parados o jubilados y, por tanto, necesita de una movilización general en toda la sociedad. En este artículo planteo nueve propuestas para lograrlo.
 

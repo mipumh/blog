@@ -4,41 +4,48 @@ category: nomap
 ---
 @charset "utf-8";
 
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* for a 16:9 aspect ratio, you can adjust it according to the video */
-    height: 0;
-    overflow: hidden;
-}
+// ==========================================================================
+// Main SCSS Entry Point — Editorial Redesign
+// ==========================================================================
+// Import order matters: variables and fonts first, then framework,
+// then base styles, then components, then overrides.
+//
+// This file is kept at css/main.scss for backward compatibility.
+// The canonical new entry point is assets/css/main.scss.
+// ==========================================================================
 
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+// Jekyll baseurl for asset paths in partials (e.g. @font-face URLs)
+$baseurl: "{{ site.baseurl }}";
 
+// --------------------------------------------------------------------------
+// 1. Design Tokens & Fonts
+// --------------------------------------------------------------------------
+@import "variables";     // CSS custom properties: colors, typography, spacing
+@import "fonts";         // Self-hosted @font-face declarations
 
-// CONFIGURATION
+// --------------------------------------------------------------------------
+// 2. Framework (Bootstrap 5 — selective imports)
+// --------------------------------------------------------------------------
+@import "bootstrap-custom";  // Only grid, nav, buttons, pagination, utilities
 
-// Bodytext font
-$font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// --------------------------------------------------------------------------
+// 3. Base / Reset
+// --------------------------------------------------------------------------
+@import "base";          // Typography resets, body, headings, links, images
 
-// Font for headings
-$fontheadings: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// --------------------------------------------------------------------------
+// 4. Layout Components
+// --------------------------------------------------------------------------
+@import "header";        // Sticky nav bar, mobile hamburger
+@import "hero";          // Hero article component (homepage)
+@import "cards";         // Card editorial, category pill, tag pill, avatars
+@import "homepage";      // Homepage blocks, section rivers, pagination
+@import "sidebar";       // Sticky sidebar, breves, novedades, popular posts
+@import "article";       // Article body, header, hero image, author bio, related
+@import "newsletter";    // Banner, compact (sidebar), inline (article body)
+@import "footer";        // 4-column editorial footer
 
-// Text colors
-$text: #21272d;
-$textmuted: #848484;
-$accent: #2077b2;
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "bootstrap",
-        "base",
-	"nav",
-	"article",
-	"icons",
-	"responsive";
+// --------------------------------------------------------------------------
+// 5. Dark Mode Overrides
+// --------------------------------------------------------------------------
+@import "dark-mode";     // Component-specific dark mode adjustments

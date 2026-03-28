@@ -2,13 +2,10 @@
 layout: post
 title: El impacto del COVID-19 en la economía del periodismo
 subtitle: Desplome publicitario, incremento de audiencias, tele-precarización, repunte de las suscripciones y la letanía del rescate a la prensa
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - tecnologia
+image: /images/shots/bolsillos.jpg
 ---
 Si te dedicas al periodismo, hay bastantes posibilidades de que te haya afectado un ERTE o que tu medio te haya dicho que conviene apretarse el cinturón. Algunos jefes se han bajado el sueldo, otros han suspendido el reparto de dividendos y en el peor de los casos han despedido a parte de la plantilla. Quizá no te haya ocurrido nada de eso, pero seguro que conoces a alguien afectado.  
 

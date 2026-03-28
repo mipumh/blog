@@ -2,13 +2,10 @@
 layout: post
 title: La IA al servicio del periodismo de datos. Recursos, casos y herramientas
   para buscar, extraer, procesar y visualizar información
-author: 
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Subdirector del Máster
-  image: flx.webp
-  link: https://twitter.com/flxarias
+author: arias
+categories:
+  - tecnologia
+image: /images/001/freepik_dame-una-nueva-version-de-la-img2-con-el-estilo-de-referencia-de-la-img1_0001.jpg
 ---
 La conexión entre la inteligencia artificial (IA) y el periodismo de datos no es casual. Comparten, de entrada, una misma materia prima: los datos. La IA se alimenta de grandes volúmenes de información y el periodismo de datos lleva años trabajando precisamente en la búsqueda, obtención, limpieza, análisis e interpretación de esos materiales. También hay paralelismos en su evolución: los periodistas de datos suelen estar entre los perfiles más proclives a experimentar con nuevas herramientas, lenguajes y metodologías, porque su trabajo ya exige combinar la mirada periodística con la estadística y la adaptación constante a entornos tecnológicos cambiantes. 
 

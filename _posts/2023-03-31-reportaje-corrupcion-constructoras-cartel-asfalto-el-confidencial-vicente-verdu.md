@@ -2,12 +2,10 @@
 layout: post
 title: Un reportaje sobre contratos irregulares de grandes constructoras gana el III Premio Vicente Verdú de Periodismo e Innovación
 subtitle: El jurado del certamen en el que colabora la Universidad Miguel Hernández destaca el formato interactivo, la investigación y el trabajo coral del equipo de El Confidencial
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - innovadores
+image: /images/shots/cartel_confi.jpg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/cartel_confi.jpg)
 

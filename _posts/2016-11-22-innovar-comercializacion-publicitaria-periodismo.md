@@ -2,13 +2,10 @@
 layout: post
 title: Cómo innovan los medios para ser mejores soportes publicitarios frente al oligopolio de Facebook y Google
 excerpt: "La inversión publicitaria digital se destina de manera mayoritaria a otros canales que son más efectivos en la segmentación y tienen la escala que demandan los anunciantes. Para resolver este problema, los medios introducen estrategias 'novedosas', crean equipos especializados y desarrollan formatos como el branded content que dan indicios de resultar eficaces. Aquí presentamos una galería de las soluciones más innovadoras en la comercialización publicitaria."
-author:
-  name: Miguel Carvajal
-  twitter: mcarvajal_
-  gplus: 105651624538664882557 
-  bio: Director del Máster
-  image: yo.webp
-  link: https://twitter.com/mcarvajal_
+author: carvajal
+categories:
+  - industria
+image: /images/shots/adblock1.jpg
 ---
 La inversión publicitaria digital se destina de manera mayoritaria a otros canales que son más efectivos en la segmentación y tienen la escala que demandan los anunciantes. Para resolver este problema, los medios introducen estrategias "novedosas", crean equipos especializados y desarrollan formatos como el _branded content_ que dan indicios de resultar eficaces. 
 

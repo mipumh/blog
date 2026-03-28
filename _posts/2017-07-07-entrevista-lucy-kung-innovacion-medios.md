@@ -2,13 +2,10 @@
 layout: post
 title: Lucy Küng (Reuters Institute for the Study of Journalism)&#58 "La agilidad es de vital importancia para innovar en esta era de cambio en el periodismo"
 excerpt: "Lucy Küng, investigadora del Reuters Institute for the Study of Journalism (Universidad de Oxford), es experta en estrategia, innovación y gestión de medios, con especial hincapié en la gestión de los cambios tecnológicos. Es profesora visitante de Innovación en Periodismo en la Universidad de Oslo y miembro de la junta supervisora de la emisora pública de Suiza, SRG. Entre sus numerosos libros figura Innovators in Digital News, en el que identifica las claves del éxito en los medios digitales. Küng participó en la conferencia inaugural del XXIII Congreso de la Sociedad Española de Periodística de la Universidad Miguel Hernández de Elche, donde habló de las dificultades que afrontan los medios en la era digital y de la innovación en las organizaciones periodísticas."
-author:
-  name: Hannah Lapworth
-  twitter: hannahlapworth
-  gplus:  
-  bio: Estudiante Periodismo UMH
-  image: hannah.webp
-  link: https://twitter.com/hannahlapworth
+author: Hannah Lapworth
+categories:
+  - tecnologia
+image: /images/shots/lucy0.jpg
 ---
 [Lucy Küng](http://www.lucykung.com/), investigadora del [Reuters Institute for the Study of Journalism](http://reutersinstitute.politics.ox.ac.uk/) (Universidad de Oxford), es experta en estrategia, innovación y gestión de medios, con especial hincapié en la gestión de los cambios tecnológicos. Es profesora visitante de Innovación en Periodismo en la Universidad de Oslo y miembro de la junta supervisora de la emisora pública de Suiza, SRG. Entre sus numerosos libros figura ["Innovators in Digital News"](http://reutersinstitute.politics.ox.ac.uk/publication/innovators-digital-news), en el que identifica las claves del éxito en los medios digitales. Küng participó en la conferencia inaugural del [XXIII Congreso de la Sociedad Española de Periodística](http://sep2017.umh.es/) de la Universidad Miguel Hernández de Elche, donde habló de las dificultades que afrontan los medios en la era digital y de la innovación en las organizaciones periodísticas.  
 

@@ -2,15 +2,11 @@
 layout: post
 title: Cómo comunicar con eficacia en una presentación
 excerpt: "La periodista y experta en oratoria Marisa Picó explica que, ante una presentación en público, resulta normal ponerse nervioso, pero que lo importante es “saber gestionar ese miedo para convertirlo en energía” y captar así la atención del público. La mayoría hemos sufrido cierto pánico escénico ante este tipo de situaciones pero lo cierto es que, con la práctica, se consigue ganar confianza y puede que, algún día, hasta lleguemos a disfrutar del momento."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora Módulo Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/shots/demoday.jpg
 ---
-
 [La periodista y experta en oratoria Marisa Picó](http://marisapico.es/) explica que, ante una presentación en público, resulta normal ponerse nervioso, pero que lo importante es **“saber gestionar ese miedo para convertirlo en energía” y captar así la atención del público**. La mayoría hemos sufrido cierto pánico escénico ante este tipo de situaciones pero lo cierto es que, **con la práctica, se consigue ganar confianza** y puede que, algún día, hasta lleguemos a **disfrutar del momento**.
 
 Cuando además de hablar, **nos apoyamos en un contenido visual, también conviene seguir ciertas pautas que facilitarán que nuestro público capte mejor lo que decimos**. Por ejemplo, resulta útil **plantear la presentación pensando más en la audiencia que en uno mismo** y diseñarla buscando la **sencillez**, tanto en la forma como en el contenido.

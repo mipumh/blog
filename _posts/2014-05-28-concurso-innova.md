@@ -4,13 +4,10 @@ cover_image: bg.webp
 title: Un concurso para reinventar el periodismo y becar a los más emprendedores
 excerpt: "El diario digital El Confidencial y el Máster en Innovación en Periodismo lanzan el concurso Innova en Periodismo. Este certamen, que tiene por objetivo fomentar el emprendimiento en el sector de la comunicación, consiste en presentar un proyecto de producto o servicio periodístico para el sector digital. La propuesta debe ser original e inédita y cada concursante puede enviar un máximo de dos proyectos."
 subtitle: "El Confidencial y el Máster de Innovación en Periodismo de la UMH aúnan fuerzas para fomentar la creación de nuevos proyectos informativos."
-author:
-  name: Cristian R. Marín
-  twitter: crms74
-  gplus:  
-  bio: Community Manager del MIP
-  image: crms.webp
-  link: https://twitter.com/crms74
+author: marin
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

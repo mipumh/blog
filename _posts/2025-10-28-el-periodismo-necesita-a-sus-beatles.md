@@ -1,13 +1,10 @@
 ---
 layout: post
 title: El periodismo necesita a sus Beatles
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/beatles.jpg
 ---
 Antes de que los Beatles irrumpieran en escena, la música popular era un terreno predecible. Las voces sonaban pulidas, las canciones obedecían fórmulas establecidas y las emisoras de radio ofrecían melodías agradables, pero exentas de riesgo. Entonces llegaron cuatro jóvenes de Liverpool y crearon un estilo que revolucionó el panorama musical. Comenzaron oficialmente su carrera el 5 de octubre de 1962 con el lanzamiento de su primer sencillo, "Love Me Do". En apenas siete años, lograron lo que pocos artistas han conseguido: transformar para siempre no sólo la manera de hacer música, sino de escucharla. Hoy damos por sentado muchos de sus hallazgos —las grabaciones al revés, la fusión de géneros, la idea del álbum como obra conceptual—, pero en su momento significaron una sacudida radical al statu quo.
 

@@ -3,13 +3,10 @@ published: true
 layout: post
 title: Nuevos perfiles y realidades profesionales, un soplo de aire fresco en las aulas de Atzavares 
 excerpt: "Una de las asignaturas pendientes de la Universidad española, en lo que respecta a los estudios de Periodismo, es tener la capacidad suficiente para no verse superada por los acontecimientos derivados del momento de transformación de nuestra profesión."
-author:
-  name: José L. González
-  twitter: eurogaceta
-  gplus:  
-  bio: Coordinador Periodismo Especializado
-  image: jlg.webp
-  link: https://twitter.com/eurogaceta
+author: José L. González
+categories:
+  - el-master
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

@@ -2,13 +2,10 @@
 layout: post
 title: Becas y ayudas para estudiar un master
 excerpt: "Si estás pensando en cursar un master, te conviene ponerte al día sobre las ayudas, becas y sistemas de financiación existentes. Las convocatorias para realizar masters pueden provenir de organismos públicos, como es el caso del Ministerio de Educación, Cultura y Deporte o la Generalitat Valenciana, dirigidas a estudiantes nacionales y de la Comunitat."
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus: 104274993391260139803 
-  bio: Coordinadora de Diseño Web
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - el-master
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

@@ -2,13 +2,10 @@
 layout: post
 title: Breve radiografía de la innovación en periodismo
 excerpt: "Innovación es una palabra comodín que ahora aparece en muchos ámbitos. Como plantea Manel Muntada, ¿realmente hay tanto innovador?:  “El término ha pasado incluso a sustituir otros que, a fuerza de usarlos, han sido vampirizados, despojados de toda la energía que alguna vez poseyeron por aplicarse a demasiadas cosas o a nada a la vez”. Está claro: no es innovación todo lo que reluce."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

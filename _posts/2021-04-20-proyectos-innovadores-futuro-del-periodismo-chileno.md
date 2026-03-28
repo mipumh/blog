@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Proyectos innovadores que invitan a vislumbrar el futuro del periodismo chileno
-author:
-  name: Enrique Núñez Mussa
-  twitter: nunezmussa
-  gplus:  
-  bio: Profesor en la Facultad de Comunicaciones de la Universidad Católica de Chile
-  image: mussa.webp
-  link: https://twitter.com/nunezmussa
+author: Enrique Núñez Mussa
+categories:
+  - tecnologia
+image: /images/shots/relato-nacional.png
 ---
 En los casos de innovación periodística en Chile que presentamos en este artículo se observan tendencias que ofrecen reflexiones sobre el desarrollo de la profesión. Hay proyectos que cuestionan la definición más tradicional de objetividad y entregan más valor a la búsqueda de la verdad y la visibilidad de voces e historias que a la lógica de parte y contraparte. Esa libertad editorial, se explica por la independencia que tiene la mayoría de estas iniciativas. Para varios, el crowdfunding aparece como el modelo de negocio natural, con la conformación de comunidades alrededor de sus marcas y contenidos.
 

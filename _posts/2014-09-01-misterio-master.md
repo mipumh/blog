@@ -1,15 +1,12 @@
---- 
+---
 layout: post 
 title: El misterio del MIP 
 excerpt: "Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos variables que en esta ciudad no siempre coinciden, por desgracia."
-author: 
- name: Belén Torregrosa 
- twitter: belentorregrosa 
- gplus: 117641528121265714026 
- bio: Profesora de Storytelling 
- image: bt.webp 
- link: https://twitter.com/belentorregrosa 
---- 
+author: Belén Torregrosa
+categories:
+  - narrativas
+image: /images/Perfiles_MIP/DSC_0608.jpeg "Guatemala, Julio 2012"
+---
 Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos variables que en esta ciudad no siempre coinciden, por desgracia. 
 
 La biblioteca de la Facultad estaba casi vacía, despertando de unas largas vacaciones, silenciosa. Subí a la segunda planta en busca de un libro recomendado y acabé topándome con otro titulado [“La bendita manía de contar”](http://www.casadellibro.com/libro-la-bendita-mania-de-contar/9788478950997/623337?gclid=cjwkeajwyycgbrcmmbwl5bev_rqsjabesqharj1_j3iuscaaifr8anwpym-ikxneevom4-jvdpmncxoca7lw_wcb).

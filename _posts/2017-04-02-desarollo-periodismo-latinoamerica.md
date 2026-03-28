@@ -2,13 +2,10 @@
 layout: post
 title: Pistas sobre el desarrollo del Periodismo en Latinoámerica (II)
 excerpt: "Continuamos con una serie de destacadas iniciativas que promueven el desarrollo del periodismo en Latinoamérica. Se trata de una generación de profesionales con una perspectiva renovada, que insufla aire fresco, credibilidad y recursos para la formación de los periodistas."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - redaccion
+image: /images/shots/latino0.jpg
 ---
 [Continuamos](http://mip.umh.es/blog/2016/07/17/pistas-periodismo-latinoamerica/) con una serie de destacadas iniciativas que promueven el desarrollo del periodismo en Latinoamérica. Se trata de una generación de profesionales con una perspectiva renovada, que insufla aire fresco, credibilidad y recursos para la formación de los periodistas:
 

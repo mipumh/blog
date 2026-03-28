@@ -3,13 +3,10 @@ layout: post
 title: >-
   Ana López (periodista móvil): “Trabajar con el móvil tiene muchas ventajas.
   Puedo grabar y editar mi historia y no necesito pisar una redacción”
-author:
-  name: Laura Sánchez Benejama
-  twitter: LauraSB_7
-  gplus:  
-  bio: Periodismo UMH
-  image: benejama.webp
-  link: https://twitter.com/LauraSB_7
+author: Laura Sánchez Benejama
+categories:
+  - tecnologia
+image: /images/shots/Ana López.jpg
 ---
 [Ana López](https://periodistamovil.com/) es periodista móvil (“[Mojo](https://www.watchity.com/es/blog/conoces-el-mobile-journalism-mojo-o-periodismo-movil/)”), una tendencia multimedia cada vez más extendida por los profesionales independientes, que emplean un *smarthphone* como herramienta de trabajo. Esta navarra se autodenomina “**autónoma precaria**” por las reticencias a su forma de trabajar, pero se considera una afortunada por poder desempeñar el periodismo a su manera. Desde su arranque profesional en 1998, ha colaborado en medios como [Canal 6 Navarra](https://www.natv.es/) o el programa deportivo semanal “**Hoy Deporte**” de ZTV. También ha trabajado en gabinetes de comunicación, y en periódicos digitales como [Ibinews](https://www.ibinews.com/), con sede en Madrid y Nueva York. Ha impartido formación en [La Escuela de Comunicación de Unidad Editorial](https://www.escuelaunidadeditorial.es/), [Atresmedia](https://www.atresmedia.com/), [Grupo Godó](http://www.grupogodo.com/) y en el [Grupo la Información](https://www.lainformacion.es/html/index.html). Actualmente freelance, considera una ventaja poder gestionar su tiempo al desempeñar su trabajo, y se muestra una apasionada del reporterismo móvil. Afirma que un taller en la [Universidad de Columbia](https://www.universia.es/estudiar-extranjero/estados-unidos/universidades/columbia-university/735/40952) en 2013 “le abrió los ojos” y le mostró la potencia del teléfono móvil para contar historias. Ana López sigue investigando el multimedia y ha impartido clases en el Máster en Innovación en Periodismo.
 

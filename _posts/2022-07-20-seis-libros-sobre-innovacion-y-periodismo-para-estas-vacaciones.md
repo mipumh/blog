@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Seis libros sobre innovación y periodismo para estas vacaciones
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/libros-sobre-innovación-y-periodismo-para-leer-estas.jpg
 ---
 ![]({{ site.baseurl }}/images/shots/libros-sobre-innovación-y-periodismo-para-leer-estas.jpg)
 

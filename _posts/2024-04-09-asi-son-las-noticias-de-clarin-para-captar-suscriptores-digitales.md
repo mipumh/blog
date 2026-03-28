@@ -2,13 +2,10 @@
 layout: post
 title: Así son las noticias que elabora ‘Clarín’ para captar suscriptores digitales
 periscopio: si
-author:
-  name: Ismael Nafría
-  twitter: ismaelnafria
-  gplus:  
-  bio: Periodista y consultor especializado en medios digitales. Autor de la newsletter <a href="https://tendencias.substack.com/">Tendenci@s</a> y de los libros “La reinvención de The New York Times” y “Clarín, actualizado”
-  image: nafria.jpeg
-  link: https://twitter.com/ismaelnafria
+author: Ismael Nafría
+categories:
+  - industria
+image: /images/001/clarin-libro.jpeg
 ---
 El diario argentino *[Clarín](https://www.clarin.com/)* es el líder por número de suscriptores entre los medios de habla hispana de todo el mundo. Cuenta actualmente con más de 700.000 suscriptores y se ha marcado la meta de alcanzar el millón de usuarios de pago en los próximos años. *Clarín* lanzó su suscripción digital en abril de 2017, siguiendo la estela de *The New York Times* o los grandes diarios de Brasil, entre otros. La suscripción es un elemento esencial en el proceso de transformación digital que ha vivido *Clarín*, como cuento de manera detallada en el libro [Clarín, actualizado](https://www.galaxiagutenberg.com/producto/clarin-actualizado/) publicado por Galaxia Gutenberg en noviembre de 2023.
 

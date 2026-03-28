@@ -3,13 +3,10 @@ layout: post
 title: ¿Cómo suenan los podcasts en España? Radiografía de la producción
   original en las plataformas de audio en 2023
 periscopio: si
-author:
-  name: Luis Miguel Pedrero
-  twitter: luismipedrero
-  gplus:  
-  bio: Catedrático en la Facultad de Comunicación y Artes de la Universidad Nebrija
-  image: pedrero.jpeg
-  link: https://twitter.com/luismipedrero
+author: Luis Miguel Pedrero
+categories:
+  - narrativas
+image: /images/001/podcast-1.png
 ---
 Las principales plataformas de *podcast* en España publicaron 209 títulos originales en 2023, 54 menos que en el año anterior. Este descenso se debe, en gran medida, al cambio de modelo de Sonora, que en junio abandonó la suscripción para convertirse en una plataforma en abierto y dejó de estrenar producciones (pasó de 84 en 2022 a 25 en 2023: 59 menos). Las dos temáticas mayoritarias siguen siendo las de ‘Cultura y Educación’ y ‘Salud y bienestar’, pero –a diferencia de 2022– el género conversacional (59%) se impone al narrativo de no ficción (26%) y al narrativo de ficción (15%). Estos datos avanzan los resultados de un estudio del [Observatorio Nebrija del Español](https://www.nebrija.com/catedras/observatorio-nebrija-espanol/) que se hará público en mayo durante el Festival Iberoamericano [Estación Podcast](https://www.estacionpodcast.com/).
 

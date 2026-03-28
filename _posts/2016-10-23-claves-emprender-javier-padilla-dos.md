@@ -2,13 +2,10 @@
 layout: post
 title: Consejos para emprender en el sector de la información (II)
 excerpt: "Continuamos con una serie de recomendaciones, basadas en mi experiencia personal, que te permitirán llevar a cabo con éxito tu propio proyecto en el ámbito de la comunicación."
-author:
-  name: Javier Padilla
-  twitter: elpady
-  gplus:  
-  bio: Cofundador de Nabumbu y El Desmarque
-  image: padi.webp
-  link: https://twitter.com/elpady
+author: Javier Padilla
+categories:
+  - tecnologia
+image: /images/shots/2pad0.jpg
 ---
 _[Continuamos](http://mip.umh.es/blog/2016/10/15/claves-emprender-javier-padilla/) con una serie de recomendaciones, basadas en mi experiencia personal, que te permitirán llevar a cabo con éxito tu propio proyecto en el ámbito de la comunicación:_
 

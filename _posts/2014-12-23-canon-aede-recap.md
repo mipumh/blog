@@ -2,13 +2,10 @@
 layout: post
 title: Todo lo que se ha dicho de la Tasa Google que quizá no sepas
 excerpt: "Se cumple una semana del cierre de Google News en España. Es la primera consecuencia de la reforma de la Ley de Propiedad Intelectual, que introduce la conocida como Tasa Google, un sistema de compensación que obliga a los agregadores de contenidos a pagar a los autores de las informaciones que enlazan."
-author:
-  name: Lorena Escandell
-  twitter: lorenaescandell
-  gplus: lorenaescandell 
-  bio: Community Manager del MIP
-  image: les.webp
-  link: https://twitter.com/lorenaescandell
+author: Lorena Escandell
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

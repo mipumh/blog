@@ -3,14 +3,11 @@ published: true
 layout: post
 title: Apps para trabajar en equipo de forma eficaz
 excerpt: "Lo que coloquialmente se denomina la nube y que no es sino una abreviatura del inglés cloud computing ha supuesto un nuevo paradigma a la hora de compartir documentos y trabajar de forma colaborativa. Si bien existían numerosos servicios basados en este concepto, hace apenas un par de años no era muy habitual trabajar de forma remota sin almacenar nuestros propios archivos cerca. Las conexiones para la transmisión de datos cada vez más rápidas y ubicuas lo han hecho posible."
-author:
-  name: Sergio M. Mahugo
-  twitter: smmahugo
-  gplus:  
-  bio: Coordinador de Tecnologías
-  image: mahugo.jpg
-  link: https://twitter.com/smmahugo
+author: Sergio M. Mahugo
 type: text
+categories:
+  - redaccion
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

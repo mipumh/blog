@@ -4,15 +4,11 @@ cover_image: rok2.webp
 layout: post
 title: Proyectos en la frontera de la innovación periodística&#58 el Knight Lab
 excerpt: "Tener un laboratorio de innovación periodística ya no es ninguna novedad. Las batas blancas y las probetas por sí solas no sirven: la fórmula del éxito ahora radica en los resultados de sus experimentos. Buenos ejemplos hay en todos los ámbitos, pero en la frontera que une la universidad con la profesión destaca uno por encima de los demás: el Knight Lab."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/cibermensaje
+author: arias
+categories:
+  - narrativas
+image: /images/shots/rok2.webp
 ---
-
 Tener un laboratorio de innovación periodística ya no es ninguna novedad. Las batas blancas y las probetas por sí solas no sirven: la fórmula del éxito ahora radica en los resultados de sus experimentos. Buenos ejemplos hay en todos los ámbitos, pero en la frontera que une la universidad con la profesión destaca uno por encima de los demás: el [Knight Lab](http://knightlab.northwestern.edu/).
 
 Esta iniciativa del Medill School of Journalism y la McCormick School of Engineering de la Northwestern University (Illinois) [se define como](http://knightlab.northwestern.edu/about/) un **equipo de periodistas y tecnólogos** que trabajan para avanzar en la innovación de los medios a través de la exploración y la experimentación. Para ello, cuentan con el apoyo de tres fundaciones (la Knight, la Robert R. McCormick y la National Science) y [el trabajo](http://knightlab.northwestern.edu/about/team/) de seis profesores, seis profesionales (la mayoría, desarrolladores informáticos) y diversos estudiantes.

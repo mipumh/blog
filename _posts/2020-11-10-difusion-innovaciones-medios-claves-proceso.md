@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "La difusión de las innovaciones en los medios de comunicación: claves de un proceso"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles  
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/shots/everett-rogers.png
 ---
 La teoría de la Difusión de Innovaciones (DOI) es el trabajo seminal del sociólogo Everett M. Rogers (1931-2004). En este artículo apuntamos el origen y los puntos esenciales de la DOI. En el caso de la difusión de las innovaciones en los medios, extraemos algunas conclusiones de los principales estudios que analizan cuáles son las claves para implementar con éxito innovaciones en los productos, distribución, organización y vías de comercialización.
 

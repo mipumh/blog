@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <!-- Dark mode detection: runs before CSS to prevent flash -->
+  <script>
+  (function() {
+    var theme = localStorage.getItem('theme');
+    if (!theme) {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+  </script>
+
+  <!-- Preload critical fonts -->
+  <link rel="preload" href="{{ site.baseurl }}/assets/fonts/SourceSans3-Regular.woff2"
+        as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ site.baseurl }}/assets/fonts/PlayfairDisplay-Bold.woff2"
+        as="font" type="font/woff2" crossorigin>
+
+  {% seo %}
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+  <!-- RSS -->
+  {% feed_meta %}
+</head>
+<body>
+  <a href="#main-content" class="skip-link visually-hidden-focusable">Saltar al contenido</a>
+
+  {% include header.html %}
+
+  <main id="main-content">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <!-- Search overlay -->
+  <div id="search-overlay" class="search-overlay" hidden>
+    <div class="search-overlay__inner">
+      <button class="search-overlay__close" aria-label="Cerrar búsqueda">&times;</button>
+      <input type="search" id="search-input" class="search-input"
+             placeholder="Buscar artículos..." autocomplete="off">
+      <div id="search-results" class="search-results" role="listbox"></div>
+    </div>
+  </div>
+
+  <!-- Deferred scripts -->
+  <script defer src="{{ site.baseurl }}/assets/js/header-scroll.js"></script>
+  <script defer src="{{ site.baseurl }}/assets/js/newsletter-inject.js"></script>
+  <script defer src="{{ site.baseurl }}/assets/js/search.js"></script>
+  <script defer>
+    // Dark mode toggle
+    var toggle = document.getElementById('theme-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', function() {
+        var current = document.documentElement.getAttribute('data-theme');
+        var next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+      });
+    }
+    // Mobile menu toggle
+    var menuBtn = document.getElementById('menu-toggle');
+    var mobileMenu = document.getElementById('mobile-menu');
+    if (menuBtn && mobileMenu) {
+      menuBtn.addEventListener('click', function() {
+        var expanded = menuBtn.getAttribute('aria-expanded') === 'true';
+        menuBtn.setAttribute('aria-expanded', !expanded);
+        mobileMenu.classList.toggle('is-open');
+        document.body.classList.toggle('menu-open');
+      });
+    }
+  </script>
+</body>
+</html>

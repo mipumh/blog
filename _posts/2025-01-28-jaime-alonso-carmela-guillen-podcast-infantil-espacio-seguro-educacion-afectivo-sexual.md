@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Jaime Alonso y Carmela Guillén, creadores del podcast infantil 'Las TRES a las 3': “El podcast ofrece un espacio seguro donde abordar la educación afectivo-sexual con naturalidad”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - narrativas
+image: /images/001/las-3-a-las-3.jpg
 ---
 **Jaime Alonso**, profesor de periodismo en la Universidad de Murcia, y **Carmela Guillén**, psicóloga y maestra de educación especial, desarrollaron en plena pandemia un proyecto innovador junto a sus tres hijas, de 7, 8 y 10 años, el pódcast infantil *[Las TRES a las 3](https://micuerpomepertenece.es/las-tres-a-las-3-un-podcast-para-la-prevencion-de-la-violencia-sexual-infantil/)*, que aborda la prevención frente a los abusos sexuales en la infancia. En el podcast se escuchan diálogos protagonizados por las propias niñas con la finalidad de que niños y niñas de entre 6 y 12 años aprendan a detectar y rechazar posibles situaciones de este tipo de violencia. El podcast ha sido elaborado por la Facultad de Comunicación y Documentación de la Universidad de Murcia en colaboración con la Fundación Márgenes y Vínculos. En la entrevista, Carmela y Jaime explican esta iniciativa.
 

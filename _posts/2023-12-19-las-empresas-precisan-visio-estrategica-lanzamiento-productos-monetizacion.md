@@ -2,13 +2,10 @@
 layout: post
 title: Las empresas precisan de una visión estratégica, tanto en el lanzamiento
   de nuevos productos como en su monetización
-author:
-  name: Caterina Foá
-  twitter: caterinz_obs
-  gplus:  
-  bio: Investigadora del ISCTE-IUL (Portugal)
-  image: caterina.jpeg
-  link: https://twitter.com/caterinz_obs
+author: Caterina Foá
+categories:
+  - industria
+image: /images/001/empresa-1.jpg
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *empresa*.
 

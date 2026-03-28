@@ -1,0 +1,121 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.author] %}
+{% assign cat_slug = page.categories | first %}
+{% assign section = site.data.sections[cat_slug] %}
+<article class="article" itemscope itemtype="https://schema.org/Article">
+
+  <header class="article-header">
+    <div class="container-xl">
+      <div class="article-header__inner">
+        {% if cat_slug %}
+        <a href="{{ site.baseurl }}/{{ cat_slug }}/" class="category-pill"
+           style="--pill-color: {% if section %}{{ section.color }}{% else %}var(--color-brand){% endif %}"
+           data-pagefind-filter="category">
+          {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
+        </a>
+        {% endif %}
+        <h1 class="article-header__title" itemprop="headline">
+          {{ page.title }}
+        </h1>
+        {% if page.subtitle %}
+        <p class="article-header__deck">{{ page.subtitle }}</p>
+        {% endif %}
+        <div class="article-header__meta">
+          {% if author %}
+          <a href="{{ site.baseurl }}/authors/{{ page.author }}/" class="meta-author">
+            {% if author.avatar %}
+            <img src="{{ site.baseurl }}{{ author.avatar }}" alt="" class="avatar avatar--md">
+            {% endif %}
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+              <span itemprop="name">{{ author.name }}</span>
+            </span>
+          </a>
+          {% endif %}
+          <time datetime="{{ page.date | date_to_xmlschema }}"
+                itemprop="datePublished">
+            {{ page.date | date: "%d %B %Y" }}
+          </time>
+          {% assign words = content | number_of_words %}
+          {% assign mins = words | divided_by: 200 %}
+          {% if mins < 1 %}{% assign mins = 1 %}{% endif %}
+          <span>· {{ mins }} min</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {% if page.image %}
+  <figure class="article-hero">
+    <div class="container-xl">
+      <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}"
+           loading="eager" fetchpriority="high" itemprop="image"
+           width="900" height="506">
+      {% if page.image_caption %}
+      <figcaption>{{ page.image_caption }}</figcaption>
+      {% endif %}
+    </div>
+  </figure>
+  {% endif %}
+
+  <div class="article-body" data-pagefind-body>
+    <div class="container-xl">
+      <div class="article-body__inner" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% if page.tags.size > 0 %}
+  <div class="container-xl">
+    <div class="article-tags">
+      {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="tag-pill">{{ tag }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if author %}
+  <div class="container-xl">
+    {% include author-bio.html author=author author_slug=page.author %}
+  </div>
+  {% endif %}
+
+  <div class="container-xl">
+    {% include related-posts.html %}
+  </div>
+
+  <!-- Newsletter template for injection after paragraph 3 -->
+  <template id="newsletter-tpl">
+    {% include newsletter-inline.html %}
+  </template>
+
+  <!-- Schema.org structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    {% if page.subtitle %}"description": {{ page.subtitle | jsonify }},{% endif %}
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    {% if page.image %}"image": "{{ site.url }}{{ site.baseurl }}{{ page.image }}",{% endif %}
+    "author": {
+      "@type": "Person"{% if author %},
+      "name": {{ author.name | jsonify }}{% if author.link %},
+      "url": {{ author.link | jsonify }}{% endif %}{% endif %}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "url": "{{ site.url }}{{ site.baseurl }}/"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+  }
+  </script>
+</article>

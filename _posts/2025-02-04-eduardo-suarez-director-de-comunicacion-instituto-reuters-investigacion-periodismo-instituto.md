@@ -2,13 +2,10 @@
 layout: post
 title: "Eduardo Suárez, director editorial del Instituto Reuters: “La
   conexión entre el mundo de la investigación y el mundo del periodismo es algo especial en el Instituto; en esto, somos únicos”"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/001/eduardosuarez-scaled-1.jpg
 ---
 [Eduardo Suárez](https://x.com/eduardosuarez) (León, 1979) es director de comunicación del [Instituto Reuters para el Estudio del Periodismo en la Universidad de Oxford](https://reutersinstitute.politics.ox.ac.uk/). Trabajó 14 años para El Mundo y fue corresponsal en Londres, Nueva York y Bruselas. Obtuvo el prestigioso Premio García Márquez de Periodismo (2014) por un reportaje [publicado en El Mundo ](http://www.elmundo.es/television/2014/10/02/542ca9ebe2704eb2458b4595.html)sobre el 25 aniversario del Exxon Valdez y ha publicado tres libros sobre política estadounidense. Es co-fundador de El Español y del chabot [Politibot](https://politibot.io/). Ha escrito sobre periodismo y política para el Washington Post, Letras Libres, El País y Nieman Reports, entre otros. Su función consiste en diseñar y ejecutar una estrategia de comunicación integral y atender las necesidades de los principales destinatarios ​​del Instituto Reuters: periodistas, editores, directivos de medios y empresarios que conforman el futuro del periodismo en todo el mundo. Lidera la estrategia del Instituto para crear espacios donde periodistas, académicos, tecnólogos y líderes puedan aprender conjuntamente y proponer soluciones para los desafíos que afronta la profesión.
 

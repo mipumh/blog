@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Seis libros sobre periodismo para este verano
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus: 
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - industria
+image: /images/001/libros-para-leer-este-verano.jpg
 ---
 Seleccionamos una serie de libros sobre periodismo, publicados a lo largo de 2025, que recomendamos durante las vacaciones estivales. Spoiler: he escrito uno de ellos.
 

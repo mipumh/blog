@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% assign cat_slug = page.pagination.category | default: page.category %}
+{% assign section = site.data.sections[cat_slug] %}
+{% assign section_color = section.color | default: "var(--color-brand)" %}
+
+<div class="section-page">
+  <div class="container-xl">
+
+    <header class="section-header" style="--section-accent: {{ section_color }}">
+      <div class="section-header__bar" aria-hidden="true"></div>
+      <h1 class="section-header__title">
+        {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
+      </h1>
+      {% if section.description %}
+      <p class="section-header__desc">{{ section.description }}</p>
+      {% endif %}
+    </header>
+
+    {% if paginator %}
+    <div class="row g-4">
+      {% for post in paginator.posts %}
+      <div class="col-12 col-sm-6 col-lg-4">
+        {% include card.html post=post %}
+      </div>
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+
+    {% else %}
+    {% assign section_posts = site.posts | where_exp: "p", "p.categories contains cat_slug" %}
+    <div class="row g-4">
+      {% for post in section_posts %}
+      <div class="col-12 col-sm-6 col-lg-4">
+        {% include card.html post=post %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  </div>
+</div>

@@ -3,14 +3,11 @@ published: true
 layout: post
 title: Crece la demanda de profesionales en la producción de contenidos digitales
 excerpt: "A menudo se ha hablado tanto en el Máster de Innovación en Periodismo como en este propio blog de la importancia que tienen los contenidos en el nuevo entorno digital. El contenido es el rey y la conversación su consorte, la reina, se dice. Y es que, en un entorno de infoxicación como en el que nos encontramos, es necesario captar la atención del usuario con asuntos relevantes, con textos (o videos, o fotos, o infografías...) de calidad, con formatos interactivos."
-author:
-  name: Sergio M. Mahugo
-  twitter: smmahugo
-  gplus:  
-  bio: Coordinador de Tecnologías
-  image: mahugo.jpg
-  link: https://twitter.com/smmahugo
+author: Sergio M. Mahugo
 type: text
+categories:
+  - narrativas
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

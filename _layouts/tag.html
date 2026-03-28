@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% assign tag_name = page.pagination.tag | default: page.tag %}
+
+<div class="tag-page">
+  <div class="container-xl">
+
+    <header class="section-header">
+      <div class="section-header__bar" aria-hidden="true"></div>
+      <h1 class="section-header__title">#{{ tag_name }}</h1>
+    </header>
+
+    {% if paginator %}
+    <div class="row g-4">
+      {% for post in paginator.posts %}
+      <div class="col-12 col-sm-6 col-lg-4">
+        {% include card.html post=post %}
+      </div>
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+
+    {% else %}
+    {% assign tag_posts = site.posts | where_exp: "p", "p.tags contains tag_name" %}
+    <div class="row g-4">
+      {% for post in tag_posts %}
+      <div class="col-12 col-sm-6 col-lg-4">
+        {% include card.html post=post %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  </div>
+</div>

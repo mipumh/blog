@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Casos prácticos de medios y periodistas que conectan con sus audiencias
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - audiencias
+image: /images/shots/koski-participatoryillo.jpg
 ---
 [La importancia de conectar con los lectores y fomentar el engagement](https://mip.umh.es/blog/2023/05/08/conectar-conversar-comunidad-claves-periodismo-comprometido/) resulta cada vez más patente. En este artículo, **recogemos 12 iniciativas de participación que han puesto en marcha con éxito medios en todo el mundo**. La clave está en que el periodista piense en los intereses de las personas que conforman su audiencia y ponga en práctica mecanismos para escucharlas. En definitiva, se trata de tener iniciativa y promover un cambio de mentalidad volcado en las necesidades de los usuarios y el servicio público.
 

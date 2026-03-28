@@ -3,13 +3,10 @@ layout: post
 title: Cinco claves para mejorar nuestro storytelling
 subtitle: "Las empresas demandan contenidos audiovisuales que logren seducir al espectador a través de buenos personajes, conflicto y acción"
 excerpt: "Cada vez, las empresas demandan más contenidos audiovisuales, es decir, historias que logren seducir al espectador a través de buenos personajes, conflicto y acción. La experiencia de los expertos nos puede ayudar a mejorar nuestra forma de contar historias, es decir, nuestro storytelling."
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - tecnologia
+image: /images/shots/innovacion_periodismo.jpeg
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

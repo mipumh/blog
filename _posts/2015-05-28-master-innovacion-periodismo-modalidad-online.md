@@ -4,13 +4,10 @@ cover_image: mipon.webp
 layout: post
 title: Nace el MIP Online&#58 innovación periodística a un solo clic
 excerpt: "La versión online del Máster de Innovación en Periodismo ya está en marcha. Este programa oficial, que sitúa las ideas y las técnicas del periodismo más innovador al alcance de todos, estrena nueva página web con sus puntos clave: una plataforma dinámica, sencilla e interactiva; unos contenidos útiles, completos y adaptados; y un equipo accesible y preparado para proporcionar una formación eficaz y práctica."
-author:
-  name: Félix Arias
-  twitter: cibermensaje
-  gplus:  
-  bio: Coordinador Nuevas Narrativas
-  image: flx.webp
-  link: https://twitter.com/cibermensaje
+author: arias
+categories:
+  - el-master
+image: /images/shots/mipon.webp
 ---
 La versión online del **Máster de Innovación en Periodismo** ya está en marcha. Este programa oficial, que sitúa las ideas y las técnicas del periodismo más innovador a un solo clic, estrena [nueva página web](http://mip.umh.es/master-oficial-a-distancia-periodismo-online.html) con sus puntos clave: una plataforma dinámica, sencilla e interactiva; unos contenidos útiles, completos y adaptados; y un equipo accesible y preparado para proporcionar una formación eficaz y práctica.
  

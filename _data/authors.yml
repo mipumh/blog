@@ -1,69 +1,89 @@
-miguel_carvajal:
-  name: Miguel Carvajal
+carvajal:
+  name: "Miguel Carvajal"
+  short_name: carvajal
+  role: "Director del Máster en Innovación en Periodismo, UMH"
+  bio: "Profesor de Periodismo e investigador en innovación y modelos de negocio en medios."
+  avatar: /images/yo.webp
   twitter: mcarvajal_
-  bio: Director del Máster
-  image: yo.webp
   link: https://twitter.com/mcarvajal_
 
-jose_garcia_aviles:
-  name: Jose A. García Avilés
+garcia-aviles:
+  name: "Jose A. García Avilés"
+  short_name: garcia-aviles
+  role: "Catedrático de Periodismo, UMH"
+  bio: "Investigador en innovación periodística, calidad informativa y gestión de redacciones."
+  avatar: /images/jga.webp
   twitter: jagaraviles
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
   link: https://twitter.com/jagaraviles
 
-felix_arias:
-  name: Félix Arias
+arias:
+  name: "Félix Arias"
+  short_name: arias
+  role: "Subdirector del Máster, UMH"
+  bio: "Especialista en periodismo de datos, nuevas narrativas y visualización."
+  avatar: /images/flx.webp
   twitter: cibermensaje
-  bio: Subdirector del Máster
-  image: flx.webp
   link: https://twitter.com/flxarias
 
-alicia_de_lara:
-  name: Alicia de Lara
+de-lara:
+  name: "Alicia de Lara"
+  short_name: de-lara
+  role: "Profesora Titular en Periodismo, UMH"
+  bio: "Investigadora en diseño web, publicidad nativa y narrativas digitales."
+  avatar: /images/alicia.webp
   twitter: porqueeeyo
-  bio: Profesora Titular en Periodismo UMH
-  image: alicia.webp
   link: https://twitter.com/porqueeeyo
 
-cristian_marin:
-  name: Cristian R. Marín
+marin:
+  name: "Cristian R. Marín"
+  short_name: marin
+  role: "Profesor coordinador de Proyectos, UMH"
+  bio: "Investigador en innovación periodística y nuevos perfiles profesionales."
+  avatar: /images/crms.webp
   twitter: crms74
-  bio: Profesor coordinador de Proyectos
-  image: crms.webp
   link: https://twitter.com/crms74
 
-jose_luis_rojas:
-  name: José Luis Rojas
-  twitter: rojastorrijos
-  bio: Periodista y profesor de la Universidad de Sevilla
-  image: rojas.webp
-  link: https://twitter.com/rojastorrijos
-
-damaso_mondejar:
-  name: Dámaso Mondéjar
-  twitter: Monde97
-  bio: Doctorado UMH
-  image: monde97.webp
-  link: https://twitter.com/Monde97
-
-alba_garcia_ortega:
-  name: Alba García Ortega
+garcia-ortega:
+  name: "Alba García Ortega"
+  short_name: garcia-ortega
+  role: "Profesora de Nuevas Narrativas, UMH"
+  bio: "Especialista en nuevas narrativas, podcast y formatos innovadores."
+  avatar: /images/alba.png
   twitter: albagortega
-  bio: Profesora de Nuevas Narrativas
-  image: alba.png
   link: https://twitter.com/albagortega
 
-itziar_martinez:
-  name: Itziar Martínez
-  twitter: itziarmartinez_
-  bio: Periodismo UMH
-  image: itziar.webp
-  link: https://twitter.com/itziarmartinez_
-
-chema_valero:
-  name: Chema Valero
+valero:
+  name: "Chema Valero"
+  short_name: valero
+  role: "Profesor del Máster, UMH"
+  bio: "Especialista en producción audiovisual y contenidos digitales."
+  avatar: /images/chema.webp
   twitter: josvap
-  bio: Profesor del Máster
-  image: chema.webp
   link: https://twitter.com/josvap
+
+mondejar:
+  name: "Dámaso Mondéjar"
+  short_name: mondejar
+  role: "Investigador predoctoral, UMH"
+  bio: "Investigador en modelos de negocio y sostenibilidad de medios."
+  avatar: /images/monde97.webp
+  twitter: Monde97
+  link: https://twitter.com/Monde97
+
+rojas:
+  name: "José Luis Rojas"
+  short_name: rojas
+  role: "Profesor, Universidad de Sevilla"
+  bio: "Periodista y profesor especializado en periodismo deportivo e innovación."
+  avatar: /images/rojas.webp
+  twitter: rojastorrijos
+  link: https://twitter.com/rojastorrijos
+
+martinez:
+  name: "Itziar Martínez"
+  short_name: martinez
+  role: "Periodismo UMH"
+  bio: "Periodista especializada en nuevos formatos."
+  avatar: /images/itziar.webp
+  twitter: itziarmartinez_
+  link: https://twitter.com/itziarmartinez_

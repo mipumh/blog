@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Comunidades: el caldo de cultivo para un proyecto periodístico"
-author:
-  name: Jose A. García Avilés
-  twitter: jagaraviles
-  gplus:  
-  bio: Coordinador Módulo Audiencias
-  image: jga.webp
-  link: https://twitter.com/jagaraviles
+author: garcia-aviles
+categories:
+  - audiencias
+image: /images/shots/comunidad-de-personas.jpg
 ---
 Cualquier proyecto de comunicación debe contar con una comunidad a la que sirve. Esta es una premisa básica para entender que el periodismo es un servicio y que los periodistas nos dedicamos no solo a informar, sino a intentar resolver los problemas de las personas a las que nos dirigimos. No se trata de lanzar un medio y entonces buscar el aglutinar una comunidad en torno a esa iniciativa periodística, sino al revés. Como decía el fundador de Facebook, Mark Zuckerberg, “las comunidades ya existen, no hay que inventarlas”. En este artículo analizamos por qué las comunidades son esenciales para lanzar un proyecto periodístico y cómo podemos plantearlo de forma que resuelva sus necesidades, siguiendo la inspiración del profesor de emprendimiento periodístico Jeff Jarvis.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Redacción periodística con herramientas de IA: para qué sí y para qué no"
-author:
-  name: Alicia de Lara
-  twitter: porqueeeyo
-  gplus:  
-  bio: Profesora Titular en Periodismo UMH
-  image: alicia.webp
-  link: https://twitter.com/porqueeeyo
+author: de-lara
+categories:
+  - tecnologia
+image: /images/001/apertura.jpg
 ---
 Las publicaciones en torno a la utilidad de la Inteligencia Artificial (IA) para la producción de contenido periodístico describen [un abanico de posibilidades que facilitan la tarea](https://www.businessinsider.es/diferencias-chatgpt-plus-chatgpt-estandar-version-pago-1266020) de los profesionales. De hecho, desde hace ya unos años aparecen [ejemplos de cómo esta tecnología se está implementando en los medios](https://mip.umh.es/blog/2019/11/02/el-impacto-de-la-inteligencia-artificial-en-el-periodismo/). En julio de 2023 Google presentó en EE.UU. a Génesis, [una herramienta que utiliza IA](https://www.apmadrid.es/google-prueba-genesis-una-herramienta-de-inteligencia-artificial-capaz-de-redactar-noticias/) y es capaz de tomar información (datos de eventos actuales) y generar noticias. Y todo esto con el panorama de fondo de la [demanda de The New York Times’ a OpenAI y Microsoft por infracción de derechos de autor](https://elpais.com/tecnologia/2023-12-27/the-new-york-times-demanda-a-openai-y-microsoft-por-infraccion-de-derechos-de-autor.html).
 

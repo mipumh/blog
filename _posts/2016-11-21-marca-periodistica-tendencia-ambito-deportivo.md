@@ -3,15 +3,11 @@ layout: post
 title: "La marca periodística personal, tendencia en el ámbito deportivo"
 subtitle: El profesor José Luis Rojas analiza los atributos que deberían guiar el desarrollo profesional del periodista deportivo para proyectar una imagen solvente en la red 
 excerpt: "José Luis Rojas es periodista con amplia experiencia profesional (Radio Nacional de España, Canal Sur Radio, Estadio Deportivo y Sports.com). Es experto en Periodismo Deportivo y actualmente trabaja como Asesor de Calidad e Innovación Periodística en el diario Marca. Imparte docencia en la Universidad de Sevilla y en el Máster de Innovación en Periodismo."
-author:
-  name: José Luis Rojas
-  twitter: rojastorrijos
-  gplus:  
-  bio: Periodista y profesor universitario
-  image: rojas.webp
-  link: https://twitter.com/rojastorrijos
+author: rojas
+categories:
+  - tecnologia
+image: /images/shots/rojas0.jpg
 ---
-
 **José Luis Rojas es periodista con amplia experiencia profesional (Radio Nacional de España, Canal Sur Radio, Estadio Deportivo y Sports.com). Es experto en Periodismo Deportivo y actualmente trabaja como Asesor de Calidad e Innovación Periodística en el diario Marca. Imparte docencia en la Universidad de Sevilla y en el Máster de Innovación en Periodismo.**
 
 Cada vez es más evidente el cambio de paradigma en el nuevo paisaje mediático: de un casi exclusivo periodismo de medios hemos pasado a la eclosión de un periodismo de marcas personales. En un escenario en plena transformación postindustrial, marcado por la confluencia de los continuos avances tecnológicos, la crisis del modelo de negocio periodístico tradicional y los nuevos hábitos de consumo de una audiencia más participativa, el periodista hoy encuentra en las nuevas plataformas digitales la posibilidad de forjar y consolidar su propia marca profesional, una identidad ligada a una serie de atributos como experiencia, solvencia, cualificación, calidad, especialización y credibilidad, con la que crear comunidad y abrirse paso en el mercado laboral. 
