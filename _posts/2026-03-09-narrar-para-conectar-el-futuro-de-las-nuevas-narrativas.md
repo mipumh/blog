@@ -6,7 +6,7 @@ author:
   twitter: albagortega
   gplus:  
   bio: Profesora de Nuevas Narrativas
-  image: alba.png
+  image: alba.webp
   link: https://twitter.com/albagortega
 ---
 Hace apenas unos años, la innovación en narrativas y formatos parecía una carrera por ver quién llegaba antes al futuro. Hackatones, gafas de realidad virtual, periodismo sensorial, narrativas inmersivas… La conversación giraba en torno a la tecnología como si fuera un destino en sí mismo. Hoy las conversaciones apuntan en una dirección diferente. La tecnología sigue ahí —más presente que nunca—, pero ya no ocupa el centro del escenario. Ha dejado de ser la meta para convertirse en una aliada. Y la palabra que más se repite no es “innovación” ni “inmersión”. Es “conexión”, un concepto que surgió con fuerza en las conversaciones mantenidas con expertas y profesionales del sector —Sara I. Belled, Iker Barinaga, Sara Pérez-Seijo y Ana Sofía Paiva—, cuyas miradas ayudan a entender mejor este nuevo modo de pensar la innovación.
