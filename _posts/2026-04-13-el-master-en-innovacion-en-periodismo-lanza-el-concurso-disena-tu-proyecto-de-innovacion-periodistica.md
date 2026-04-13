@@ -2,6 +2,7 @@
 layout: post
 title: El Máster en Innovación en Periodismo lanza el concurso “Diseña tu
   proyecto de innovación periodística”
+permalink: /concurso/
 author:
   name: Jose A. García Avilés
 ---
