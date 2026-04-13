@@ -8,3 +8,7 @@ _site
 .obsidian
 CLAUDE.md
 .env
+scripts/__pycache__/
+scripts/ga4-credentials.json
+*.credentials.json
+analytics/
