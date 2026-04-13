@@ -15,20 +15,28 @@ jobs:
       - name: Instalar ImageMagick
         run: sudo apt-get install -y imagemagick
 
+      - name: Detectar imágenes nuevas del commit
+        id: changed
+        run: |
+          git diff --name-only HEAD~1 HEAD -- 'images/**' | \
+            grep -iE '\.(jpg|jpeg|png|webp)$' > /tmp/changed_images.txt || true
+          echo "Imágenes a optimizar:"
+          cat /tmp/changed_images.txt
+
       - name: Optimizar JPG/JPEG
         run: |
-          find images/ -type f \( -iname '*.jpg' -o -iname '*.jpeg' \) -print0 | \
-            xargs -0 -P 4 -I {} mogrify -strip -quality 85 -interlace Plane -resize '1400x>' "{}" || true
+          grep -iE '\.(jpg|jpeg)$' /tmp/changed_images.txt | \
+            xargs -d '\n' -P 4 -I {} mogrify -strip -quality 85 -interlace Plane -resize '1400x>' "{}" || true
 
       - name: Optimizar PNG
         run: |
-          find images/ -type f -iname '*.png' -print0 | \
-            xargs -0 -P 4 -I {} mogrify -strip "{}" || true
+          grep -iE '\.png$' /tmp/changed_images.txt | \
+            xargs -d '\n' -P 4 -I {} mogrify -strip "{}" || true
 
       - name: Optimizar WebP
         run: |
-          find images/ -type f -iname '*.webp' -print0 | \
-            xargs -0 -P 4 -I {} mogrify -strip -quality 85 -resize '1400x>' "{}" || true
+          grep -iE '\.webp$' /tmp/changed_images.txt | \
+            xargs -d '\n' -P 4 -I {} mogrify -strip -quality 85 -resize '1400x>' "{}" || true
 
       - name: Commit si hay cambios
         run: |
