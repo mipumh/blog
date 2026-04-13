@@ -6,9 +6,11 @@
   "headline": {{ page.title | jsonify }},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.date | date_to_xmlschema }}",
-  "author": {
+  {% if page.image %}"image": "{{ site.url }}{{ page.image }}",
+  {% endif %}"author": {
     "@type": "Person",
-    "name": {{ page.author.name | jsonify }}
+    "name": {{ page.author.name | jsonify }}{% if page.author.link %},
+    "url": {{ page.author.link | jsonify }}{% endif %}
   },
   "publisher": {
     "@type": "Organization",
