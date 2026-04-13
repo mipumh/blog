@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: article
 cover_image: srcc.webp
 title: Open source + periodismo&#58 vía rápida a la innovación (1)  
 excerpt: "Asistimos a una eclosión de proyectos periodísticos que se han beneficiado de lenguajes de programación, librerías y aplicaciones de software desarrolladas con esa filosofía. Como contraprestación, los medios más innovadores de todo el mundo liberan el código de sus proyectos, arquitecturas y aplicaciones web. Este es un repaso seriado a las principales aportaciones del binomio open source y periodismo."
 author: carvajal
 categories:
   - redaccion
-image: /images/shots/srcc.webp
+image: /images/srcc.webp
+tags:
+  - innovacion-periodistica
 ---
 El open source ha encontrado en el periodismo un terreno propicio para expandirse y generar proyectos muy atractivos. En estos tiempos de declive del modelo de prensa industrial, casi **a diario se abre un nuevo reto tecnológico que zarandea los viejos presupuestos económicos** y empresariales que han permitido financiar el periodismo. ¿Qué puede aportar el open source? Mucho. 
 

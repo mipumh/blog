@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Descarga gratis el libro "Mobile First, comunicación multipantalla" de la Universidad Miguel Hernández
 excerpt: "En 2014 se cumplieron las predicciones del Pew Research Center, 'los móviles serán la principal forma de acceso a internet'. Vivimos permanentemente conectados y esto supone un verdadero desafío para el negocio de la información. Según un informe de Cisco, en 2020 habrá 5.5 billones de usuarios de móviles en todo el mundo y el 75% de los contenidos online serán de vídeos para el móvil. En España, la tasa de penetración de smartphones ha crecido del 63% al 91% en los últimos tres años, es decir, 9 de cada 10 usuarios dispone de un móvil."
 author: de-lara
 categories:
   - narrativas
-image: /images/shots/portada-libro-jornadas.webp
+image: /images/shots/portada-libro-jornadas.jpg
+tags:
+  - entrevista
+  - libros-recursos
 ---
 En 2014 se cumplieron las predicciones del **[Pew Research Center](http://www.pewresearch.org/): "Los móviles serán la principal forma de acceso a internet"**. Vivimos permanentemente conectados y esto supone un verdadero desafío para el negocio de la información. Según un informe de Cisco, en 2020 habrá 5.5 billones de usuarios de móviles en todo el mundo **y el 75% de los contenidos online serán de vídeos para el móvil**. En España, la tasa de penetración de *smartphones* ha crecido del 63% al 91% en los últimos tres años, es decir, 9 de cada 10 usuarios dispone de *smartphone*. 
 

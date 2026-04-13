@@ -1,19 +1,19 @@
 ---
 published: true
 cover_image: rok2.webp
-layout: post
+layout: article
 title: Proyectos en la frontera de la innovación periodística&#58 el Knight Lab
 excerpt: "Tener un laboratorio de innovación periodística ya no es ninguna novedad. Las batas blancas y las probetas por sí solas no sirven: la fórmula del éxito ahora radica en los resultados de sus experimentos. Buenos ejemplos hay en todos los ámbitos, pero en la frontera que une la universidad con la profesión destaca uno por encima de los demás: el Knight Lab."
 author: arias
 categories:
   - narrativas
-image: /images/shots/rok2.webp
+image: /images/rok2.webp
+tags:
+  - emprendimiento
 ---
 Tener un laboratorio de innovación periodística ya no es ninguna novedad. Las batas blancas y las probetas por sí solas no sirven: la fórmula del éxito ahora radica en los resultados de sus experimentos. Buenos ejemplos hay en todos los ámbitos, pero en la frontera que une la universidad con la profesión destaca uno por encima de los demás: el [Knight Lab](http://knightlab.northwestern.edu/).
 
 Esta iniciativa del Medill School of Journalism y la McCormick School of Engineering de la Northwestern University (Illinois) [se define como](http://knightlab.northwestern.edu/about/) un **equipo de periodistas y tecnólogos** que trabajan para avanzar en la innovación de los medios a través de la exploración y la experimentación. Para ello, cuentan con el apoyo de tres fundaciones (la Knight, la Robert R. McCormick y la National Science) y [el trabajo](http://knightlab.northwestern.edu/about/team/) de seis profesores, seis profesionales (la mayoría, desarrolladores informáticos) y diversos estudiantes.
-
-![](https://db.tt/d5kFzrCL)
 
 Con estas bases y, sobre todo, con [unas ideas muy claras](http://www.pbs.org/mediashift/2013/12/how-northwesterns-knight-lab-finds-room-for-big-experimental-ideas/), el Knight Lab ha logrado lanzar medio centenar de [proyectos periodísticos](http://projects.knightlab.com/class-projects) y casi una decena de [prototipos](http://projects.knightlab.com/prototypes) con la visualización y las redes sociales como eje principal.  La mayoría germinan en clase y se difunden a través de [múltiples eventos](http://knightlab.northwestern.edu/events/).
 

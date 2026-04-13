@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: article
 title: Los canales de 24 horas de noticias en el ecosistema mediático actual. El caso de CNN
 author: garcia-aviles
 categories:
   - tecnologia
-image: /images/shots/cnn-logo.webp
+image: /images/shots/cnn-logo.jpg
 ---
 Los canales todo-noticias, desde CNN hasta BBC World, pasando por el canal 24 horas de TVE que en septiembre cumple 25 años, nacieron como un servicio de información continua. La CNN fue pionera en desarrollar la maquinaria y la estrategia para ofrecer coberturas en directo y nutrirse de acuerdos internacionales. Sin embargo, en un ecosistema en el que la audiencia se informa cada vez más a través de las redes sociales y accede a contenidos en directo mediante múltiples plataformas, ¿qué papel juegan estos canales? Analizamos el caso de la CNN, tras el fiasco del cierre del servicio de streaming CNN+ en abril de 2022.
 
