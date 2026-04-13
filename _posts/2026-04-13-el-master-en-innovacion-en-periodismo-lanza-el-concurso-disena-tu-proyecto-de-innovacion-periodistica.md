@@ -3,7 +3,6 @@ layout: post
 title: El Máster en Innovación en Periodismo lanza el concurso “Diseña tu
   proyecto de innovación periodística”
 permalink: /concurso/
-author: garcia-aviles
 categories:
   - el-master
 image: /images/001/disena-tu-proyecto-de-innovacion-periodistica.jpg
@@ -11,6 +10,13 @@ tags:
   - concurso
   - estudiantes
   - emprendimiento
+author:
+  name: Jose A. García Avilés
+  twitter: jagaraviles
+  gplus: 
+  bio: Coordinador Módulo Audiencias
+  image: jga.webp
+  link: https://twitter.com/jagaraviles
 ---
 ¿Estudias un grado de periodismo en España? ¿Quieres contarnos tu propuesta de proyecto periodístico innovador? ¡Participa en el concurso “Diseña tu proyecto de innovación periodística” y obtendrás el reconocimiento a tu talento y capacidad!
 
