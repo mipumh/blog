@@ -12,3 +12,4 @@ scripts/__pycache__/
 scripts/ga4-credentials.json
 *.credentials.json
 analytics/
+node_modules
