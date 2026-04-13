@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Facebook Journalism Project&#58 &#191La consolidación del gigante social en las noticias&#63 
 excerpt: "El 2016 terminó con dos conceptos sobre la mesa que preocuparán al periodismo y a los medios a lo largo de este año, posverdad y fake news. Aunque desde el mismo origen de las redes sociales siempre existieron bulos que circularon a través de internet, y más de un medio cayó en la trampa, la elección de Donald Trump como presidente de Estados Unidos plantea la posibilidad que las noticias falsas pudieran incidir incluso en resultados electorales."
 author: Patricio Figueroa
 categories:
   - tecnologia
 image: /images/shots/platform0.jpg
+tags:
+  - redes-sociales
 ---
 El 2016 terminó con dos conceptos sobre la mesa que (pre)ocuparán al periodismo y a los medios a lo largo de este año: **"posverdad"** ([palabra del año según el diccionario Oxford](https://www.oxforddictionaries.com/press/news/2016/12/11/WOTY-16)) y “**fake news**” (noticias falsas). Aunque desde el mismo origen de las redes sociales siempre existieron bulos que circularon a través de internet, y más de un medio cayó en la trampa, la elección de Donald Trump como presidente de Estados Unidos plantea la posibilidad que las noticias falsas pudieran incidir incluso en resultados electorales.
 

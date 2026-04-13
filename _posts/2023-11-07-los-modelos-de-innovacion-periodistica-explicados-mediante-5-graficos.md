@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Los modelos de innovación periodística explicados mediante 5 gráficos
 author: garcia-aviles
 categories:

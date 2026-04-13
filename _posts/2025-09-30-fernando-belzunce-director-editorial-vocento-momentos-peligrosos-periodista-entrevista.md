@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Fernando Belzunce, director editorial de Vocento: “Estamos viviendo en
   momentos peligrosos y, precisamente por eso, ser periodista es muy
   interesante”"

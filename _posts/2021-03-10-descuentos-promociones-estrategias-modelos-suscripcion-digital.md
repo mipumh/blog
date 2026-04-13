@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Ofrecer un descuento al usuario y convencerle para quedarse: las
   promociones como estrategia clave en los modelos de suscripción"
 author: marin
 categories:
   - industria
 image: /images/shots/promociones-descuentos-muros-pago-periodismo.jpg "descuentos-promociones-muros-pago-periodismo"
+tags:
+  - suscripciones
 ---
 El viraje de los medios hacia los modelos de suscripción digital es inexorable. [Con casi dos tercios de la inversión en publicidad digital en manos de Google, Facebook y Amazon](https://www.businessinsider.com/google-facebook-amazon-were-biggest-ad-revenue-winners-this-year-2020-12) , las principales empresas periodísticas en numerosos mercados han optado por las vías de ingresos provenientes de los lectores como alternativas a la dictadura de ComScore y las páginas vistas. El País, gracias a sus [90.000 suscriptores digitales](https://www.youtube.com/watch?v=NrGdBVijVtE), lidera la carrera en el mercado español. A nivel internacional, además de los clásicos ejemplos ―como el New York Times y el Wall Street Journal―, es posible encontrar casos que experimentan un ascenso meteórico, como el deportivo The Athletic, que en apenas cinco años de vida ha llegado al millón de suscriptores. Pero esto no significa, a pesar de que la tendencia es clara, que la transición sea un camino de rosas y los usuarios paguen los precios originales que cada cabecera ha establecido para su oferta: **los descuentos cumplen un papel muy importante en este entorno competitivo.**
 

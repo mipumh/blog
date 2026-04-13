@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: >-
   Eva Belmonte (Fundación Civio): “Para que la innovación sea eficaz debe
   involucrar a todo el medio, y no limitarlo a una zona de pruebas”

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: Periodismo en el universo TikTok
 author: de-lara
 categories:
   - tecnologia
 image: /images/shots/washington-post.jpg
+tags:
+  - tiktok-twitch
 ---
 Los medios de comunicación lo han visto claro, para llegar a las audiencias jóvenes hay que estar en las redes sociales y en este momento (no sabemos qué red social nos atrapará mañana), eso implica conquistar [TikTok](https://www.tiktok.com/?lang=en). La prueba es que muchos medios tradicionales han lanzado cuentas en esta red social. La base de datos [Mapping Journalism on Social Platforms](https://docs.google.com/spreadsheets/d/1n2a8dSLE6ZG5Eql_Bt9ayPi14WkZ3-IsviEmlI1f11Q/edit#gid=0) registra en su última actualización de mayo de 2023 más de 800 cuentas de TikTok de medios de comunicación. 
 

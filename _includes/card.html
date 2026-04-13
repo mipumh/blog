@@ -4,36 +4,32 @@
 {% assign section = site.data.sections[cat_slug] %}
 
 <article class="card-ed">
-  <a href="{{ site.baseurl }}{{ post.url }}" class="card-ed__link">
-    {% if post.image %}
+  {% if post.image %}
+  <a href="{{ site.baseurl }}{{ post.url }}" class="card-ed__img-link">
     <div class="card-ed__img-wrap">
       <img src="{{ site.baseurl }}{{ post.image }}" alt=""
            class="card-ed__img" loading="lazy" decoding="async"
            width="800" height="450">
     </div>
-    {% endif %}
-    <div class="card-ed__body">
-      {% if cat_slug %}
-      <span class="category-pill"
-            style="--pill-color: {% if section %}{{ section.color }}{% else %}var(--color-brand){% endif %}">
-        {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
-      </span>
-      {% endif %}
-      <h3 class="card-ed__title">{{ post.title }}</h3>
-      <p class="card-ed__excerpt">
-        {{ post.excerpt | strip_html | truncatewords: 20 }}
-      </p>
-      <div class="card-ed__meta">
-        {% if author %}
-        {% if author.avatar %}
-        <img src="{{ site.baseurl }}{{ author.avatar }}" alt="" class="avatar avatar--xs">
-        {% endif %}
-        <span>{{ author.name }}</span>
-        {% endif %}
-        <time datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%d %b %Y" }}
-        </time>
-      </div>
-    </div>
   </a>
+  {% endif %}
+  <div class="card-ed__body">
+    {% if cat_slug %}
+    <a href="{{ site.baseurl }}/{{ cat_slug }}/" class="category-pill">
+      {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
+    </a>
+    {% endif %}
+    <h3 class="card-ed__title">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    <div class="card-ed__meta">
+      {% if author %}
+      <a href="{{ site.baseurl }}/authors/{{ post.author }}/" class="card-ed__author">{{ author.name }}</a>
+      {% endif %}
+      <span class="card-ed__sep">&middot;</span>
+      <time datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%d %b %Y" }}
+      </time>
+    </div>
+  </div>
 </article>

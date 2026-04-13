@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Datorum: un proyecto para facilitar el acceso a los datos locales"
 author: Claudia Saumell
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Beatriz Lizarraga (Jefa de Proyectos Digitales, ABC): “No preveo grandes
   desarrollos blockchain a corto plazo en medios establecidos. Sí pequeñas
   pruebas de concepto para investigar”"

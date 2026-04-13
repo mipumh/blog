@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: Algunas claves para un uso responsable de la IA en las redacciones
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/data_journalist-1024x756.png
+tags:
+  - inteligencia-artificial
+  - organizacion-redacciones
 ---
 La IA está presente en nuestra vida cotidiana más de lo que pensamos. Cada vez que utilizamos un buscador, una red social, una aplicación de traducción o un asistente virtual, estamos interactuando con sistemas inteligentes que procesan datos y nos dan respuestas personalizadas. La IA nos permite diagnosticar enfermedades, aprender idiomas y detectar fraudes. Nos ayuda a filtrar el correo basura, recomendar productos y elegir series. En definitiva, nos facilita enormemente la existencia. Sin embargo, integrar la IA en la sociedad conlleva un riesgo inherente: si no se gestiona con cautela, podría exacerbar las desigualdades existentes. Los avances tecnológicos tienen el potencial de beneficiar a quienes ya ostentan riqueza económica, poder geopolítico y liderazgo de la tecnología. La integración cabal de la IA dependerá de si la usamos con responsabilidad para mejorar la calidad de vida y promover el bienestar social. Mediante un enfoque centrado en el ser humano, podremos aprovechar su potencial transformador al tiempo que mitigamos sus consecuencias negativas.
 

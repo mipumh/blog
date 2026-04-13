@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Estrategias y criterios de noticiabilidad de los medios deportivos en los
   canales de WhatsApp
 periscopio: si
@@ -7,6 +7,9 @@ author: rojas
 categories:
   - tecnologia
 image: /images/001/reuters-study-2024.jpg
+tags:
+  - redes-sociales
+  - periodismo-deportivo
 ---
 Los medios se han visto obligados a reorientar su estrategia de contenidos en redes sociales cuando estas, sobre todo las de siempre, han dejado de aportar tanto tráfico a las webs y cuando los usuarios, especialmente los de las nuevas generaciones, prefieren ya otras plataformas, videocéntricas y más cerradas, para compartir historias. En medio de un escenario en el que ya no vale tanto producir más sino sobre todo ser creativo en la distribución para ganar visibilidad, las marcas periodísticas han situado WhatsApp en el centro de su estrategia.
 

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Andy Kaltenbrunner, consultor de medios&#58 "Las empresas periodísticas que han crecido son aquellas cuyos profesionales han cambiado el chip"
 excerpt: "Andy Kaltenbrunner es periodista y consultor de medios austriaco. Ha sido profesor en academias y universidades de Viena, Alemania e institutos de EE.UU. y dirigió el equipo de la Universidad de Ciencias Aplicadas de Periodismo y Administración de Medios en Viena hasta 2003. En 2005 fundó, junto a un grupo de profesionales, la consultora Medienhaus Wien. Forma parte del Consejo Asesor Científico de una de las principales revistas de lengua alemana sobre ciencia política. Desde 2016, dirige el proyecto de investigación 'Periodismo en transición' de la Academia de Ciencias de Austria. Es Premio Estatal de Periodismo de Educación y Premio de Periodismo del Ministerio de Asuntos Familiares de Austria, y colaborador de la Universidad Miguel Hernández."
 author: Olivia Martín
 categories:
   - tecnologia
 image: /images/shots/andy_0.jpg
+tags:
+  - entrevista
 ---
 [Andy Kaltenbrunner](https://twitter.com/KaltenbrunnerA) es periodista y consultor de medios austriaco. Ha sido profesor en academias y universidades de Viena, Alemania e institutos de EE.UU. y dirigió el equipo de la Universidad de Ciencias Aplicadas de Periodismo y Administración de Medios en Viena hasta 2003. En 2005 fundó, junto a un grupo de profesionales, la consultora [Medienhaus Wien](http://www.mhw.at/). Forma parte del Consejo Asesor Científico de una de las principales revistas de lengua alemana sobre ciencia política. Desde 2016, dirige el proyecto de investigación "Periodismo en transición" de la Academia de Ciencias de Austria. Es Premio Estatal de Periodismo de Educación y Premio de Periodismo del Ministerio de Asuntos Familiares de Austria, y colaborador de la Universidad Miguel Hernández.
 

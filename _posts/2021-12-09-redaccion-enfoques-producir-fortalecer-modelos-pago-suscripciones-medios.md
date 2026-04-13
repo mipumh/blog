@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Desde la redacción: enfoques y productos para fortalecer los modelos de pago en el periodismo"
 subtitle: Los medios más exitosos de todo el mundo construyen su modelo de suscripción sobre un periodismo único y diferencial, que pasa por reducir el número de piezas y entender mejor al lector 
 author: carvajal
 categories:
   - industria
 image: /images/shots/redaccion_wapo.jpg
+tags:
+  - suscripciones
+  - organizacion-redacciones
 ---
 La industria periodística tiene claro que el **modelo de suscripción es el pilar sobre el que construir el futuro del negocio**. Los directivos implantan sistemas de pago que requieren notables inversiones de marketing y tecnología y un profundo cambio de cultura organizativa. Los analistas estudian los tipos de muros, las ofertas conjuntas y las estrategias de precio para aumentar la conversión de lectores y la retención de suscriptores. Pero, **¿qué papel pueden jugar los periodistas en este gran viraje industrial?** En este artículo **muestro diversos enfoques y productos empleados por redacciones de todo el mundo**, útiles para el éxito de un modelo de suscripción.
 

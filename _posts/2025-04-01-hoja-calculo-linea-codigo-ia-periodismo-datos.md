@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "De la hoja de cálculo a la línea de código… con la IA en el horizonte. Así exprimen la tecnología los periodistas de datos en España"
 author: arias
 categories:
   - tecnologia
 image: /images/001/datos-prog-mip-g.png
+tags:
+  - inteligencia-artificial
 ---
 Lejos del [debate sobre si todos los periodistas deben saber programar](https://mip.umh.es/blog/2021/02/11/debe-un-periodista-saber-programar/), los especializados en datos lo tienen bastante claro. Lenguajes como R o Python son recursos habituales entre estos profesionales para automatizar tareas, limpiar y analizar datos, y crear visualizaciones personalizadas. En 2021, los periodistas recurrían a la programación cuando tenían delante de ellos una gran cantidad de datos y los programas como Excel no permitían manejarlos. Sin embargo, en la actualidad, la mayoría de los profesionales utilizan lenguajes de programación para todo tipo de piezas, siendo la creación de visualizaciones especiales y la identificación de tendencias las motivaciones clave para ponerlos en práctica.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: >-
   Miriam Hernanz (RTVE Lab): “Me encantaría que el Lab muriera. Significaría que
   no hace falta un departamento que vele por la innovación porque ya todos la

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Diez años del Máster en Innovación en Periodismo: El futuro de la
   innovación periodística"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/hacia-donde-va-la-innovacion.jpg
+tags:
+  - innovacion-periodistica
 ---
 Hace una década empezamos el Máster en Innovación en Periodismo. Una aventura que nos ha llevado por caminos inexplorados, acompañando a más de 250 profesionales en su formación periodística orientada a la creación de proyectos y a la búsqueda de la innovación en formatos, procesos, comercialización e ideas. A lo largo de este trayecto, la innovación ha pasado de ser una palabra de moda -toda empresa *era innovadora*- a considerarse una estrategia vital para la supervivencia de los medios. Para conocer hacia dónde van las tendencias en el sector y qué medios destacan por su innovación, he contado con la colaboración de varios expertos. Y surge una conclusión taxativa: el periodismo del siglo XXI será innovador o no será.
 

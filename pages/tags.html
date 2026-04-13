@@ -1,0 +1,24 @@
+---
+layout: default
+title: Etiquetas
+permalink: /tags/
+---
+<div class="tags-page">
+  <div class="container-xl">
+
+    <header class="section-header">
+      <h1 class="section-header__title">Etiquetas</h1>
+      <p class="section-header__desc">Todos los temas del blog organizados por etiqueta</p>
+    </header>
+
+    <div class="tags-cloud">
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/" class="tag-pill">
+        {{ tag[0] }} <span class="tag-count">{{ tag[1].size }}</span>
+      </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>

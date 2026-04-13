@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: La revolución del video online&#58 implicaciones para el periodismo
 excerpt: "El término televisión conectada hace referencia a la conexión de una televisión con internet y, por lo tanto, a todas las opciones que la red ofrece. En España, se ha apreciado una subida del uso habitual de la TVC respecto a años anteriores, según el II Estudio Anual IAB Spain TV Conectada y video online. Los contenidos audiovisuales que se consumen a través de este sistema son principalmente cine y series de televisión extranjeras, pero también informativos y televisión a la carta."
 author: de-lara
 categories:
   - narrativas
 image: /images/shots/pim1.jpg
+tags:
+  - video
+  - redes-sociales
 ---
 El término televisión conectada (TVC) hace referencia a la conexión de una televisión con internet y, por lo tanto, a todas las opciones que la red ofrece. En España, se ha apreciado una subida del uso habitual de la TVC respecto a años anteriores, según el [II Estudio Anual IAB Spain TV Conectada y video online](http://docplayer.es/4230191-Ii-estudio-anual-iab-spain-tv-conectada-y-video-online-noviembre-2014-iabestudiotvc-version-completa.html). Los contenidos audiovisuales que se consumen a través de este sistema son principalmente cine y series de televisión extranjeras, pero también informativos y televisión a la carta. 
 

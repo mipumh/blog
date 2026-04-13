@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: José Manuel Noguera (experto en Nuevas Narrativas)&#58 "Ahora cada persona puede ser un medio en potencia"
 excerpt: "Los usuarios demandan información que se adapte a los ritmos y necesidades de la sociedad. Por ello surgen formas innovadoras de contar historias y divulgar los contenidos informativos. José Manuel Noguera es profesor de la Universidad Católica de Murcia e imparte clases de Nuevas Narrativas en el Máster de Innovación en Periodismo de la UMH. Ha publicado 'Todos, todo. Manual de periodismo, participación y tecnología', y 'Redes y periodismo. Cuando las noticias se socializan', entre otras obras."
 author: martinez
 categories:
   - tecnologia
 image: /images/shots/nogue_0.jpg
+tags:
+  - storytelling
+  - entrevista
 ---
 Los usuarios demandan información que se adapte a los ritmos y necesidades de la sociedad. Por ello surgen formas innovadoras de contar historias y divulgar los contenidos informativos. [José Manuel Noguera](https://twitter.com/jmnoguera) es profesor de la Universidad Católica de Murcia e imparte clases de Nuevas Narrativas en el [Máster de Innovación en Periodismo de la UMH](http://mip.umh.es/). Ha publicado *Todos, todo*. *Manual de periodismo, participación y tecnología,* y *Redes y periodismo. Cuando las noticias se socializan*, entre otras obras. 
 

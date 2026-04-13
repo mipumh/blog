@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: " Divulgación científica que cautiva a los más pequeños "
 author: de-lara
 categories:
   - tecnologia
 image: /images/001/ciencia-1.png
+tags:
+  - divulgacion-cientifica
 ---
 En casa, leer el diario era un ritual matutino de los fines de semana: mientras desayunábamos, mis padres comentaban en voz alta las secciones que más les interesaban. Yo me quedaba embelesada escuchándolos cuando leían sobre ciencia, los avances en el mapeo del genoma humano, el diseño de corazones artificiales o el descubrimiento de exoplanetas. Aunque no lo llegara a entender del todo, para mí era alucinante aquello de los agujeros negros y los superconductores. Y aunque no me haya dedicado a una profesión de laboratorio, me siento muy ligada a este mundo y me encanta trabajar para entrelazar puentes entre aquello que llaman “las letras y las ciencias”.
 

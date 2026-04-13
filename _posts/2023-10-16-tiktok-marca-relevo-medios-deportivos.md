@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "La experiencia de Marca y Relevo en TikTok: experimentar, buscar nichos y conectar con los jóvenes mediante vídeos de infoentretenimiento"
 periscopio: si
 cover_image: periscopio.webp
@@ -7,6 +7,10 @@ author: rojas
 categories:
   - tecnologia
 image: /images/shots/1_dnsre.jpg
+tags:
+  - periodismo-deportivo
+  - tiktok-twitch
+  - redes-sociales
 ---
 Cada vez más los medios periodísticos están volcando esfuerzos en TikTok
 para captar audiencias jóvenes, pese a las dificultades que presenta un

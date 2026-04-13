@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Sara Carmona (Relevo): «Con el equilibrio entre el dato y el relato,
   hemos ido enganchando a mucha gente»"
 author: arias
 categories:
   - narrativas
 image: /images/shots/todos.jpg
+tags:
+  - storytelling
+  - periodismo-deportivo
 ---
 El periodismo deportivo de datos no es ni mucho menos nuevo. Se ha materializado durante años en infografías y proyectos especiales de medios especializados y generalistas. Pero sí es una novedad que un equipo definido se centre en explotarlos de manera regular y en extenderlo al conjunto de la redacción. En el cruce de la estadística avanzada y la vertiente social de los datos encontró Vocento otra de las vetas de innovación que decidió explorar con el lanzamiento de Relevo. De este departamento, actualmente de cuatro integrantes, nos hablan Sara Carmona y Guillermo Villar.
 

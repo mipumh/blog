@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Daniel Muñoz (Laboratorio El Confidencial)&#58 “Es una ventaja que el jefe de Producto de un medio sea periodista”
 excerpt: "El periodista Daniel Muñoz (1991) se graduó por la UMH hace apenas 3 años. El mismo día que defendió su Trabajo de Fin de Grado empezó a trabajar en “El Confidencial”. Desde el Laboratorio de Innovaciónde este medio, Muñoz desempeña el puesto de jefe de Producto, un área que sirve de nexo entre la estrategia de negocio, el desarrollo tecnológico y la estrategia editorial."
 author: de-lara
 categories:
   - industria
 image: /images/shots/dmunoz.jpg
+tags:
+  - organizacion-redacciones
 ---
 El periodista Daniel Muñoz (1991) se graduó por la UMH hace apenas 3 años. El mismo día que defendió su Trabajo de Fin de Grado empezó a trabajar en [“El Confidencial”](http://www.elconfidencial.com/), [uno de los medios más innovadores del panorama nacional](http://mip.umh.es/ranking/). Desde [el Laboratorio de Innovación](http://mip.umh.es/blog/2015/11/01/claves-trabajo-el-confindencial-trabajo/)  de este medio, Muñoz desempeña el puesto de jefe de Producto, un área que sirve de nexo entre la estrategia de negocio, el desarrollo tecnológico y la estrategia editorial. 
 

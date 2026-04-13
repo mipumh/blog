@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Ideas y proyectos nacidos en un máster (III) 
 excerpt: "Uno de los retos que nos plantemos desde el Máster de Innovación en Periodismo (MIP) es estimular la creación de proyectos periodísticos atractivos y viables en el sector de la comunicación digital. Durante el curso, trabajamos con el alumnado para identificar espacios de oportunidad de negocio y diseñar, planificar, desarrollar y lanzar propuestas adaptadas al contexto digital con un modelo económico sostenible, siempre con el asesoramiento de profesionales con experiencia y la referencia de otros casos de éxito."
 author: Lorena Escandell
 categories:
   - industria
 image: /images/shots/2015_TFM%20%282%29.JPG
+tags:
+  - redes-sociales
 ---
 Uno de los retos que nos plantemos desde el Máster de Innovación en Periodismo ([MIP](http://mip.umh.es)) es estimular la creación de proyectos periodísticos atractivos y viables en el sector de la **comunicación digital**. Durante el curso, trabajamos con el alumnado para **identificar espacios de oportunidad de negocio y diseñar, planificar, desarrollar y lanzar propuestas** adaptadas al contexto digital **con un modelo económico sostenible**, siempre con el asesoramiento de profesionales con experiencia y la referencia de otros casos de éxito.
 

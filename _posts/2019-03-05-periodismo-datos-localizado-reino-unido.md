@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: El periodismo de datos será local(izado) (1)&#58 el caso de Reino Unido
 excerpt: "Lo que ahora conocemos como periodismo de datos no se entiende sin el Datablog de The Guardian, un repositorio que cumple una década difundiendo visualizaciones y datasets. Y Jonathan Gray y Paul Bradshaw, dos de los grandes popes de este mundillo, trabajan en Londres y Birmingham respectivamente. No es ninguna sorpresa, por lo tanto, que el periodismo británico esté ahora en la vanguardia de uno de los grandes filones de esta especialidad: los datos locales."
 author: arias
 categories:
   - narrativas
 image: /images/shots/datauk_0.jpg
+tags:
+  - periodismo-datos
+  - periodismo-local
 ---
 Lo que ahora conocemos como periodismo de datos no se entiende sin el [Datablog de The Guardian](https://www.theguardian.com/data), un repositorio que cumple una década difundiendo visualizaciones y datasets. Y [Jonathan Gray](https://twitter.com/jwyg) y [Paul Bradshaw](https://twitter.com/paulbradshaw), dos de los grandes popes de este mundillo, trabajan en Londres y Birmingham respectivamente. No es ninguna sorpresa, por lo tanto, que el periodismo británico esté ahora en la vanguardia de uno de los grandes filones de esta especialidad: los datos locales.
 

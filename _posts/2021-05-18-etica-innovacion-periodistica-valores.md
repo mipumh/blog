@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "La ética de la innovación periodística: fines, procedimientos y valores"
 author: garcia-aviles
 categories:

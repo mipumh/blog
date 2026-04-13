@@ -1,10 +1,17 @@
 ---
-layout: post
+layout: article
 title: Periodismo de datos en las imágenes de Twitter
-excerpt: "Twitter se ha convertido en una herramienta esencial para difundir el periodismo de datos. Trabajos a menudo tan complejos y costosos tienen la oportunidad de aprovechar la potencia y la viralidad de las imágenes de la red de microblogging para ganar alcance e impacto."
+excerpt: Twitter se ha convertido en una herramienta esencial para difundir el periodismo
+  de datos. Trabajos a menudo tan complejos y costosos tienen la oportunidad de aprovechar
+  la potencia y la viralidad de las imágenes de la red de microblogging para ganar
+  alcance e impacto.
 author: arias
 categories:
-  - narrativas
+- narrativas
+tags:
+- redes-sociales
+- periodismo-datos
+image: /images/wordclouds/2015-12-08-periodismo-datos-images-twitter.png
 ---
 Twitter se ha convertido en una herramienta esencial para difundir el periodismo de datos. Trabajos a menudo tan complejos y costosos tienen la oportunidad de aprovechar la potencia y la viralidad de las imágenes de la red de microblogging para ganar alcance e impacto.
 En uno de los capítulos del nuevo libro de las Jornadas de Periodismo UMH “[Innovar en Periodismo]( http://mip.umh.es/blog/2015/11/23/innovacion-libro-jornadas-periodismo/)”, se analiza cómo algunos de [los medios españoles más innovadores]( http://mip.umh.es/ranking/) están aprovechando este fenómeno. Aquí simplemente se identifican algunas de las principales tendencias:

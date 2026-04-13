@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Claves de Relevo, la apuesta de Vocento que aspira a captar al público
   desencantado con el periodismo deportivo
 periscopio: si
@@ -8,6 +8,8 @@ author: rojas
 categories:
   - tecnologia
 image: /images/shots/1.jpg
+tags:
+  - periodismo-deportivo
 ---
 El periodismo deportivo se ha convertido en el campo informativo donde más ha impactado la irrupción de nuevos actores comunicativos, que no solo están forjando numerosas comunidades de interés a su alrededor, sino que además han llegado a desplazar a medios y periodistas de una posición de primacía en el acceso pleno a los protagonistas de las competiciones, a través de plataformas digitales y redes sociales. En este contexto de transformación de las organizaciones periodísticas resulta crucial diferenciarse respecto a otras marcas, mediáticas o individuales, más aún al incorporarse a un mercado con tantos competidores. En este artículo analizamos las claves editoriales de Relevo, el medio digital lanzado por el grupo Vocento que aspira a recuperar una audiencia desatendida por la oferta deportiva actual.
 

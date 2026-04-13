@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Los mejores artículos del 2015
 excerpt: "Te presentamos una selección de los diez mejores artículos publicados este año en el blog. Aprovechamos para agradecer su apoyo a todos nuestros colaboradores y expertos. Y te deseamos un 2016 lleno de proyectos enriquecedores: que se hagan realidad todos tus sueños."
 author: garcia-aviles

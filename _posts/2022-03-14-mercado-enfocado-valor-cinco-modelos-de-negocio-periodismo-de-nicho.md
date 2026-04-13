@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Mercado pequeño, gran valor añadido: cinco modelos de negocio para la empresa periodística de nicho"
 author: marin
 categories:
   - tecnologia
 image: /images/shots/post-nicho-blog.jpg
+tags:
+  - modelo-negocio
 ---
 ![]({{ site.baseurl }}/images/shots/post-nicho-blog.jpg)
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Love more, hate less. Cuatro iniciativas para combatir los discursos de odio en internet
 author: garcia-ortega
 categories:

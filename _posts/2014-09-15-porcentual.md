@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Las claves para emprender en periodismo de Porcentual 
 excerpt: "Innovar es dar una vuelta de tuerca a las formas de trabajar que ya están asentadas para avanzar en el global de la profesión. Así lo dice Manuel Benito, editor de Porcentual.es, el portal cuyos gráficos ilustran las noticias de numerosos medios digitales, y fichaje del Máster en Innovación en Periodismo de la Universidad Miguel Hernández de Elche para el curso que arranca el 25 de septiembre."
 author: Lorena Escandell
 categories:
   - narrativas
 image: /images/Perfiles_MIP/Manuel%20Benito.jpg "Manuel Benito"
+tags:
+  - emprendimiento
 ---
 "Innovar es dar una vuelta de tuerca a las formas de trabajar que ya están asentadas para avanzar en el global de la profesión". Es Manuel Benito, editor de [Porcentual](http://www.porcentual.es/), el portal cuyos gráficos ilustran las noticias de numerosos medios digitales, y [fichaje](http://mip.umh.es/blog/2014/05/19/fichajes-2014/) del Máster en Innovación en Periodismo de la Universidad Miguel Hernández de [Elche](http://umh.es/) para este curso, que arranca el 25 de septiembre. 
 

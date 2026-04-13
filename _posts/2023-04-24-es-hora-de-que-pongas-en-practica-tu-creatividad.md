@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Es hora de que pongas en práctica tu creatividad
 author: garcia-aviles
 categories:

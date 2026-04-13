@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 periscopio: si
 cover_image: periscopio.webp
 title: El Mundo vs La Vanguardia&#58 historia de una polémica mal medida en Comscore

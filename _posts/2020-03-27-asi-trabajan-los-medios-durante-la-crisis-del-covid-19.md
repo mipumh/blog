@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Así trabajan los medios de comunicación durante la crisis del COVID-19
 author: garcia-aviles
 categories:

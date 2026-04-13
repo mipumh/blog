@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title:  Diez reflexiones tras el Congreso de Periodismo Digital en Huesca
 excerpt: "El viernes cogí el coche rumbo a Alicante desde Huesca, mientras tarareaba la canción Al este del Edén de La Unión y maduraba muchas de las cosas que escuché durante el XV Congreso de Periodismo Digital. Antes del evento, tuve la oportunidad de contar a otros profesores en qué consiste el Máster en Innovación en Periodismo. Era mi primera vez en esta cita, aprendí mucho, lo pasé muy bien y volví con nuevos amigos. Enhorabuena a Fernando García Mongay, a todos los colaboradores, estudiantes y patrocinadores. Estas son diez reflexiones de lo allí vivido."
 author: carvajal
 categories:
   - el-master
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - redes-sociales
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

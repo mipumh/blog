@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Demo Peláez, creador de Journo: ”La IA debe ayudarnos a llegar a estándares más altos de periodismo”"
 author: arias
 categories:
   - tecnologia
 image: /images/001/journo_0.jpg
+tags:
+  - inteligencia-artificial
 ---
 ![image alt text]({{ site.baseurl }}/images/001/journo_0.jpg)
 

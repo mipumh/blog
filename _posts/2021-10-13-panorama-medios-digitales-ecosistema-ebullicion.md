@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Panorama de los medios nativos digitales locales: un ecosistema en ebullición"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/digitalesmedios.jpg
+tags:
+  - emprendimiento
+  - tendencias
 ---
 Desde 2010, en plena incidencia de la crisis económica, en nuestro país han surgido numerosos medios nativos digitales, lanzados por veteranos del sector, periodistas en paro o jóvenes emprendedores. En la mayoría de los territorios prolifera un ecosistema de medios locales y comarcales basado en una red de microempresas con una media de unos cinco empleados, aunque muchas son unipersonales. Se trata de un mercado con una limitada inversión publicitaria, creciente competencia y notable precariedad, donde predominan plantillas reducidas con escasa especialización, nutridas de colaboradores y becarios. En este artículo seleccionamos una serie de nativos digitales locales, representativos de este ecosistema tan rico y diverso.
 

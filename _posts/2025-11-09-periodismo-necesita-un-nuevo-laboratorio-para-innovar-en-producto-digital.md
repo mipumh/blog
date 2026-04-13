@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Más allá de publicar contenidos: el periodismo necesita un nuevo laboratorio para innovar en producto digital"
 author: marin
 categories:
   - industria
 image: /images/001/periodismo-laboratorio-producto-digital.png
+tags:
+  - organizacion-redacciones
 ---
 ![]({{ site.baseurl }}/images/001/periodismo-laboratorio-producto-digital.png)
 

@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: article
 cover_image: redaccion.webp
 title: eldiario.es, un caso de éxito 
 subtitle: "Buenos contenidos y un equipo humano profesional y bien estructurado mantienen la pujanza e identidad de este proyecto"
@@ -9,6 +9,8 @@ author: José L. González
 categories:
   - industria
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - redes-sociales
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

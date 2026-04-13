@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: Las periodistas más innovadoras e influyentes en los medios digitales (III)  
 excerpt: "Las mujeres están adoptando roles cada vez más influyentes en el sector tecnológico, leía el otro día. Es un hecho. Y tenemos numerosos ejemplos en el periodismo: Mariana Santos, Miriam Hernanz, Carmela Ríos y todas las compañeras que citamos en la lista de las periodistas más innovadoras e influyentes en los medios digitales."
 author: Lorena Escandell
 categories:
   - innovadores
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - redes-sociales
+  - perfiles-profesionales
+  - innovacion-periodistica
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

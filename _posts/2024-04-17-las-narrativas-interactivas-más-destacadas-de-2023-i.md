@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: Las narrativas interactivas más destacadas de 2023 (I)
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/narrativas-2023-1.jpg
+tags:
+  - narrativas-interactivas
+  - storytelling
 ---
 La innovación en la narrativa periodística consiste esencialmente en desarrollar el contenido a través de lenguajes que cuentan la información de la forma más adecuada y comprensible para la audiencia. Los rasgos predominantes en este tipo de narrativas facilitan la interacción con la historia que se cuenta, en ocasiones aportan experiencias inmersivas o elementos lúdicos, y generan interacción de los usuarios en torno al contenido. En cierto modo, las historias son universales y lo que va cambiando es la forma de contarlas, al aplicar narrativas innovadoras que van más allá de las formas tradicionales. A lo largo de tres entregas, seleccionamos una serie de narrativas interactivas que destacaron en medios de todo el mundo en 2023.
 

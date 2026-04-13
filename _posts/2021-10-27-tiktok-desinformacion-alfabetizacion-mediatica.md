@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: article
 title: "TikTok y la lucha contra la desinformación: cinco iniciativas de alfabetización mediática"
 author: garcia-ortega
 categories:
   - tecnologia
 image: /images/shots/tiktok-1.jpg
+tags:
+  - tiktok-twitch
+  - desinformacion
+  - video
 ---
 TikTok vuelve a estar en el punto de mira. Tras la polémica del [uso de audios para difundir desinformación](https://www.nbcnews.com/tech/tech-news/tiktok-audio-gives-new-virality-misinformation-rcna1393) sobre la COVID-19 y el retorno de la [teoría conspirativa del “pizzagate”](https://www.nytimes.com/2020/06/27/technology/pizzagate-justin-bieber-qanon-tiktok.html), un [experimento reciente](https://www.theguardian.com/technology/2021/oct/08/revealed-anti-vaccine-tiktok-videos-viewed-children-as-young-as-nine-covid) ha demostrado que la red social expone a los menores a información falsa a los pocos minutos de entrar en la plataforma. Unos datos especialmente relevantes si tenemos en cuenta que, de acuerdo con el [último informe de Statista](https://www.statista.com/topics/6077/tiktok/#dossierKeyfigures), cerca del **25% de los usuarios son menores de edad**. Como respuesta a esta oleada de desinformación, TikTok ha lanzado varias iniciativas destinadas a **empoderar a los usuarios contra los bulos**. Una lucha a la que se han sumado creadores de contenido, medios de comunicación y agencias de verificación de todo el mundo. En este artículo recogemos algunas de las más interesantes.
 

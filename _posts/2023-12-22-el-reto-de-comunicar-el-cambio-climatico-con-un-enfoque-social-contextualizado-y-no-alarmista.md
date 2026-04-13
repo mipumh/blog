@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: El reto de comunicar el cambio climático con un enfoque social,
   contextualizado y no alarmista
 author: de-lara

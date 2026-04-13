@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: El País alcanza los 64.000 suscriptores digitales, solo cuatro meses después, y lidera una esperanzadora tendencia al pago por periodismo en España
 subtitle: Lista actualizada de medios con lectores que pagan de manera regular por acceder o apoyar su trabajo periodístico
 author: carvajal
 categories:
   - industria
 image: /images/shots/tabla_suscriptores.jpg
+tags:
+  - tendencias
 ---
 El panorama de los medios con lectores de pago es cada vez más esperanzador para el periodismo en España, tras el [descalabro publicitario de la pandemia en primavera](https://mip.umh.es/blog/2020/05/11/impacto-covid-19-economia-periodismo/). El País supera ya los 64.000 lectores de pago en datos de septiembre 2020, tan solo cuatro meses después de implantar su modalidad de suscripción. El Mundo, que en noviembre hará un año tras su lanzamiento, ha alcanzado ya los 50.000, siendo cerca de la mitad de esos suscriptores anuales. 
 

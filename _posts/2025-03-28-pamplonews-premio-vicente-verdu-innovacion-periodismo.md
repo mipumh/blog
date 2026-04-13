@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: El medio hiperlocal Pamplonews gana el V Premio Vicente Verdú de Periodismo e Innovación
 subtitle: El equipo recibirá los 6.000 euros del certamen de la Asociación de Informadores de Elche, mientras que trabajos elaborados por Datadista-ElDiario.es y CIVIO logran sendos accésits
 author: carvajal
 categories:
   - tecnologia
 image: /images/001/pamlonews.webp
+tags:
+  - premio-vicente-verdu
+  - periodismo-local
+  - innovacion-periodistica
 ---
 El medio de información hiperlocal **Pamplonews**, iniciativa de los hermanos **Juan Andrés, Miguel y Javier Muñoz Fernández**, ha resultado ganador del [V Premio Vicente Verdú de Periodismo e Innovación](https://informadoreselche.com/premio-vicente-verdu/), dotado con 6.000 euros. El certamen ha sido convocado por la Asociación de Informadores de Elche (AIE) en colaboración con la Universidad Miguel Hernández de Elche (UMH) y el Ayuntamiento de Elche, que además aporta la dotación económica. Al certamen **han concurrido este año 27 candidaturas**.
 

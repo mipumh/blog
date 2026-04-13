@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Google otorga 15 becas a periodistas de Argentina, Chile y Colombia para cursar la décima edición del Máster en Innovación en Periodismo
 subtitle: Las asociaciones de periodistas AMI, ADEPA y ANP, Google News Initiative y la Universidad Miguel Hernández colaboran en la formación de profesionales que desarrollan proyectos periodísticos innovadores en sus medios
 author: carvajal
 categories:
   - industria
 image: /images/shots/google_mip_4.jpg
+tags:
+  - latinoamerica
+  - innovacion-periodistica
 ---
 Las asociaciones de periodistas de Argentina (ADEPA), Chile (ANP) y Colombia (AMI) y Google han otorgado **15 becas a editores y periodistas para cursar la próxima edición del Máster en Innovación en Periodismo**, que comienza en octubre de 2022. Google News Initiative, el área de la compañía que reúne todos los proyectos globales de cooperación con la industria de los medios, mantiene esta colaboración con la Universidad Miguel Hernández, que también cuenta con el apoyo del Vicerrectorado de Relaciones Internacionales de la UMH.
 

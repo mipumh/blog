@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Decálogo disruptivo sobre el periodismo en la Sociedad Red (y 2)
 excerpt: "Ofrecemos la segunda entrega de las propuestas para transformar el periodismo en la Sociedad Red que iniciamos en el anterior post."
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/Foto1.jpg
+tags:
+  - innovacion-periodistica
+  - redes-sociales
 ---
 Ofrecemos la segunda entrega de las propuestas para transformar el periodismo en la Sociedad Red que iniciamos [en el anterior post](http://mip.umh.es/blog/2016/04/03/propuestas-disruptivas-sociedad-red/).
 

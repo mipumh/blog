@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Eduardo Suárez, director editorial del Instituto Reuters: “La
   conexión entre el mundo de la investigación y el mundo del periodismo es algo especial en el Instituto; en esto, somos únicos”"
 author: garcia-aviles

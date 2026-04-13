@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Inteligencia humana, estupidez artificial: adiós al periodismo tal y
   como lo conocemos"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/ia-humana-y-artificial.jpg
+tags:
+  - redes-sociales
 ---
 La IA ocupa un lugar cada vez más relevante en nuestra vida, desde la publicidad a los mercados financieros, del sector médico al de la automoción, desde el entretenimiento a la contratación de personal, de las redes sociales al internet de las cosas, aunque a menudo no seamos conscientes de ello. Su uso en el periodismo plantea retos para los que no estamos preparados: ¿Cómo aprende y actúa una IA? ¿A qué ética responde la decisión de una máquina? ¿En qué consiste exactamente tomar decisiones? ¿Podemos considerar a las máquinas responsables de sus actos y de las consecuencias que conllevan? He creado una matriz que examina los atributos de la inteligencia y de la estupidez humana y artificial, para tratar de arrojar luz sobre cómo la IA está transformando periodismo de forma más disruptiva de lo que podamos imaginar.
 

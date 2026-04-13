@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Nueve reflexiones sobre los modelos editoriales innovadores
 excerpt: "De la jornada ‘Modelos editoriales innovadores’ organizada por la asociación “Conversaciones con…” hemos extraído, a modo de resumen, las principales claves de la apuesta por la innovación aportadas por los expertos y profesionales que participaron en el evento."
 author: José Antonio González Alba
 categories:
   - industria
 image: /images/shots/galba0.jpg
+tags:
+  - innovacion-periodistica
 ---
 De la jornada [‘Modelos editoriales innovadores’](http://conversacionescon.es/innovacion-al-servicio-de-esencia/) organizada por la asociación **“Conversaciones con…”** hemos extraído, a modo de resumen, las principales claves de la apuesta por la innovación aportadas por los expertos y profesionales que participaron en el evento:
 

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Cuatro cosas que podemos aprender del modelo de negocio de El Confidencial
 subtitle: "El éxito de su estrategia tiene más que ver con una propuesta de valor clara a un mercado bien definido, en equilibrio con los recursos, la marca y la misión de la empresa"
 author: mondejar
 categories:
   - industria
 image: /images/shots/eci17.png
+tags:
+  - modelo-negocio
 ---
 Que los medios deben repensar sus modelos de negocio no es ninguna novedad. Como [señala](https://medium.com/@DanielPublico/adi%C3%B3s-a-la-dictadura-del-click-as%C3%AD-cambiar%C3%A1-la-forma-de-analizar-las-audiencias-en-2020-a84833a0ba6e?postPublishedType=repub)[ Daniel Muñoz](https://twitter.com/DanielPublico?lang=es), jefe de Producto de El Confidencial, la huida del mercado publicitario hacia otras plataformas obliga a las empresas periodísticas a prestarle más atención que nunca a sus lectores. Pero esta nueva tendencia global hacia los modelos de pago de los usuarios puede suponer un giro al vacío si no se desarrolla un cambio global del modelo. 
 

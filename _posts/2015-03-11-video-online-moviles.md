@@ -1,10 +1,19 @@
 ---
-layout: post
+layout: article
 title: Cómo usar el vídeo online en dispositivos móviles de forma eficaz
-excerpt: "El vídeo online consiste en cualquier formato de contenido audiovisual capaz de ser visionado a través de internet. En términos generales, el vídeo online comprende los vídeos que se alojan en YouTube y otros agregadores, los filmes y series online a la carta, el vídeo para móviles y tabletas, las vídeo-llamadas y vídeo-conferencias, los videoblogs y otros formatos. En el ámbito periodístico han surgido formatos específicos, como el videoanálisis, la videoentrevista, el webdoc y el reportaje multimedia."
+excerpt: El vídeo online consiste en cualquier formato de contenido audiovisual capaz
+  de ser visionado a través de internet. En términos generales, el vídeo online comprende
+  los vídeos que se alojan en YouTube y otros agregadores, los filmes y series online
+  a la carta, el vídeo para móviles y tabletas, las vídeo-llamadas y vídeo-conferencias,
+  los videoblogs y otros formatos. En el ámbito periodístico han surgido formatos
+  específicos, como el videoanálisis, la videoentrevista, el webdoc y el reportaje
+  multimedia.
 author: garcia-aviles
 categories:
-  - narrativas
+- narrativas
+tags:
+- video
+image: /images/wordclouds/2015-03-11-video-online-moviles.png
 ---
 El vídeo online consiste en cualquier formato de contenido audiovisual capaz de ser visionado a través de internet. En términos generales, el vídeo online comprende los vídeos que se alojan en _YouTube_ y otros agregadores, los filmes y series online a la carta, el vídeo para móviles y tabletas, las vídeo-llamadas y vídeo-conferencias, los videoblogs y otros formatos. En el ámbito periodístico han surgido formatos específicos, como el videoanálisis, la videoentrevista, [el webdoc](http://mip.umh.es/blog/2014/12/16/territorio-webdoc/) y el reportaje multimedia.
 

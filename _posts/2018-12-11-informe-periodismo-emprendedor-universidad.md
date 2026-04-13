@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Punto de partida, una radiografía a la enseñanza del periodismo emprendedor en Iberoamérica
 subtitle: "SembraMedia publica la primera investigación sobre educación iberoamericana en periodismo emprendedor, realizada gracias al apoyo de Google News Initiative"
 excerpt: "SembraMedia, la organización y plataforma de apoyo al éxito de emprendedores de medios digitales en Iberoamérica, ha presentado Punto de partida. Enseñar para el periodismo del futuro, un estudio sobre la enseñanza del periodismo emprendedor en las universidades de la región, con el apoyo de Google News Initiative. El trabajo está coordinado por Patricio Contreras, encargado de iniciativas académicas de SembraMedia y profesor de la Escuela de Periodismo de la Universidad Alberto Hurtado en Chile. En el mismo se trata de ofrecer qué tipo de formación y experiencia tienen los profesores que imparten cursos de periodismo emprendedor en la región, cuáles son sus contenidos, enfoques y énfasis, y qué tipo de impacto han tenido en sus comunidades académicas."
@@ -7,6 +7,9 @@ author: José Antonio González Alba
 categories:
   - tecnologia
 image: /images/shots/puntopartida.jpg
+tags:
+  - emprendimiento
+  - podcast-audio
 ---
 SembraMedia, la organización y plataforma de apoyo al éxito de emprendedores de medios digitales en Iberoamérica, ha presentado **"[Punto de partida. Enseñar para el periodismo del futuro](https://profesores.sembramedia.org)**", un estudio sobre la enseñanza del periodismo emprendedor en las universidades de la región, con el apoyo de Google News Initiative. El trabajo está coordinado por Patricio Contreras, encargado de iniciativas académicas de SembraMedia y profesor de la Escuela de Periodismo de la Universidad Alberto Hurtado en Chile. En el mismo se trata de ofrecer qué tipo de formación y experiencia tienen los profesores que imparten cursos de periodismo emprendedor en la región, cuáles son sus contenidos, enfoques y énfasis, y qué tipo de impacto han tenido en sus comunidades académicas.
 

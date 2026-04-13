@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: Diez libros sobre periodismo, comunicación e innovación
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/lo-imprevisible.jpg
+tags:
+  - innovacion-periodistica
+  - libros-recursos
 ---
 Seleccionamos una serie de lecturas estivales. Se trata de libros publicados en los últimos meses que abarcan aspectos muy relevantes para quienes deseen formarse en el ámbito de la innovación periodística y la comunicación. Esperamos que os gusten. ¡Feliz verano!
 

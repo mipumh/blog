@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 cover_image: nyt.webp
 title: Ocho medidas del New York Times para mejorar su audiencia  
 author: carvajal
 categories:
   - tecnologia
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - engagement
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

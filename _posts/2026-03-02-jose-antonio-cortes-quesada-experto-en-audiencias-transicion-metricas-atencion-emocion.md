@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: "José Antonio Cortés Quesada, experto en audiencias: “Vivimos una
   transición hacia métricas de atención y emoción”"
 author: de-lara
 categories:
   - innovadores
 image: /images/001/jose-antonio-cortes-quesada.jpg
+tags:
+  - engagement
+  - video
+  - podcast-audio
 ---
 [José Antonio Cortés Quesada es profesor en la Universidad Internacional de La Rioja (UNIR)](https://investigacion.unir.net/investigadores/846571/detalle) y parte del equipo de Investigación [Comunicación y Sociedad Digital (COYSODI)](https://investigacion.unir.net/grupos/35476/publicaciones?herculesThematic=Religious%252520Studies&lang=es). Es, además, coordinador de Proyectos de Innovación Académica en Inteligencia Artificial en PROEDUCA. Como profesor, se ha dedicado a las áreas de Comunicación Audiovisual, Periodismo y Marketing Digital. Como académico, ha publicado numerosos artículos dedicados a la medición de la televisión española, la publicidad y las nuevas corrientes y formatos en el consumo de medios. Su dominio en la actualidad del campo audiovisual le ha llevado a colaborar con medios informativos para analizar las últimas tendencias en audiencias.
 

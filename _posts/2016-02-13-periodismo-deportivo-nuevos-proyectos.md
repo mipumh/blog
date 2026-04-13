@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: El periodismo deportivo se sale. 9 proyectos lanzados en el último año
 excerpt: "Además de innovar con nuevos formatos, dispositivos móviles y datos, la información deportiva sigue acelerando con la creación de nuevos proyectos. El vídeo, la especialización y el longform componen su tripleta. Aquí se recogen nueve de los más recientes:."
 author: arias
 categories:
   - narrativas
 image: /images/shots/I0.jpg
+tags:
+  - periodismo-deportivo
 ---
  ![]({{ site.baseurl }}/images/shots/I0.jpg)
 

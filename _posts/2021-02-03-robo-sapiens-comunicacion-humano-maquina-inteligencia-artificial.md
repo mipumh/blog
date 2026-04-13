@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Robo-Sapiens: la comunicación humano-máquina transforma lo que sabíamos
   hasta ahora"
 author: garcia-aviles

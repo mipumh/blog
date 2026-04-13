@@ -4,41 +4,20 @@
     {% if paginator.previous_page %}
     <li class="page-item">
       <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="page-link" aria-label="Pagina anterior">
-        &laquo; Anterior
+        &larr; Anterior
       </a>
-    </li>
-    {% else %}
-    <li class="page-item disabled">
-      <span class="page-link" aria-disabled="true">&laquo; Anterior</span>
     </li>
     {% endif %}
 
-    {% for page_num in (1..paginator.total_pages) %}
-      {% if page_num == paginator.page %}
-      <li class="page-item active" aria-current="page">
-        <span class="page-link">{{ page_num }}</span>
-      </li>
-      {% elsif page_num == 1 %}
-      <li class="page-item">
-        <a href="{{ site.baseurl }}{{ paginator.first_page_path }}" class="page-link">{{ page_num }}</a>
-      </li>
-      {% else %}
-      {% assign page_path = site.paginate_path | replace: ':num', page_num %}
-      <li class="page-item">
-        <a href="{{ site.baseurl }}{{ page_path }}" class="page-link">{{ page_num }}</a>
-      </li>
-      {% endif %}
-    {% endfor %}
+    <li class="page-item disabled">
+      <span class="page-link">{{ paginator.page }} / {{ paginator.total_pages }}</span>
+    </li>
 
     {% if paginator.next_page %}
     <li class="page-item">
       <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="page-link" aria-label="Pagina siguiente">
-        Siguiente &raquo;
+        Siguiente &rarr;
       </a>
-    </li>
-    {% else %}
-    <li class="page-item disabled">
-      <span class="page-link" aria-disabled="true">Siguiente &raquo;</span>
     </li>
     {% endif %}
   </ul>

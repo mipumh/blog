@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Daniel Ramírez García-Mina, escritor y periodista: “Los medios han
   perdido muchísima independencia informativa y son cada vez más vulnerables a
   la publicidad institucional”"

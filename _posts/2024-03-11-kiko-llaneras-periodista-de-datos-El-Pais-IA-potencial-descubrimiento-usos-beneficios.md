@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Kiko Llaneras, periodista de datos (El País): “La atención a los
   peligros de la IA no debe opacar el potencial para el descubrimiento de nuevos
   usos y beneficios”"
@@ -7,6 +7,8 @@ author: arias
 categories:
   - tecnologia
 image: /images/001/llaneras.jpeg
+tags:
+  - inteligencia-artificial
 ---
 Kiko Llaneras [se define](https://kiko.llaneras.es/sobre-mi) como un doctor en ingeniería que escribe en El País. Si precisamos, diríamos que es jefe de sección en el equipo de datos y que tiene una newsletter semanal, en la que 35.000 suscriptores (un 10% de los que pagan por leer El País) reciben explicaciones, gráficos y predicciones sobre los temas más variados. Y si interpretamos un poco, añadiríamos que se trata de una de las mentes más analíticas de esa cabecera. Muchas de sus premisas las plasmó  en su libro “[Piensa claro: Ocho reglas para descifrar el mundo](https://kiko.llaneras.es/piensa-claro)”, del que [habló con los estudiantes del Doble Grado en Comunicación Audiovisual y Periodismo](https://periodismo.umh.es/2024/02/10/charla-del-periodista-kiko-llaneras/) en la Universidad Miguel Hernández. 
 

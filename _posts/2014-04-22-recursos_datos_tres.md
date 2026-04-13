@@ -1,11 +1,16 @@
 ---
-layout: post
+layout: article
 title: Recursos esenciales para el periodista de datos (3). La limpieza de la información
 excerpt: "El periodismo de datos se ha convertido en una de las grandes oportunidades para esta profesión. Los grandes proyectos requieren una importante inversión, pero unos conocimientos básicos, interés y herramientas relativamente sencillas permiten realizar trabajos de gran valor periodístico."
 author: arias
 categories:
   - narrativas
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - herramientas-ia
+  - libros-recursos
+  - redes-sociales
+  - periodismo-datos
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: "Lanzamos la V edición del Premio Vicente Verdú de Periodismo e Innovación"
 subtitle: El certamen, impulsado por la Asociación de Informadores de Elche, con el patrocinio del Ayuntamiento y la Universidad Miguel Hernández, está dotado con 6.000 euros y el plazo se cierra el 28 de febrero
 author: carvajal
 categories:
   - narrativas
 image: /images/001/quinta_verdu.jpg
+tags:
+  - premio-vicente-verdu
+  - innovacion-periodistica
+  - newsletters
 ---
 La Asociación de Informadores de Elche (AIE) convoca [la quinta edición del Premio Vicente Verdú de Periodismo e Innovación](https://informadoreselche.com/premio-vicente-verdu/), en colaboración con el Ayuntamiento ilicitano y la Universidad Miguel Hernández de Elche (UMH). El galardón, con el que la AIE homenajea al destacado periodista, escritor y pintor ilicitano, reconoce e incentiva, en una época de profundos cambios en el periodismo, la búsqueda de la innovación periodística que ayude a contar mejor las historias. 
 

@@ -1,10 +1,17 @@
 ---
-layout: post
-title: El Máster Universitario en Innovación en Periodismo se encuentra en fase de evaluación
-excerpt: "Los próximos días 11 y 12  de abril en la sede de la Facultad de Ciencias Sociales y Jurídicas de Elche (Edf. La Galia), se realizará la visita, dentro de la fase del proceso de renovación de la acreditación, del Comité de Evaluación Externa de los Masters."
+layout: article
+title: El Máster Universitario en Innovación en Periodismo se encuentra en fase de
+  evaluación
+excerpt: Los próximos días 11 y 12  de abril en la sede de la Facultad de Ciencias
+  Sociales y Jurídicas de Elche (Edf. La Galia), se realizará la visita, dentro de
+  la fase del proceso de renovación de la acreditación, del Comité de Evaluación Externa
+  de los Masters.
 author: Máster
 categories:
-  - el-master
+- el-master
+tags:
+- innovacion-periodistica
+image: /images/wordclouds/2016-04-06-visita-evaluacion.png
 ---
 Los próximos días 11 y 12  de abril en la sede de la Facultad de Ciencias Sociales y Jurídicas de Elche (Edf. La Galia), se realizará la visita, dentro de la fase del proceso de renovación de la acreditación, del Comité de Evaluación Externa de los Masters:
 

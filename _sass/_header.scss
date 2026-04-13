@@ -1,238 +1,398 @@
 // ==========================================================================
-// Header — Sticky Nav Bar
-// ==========================================================================
-// Sticky navigation that hides on scroll down and shows on scroll up.
-// Mobile hamburger menu uses Bootstrap collapse.
-// JS for scroll behavior is inline in the layout (see performance.md).
+// Header — Sticky Nav + Mega Menu (Rest of World style, two-row)
 // ==========================================================================
 
-// --------------------------------------------------------------------------
-// Site Header
-// --------------------------------------------------------------------------
 .site-header {
   position: sticky;
   top: 0;
   z-index: 1030;
-  background: rgba(var(--color-bg-rgb), 0.95);
+  background: rgba(var(--color-bg-rgb), 0.97);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  border-bottom: 1px solid var(--color-border);
+  border-top: 3px solid var(--color-brand);
+  // No border-bottom — clean transition to body
   transition: transform 0.3s ease;
-  height: 64px;
 
-  // Applied via JS when scrolling down
-  &.header--hidden {
+  &.site-header--hidden {
     transform: translateY(-100%);
   }
-
-  // Applied via JS when scrolling up
-  &.header--visible {
-    transform: translateY(0);
-  }
 }
 
-// --------------------------------------------------------------------------
-// Header Inner (container layout)
-// --------------------------------------------------------------------------
-.site-header__inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 64px;
-  gap: var(--space-md);
-}
-
-// --------------------------------------------------------------------------
-// Logo / Brand
-// --------------------------------------------------------------------------
-.site-header__brand {
-  display: flex;
-  align-items: center;
-  gap: var(--space-xs);
-  text-decoration: none;
-  color: var(--color-text);
-  font-family: var(--font-serif);
-  font-weight: 900;
-  font-size: var(--text-lg);
-  white-space: nowrap;
-  flex-shrink: 0;
-
-  &:hover {
-    color: var(--color-brand);
-    text-decoration: none;
-  }
-
-  img {
-    height: 32px;
-    width: auto;
-  }
-}
-
-// --------------------------------------------------------------------------
-// Main Navigation (desktop)
-// --------------------------------------------------------------------------
 .site-nav {
-  display: none;
-  align-items: center;
-  gap: var(--space-2xs);
-
-  @media (min-width: 992px) {
-    display: flex;
-  }
+  padding: var(--space-xs) 0 0;
 }
 
-.site-nav__link {
-  font-family: var(--font-sans);
-  font-size: var(--text-sm);
-  font-weight: 600;
-  color: var(--color-text-muted);
-  text-decoration: none;
-  padding: var(--space-xs) var(--space-sm);
-  border-radius: var(--radius-sm);
-  transition: color 0.15s, background-color 0.15s;
-  white-space: nowrap;
+// --------------------------------------------------------------------------
+// Row 1: actions (right-aligned on desktop, next to mobile logo on mobile)
+// --------------------------------------------------------------------------
+.site-nav__top {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  min-height: 36px;
+}
 
-  &:hover {
-    color: var(--color-text);
-    background-color: var(--color-surface-alt);
-  }
-
-  &.active {
-    color: var(--color-brand);
-    position: relative;
-
-    &::after {
-      content: '';
-      position: absolute;
-      bottom: -4px;
-      left: var(--space-sm);
-      right: var(--space-sm);
-      height: 2px;
-      background: var(--color-brand);
-      border-radius: 1px;
+// On mobile: logo + actions share the same visual row
+@media (max-width: 991.98px) {
+  .site-nav {
+    .site-nav__mobile-brand {
+      float: left;
+      padding-top: 6px;
+    }
+    .site-nav__top {
+      min-height: 44px;
     }
   }
 }
 
-// --------------------------------------------------------------------------
-// Header Actions (search, dark mode toggle)
-// --------------------------------------------------------------------------
-.site-header__actions {
+.site-nav__top-left {
   display: flex;
   align-items: center;
-  gap: var(--space-xs);
-  flex-shrink: 0;
+  gap: var(--space-md);
 }
 
-.btn-icon {
+.site-nav__util-link {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-text);
+  text-decoration: none;
+  transition: color 0.15s;
+
+  &:visited { color: var(--color-text); }
+  &:hover { color: var(--color-brand); }
+}
+
+// Right actions
+.site-nav__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+.site-nav__icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
+  width: 36px;
+  height: 36px;
   padding: 0;
   border: none;
   background: transparent;
   color: var(--color-text-muted);
   border-radius: var(--radius-sm);
   cursor: pointer;
-  transition: color 0.15s, background-color 0.15s;
+  transition: color 0.15s;
 
-  &:hover {
-    color: var(--color-text);
-    background-color: var(--color-surface-alt);
-  }
+  &:hover { color: var(--color-text); }
 
   &:focus-visible {
     outline: 2px solid var(--color-brand);
     outline-offset: 2px;
   }
 
-  svg {
-    width: 20px;
-    height: 20px;
-  }
+  svg { width: 18px; height: 18px; }
+}
+
+.icon-close { display: none; }
+.icon-menu { display: block; }
+[aria-expanded="true"] {
+  .icon-menu { display: none; }
+  .icon-close { display: block; }
 }
 
 // --------------------------------------------------------------------------
-// Mobile Hamburger Toggle
+// Row 2: sections LEFT — logo CENTER — sections RIGHT
+// Filetes (horizontal rules) flank the sections but STOP at the logo
 // --------------------------------------------------------------------------
-.site-header__toggle {
+.site-nav__main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 0;
+  margin-bottom: var(--space-xs);
+}
+
+.site-nav__sections-left,
+.site-nav__sections-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  flex: 1;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  padding: 8px 0;
+}
+
+.site-nav__sections-left {
+  justify-content: flex-end;
+  padding-right: var(--space-lg);
+}
+
+.site-nav__sections-right {
+  justify-content: flex-start;
+  padding-left: var(--space-lg);
+}
+
+.site-nav__dot {
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  user-select: none;
+}
+
+.site-nav__link {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--color-text);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: color 0.15s;
+  white-space: nowrap;
+
+  &:visited { color: var(--color-text); }
+  &:hover { color: var(--color-brand); }
+  &[aria-current="page"] { color: var(--color-brand); }
+}
+
+// Logo — inline SVG, centered above subtitle
+.site-nav__brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  padding: 0 var(--space-md);
+}
+
+.site-nav__logo {
+  display: inline-block;
+  text-decoration: none;
+  line-height: 0;
+}
+
+.site-nav__logo-svg {
+  height: 56px;
+  width: auto;
+}
+
+.site-nav__logo-text {
+  fill: var(--color-brand);
+  transition: fill 0.25s ease, filter 0.25s ease;
+}
+
+.site-nav__logo:hover .site-nav__logo-text {
+  fill: var(--color-brand-dark);
+}
+
+// Subtitle below logo
+.site-nav__subtitle {
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+// Mobile: logo left-aligned, above filete
+.site-nav__mobile-brand {
+  display: flex;
+  justify-content: flex-start;
+  padding: var(--space-2xs) 0 var(--space-xs);
+
+  .site-nav__logo-svg {
+    height: 32px;
+  }
+}
+
+// ==========================================================================
+// Mega Menu — full-width dropdown panel
+// ==========================================================================
+.mega-menu {
+  display: none;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-2xl) 0;
+  max-height: calc(100vh - var(--header-height));
+  overflow-y: auto;
+
+  &.is-open { display: block; }
+}
+
+// "Explorar" label
+.mega-menu__label {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-brand);
+}
+
+// --------------------------------------------------------------------------
+// Explore section — columns with section headers + tag lists
+// --------------------------------------------------------------------------
+.mega-menu__explore {
+  display: flex;
+  gap: var(--space-2xl);
+  padding-bottom: var(--space-xl);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.mega-menu__sections {
+  display: flex;
+  flex: 1;
+  gap: var(--space-xl);
+}
+
+.mega-menu__column {
+  flex: 1;
+  min-width: 0;
+}
+
+.mega-menu__heading {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-text);
+  text-decoration: none;
+  margin-bottom: var(--space-sm);
+
+  &:hover { color: var(--color-brand); }
+}
+
+.mega-menu__tags {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mega-menu__tag-link {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  text-decoration: none;
+  padding: 3px 0;
+  line-height: 1.5;
+
+  &:hover { color: var(--color-text); }
+}
+
+// --------------------------------------------------------------------------
+// More links row
+// --------------------------------------------------------------------------
+.mega-menu__more {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-xl);
+  padding: var(--space-lg) 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.mega-menu__more-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md) var(--space-lg);
+}
+
+.mega-menu__more-link {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  text-decoration: none;
+
+  &, &:visited { color: var(--color-text-muted); }
+  &:hover { color: var(--color-text); }
+}
+
+// --------------------------------------------------------------------------
+// Bottom bar — social + dark mode
+// --------------------------------------------------------------------------
+.mega-menu__bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: var(--space-lg);
+}
+
+.mega-menu__social {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.mega-menu__social-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 44px;
-  height: 44px;
-  padding: 0;
-  border: none;
-  background: transparent;
-  color: var(--color-text);
-  cursor: pointer;
+  color: var(--color-text-muted);
+  transition: color 0.15s;
 
-  @media (min-width: 992px) {
-    display: none;
-  }
+  &:hover { color: var(--color-text); }
+  svg { width: 18px; height: 18px; }
+}
 
-  // Hamburger icon lines
-  .hamburger {
-    display: flex;
+.mega-menu__dark-toggle {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+// --------------------------------------------------------------------------
+// Mobile responsive
+// --------------------------------------------------------------------------
+@media (max-width: 991.98px) {
+  .mega-menu__explore {
     flex-direction: column;
-    gap: 5px;
-    width: 22px;
+    gap: var(--space-lg);
+    align-items: flex-start;
   }
 
-  .hamburger__line {
-    display: block;
+  .mega-menu__sections {
+    flex-direction: column;
+    gap: var(--space-lg);
     width: 100%;
-    height: 2px;
-    background: currentColor;
-    border-radius: 1px;
-    transition: transform 0.3s, opacity 0.3s;
   }
 
-  // Open state (set via JS)
-  &[aria-expanded="true"] {
-    .hamburger__line:nth-child(1) {
-      transform: translateY(7px) rotate(45deg);
-    }
-    .hamburger__line:nth-child(2) {
-      opacity: 0;
-    }
-    .hamburger__line:nth-child(3) {
-      transform: translateY(-7px) rotate(-45deg);
-    }
+  .mega-menu__column {
+    border-bottom: 1px solid var(--color-border-light);
+    padding-bottom: var(--space-md);
+    text-align: left;
   }
-}
 
-// --------------------------------------------------------------------------
-// Mobile Nav (collapsed)
-// --------------------------------------------------------------------------
-.mobile-nav {
-  background: var(--color-bg);
-  border-bottom: 1px solid var(--color-border);
-  padding: var(--space-md) 0;
+  .mega-menu__more {
+    flex-direction: column;
+    gap: var(--space-sm);
+    align-items: flex-start;
+  }
 
-  @media (min-width: 992px) {
-    display: none !important;
+  .mega-menu__more-links {
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .mega-menu__bottom {
+    flex-direction: column;
+    gap: var(--space-lg);
+    align-items: flex-start;
   }
 }
 
-.mobile-nav__link {
-  display: block;
-  font-family: var(--font-sans);
-  font-size: var(--text-md);
-  font-weight: 600;
-  color: var(--color-text);
-  text-decoration: none;
-  padding: var(--space-sm) var(--space-md);
-  border-radius: var(--radius-sm);
-  transition: background-color 0.15s;
+body.search-open {
+  overflow: hidden;
+}
 
-  &:hover {
-    background-color: var(--color-surface-alt);
-  }
-
-  &.active {
-    color: var(--color-brand);
+// Only lock scroll on mobile when mega menu is open
+@media (max-width: 991.98px) {
+  body.menu-open {
+    overflow: hidden;
   }
 }

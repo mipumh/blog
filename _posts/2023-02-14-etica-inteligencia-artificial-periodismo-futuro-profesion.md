@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Ética de la Inteligencia Artificial en el periodismo: nos jugamos el
   futuro de la profesión"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/pexels-markus-spiske-1921326.jpg
+tags:
+  - inteligencia-artificial
 ---
 Hace un par de años entrevistamos al directivo de una empresa de Inteligencia Artificial (IA) que trabaja en el desarrollo de sistemas automatizados para instituciones y medios de comunicación. Cuando le preguntamos por las implicaciones éticas de la IA en el periodismo, el directivo pasó de puntillas por el tema y se limitó a decir que “no es necesario dar a conocer el algoritmo que usa una empresa porque es como la fórmula de la Coca-cola”. Después [hablamos con profesionales de más de 20 medios españoles que usaban algún tipo de IA](https://textualvisualmedia.com/index.php/txtvmedia/article/view/301) y me sorprendió que la mayoría también consideraba la ética como una cuestión casi residual. La IA supone un salto cualitativo en el desarrollo tecnológico de los medios. La diferencia radical respecto a etapas anteriores consiste en que estas herramientas son capaces de desarrollar tareas por sí solas, con independencia de la intervención humana. Y sus implicaciones éticas transforman la naturaleza del periodismo tal y como lo conocemos.
 

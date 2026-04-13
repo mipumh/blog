@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Publicaciones recientes sobre innovación en periodismo: entre la
   permanencia y el cambio"
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/001/pexels-solliefoto-320617.jpg
+tags:
+  - innovacion-periodistica
+  - libros-recursos
 ---
 Uno de los objetivos de esta Revista de Innovación es tender puentes entre la academia y la profesión. Con este motivo, seleccionamos una serie de trabajos académicos sobre innovación periodística que han aparecido en los últimos doce meses. Se trata de estudios científicos internacionales que ofrecen aportaciones valiosas sobre la implementación de las innovaciones en los medios de comunicación y arrojan luz sobre estos procesos en las redacciones. Despedimos las publicaciones durante este curso. Nos vemos en septiembre. ¡Feliz verano!
 

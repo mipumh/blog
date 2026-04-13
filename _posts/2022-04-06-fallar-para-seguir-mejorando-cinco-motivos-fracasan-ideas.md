@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Fallar para seguir mejorando. Cinco motivos por los que fracasan las ideas periodísticas con potencial de éxito
 author: valero
 categories:

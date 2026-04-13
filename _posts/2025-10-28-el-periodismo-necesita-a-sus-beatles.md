@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: El periodismo necesita a sus Beatles
 author: garcia-aviles
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: El Enemigo Anónimo, un proyecto modélico para el periodismo freelance en la era del marketing de contenidos
 subtitle: Estudio de caso de la primera serie documental sobre ciberseguridad hecha en España, creada por Carlos Otto
 author: carvajal

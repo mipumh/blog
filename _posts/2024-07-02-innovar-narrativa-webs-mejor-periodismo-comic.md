@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Innovar en la narrativa: webs que promueven el mejor periodismo cómic"
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/001/comic-1.jpg
+tags:
+  - storytelling
 ---
 El periodismo cómic insufla creatividad en la forma de contar historias sobre la vida real y despierta el interés de los lectores, especialmente entre los más jóvenes. Se trata de una forma tradicional -el cómic tiene más de un siglo de vida- y a la vez innovadora. El periodista gráfico desglosa la información en viñetas y encuadres, y decide qué elementos destacan, mediante el uso de dibujos, fotografías, y collages, escogiendo diversos soportes o incluso eliminando el texto en favor de la imagen. Estas innovaciones narrativas transforman los géneros periodísticos tradicionales a la vez que permiten reconectar con las audiencias. En este artículo destacamos cinco webs que inspiran el mejor periodismo cómic a nivel internacional.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: ¿Debe un periodista saber programar? Hacia una ecuación
 author: arias
 categories:

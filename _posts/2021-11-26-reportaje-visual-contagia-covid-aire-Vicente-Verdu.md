@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Un reportaje visual sobre cómo se contagia el covid por el aire gana el I Premio Vicente Verdú de Periodismo e Innovación
 subtitle: El jurado destaca la “didáctica” y la “indudable utilidad para combatir la desinformación” del trabajo de Mariano Zafra y Javier Salas, publicado en El País en octubre de 2020
 author: carvajal
 categories:
   - tecnologia
 image: /images/shots/reportaje_elpais.jpg
+tags:
+  - premio-vicente-verdu
+  - innovacion-periodistica
 ---
 El reportaje [“Un salón, un bar y una clase: así contagia el coronavirus en el aire”](https://elpais.com/especiales/coronavirus-covid-19/un-salon-un-bar-y-una-clase-asi-contagia-el-coronavirus-en-el-aire/), de los periodistas **Mariano Zafra** y **Javier Salas**, publicado en **El País** el 28 de octubre de 2020, ha sido galardonado con el I Premio Vicente Verdú de Periodismo e Innovación, convocado por la Asociación de Informadores de Elche (AIE) y dotado con 6.000 euros. Además, el jurado ha decidido otorgar sendos accésits, sin dotación económica, a los trabajos presentados por **Eva Belmonte** y otros por la serie [“Uso (y abuso) de los contratos de emergencia en pandemia,”](https://civio.es/quien-cobra-la-obra/2021/03/25/la-mitad-de-los-contratos-de-emergencia-de-2020-se-publicaron-con-retraso/), publicado en **Civio.es**, y a **Raúl Sánchez** y otros por [“Los datos de 15 millones de nacimientos para saber por qué las mujeres ya no dan a luz en fin de semana ni días festivos”](https://www.eldiario.es/nidos/no-ninos-nacen-toca-dar-luz-semana-21-probable-hacerlo-lunes-viernes_1_6400307.html), publicado por **elDiario.es**.
 

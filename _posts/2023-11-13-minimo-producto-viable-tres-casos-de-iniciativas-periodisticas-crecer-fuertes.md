@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Escalando el mínimo producto viable. Tres casos de iniciativas
   periodísticas que empezaron en pequeño para crecer más fuertes "
 author: valero

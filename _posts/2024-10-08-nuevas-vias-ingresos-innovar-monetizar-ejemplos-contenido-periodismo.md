@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "20 nuevas ideas para monetizar productos y servicios periodísticos"
 author: carvajal
 categories:
   - industria
 image: /images/001/monetiza_0.jpg
+tags:
+  - modelo-negocio
+  - suscripciones
 ---
 El colapso del modelo de negocio de la prensa tradicional ha provocado que los editores busquen soluciones no solo en la producción y la distribución del periodismo, sino también en cómo obtener ingresos. La aparición del *branded content*, del marketing de afiliación o la apuesta por las suscripciones son algunos ejemplos de las primeras innovaciones de los medios en este ámbito. Hace [nueve años publicamos](https://mip.umh.es/blog/2016/01/31/vias-ingresos-periodismo-monetizacion/) un listado de 32 vías de ingresos para sostener el periodismo, y ahora os presentamos algunas alternativas de monetización incorporadas recientemente. 
 

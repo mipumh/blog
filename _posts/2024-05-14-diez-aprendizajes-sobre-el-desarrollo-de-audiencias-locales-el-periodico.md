@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: Diez aprendizajes sobre el desarrollo de audiencias locales durante dos años de experiencia en EL PERIÓDICO
 author: Manuel Arenas
 categories:
   - audiencias
 image: /images/001/elperiodico2.png
+tags:
+  - engagement
 ---
 El periodismo de proximidad y las comunidades locales de lectores han protagonizado algunas de las preocupaciones y tendencias del sector durante los últimos años. Prueba de ello es el rol que juegan en las ‘[Predictions for Journalism 2024](https://www.niemanlab.org/collection/predictions-2024/?utm_source=substack&utm_medium=email#all)’ que publica el prestigioso Nieman Lab de la Universidad de Harvard. Un ejemplo: los expertos [Kevin D. Grant](https://www.niemanlab.org/2023/12/a-grassroots-funding-model-supports-healthier-local-news-ecosystems/), [Jody Brannon](https://www.niemanlab.org/2023/12/more-states-directly-fund-local-news-reporting/) y [Christa Scharfenberg](https://www.niemanlab.org/2023/12/more-public-funding-for-local-news/) ponen en valor la necesidad de inversión pública en los medios locales como garantía democrática. Otro: especialistas como [Tracie Powell](https://www.niemanlab.org/2023/12/the-year-we-see-the-future-of-local-news-wont-look-like-its-past/) enfatizan la necesidad de la información local de calidad para servir a las audiencias infrarepresentadas o directamente ninguneadas en los grandes ecosistemas mediáticos.
 

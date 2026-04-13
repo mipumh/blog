@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Charo Marcos, periodista, creadora de Kloshletter: “Es importantísima la forma en la que entro en el buzón de correo de la gente, tengo que intentar satisfacer al lector que no sabe nada y al que ya ha visto las noticias”"
 author: garcia-aviles
 categories:

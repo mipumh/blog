@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: ¿De medios digitales a medios IA? Reflexión y acción frente a las nuevas
   brechas tecnológicas
 author: arias
 categories:
   - tecnologia
 image: /images/shots/woolitize-the-fingers-of-a-robot-hand-holding-the-handle-of-a-television-microphone-with-a-tinsel-transformed.png
+tags:
+  - inteligencia-artificial
 ---
 Quizás sea un autoengaño ante la incertidumbre, pero la actual encrucijada del periodismo ante la Inteligencia Artificial genera un cierto *deja vu*. Y aunque veremos después importantes diferencias, quizás el escenario del que más se puede aprender sea el surgimiento del periodismo en Internet; más concretamente, en la World Wide Web. ¿Y si nos encontráramos frente a una coyuntura comparable a la de principios de los años 90? ¿Y si tuviéramos la oportunidad de aprender de los errores y, por supuesto, de los aciertos que se produjeron?
 

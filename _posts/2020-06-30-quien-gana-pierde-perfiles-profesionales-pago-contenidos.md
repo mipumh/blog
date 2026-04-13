@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 periscopio: si
 cover_image: periscopio.webp
 title: Quién gana y quién pierde importancia en un medio que pasa a cobrar por sus contenidos

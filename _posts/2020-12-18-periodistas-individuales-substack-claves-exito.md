@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "La industria periodística del individuo: cómo funciona el modelo del periodista solitario"
 subtitle: Reporteros y escritores mantienen una relación directa y autónoma con sus lectores gracias al boletín de correo y al podcast y se financian con herramientas como Substack y Patreon  
 author: carvajal

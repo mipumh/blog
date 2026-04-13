@@ -1,107 +1,180 @@
 <header class="site-header" role="banner">
   <nav class="site-nav" aria-label="Navegacion principal">
-    <div class="container-xl site-nav__inner">
+    <div class="container-xl">
 
-      <!-- Logo -->
-      <a href="{{ site.baseurl }}/" class="site-nav__logo" aria-label="Inicio">
-        <strong>{{ site.title }}</strong>
-      </a>
+      <!-- Mobile: logo left + actions right (same row) -->
+      <div class="site-nav__mobile-brand d-lg-none">
+        <a href="{{ site.baseurl }}/" class="site-nav__logo" aria-label="Inicio">
+          <svg class="site-nav__logo-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 80" aria-hidden="true">
+            <text class="site-nav__logo-text" x="215" y="68" text-anchor="middle"
+                  font-family="'Helvetica Neue', Arial, sans-serif"
+                  font-weight="900" font-size="80">ctrl reset</text>
+          </svg>
+        </a>
+      </div>
 
-      <!-- Desktop section links -->
-      <ul class="site-nav__sections d-none d-lg-flex" role="list">
-        {% for section in site.data.navigation.sections %}
-        <li>
+      <!-- Row 1: actions -->
+      <div class="site-nav__top">
+        <div class="site-nav__actions">
+          <button data-search-open class="site-nav__icon" aria-label="Buscar">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+          </button>
+
+          <button id="theme-toggle" class="site-nav__icon d-none d-lg-inline-flex" aria-label="Cambiar tema">
+            <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="5"/>
+              <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+              <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+            </svg>
+            <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+            </svg>
+          </button>
+
+          <button id="menu-toggle" class="site-nav__icon"
+                  aria-label="Abrir menu" aria-expanded="false" aria-controls="mega-menu">
+            <svg class="icon-menu" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="3" y1="6" x2="21" y2="6"/>
+              <line x1="3" y1="12" x2="21" y2="12"/>
+              <line x1="3" y1="18" x2="21" y2="18"/>
+            </svg>
+            <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="18" y1="6" x2="6" y2="18"/>
+              <line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Row 2: sections LEFT — logo CENTER — sections RIGHT (desktop only) -->
+      <div class="site-nav__main d-none d-lg-flex">
+        <div class="site-nav__sections-left">
+          {% for section in site.data.navigation.sections limit: 3 %}
           <a href="{{ site.baseurl }}{{ section.url }}"
              class="site-nav__link"
-             style="--nav-accent: {{ section.color }}"
-             {% if page.url contains section.slug %}aria-current="page"{% endif %}>
-            {{ section.title }}
+             {% if page.url contains section.slug %}aria-current="page"{% endif %}>{{ section.title }}</a>
+          {% unless forloop.last %}<span class="site-nav__dot">&middot;</span>{% endunless %}
+          {% endfor %}
+          <span class="site-nav__dot">&middot;</span>
+          <a href="{{ site.baseurl }}/about/" class="site-nav__link"
+             {% if page.url contains 'about' %}aria-current="page"{% endif %}>Quiénes somos</a>
+        </div>
+
+        <div class="site-nav__brand">
+          <a href="{{ site.baseurl }}/" class="site-nav__logo" aria-label="Inicio">
+            <svg class="site-nav__logo-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 80" aria-hidden="true">
+              <text class="site-nav__logo-text" x="215" y="68" text-anchor="middle"
+                    font-family="'Helvetica Neue', Arial, sans-serif"
+                    font-weight="900" font-size="80">ctrl reset</text>
+            </svg>
           </a>
-        </li>
-        {% endfor %}
-      </ul>
+          <span class="site-nav__subtitle">Revista de innovación en periodismo</span>
+        </div>
 
-      <!-- Right side: search + dark mode + hamburger -->
-      <div class="site-nav__actions">
-        <!-- Search toggle -->
-        <button data-search-open class="site-nav__icon" aria-label="Buscar">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <circle cx="11" cy="11" r="8"/>
-            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-          </svg>
-        </button>
-
-        <!-- Dark mode toggle -->
-        <button id="theme-toggle" class="site-nav__icon" aria-label="Cambiar tema claro/oscuro">
-          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <circle cx="12" cy="12" r="5"/>
-            <line x1="12" y1="1" x2="12" y2="3"/>
-            <line x1="12" y1="21" x2="12" y2="23"/>
-            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
-            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
-            <line x1="1" y1="12" x2="3" y2="12"/>
-            <line x1="21" y1="12" x2="23" y2="12"/>
-            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
-            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
-          </svg>
-          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
-          </svg>
-        </button>
-
-        <!-- Mobile hamburger -->
-        <button id="menu-toggle" class="site-nav__icon d-lg-none"
-                aria-label="Abrir menu" aria-expanded="false" aria-controls="mobile-menu">
-          <svg class="icon-menu" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <line x1="3" y1="6" x2="21" y2="6"/>
-            <line x1="3" y1="12" x2="21" y2="12"/>
-            <line x1="3" y1="18" x2="21" y2="18"/>
-          </svg>
-          <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-               stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <line x1="18" y1="6" x2="6" y2="18"/>
-            <line x1="6" y1="6" x2="18" y2="18"/>
-          </svg>
-        </button>
+        <div class="site-nav__sections-right">
+          {% for section in site.data.navigation.sections offset: 3 %}
+          <a href="{{ site.baseurl }}{{ section.url }}"
+             class="site-nav__link"
+             {% if page.url contains section.slug %}aria-current="page"{% endif %}>{{ section.title }}</a>
+          <span class="site-nav__dot">&middot;</span>
+          {% endfor %}
+          <a href="{{ site.baseurl }}/contacto/" class="site-nav__link"
+             {% if page.url contains 'contacto' %}aria-current="page"{% endif %}>Contacto</a>
+        </div>
       </div>
 
     </div>
   </nav>
 
-  <!-- Mobile menu (offcanvas) -->
-  <div id="mobile-menu" class="mobile-menu d-lg-none" aria-label="Menu movil">
-    <div class="mobile-menu__inner">
-      <nav aria-label="Secciones">
-        <h3 class="mobile-menu__heading">Secciones</h3>
-        <ul class="mobile-menu__list" role="list">
+  <!-- Mega menu (expanded nav) -->
+  <div id="mega-menu" class="mega-menu" aria-label="Menu de navegacion completo">
+    <div class="container-xl">
+
+      <!-- Explore by sections -->
+      <div class="mega-menu__explore">
+        <span class="mega-menu__label">Explorar</span>
+        <div class="mega-menu__sections">
           {% for section in site.data.navigation.sections %}
-          <li>
-            <a href="{{ site.baseurl }}{{ section.url }}" class="mobile-menu__link"
-               style="--nav-accent: {{ section.color }}">
+          <div class="mega-menu__column">
+            <a href="{{ site.baseurl }}{{ section.url }}" class="mega-menu__heading">
               {{ section.title }}
             </a>
-          </li>
+            {% if section.tags %}
+            <ul class="mega-menu__tags" role="list">
+              {% for tag in section.tags %}
+              <li><a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="mega-menu__tag-link">{{ tag }}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </div>
           {% endfor %}
-        </ul>
-      </nav>
-      {% if site.data.navigation.secondary %}
-      <nav aria-label="Mas paginas">
-        <h3 class="mobile-menu__heading">Mas</h3>
-        <ul class="mobile-menu__list" role="list">
+        </div>
+      </div>
+
+      <!-- More links -->
+      <div class="mega-menu__more">
+        <span class="mega-menu__label">Más</span>
+        <div class="mega-menu__more-links">
           {% for item in site.data.navigation.secondary %}
-          <li>
-            <a href="{{ site.baseurl }}{{ item.url }}" class="mobile-menu__link">
-              {{ item.title }}
-            </a>
-          </li>
+          <a href="{{ site.baseurl }}{{ item.url }}" class="mega-menu__more-link">{{ item.title }}</a>
           {% endfor %}
-        </ul>
-      </nav>
-      {% endif %}
+          {% for item in site.data.navigation.about %}
+          <a href="{{ site.baseurl }}{{ item.url }}" class="mega-menu__more-link">{{ item.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
+
+      <!-- Bottom bar: social + dark mode -->
+      <div class="mega-menu__bottom">
+        <div class="mega-menu__social">
+          <span class="mega-menu__label">Síguenos</span>
+          {% for link in site.data.navigation.social %}
+          <a href="{% if link.icon == 'rss' %}{{ site.baseurl }}{{ link.url }}{% else %}{{ link.url }}{% endif %}"
+             class="mega-menu__social-link"
+             {% unless link.icon == 'rss' %}target="_blank" rel="noopener"{% endunless %}
+             aria-label="{{ link.title }}">
+            {% if link.icon == 'twitter' %}
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            {% elsif link.icon == 'linkedin' %}
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+            {% elsif link.icon == 'youtube' %}
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+            {% elsif link.icon == 'rss' %}
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+            {% endif %}
+          </a>
+          {% endfor %}
+        </div>
+
+        <div class="mega-menu__dark-toggle">
+          <span class="mega-menu__label">Modo oscuro</span>
+          <button id="theme-toggle-mega" class="site-nav__icon" aria-label="Cambiar tema">
+            <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="5"/>
+              <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+              <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+            </svg>
+            <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
     </div>
   </div>
 </header>

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: 'Avanzadillas contra la desinformación: cómo están innovando los verificadores'
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/verificadores-1.jpg
+tags:
+  - desinformacion
 ---
 En un ecosistema mediático de creciente sobreinformación y abundancia de fuentes, donde aumenta la desinformación al servicio de determinados intereses e ideologías, es cada vez más necesario comprobar la veracidad de las noticias. Aquí radica una oportunidad para el periodismo. Los verificadores se multiplican en todo el mundo, de 44 en 2014 pasaron a 210 en 2019, según el Reporters’ Lab. En este artículo analizamos cómo están innovando cuatro iniciativas independientes de verificación: Chequeado, Full Fact, Pagella Política y Faktisk. 
 

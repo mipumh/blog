@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Redes sociales: un partido dentro del partido que disputan los clubes de
   fútbol"
 author: Rafa Vega
 categories:
   - innovadores
 image: /images/001/rafa-2.jpg
+tags:
+  - redes-sociales
+  - periodismo-deportivo
 ---
 La industria del fútbol tiene una particularidad que la hace especial: está en función de los resultados del equipo en el terreno de juego. Lo que buscan los clubes es no depender exclusivamente de ellos para vender más, sino establecer un vínculo emocional con sus seguidores. Y ahí sus redes sociales están disputando un partido que va más allá del que juegan durante los 90 minutos en el terreno de juego.
 

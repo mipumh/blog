@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: article
 title: Memecracia, el nuevo escenario de la información digital
-excerpt: "A estas alturas del Máster de Innovación en Periodismo 2014-2015, uno ya ha oído hablar de multitud de ejemplos de medios innovadores, tendencias, modelos de emprendimiento y herramientas tecnológicas sorprendentes. Es un claro síntoma de la efervescencia del periodismo actual, espoleado por esa proliferación de ingredientes que le permiten reinventarse sin parar.."
+excerpt: A estas alturas del Máster de Innovación en Periodismo 2014-2015, uno ya
+  ha oído hablar de multitud de ejemplos de medios innovadores, tendencias, modelos
+  de emprendimiento y herramientas tecnológicas sorprendentes. Es un claro síntoma
+  de la efervescencia del periodismo actual, espoleado por esa proliferación de ingredientes
+  que le permiten reinventarse sin parar..
 author: Vicente Coves
 categories:
-  - tecnologia
+- tecnologia
+image: /images/wordclouds/2015-02-18-memecracia-periodismo.png
 ---
 A estas alturas del [Máster de Innovación en Periodismo 2014-2015](http://mip.umh.es), uno ya ha oído hablar de multitud de ejemplos de medios innovadores, tendencias, modelos de emprendimiento y herramientas tecnológicas sorprendentes. Es un claro síntoma de la efervescencia del periodismo actual, espoleado por esa proliferación de ingredientes que le permiten reinventarse sin parar.
 

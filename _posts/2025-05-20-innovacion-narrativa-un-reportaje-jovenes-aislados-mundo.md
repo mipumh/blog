@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Innovación narrativa: un reportaje sobre los jóvenes que se aíslan del mundo"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/psm-yle.jpg
+tags:
+  - storytelling
 ---
 La innovación narrativa en el periodismo no ha recibido tanta atención como la innovación tecnológica, los procesos de producción o los modelos de negocio. Analizamos el caso de un reportaje del medio de servicio público de Finlandia Yle, en el que los periodistas innovan en las técnicas narrativas, aumentando la participación de la audiencia y poniendo el foco en los asuntos relevantes para la sociedad.
 

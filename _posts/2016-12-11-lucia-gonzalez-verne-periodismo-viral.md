@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Lucía González, editora jefa de Verne, ofrece las claves de los contenidos virales
 excerpt: "Lucía González es editora jefa de Verne, la sección de El País dedicada a explorar internet. Anteriormente trabajó en El Mundo y en el Huffington Post España, donde formó parte de su equipo fundador. Lucía ha impartido una sesión en el Máster de Innovación en Periodismo y la hemos entrevistado."
 author: Mari Carmen Borrull
 categories:
   - tecnologia
 image: /images/shots/verne0.jpg
+tags:
+  - redes-sociales
+  - video
 ---
 Lucía González es editora jefa de [Verne](http://verne.elpais.com/), la sección de **El País** dedicada a explorar internet. Anteriormente trabajó en El Mundo y en el Huffington Post España, donde formó parte de su equipo fundador. Lucía ha impartido una sesión en el Máster de Innovación en Periodismo y la hemos entrevistado. 
 

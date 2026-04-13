@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Asimetría, incapacidad para monetizar e incertidumbre. Así es la relación con Facebook de los doce periódicos europeos estudiados por el Reuters Institute 
 subtitle: En su último informe, el instituto de investigación ahonda en cómo los medios de seis países distintos de Europa emplean las redes sociales para la distribución y monetización de sus noticias
 excerpt: "Todos los medios estudiados continúan experimentando una relación de asimetría, incapacidad de monetizar efectivamente el alcance fuera de la red social, incertidumbre, como los cambios repentinos y a veces inexplicables que pueden transformar el rendimiento de la noche a la mañana, y preocupación por el riesgo de la plataforma a largo plazo. Esa ha sido una de las muchas conclusiones que ha obtenido el último informe del Reuters Institute Digital News Repor acerca de la relación de doce medios europeos distintos con Facebook. Sin embargo, el instituto de investigación coordinado por la Universidad de Oxford ha concluido también que, a pesar de que las compañías analizadas se sienten “frustradas”, Facebook sigue siendo la red social más rentable en términos de “tráfico, acceso externo a la web y venta de suscripciones."
@@ -7,6 +7,9 @@ author: mondejar
 categories:
   - industria
 image: /images/shots/fbmedios_0.jpg
+tags:
+  - redes-sociales
+  - modelo-negocio
 ---
 "Todos los medios estudiados continúan experimentando una relación de asimetría, incapacidad de monetizar efectivamente el alcance fuera de la red social, incertidumbre (como los cambios repentinos y a veces inexplicables que pueden transformar el rendimiento de la noche a la mañana), y preocupación por el riesgo de la plataforma a largo plazo". Esa ha sido una de las muchas conclusiones que ha obtenido el último [informe](http://www.digitalnewsreport.org/publications/2018/public-service-news-and-social-media-copy/) del **[Reuters Institute Digital News Report](http://www.digitalnewsreport.org/)** acerca de la relación de doce medios europeos distintos con Facebook. Sin embargo, el instituto de investigación coordinado por la Universidad de Oxford ha concluido también que, a pesar de que las compañías analizadas se sienten “frustradas”, Facebook **sigue siendo la red social más rentable en términos de “tráfico, acceso externo a la web y venta de suscripciones”.**
 

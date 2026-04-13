@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Artifact, el 'TikTok' de las noticias que crea un menú informativo a tu medida"
 author: David Gozálvez
 categories:
   - tecnologia
 image: /images/shots/artifact_0.png
+tags:
+  - tiktok-twitch
 ---
 La posibilidad de que exista un "Netflix" de medios de comunicación, un sistema donde el consumidor pagaría por tener acceso a los contenidos de diversas cabeceras, es un tema recurrente en los últimos años. Se trata de una idea que como utopía es fantástica, pero que probablemente no triunfaría porque hay antecedentes a los que no les ha ido del todo bien[ por una serie de motivos](https://mip.umh.es/blog/2020/08/06/spotify-netflix-medios-una-ocurrencia-imposible/). Sin embargo, a finales de febrero surgió un producto que, aunque no es exactamente esta idea, se le parece bastante. Los creadores de Instagram, Kevin Systrom y Mike Krieger, han lanzado Artifact, una plataforma de noticias potenciada por Inteligencia Artificial que crea un feed personalizado en base a los gustos del usuario, algo similar a lo que hace TikTok con los vídeos. Tras varios meses de prueba con acceso por invitación, la aplicación ya está disponible en abierto.
 

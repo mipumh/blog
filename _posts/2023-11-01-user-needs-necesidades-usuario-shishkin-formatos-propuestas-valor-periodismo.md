@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: La matriz de necesidades del usuario, una brújula para crear formatos y propuestas de valor en periodismo
 subtitle: La herramienta impulsada por Dmitry Shishkin se emplea en equipos de producto de medios y en programas formativos para incentivar la innovación periodística
 author: carvajal

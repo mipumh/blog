@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Consejos para emprender en el sector de la información (II)
 excerpt: "Continuamos con una serie de recomendaciones, basadas en mi experiencia personal, que te permitirán llevar a cabo con éxito tu propio proyecto en el ámbito de la comunicación."
 author: Javier Padilla
 categories:
   - tecnologia
 image: /images/shots/2pad0.jpg
+tags:
+  - emprendimiento
 ---
 _[Continuamos](http://mip.umh.es/blog/2016/10/15/claves-emprender-javier-padilla/) con una serie de recomendaciones, basadas en mi experiencia personal, que te permitirán llevar a cabo con éxito tu propio proyecto en el ámbito de la comunicación:_
 

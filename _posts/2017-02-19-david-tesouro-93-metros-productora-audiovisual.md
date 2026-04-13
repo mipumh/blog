@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: David Tesouro (93 metros)&#58 'A la tecnología se le acaba el momento de gloria y pasa a ser una herramienta'
 excerpt: "David Tesouro es realizador, editor y operador de cámara de 93 metros, una productora especializada en tecnologías innovadoras. Su carrera profesional se ha centrado en el periodismo y también se ha dedicado a la ficción. Ha sido galardonado, junto a otros compañeros, con el premio Tiflos de periodismo digital de la ONCE por El mundo en tres sentidos y con el Premio Boehringer de Periodismo Médico por El mal del cerebro. Ha escrito y dirigido ‘El gran día de los feos’, primera serie española de distribución exclusiva a través de aplicación móvil."
 author: Mari Carmen Borrull
 categories:
   - narrativas
 image: /images/shots/93metros0.jpg
+tags:
+  - video
+  - herramientas-ia
 ---
 David Tesouro es realizador, editor y operador de cámara de **_93 metros_, una productora** especializada en tecnologías innovadoras. Su carrera profesional se ha centrado en el periodismo y también se ha dedicado a la ficción. Ha sido galardonado, junto a otros compañeros, con el premio Tiflos de periodismo digital de la ONCE por "El mundo en tres sentidos" y con el Premio Boehringer de Periodismo Médico por “El mal del cerebro”. Ha escrito y dirigido ‘El gran día de los feos’, primera serie española de distribución exclusiva a través de aplicación móvil.
 

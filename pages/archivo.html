@@ -3,45 +3,48 @@ layout: default
 title: Archivo
 permalink: /archivo/
 ---
-<div class="archive-page">
+<div class="homepage">
   <div class="container-xl">
 
     <header class="section-header">
       <div class="section-header__bar" aria-hidden="true"></div>
       <h1 class="section-header__title">Archivo</h1>
-      <p class="section-header__desc">Todos los articulos publicados, ordenados por fecha.</p>
+      <p class="section-header__desc">Todos los artículos publicados, ordenados por año.</p>
     </header>
 
     {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
     {% for year in posts_by_year %}
-    <section class="archive-year" aria-label="{{ year.name }}">
-      <h2 class="archive-year__heading">{{ year.name }}</h2>
-      <ul class="archive-list" role="list">
-        {% for post in year.items %}
-        {% assign author = site.data.authors[post.author] %}
-        <li class="archive-item">
-          <time datetime="{{ post.date | date_to_xmlschema }}" class="archive-item__date">
-            {{ post.date | date: "%d %b" }}
-          </time>
-          <div class="archive-item__content">
-            <a href="{{ site.baseurl }}{{ post.url }}" class="archive-item__title">
-              {{ post.title }}
-            </a>
-            {% if author %}
-            <span class="archive-item__author">{{ author.name }}</span>
-            {% endif %}
-            {% assign cat_slug = post.categories | first %}
-            {% assign section = site.data.sections[cat_slug] %}
-            {% if section %}
-            <span class="category-pill category-pill--sm"
-                  style="--pill-color: {{ section.color }}">
-              {{ section.title }}
-            </span>
-            {% endif %}
+    <section class="hp-block section-river" aria-label="{{ year.name }}">
+      <div class="river-row">
+        <div class="river-title-col">
+          <span class="river-title-link" id="year-{{ year.name }}">
+            {{ year.name }} <span class="river-arrow">&rsaquo;</span>
+          </span>
+        </div>
+        <div class="river-cards-col">
+          <div class="row g-4">
+            {% for post in year.items limit: 6 %}
+            <div class="col-12 col-sm-4">
+              {% include card.html post=post %}
+            </div>
+            {% endfor %}
           </div>
-        </li>
-        {% endfor %}
-      </ul>
+          {% if year.items.size > 6 %}
+          <details class="archive-more">
+            <summary class="archive-more__toggle">
+              Ver los {{ year.items.size | minus: 6 }} artículos restantes de {{ year.name }}
+            </summary>
+            <div class="row g-4" style="margin-top: var(--space-lg);">
+              {% for post in year.items offset: 6 %}
+              <div class="col-12 col-sm-4">
+                {% include card.html post=post %}
+              </div>
+              {% endfor %}
+            </div>
+          </details>
+          {% endif %}
+        </div>
+      </div>
     </section>
     {% endfor %}
 

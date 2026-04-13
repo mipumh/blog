@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Irene Gómez Peña, consultora de medios: “A las nuevas generaciones de periodistas las tienes que entender mucho y muy de cerca. Y preguntarles: ¿Cómo estás? ¿Te pasa algo?”"
 author: garcia-aviles
 categories:

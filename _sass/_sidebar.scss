@@ -1,91 +1,54 @@
 // ==========================================================================
-// Sidebar — Sticky Sidebar, Breves, Novedades, Popular Posts
-// ==========================================================================
-// Right column on homepage (col-lg-4). Sticky, scrollable, with thin
-// scrollbar. Contains breves list, novedades blocks, newsletter, popular.
-// Reference: renove/layout-homepage.md (Sidebar), renove/layout-article.md
+// Sidebar — Breves, Novedades, Popular
 // ==========================================================================
 
-// --------------------------------------------------------------------------
-// Sidebar Sticky Container
-// --------------------------------------------------------------------------
 .sidebar-sticky {
   position: sticky;
-  top: calc(64px + 1.5rem); // header height + gap
-  max-height: calc(100vh - 64px - 3rem);
+  top: calc(var(--header-height) + var(--space-lg));
+  max-height: calc(100vh - var(--header-height) - var(--space-2xl));
   overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: var(--color-border) transparent;
 
-  // Webkit scrollbar styling
-  &::-webkit-scrollbar {
-    width: 4px;
-  }
-
-  &::-webkit-scrollbar-track {
-    background: transparent;
-  }
-
-  &::-webkit-scrollbar-thumb {
-    background: var(--color-border);
-    border-radius: 2px;
-  }
+  &::-webkit-scrollbar { width: 3px; }
+  &::-webkit-scrollbar-track { background: transparent; }
+  &::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 2px; }
 }
 
-// --------------------------------------------------------------------------
-// Sidebar Block (shared wrapper)
-// --------------------------------------------------------------------------
 .sidebar-block {
   margin-bottom: var(--space-xl);
   padding-bottom: var(--space-xl);
   border-bottom: 1px solid var(--color-border);
 
-  &:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
-  }
+  &:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
 }
 
-// --------------------------------------------------------------------------
-// Sidebar Label (section heading)
-// --------------------------------------------------------------------------
 .sidebar-label {
-  font-family: var(--font-sans);
+  font-family: var(--font-mono);
   font-size: var(--text-xs);
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--color-brand);
+  letter-spacing: 0.08em;
+  color: var(--color-text);
   margin-bottom: var(--space-md);
-  padding-bottom: var(--space-xs);
-  border-bottom: 2px solid var(--color-brand);
+  padding-bottom: var(--space-2xs);
+  border-bottom: 2px solid var(--color-text);
   display: inline-block;
 }
 
-// --------------------------------------------------------------------------
-// Breves List
-// --------------------------------------------------------------------------
-.breves-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+// Breves
+.breves-list { list-style: none; padding: 0; margin: 0; }
 
 .breves-item {
   padding: var(--space-sm) 0;
-  border-bottom: 1px solid var(--color-border);
-
-  &:last-child {
-    border-bottom: none;
-  }
+  border-bottom: 1px solid var(--color-border-light);
+  &:last-child { border-bottom: none; }
 }
 
 .breves-item--hl {
   background: var(--color-brand-tint);
   margin: 0 calc(-1 * var(--space-sm));
   padding: var(--space-sm);
-  border-radius: var(--radius-sm);
   border-bottom: none;
 }
 
@@ -93,36 +56,28 @@
   font-family: var(--font-sans);
   font-size: var(--text-sm);
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.35;
   color: var(--color-text);
   text-decoration: none;
-
-  &:hover {
-    color: var(--color-brand);
-  }
+  &:hover { color: var(--color-brand); }
 }
 
 .breves-item time {
   display: block;
+  font-family: var(--font-mono);
   font-size: var(--text-xs);
   color: var(--color-text-muted);
-  margin-top: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: var(--space-2xs);
 }
 
-.ext-icon {
-  font-size: 0.75em;
-  opacity: 0.4;
-}
+.ext-icon { font-size: 0.75em; opacity: 0.4; }
 
-// --------------------------------------------------------------------------
-// Novedades Blocks
-// --------------------------------------------------------------------------
+// Novedades
 .novedad {
   margin-bottom: var(--space-md);
-
-  &:last-child {
-    margin-bottom: 0;
-  }
+  &:last-child { margin-bottom: 0; }
 }
 
 .novedad__title {
@@ -137,47 +92,37 @@
   font-family: var(--font-sans);
   font-size: var(--text-sm);
   color: var(--color-text-muted);
-  line-height: 1.4;
+  line-height: 1.45;
   margin: 0 0 var(--space-xs);
 }
 
 .novedad__cta {
-  font-family: var(--font-sans);
+  font-family: var(--font-mono);
   font-size: var(--text-xs);
-  font-weight: 600;
+  font-weight: 700;
   color: var(--color-brand-dark);
   text-decoration: none;
-
-  &:hover {
-    color: var(--color-brand);
-  }
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  &:hover { color: var(--color-brand); }
 }
 
-// --------------------------------------------------------------------------
-// Popular Posts (ranked list)
-// --------------------------------------------------------------------------
-.popular-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+// Popular posts
+.popular-list { list-style: none; padding: 0; margin: 0; }
 
 .popular-item {
   display: flex;
   gap: var(--space-sm);
   padding: var(--space-sm) 0;
-  border-bottom: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border-light);
   align-items: flex-start;
-
-  &:last-child {
-    border-bottom: none;
-  }
+  &:last-child { border-bottom: none; }
 }
 
 .popular-rank {
-  font-family: var(--font-serif);
-  font-size: var(--text-xl);
-  font-weight: 900;
+  font-family: var(--font-mono);
+  font-size: var(--text-lg);
+  font-weight: 700;
   color: var(--color-brand);
   line-height: 1;
   min-width: 1.5ch;
@@ -190,8 +135,5 @@
   line-height: 1.35;
   color: var(--color-text);
   text-decoration: none;
-
-  &:hover {
-    color: var(--color-brand);
-  }
+  &:hover { color: var(--color-brand); }
 }

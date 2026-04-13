@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "La difusión de las innovaciones en los medios de comunicación: claves de un proceso"
 author: garcia-aviles
 categories:

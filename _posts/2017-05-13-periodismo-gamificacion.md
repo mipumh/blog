@@ -1,10 +1,17 @@
 ---
-layout: post
+layout: article
 title: Iniciativas de periodismo gamificado que destacan por su innovación
-excerpt: "La gamificación del contenido periodístico es un fenómeno imparable. Cada vez son más los medios de comunicación que incorporan elementos propios de los videojuegos para atraer a audiencias más jóvenes, fidelizar usuarios, potenciar el consumo de noticias o experimentar con nuevas vías de financiación. Seleccionamos tres de los casos más innovadores."
+excerpt: La gamificación del contenido periodístico es un fenómeno imparable. Cada
+  vez son más los medios de comunicación que incorporan elementos propios de los videojuegos
+  para atraer a audiencias más jóvenes, fidelizar usuarios, potenciar el consumo de
+  noticias o experimentar con nuevas vías de financiación. Seleccionamos tres de los
+  casos más innovadores.
 author: garcia-ortega
 categories:
-  - narrativas
+- narrativas
+tags:
+- innovacion-periodistica
+image: /images/wordclouds/2017-05-13-periodismo-gamificacion.png
 ---
 La gamificación del contenido periodístico es un fenómeno imparable. Cada vez son más los medios de comunicación que incorporan elementos propios de los videojuegos para atraer a audiencias más jóvenes, fidelizar usuarios, potenciar el consumo de noticias o experimentar con nuevas vías de financiación. Seleccionamos tres de los casos más innovadores.
 

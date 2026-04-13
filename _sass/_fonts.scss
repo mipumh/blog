@@ -1,18 +1,46 @@
 // ==========================================================================
-// Fonts — Self-hosted @font-face (variable fonts, woff2)
+// Fonts — Self-hosted @font-face (woff2)
 // ==========================================================================
-// Both families are served as variable fonts from Google Fonts.
-// A single woff2 file per family covers all requested weights.
+// JetBrains Mono: UI/nav/labels (monospace moderna)
+// PT Serif: titulares y cuerpo de lectura
+// Source Sans 3: texto secundario, excerpts
 // ==========================================================================
 
+// JetBrains Mono — UI monospace
 @font-face {
-  font-family: 'Playfair Display';
-  src: url('#{$baseurl}/assets/fonts/PlayfairDisplay-Bold.woff2') format('woff2');
-  font-weight: 700 900;
+  font-family: 'JetBrains Mono';
+  src: url('#{$baseurl}/assets/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('#{$baseurl}/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+// PT Serif — lectura y titulares
+@font-face {
+  font-family: 'PT Serif';
+  src: url('#{$baseurl}/assets/fonts/PTSerif-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PT Serif';
+  src: url('#{$baseurl}/assets/fonts/PTSerif-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Source Sans 3 — texto secundario
 @font-face {
   font-family: 'Source Sans 3';
   src: url('#{$baseurl}/assets/fonts/SourceSans3-Regular.woff2') format('woff2');

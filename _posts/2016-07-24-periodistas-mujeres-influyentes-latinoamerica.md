@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: Las periodistas más innovadoras e influyentes de Latinoamérica (I)  
 excerpt: "Se trata de una lista necesariamente incompleta, ya que nos planteamos el reto de identificar a las periodistas que aúnan los rasgos de “innovadoras” e “influyentes” en los medios latinoamericanos. Comenzamos por esta serie de candidatas indiscutibles. Y te pedimos tu colaboración para ir ampliando esta lista en las próximas semanas."
 author: Lorena Escandell
 categories:
   - narrativas
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - latinoamerica
+  - innovacion-periodistica
+  - redes-sociales
 ---
 ![]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

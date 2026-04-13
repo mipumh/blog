@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Quim Miró, director editorial de Comunicació 21: “Si quieres crecer, encuentra una
   comunidad a la que ofrecerle un contenido diferente al de los medios
   generalistas”"
@@ -7,6 +7,8 @@ author: garcia-aviles
 categories:
   - innovadores
 image: /images/001/20251113_quimmiro-1.jpg
+tags:
+  - engagement
 ---
 [Quim Miró](https://x.com/quimmiro) (Martorell, 1974) es el director editorial de Comunicació 21 y lidera publicaciones como [Comunicació 21](https://comunicacio21.cat/), Cultura 21, [Exterior.cat](https://exterior.cat/) y [Espai.Mèdia](https://espai.media/). Desde mayo de 2023, este periodista, con una amplia trayectoria en medios locales y especializados, pone su granito de arena en el Grupo Comunicació 21, que cuenta también con una [red de diarios metropolitanos Línia](https://liniaxarxa.cat/). Comunicació 21 se ha convertido en la publicación de referencia sobre el sector en Cataluña y Miró le ha dado un gran impulso, especialmente con sus entrevistas que publica los viernes. Mantuvimos una interesante conversación sobre el valor de la especialización, el periodismo de proximidad y la irrupción de la IA en los medios.
 

@@ -3,12 +3,11 @@ layout: default
 ---
 {% assign cat_slug = page.pagination.category | default: page.category %}
 {% assign section = site.data.sections[cat_slug] %}
-{% assign section_color = section.color | default: "var(--color-brand)" %}
 
 <div class="section-page">
   <div class="container-xl">
 
-    <header class="section-header" style="--section-accent: {{ section_color }}">
+    <header class="section-header">
       <div class="section-header__bar" aria-hidden="true"></div>
       <h1 class="section-header__title">
         {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}

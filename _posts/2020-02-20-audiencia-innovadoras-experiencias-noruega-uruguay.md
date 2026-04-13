@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: >-
   Conoce a fondo a tu audiencia. Las innovadoras experiencias de Dagens
   Næringsliv (Noruega) y La Diaria (Uruguay)
@@ -7,6 +7,10 @@ author: garcia-aviles
 categories:
   - audiencias
 image: /images/shots/Nordisc.jpg
+tags:
+  - engagement
+  - innovacion-periodistica
+  - latinoamerica
 ---
 Al desarrollar cualquier proyecto periodístico, conviene redoblar los esfuerzos para conocer a la audiencia. Resulta clave tener un profundo conocimiento de las personas a quienes nos dirigimos, a quienes queremos transformar en lectores habituales y/o suscriptores. En este artículo analizamos dos casos de medios que han innovado en la forma de conectar con sus audiencias: el noruego **Dagens Næringsliv** y el uruguayo **La Diaria**.
 

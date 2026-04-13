@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Más que un producto, más que un servicio: el periodismo como Product-Service System"
 author: marin
 categories:

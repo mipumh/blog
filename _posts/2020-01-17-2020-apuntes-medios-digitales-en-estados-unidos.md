@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: >-
   2020 ya está aquí. Apuntes sobre la situación de los medios digitales en
   Estados Unidos

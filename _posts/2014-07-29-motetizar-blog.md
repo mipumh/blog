@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Cinco maneras de ganar dinero con tu blog (haciendo periodismo)
 excerpt: "La conversión al periodismo digital se ha acelerado en los últimos años. En España, la publicidad ha aumentado de forma considerable y entre 2008 y 2013 nacieron 297 medios de comunicación que trabajan en nichos desatendidos por las empresas periodísticas tradicionales. A veces no se trata de un nicho (vaya palabra), sino simplemente de un grupo de gente descontenta, interesada por algo en común, que los medios tradicionales no saben atender."
 author: marin

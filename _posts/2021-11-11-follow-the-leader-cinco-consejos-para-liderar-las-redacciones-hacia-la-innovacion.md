@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Follow the leader! Cinco consejos para liderar las redacciones hacia la
   innovación
 author: valero
 categories:
   - redaccion
 image: /images/shots/lider1.jpg
+tags:
+  - organizacion-redacciones
+  - liderazgo
 ---
 Los medios de comunicación necesitan una visión estratégica que los ayude a sobrevivir en un contexto en el que su sostenibilidad, su influencia y la legitimidad de su misión social están en juego. En una industria mediática tan ligada al cambio y la creatividad, la innovación debe ser una parte fundamental de esa hoja de ruta. Por ello, **sus responsables deben adoptar un estilo de liderazgo transformacional, que fomente la agilidad y la experimentación constante**. En este artículo incluimos cinco consejos para impulsar un clima innovador en las redacciones, ilustrados con ejemplos actuales.
 

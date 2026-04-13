@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: BBC Taster&#58 la mesa de pruebas de la innovación periodística
 excerpt: "Prueba, valora y comparte. Con esas tres acciones se presenta BBC Taster, la punta del iceberg de su laboratorio de innovación. Esta iniciativa, que cumple ahora un año y medio de vida, está pensada para que cualquier usuario pueda trastear y evaluar los últimos experimentos en productos interactivos y sociales."
 author: arias

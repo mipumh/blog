@@ -1,11 +1,18 @@
 ---
 published: true
-layout: post
+layout: article
 title: Por qué las redes sociales mejoran tu SEO aunque Google diga lo contrario
-excerpt: "A día de hoy no hay plan de Comunicación o Marketing Online que se precie que no tenga muy en cuenta las redes sociales para sus objetivos SEO. La experiencia nos dice que la actividad en Facebook, Twitter o Google Plus puede influir muy positivamente en las posiciones de una web en los buscadores. A pesar de que Google afirme lo contrario."
+excerpt: A día de hoy no hay plan de Comunicación o Marketing Online que se precie
+  que no tenga muy en cuenta las redes sociales para sus objetivos SEO. La experiencia
+  nos dice que la actividad en Facebook, Twitter o Google Plus puede influir muy positivamente
+  en las posiciones de una web en los buscadores. A pesar de que Google afirme lo
+  contrario.
 author: Fátima Navarro
 categories:
-  - audiencias
+- audiencias
+tags:
+- redes-sociales
+image: /images/wordclouds/2014-12-11-redes-sociales-mejora-seo.png
 ---
 A día de hoy no hay plan de Comunicación o Marketing Online que se precie que no tenga muy en cuenta las redes sociales para sus objetivos SEO. La experiencia nos dice que **la actividad en Facebook, Twitter o Google Plus puede influir muy positivamente** en las posiciones de una web en los buscadores. **A pesar de que Google afirme lo contrario**.
 

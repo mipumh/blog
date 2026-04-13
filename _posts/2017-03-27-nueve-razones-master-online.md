@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: article
 title: Nueve razones para estudiar el MIP Online. Escoge las tuyas
-excerpt: "En octubre se abre la tercera edición online del Máster en Innovación en Periodismo (MIP). Ahora que ya puedes inscribirte, apuntamos nueve razones por si te decantas por esta modalidad. Como hace dos años explicamos sus claves, ahora tú decides cuáles son las más importantes."
+excerpt: En octubre se abre la tercera edición online del Máster en Innovación en
+  Periodismo (MIP). Ahora que ya puedes inscribirte, apuntamos nueve razones por si
+  te decantas por esta modalidad. Como hace dos años explicamos sus claves, ahora
+  tú decides cuáles son las más importantes.
 author: arias
 categories:
-  - narrativas
+- narrativas
+image: /images/wordclouds/2017-03-27-nueve-razones-master-online.png
 ---
 En octubre se abre la tercera edición online del Máster en Innovación en Periodismo (MIP). Ahora que ya puedes inscribirte, apuntamos nueve razones por si te decantas por esta modalidad. Como [hace dos años explicamos sus claves](http://mip.umh.es/blog/2015/05/28/master-innovacion-periodismo-modalidad-online/), ahora tú decides cuáles son las más importantes:
 

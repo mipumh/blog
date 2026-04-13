@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: article
 title: Las narrativas más innovadoras de 2024 (3)
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/lab-orquesta.jpg
+tags:
+  - narrativas-interactivas
+  - storytelling
+  - innovacion-periodistica
 ---
 Tras [la primera](https://mip.umh.es/blog/2025/03/04/las-narrativas-mas-innovadoras-de-2024-1/) y [la segunda entrega](https://mip.umh.es/blog/2025/03/11/las-narrativas-mas-innovadoras-de-2024-2/), continuamos con la selección de las narrativas interactivas que destacaron el año pasado en medios de todo el mundo, con especial foco en los españoles.
 

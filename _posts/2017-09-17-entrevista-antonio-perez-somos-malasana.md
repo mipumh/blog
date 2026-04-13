@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Antonio Pérez, fundador de Somos Malasaña&#58 "El periodismo a pie de calle y la información cercana le  interesan a la gente"
 excerpt: "El periodismo hiperlocal se centra en la información en torno a una comunidad, región o barrio, con un enfoque transversal de contenidos sobre las preocupaciones e intereses de sus residentes. Desde 2009, Somos Malasaña es uno de los hiperlocales pioneros en España, 'un medio de barrio de los de toda la vida, 100% digital y evolucionando en cuanto a la incorporación de redes sociales', según Antonio Pérez, uno de sus fundadores. Con más de 25 años de experiencia en prensa y radio, Antonio Pérez explica en esta entrevista los fundamentos del periodismo de proximidad."
 author: María Durán
 categories:
   - industria
 image: /images/shots/somosmala_0.jpg
+tags:
+  - entrevista
+  - periodismo-local
 ---
 El periodismo hiperlocal se centra en la información en torno a una comunidad, región o barrio, con un enfoque transversal de contenidos sobre las preocupaciones e intereses de sus residentes. Desde 2009, [Somos Malasaña](http://www.somosmalasana.com/) es uno de los hiperlocales pioneros en España, "un medio de barrio de los de toda la vida, 100% digital y evolucionando en cuanto a la incorporación de redes sociales", según Antonio Pérez, uno de sus fundadores. Con más de 25 años de experiencia en prensa y radio, Antonio Pérez explica en esta entrevista los fundamentos del periodismo de proximidad. 
 

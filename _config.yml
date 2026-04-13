@@ -23,7 +23,7 @@ inc:
 # Build
 markdown: kramdown
 highlighter: rouge
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 sass:
   load_paths:
@@ -35,9 +35,6 @@ collections:
   authors:
     output: true
     permalink: /authors/:name/
-  conferencias:
-    output: true
-    permalink: /:collection/:title
 
 # Defaults
 defaults:
@@ -57,7 +54,7 @@ defaults:
 # Pagination (jekyll-paginate-v2)
 pagination:
   enabled: true
-  per_page: 9
+  per_page: 24
   permalink: "/page/:num/"
   sort_field: "date"
   sort_reverse: true

@@ -1,0 +1,26 @@
+---
+layout: default
+title: Lo más leído
+permalink: /popular/
+---
+<div class="section-page">
+  <div class="container-xl">
+
+    <header class="section-header">
+      <h1 class="section-header__title">Lo más leído</h1>
+      <p class="section-header__desc">Los artículos más populares del blog</p>
+    </header>
+
+    {% assign popular = site.posts | sort: "popular" | reverse %}
+    <div class="row g-4">
+      {% for post in popular limit:24 %}
+      {% if post.popular and post.popular > 0 %}
+      <div class="col-12 col-sm-6 col-lg-4">
+        {% include card.html post=post %}
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+
+  </div>
+</div>

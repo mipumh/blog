@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Trabajo pesado y trabajo pensado: ¿Cómo mantener el aura en el periodismo usando la IA?"
 author: carvajal
 categories:
   - tecnologia
 image: /images/001/aura_IA_0.png
+popular: 2
+tags:
+  - inteligencia-artificial
 ---
 Hace unos días, en su boletín *Error 500*, **Antonio Ortiz** [planteaba una pregunta incómoda](https://open.substack.com/pub/error500/p/diez-por-ciento-de-aura?utm_campaign=post-expanded-share&utm_medium=web): ¿qué protege a los periodistas que usan IA de volverse sustituibles? Según él quería creer, la marca personal, la conexión con la audiencia y la confianza acumulada. Y decía: "Me gusta pensar que el valor último que un creador humano puede ofrecer (lo que realmente no es computable y automatizable) no es la técnica, ni la velocidad, ni siquiera el criterio editorial en abstracto. Es la voluntad de crear que nace de un estar en el mundo. Es haber vivido y querer contar algo". 
 

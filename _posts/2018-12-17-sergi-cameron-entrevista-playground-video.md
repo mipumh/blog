@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Sergi Cameron (director de entretenimiento, PlayGround)&#58 "No creo que haya menos predisposición a los temas densos"
 excerpt: "Sergi Cameron, un enamorado del mundo cinematográfico, lleva más de quince años trabajando en Nanouk Films, de la que es productor ejecutivo. Realiza cortos, largometrajes, documentales, bandas sonoras, videoclips y contenido audiovisual innovador. Sus obras han participado en el Festival de Málaga y San Sebastián, y en festivales internacionales de la talla del Sundance, el IDFA o el Hot Docs. Es director de entretenimiento en PlayGround, un medio que se caracteriza por su forma fresca de sumergir a la generación millennial en el mundo de la información y la comunicación. Cameron fue ponente en las XIV Jornadas Internacionales de Innovación en Periodismo celebradas en la Universidad Miguel Hernández."
 author: Armando Manzano
 categories:
   - narrativas
 image: /images/shots/sergicameron.jpg
+tags:
+  - entrevista
+  - redes-sociales
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/sergicameron.jpg)
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Cómo y por qué es más importante que nunca hacer periodismo en la era de
   las emociones
 author: de-lara

@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: Las mejores narrativas interactivas de 2019 (I)
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/people-map.jpg
+tags:
+  - narrativas-interactivas
+  - storytelling
 ---
 Además de las coberturas minuto a minuto, los titulares clickbait y el *branded content*, por fortuna, numerosos medios apuestan por un periodismo explicativo, que a través de diversas narrativas aborda temas en profundidad de modo creativo e innovador. Se trata de formatos interactivos que combinan el rigor informativo y **una experiencia interactiva, inmersiva y, en ocasiones, lúdica**.
 

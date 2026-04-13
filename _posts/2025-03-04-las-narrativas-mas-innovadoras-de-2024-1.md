@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Las narrativas más innovadoras de 2024 (1)"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/how-to-watch-a-baby.jpg
+tags:
+  - narrativas-interactivas
+  - storytelling
+  - innovacion-periodistica
 ---
 Al igual que en los cinco últimos años, selecciono las narrativas interactivas que destacaron en medios de todo el mundo durante 2024. Estos trabajos, la mayoría a cargo de equipos interdisciplinares, relatan la información de manera innovadora. En esta selección destaco la variedad de formatos, medios y países, con el fin de mostrar el formidable trabajo periodístico que se realiza. 2024 ha sido un año fecundo: recojo más de 40 trabajos que publicaremos en cuatro entregas, repletas de valiosas ideas para renovar la forma de narrar.
 

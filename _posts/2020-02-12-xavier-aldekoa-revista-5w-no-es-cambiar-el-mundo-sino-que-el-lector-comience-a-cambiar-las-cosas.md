@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: ' Xavier Aldekoa (Revista 5W): “Nuestra función no es intentar cambiar el mundo, sino poner un punto de inicio para que el lector comience a cambiar las cosas”'
 author: Laura Sánchez Benejama
 categories:

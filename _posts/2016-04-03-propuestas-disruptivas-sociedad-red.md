@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Decálogo disruptivo sobre el periodismo en la Sociedad Red (1)
 excerpt: "El proceso de innovación disruptiva que afronta el periodismo ha acentuado la crisis de los medios tradicionales y plantea un cambio de paradigma en la profesión y en las empresas del sector. Numerosos medios nativos digitales (Vox Media, Quartz, Buzzfeed…) han irrumpido con estrategias de crecimiento, equipos reducidos, inversiones a bajo coste y contenidos muy virales, logrando captar un segmento considerable del mercado. Sus líderes entienden muy bien la naturaleza de la producción y distribución de contenidos en internet, lo que les permite escalar puestos en la cadena de valor en la Sociedad Red."
 author: garcia-aviles
 categories:
   - redaccion
 image: /images/shots/pered1.jpg
+tags:
+  - innovacion-periodistica
 ---
 El proceso de innovación disruptiva que afronta el periodismo ha acentuado la crisis de los medios tradicionales y plantea un cambio de paradigma en la profesión y en las empresas del sector. Numerosos medios nativos digitales **(Vox Media, Quartz, Buzzfeed)** han irrumpido con estrategias de crecimiento, equipos reducidos, inversiones a bajo coste y contenidos muy virales, logrando captar un segmento considerable del mercado. Sus líderes entienden muy bien la naturaleza de la producción y distribución de contenidos en internet, lo que les permite escalar puestos [en la cadena de valor en la Sociedad Red](http://mip.umh.es/blog/2015/04/24/comunicar-sociedad-red/).
 

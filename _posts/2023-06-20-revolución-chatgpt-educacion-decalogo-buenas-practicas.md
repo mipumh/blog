@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "La ‘revolución ChatGPT’ llega a la educación: decálogo de buenas prácticas"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/pexels-shantanu-kumar-16474960.jpg
+tags:
+  - inteligencia-artificial
+  - herramientas-ia
 ---
 Hace unas semanas hice una encuesta informal entre mis estudiantes de periodismo y pregunté quién había utilizado ChatGPT y para qué. El 97% lo había usado (solo una persona no lo conocía) y la lista de actividades realizadas con la herramienta era impresionante, desde elaborar TFGs y reportajes, hasta análisis de contabilidad y diseño de presentaciones. Los cambios provocados por las tecnologías siempre hay que analizarlos con cautela. Sin embargo, es evidente que ChatGPT plantea una disrupción en la forma de acceder a la información, procesarla y presentarla, con consecuencias demoledoras para los actuales métodos de enseñanza y aprendizaje. En este artículo analizo estos cambios y propongo un decálogo de buenas prácticas en el uso de la IA generativa en la docencia.
 

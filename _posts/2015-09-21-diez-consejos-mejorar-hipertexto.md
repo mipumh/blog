@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Diez consejos para mejorar el hipertexto en el periodismo 
 excerpt: "¿Qué influencia tiene la hipertextualidad en los contenidos, la producción y la recepción de información de actualidad? Es lo que ha medido el periodista y coordinador del Máster en Innovación en Periodismo (MIP) de la Universidad Miguel Hernández de Elche, Félix Arias Robles, en su tesis doctoral El hipertexto periodístico. Influencia del enlace en el mensaje, el emisor y el receptor de información."
 author: Lorena Escandell

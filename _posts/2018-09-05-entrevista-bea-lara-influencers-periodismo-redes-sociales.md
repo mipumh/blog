@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: Beatriz Lara,  experta en redes sociales&#58 "Comprar seguidores falsos no garantiza engagement porque un influyente no se mide al peso, sino por su calidad"
 excerpt: "Periodista por la UMH y ponente del MIP, Beatriz Lara ha desarrollado su labor en diversos medios y plataformas. Ha trabajado en branded content para el grupo Prensa Ibérica e integra el equipo fundador de Relevo Magazine. Actualmente coordina los proyectos de crowdfunding en Libros.com. Beatriz Lara señala que lo más importante en el ámbito de la comunicación en redes sociales es tener claro el público objetivo y el por qué se está en cada red social. Además, rehúye de la fiebre por los millones de seguidores y apuesta por la calidad de los contenidos que se publican."
 author: María Aguado
 categories:
   - tecnologia
 image: /images/shots/blara_0.jpg
+tags:
+  - redes-sociales
+  - engagement
+  - entrevista
 ---
 [Periodista por la UMH](http://www.umh.es/contenido/Estudios/:tit_g_140_R1/datos_es.html) y profesora del [MIP](http://mip.umh.es/), Beatriz Lara ha desarrollado su labor en diversos medios y plataformas. Ha trabajado en _branded content_ para el grupo [Prensa Ibérica](http://www.epi.es/) e integra el equipo fundador de [Relevo Magazine](http://relevomagazine.com/). Actualmente coordina los proyectos de *crowdfunding* en **[Libros.com](https://libros.com/)**. Beatriz Lara señala que lo más importante en el ámbito de la comunicación en redes sociales es **tener claro el público objetivo y el por qué se está en cada red social**. Además, **rehúye de la fiebre por los millones de seguidores y apuesta por la calidad** de los contenidos que se publican. 
 

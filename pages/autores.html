@@ -1,0 +1,52 @@
+---
+layout: default
+title: "Autores"
+permalink: /autores/
+---
+<div class="homepage">
+  <div class="container-xl">
+
+    <header class="section-header">
+      <div class="section-header__bar" aria-hidden="true"></div>
+      <h1 class="section-header__title">Autores</h1>
+      <p class="section-header__desc">
+        Los profesores e investigadores que publican en la revista sobre innovación en periodismo.
+      </p>
+    </header>
+
+    <div class="authors-grid">
+      {% for entry in site.data.authors %}
+        {% assign slug = entry[0] %}
+        {% assign author = entry[1] %}
+        {% assign latest_post = site.posts | where: "author", slug | first %}
+        <a href="{{ site.baseurl }}/authors/{{ slug }}/" class="author-card">
+          <div class="author-card__header">
+            <div class="author-card__avatar-wrap">
+              {% if author.avatar %}
+              <img src="{{ site.baseurl }}{{ author.avatar }}"
+                   alt="{{ author.name }}" class="author-card__avatar"
+                   loading="lazy" width="72" height="72">
+              {% endif %}
+            </div>
+            {% if author.role %}
+            <span class="author-card__role">{{ author.role }}</span>
+            {% endif %}
+          </div>
+          <div class="author-card__body">
+            <h2 class="author-card__name">{{ author.name }}</h2>
+            {% if author.bio %}
+            <p class="author-card__bio">{{ author.bio }}</p>
+            {% endif %}
+          </div>
+          {% if latest_post %}
+          <div class="author-card__latest">
+            <span class="author-card__latest-label">Último artículo</span>
+            <span class="author-card__latest-title">{{ latest_post.title | truncatewords: 12 }}</span>
+          </div>
+          {% endif %}
+        </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>

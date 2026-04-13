@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: Carlos Scolari&#58 "En una división internacional de narrativas transmedia, probablemente Latinoamérica estaría entre las primeras"
 excerpt: "Carlos Alberto Scolari es profesor del Departamento de Comunicación de la Universitat Pompeu Fabra  y doctor en Lingüística Aplicada y Lenguajes de la Comunicación por la Università Cattolica di Milano (Italia)."
 author: garcia-ortega
 categories:
   - tecnologia
 image: /images/shots/scolari_0.jpg
+tags:
+  - latinoamerica
+  - storytelling
+  - entrevista
 ---
 [Carlos Alberto Scolari](https://twitter.com/cscolari?lang=es) es profesor del Departamento de Comunicación de la Universitat Pompeu Fabra  y doctor en Lingüística Aplicada y Lenguajes de la Comunicación por la Università Cattolica di Milano (Italia), donde se especializó en el estudio de los medios digitales y la ecología mediática. Entre sus obras destacan: "Hipermediaciones. Elementos para una teoría de la comunicación digital interactiva" (2008), “Narrativas Transmedia. Cuando todos los medios cuentan” (2013), “Ecología de los medios. Entornos, evoluciones e interpretaciones” (2015) y “Las leyes de la interfaz: Diseño, ecología, evolución, tecnología” (2018). Scolari ha impartido un seminario en la Universidad Miguel Hernández y varias sesiones sobre narrativa transmedia en el Máster en Innovación en Periodismo.
 

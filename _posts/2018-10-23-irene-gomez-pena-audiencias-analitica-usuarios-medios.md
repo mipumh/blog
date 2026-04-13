@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Irene Gómez Peña, Desarrollo de Audiencias (Grupo Henneo)&#58 "La clave no pasa por buscar el todo por el todo, sino en ajustar los contenidos a cada perfil de usuario"
 excerpt: "Irene Gómez Peña es responsable de Desarrollo de Audiencias para los tres principales medios del Grupo Henneo (20Minutos.es, LaInformación y el Heraldo de Aragón). En su dilatada trayectoria profesional, Gómez Peña ha pasado por varios medios en nuestro país, tales como El Confidencial, el diario ABC o la agencia Europa Press. Consciente de la rapidez con la que está cambiando el mundo del periodismo, se define como una periodista 'transformada a la analítica, al SEO y al Data Science'. Desde 2013 imparte clase en el Máster en Innovación en Periodismo."
 author: mondejar
 categories:
   - tecnologia
 image: /images/shots/irenegomez_0.jpg
+tags:
+  - engagement
+  - entrevista
 ---
 [Irene Gómez Peña](https://twitter.com/irenegomezpena?lang=es) es responsable de Desarrollo de Audiencias para los tres principales medios del [Grupo Henneo](https://www.henneo.com/) (*[20Minutos.es](https://www.20minutos.es/)*, *[LaInformación](https://www.lainformacion.com/)* y el *[Heraldo de Aragón](https://www.heraldo.es/)*). En su dilatada trayectoria profesional, Gómez Peña ha pasado por otros varios medios en nuestro país, tales como *[El Confidencial](https://www.elconfidencial.com/?gclid=CjwKCAjw3qDeBRBkEiwAsqeO7l-Uh6inNsGD3sEPCPtKv_MPw034g6Cy7_xQDNJfK2S3rdnqa-CpEhoCjoIQAvD_BwE)*, *[el diario ABC](https://www.abc.es/)* o la agencia *[Europa Press](https://www.europapress.es/)*. Consciente de la rapidez con la que está cambiando el mundo del periodismo, se define como una periodista "transformada a la analítica, al SEO y al *Data Science*". Desde 2013 imparte clase en el Máster en Innovación en Periodismo.
 

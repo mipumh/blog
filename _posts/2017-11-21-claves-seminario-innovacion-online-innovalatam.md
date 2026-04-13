@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: 10 claves del periodismo innovador en Latinoamérica
 excerpt: "El Seminario Online sobre Periodismo Innovador en Latinoamérica, organizado por el Máster en Innovación en Periodismo, reunió a más de 300 participantes de 12 países (Argentina, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, España, México, Panamá, Paraguay, Perú, Uruguay y Venezuela). El evento, que contó con la participación de Janine Warner (SembraMedia), Mauricio Jaramillo (Hangouts de periodismo) y Patricio Contreras (Puroperiodismo), sirvió para intercambiar experiencias y conocer de primera mano la realidad periodística en América Latina. A continuación presentamos 10 ideas destacadas del seminario."
 author: garcia-ortega
 categories:
   - industria
 image: /images/shots/seminalatam_0.jpg
+tags:
+  - latinoamerica
+  - innovacion-periodistica
 ---
 El [Seminario Online sobre Periodismo Innovador en Latinoamérica](https://www.youtube.com/watch?v=HiJKAqZW3eQ), organizado por el Máster en Innovación en Periodismo, reunió a más de 300 participantes de 12 países (Argentina, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, España, México, Panamá, Paraguay, Perú, Uruguay y Venezuela). El evento, que contó con la participación de [Janine Warner](https://twitter.com/janinewarner?lang=es) (**SembraMedia**), [Mauricio Jaramillo](https://twitter.com/mauriciojaramil?lang=es) (**Hangouts de periodismo**) y [Patricio Contreras](https://twitter.com/pfcontrerasv?lang=en) (**Puroperiodismo**), sirvió para intercambiar experiencias y conocer de primera mano la realidad periodística en América Latina. A continuación presentamos 10 ideas destacadas del seminario. 
 

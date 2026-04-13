@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Bienvenida a la 13ª Promoción del Máster: comienza vuestro viaje "
 author: garcia-aviles
 categories:

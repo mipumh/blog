@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: ‘La newsletter de Kiko Llaneras’ (El País) gana el IV Premio Vicente Verdú de Periodismo e Innovación
 subtitle: El equipo del boletín informativo recibirá los 6.000 euros del certamen de la Asociación de Informadores de Elche, mientras que trabajos publicados en ElDiario.es y El Confidencial logran sendos accésits
 author: carvajal
 categories:
   - redaccion
 image: /images/001/llaneras.jpg
+tags:
+  - newsletters
+  - premio-vicente-verdu
+  - innovacion-periodistica
 ---
 ![image alt text]({{ site.baseurl }}/images/001/llaneras.jpg)
 

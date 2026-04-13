@@ -1,10 +1,21 @@
 ---
-layout: post
+layout: article
 title: Seis modelos de negocio para el periodismo en la era de las plataformas
-excerpt: "La economía del periodismo es un tema de conversación recurrente en los foros profesionales. Hace veinte años preocupaban más otras cuestiones, pero el cambio de paradigma experimentado durante la última década, como señalan los informes, terminará con lo que queda del viejo modelo industrial (publicidad y atención). Por eso urge buscar nuevos modelos o integrarse en las industrias más fuertes, con sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que pronto publicaré en un libro para nuestro Máster planteo seis modelos de negocio para el periodismo en la era de las plataformas."
+excerpt: La economía del periodismo es un tema de conversación recurrente en los foros
+  profesionales. Hace veinte años preocupaban más otras cuestiones, pero el cambio
+  de paradigma experimentado durante la última década, como señalan los informes,
+  terminará con lo que queda del viejo modelo industrial (publicidad y atención).
+  Por eso urge buscar nuevos modelos o integrarse en las industrias más fuertes, con
+  sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que
+  pronto publicaré en un libro para nuestro Máster planteo seis modelos de negocio
+  para el periodismo en la era de las plataformas.
 author: carvajal
 categories:
-  - industria
+- industria
+tags:
+- modelo-negocio
+- redes-sociales
+image: /images/wordclouds/2015-10-12-seis-modelos-negocio-periodismo-plataformas.png
 ---
 La economía del periodismo es un tema de conversación recurrente en los foros profesionales. Hace veinte años preocupaban más otras cuestiones, pero **el cambio de paradigma** experimentado durante la última década, como señalan los informes, **terminará con lo que queda del viejo modelo industrial (publicidad y atención)**. Por eso **urge buscar nuevos modelos** o integrarse en las industrias más fuertes, con sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que pronto publicaré en un libro para nuestro Máster planteo **seis modelos de negocio para el periodismo** en la era de las plataformas. 
 

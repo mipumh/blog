@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: Hacia dónde va el periodismo. Ocho libros imprescindibles para 2024
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/libros-mip-2024.jpg
+tags:
+  - libros-recursos
 ---
 Al comenzar 2024, selecciono ocho libros publicados en 2023 que me parecen muy relevantes para seguir la transformación del periodismo y el sector de los medios. ¡Feliz Año!
 

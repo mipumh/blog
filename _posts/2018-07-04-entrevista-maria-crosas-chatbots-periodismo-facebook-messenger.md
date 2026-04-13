@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: María Crosas&#58 "Uno de los problemas de los medios es que lanzan un chatbot para toda la audiencia. Se debe buscar un público específico"
 excerpt: "Los chatbots no van a acabar con el periodismo, decía María Crosas en una entrevista para este blog del MIP. Un año después, no habla de avance tecnológico sino de herramienta periodística para cubrir necesidades informativas. Esta experta en chatbots ha impartido una sesión en el Máster en Innovación en Periodismo de la Universidad Miguel Hernández de Elche."
 author: martinez
 categories:
   - tecnologia
 image: /images/shots/crosas_0.jpg
+tags:
+  - engagement
+  - entrevista
 ---
 "Los *chatbots* no van a acabar con el periodismo", decía [María Crosas](https://twitter.com/mcrosasb?lang=es) en una entrevista para este [blog del MIP](http://mip.umh.es/blog/2017/05/27/chatbots-periodismo/). Un año después, no habla de avance tecnológico sino de herramienta periodística para cubrir necesidades informativas. Esta experta en chatbots ha impartido una sesión en el [Máster en Innovación en Periodismo](https://twitter.com/mipumh?lang=es) de la Universidad Miguel Hernández de Elche.    
 

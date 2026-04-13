@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Mar Manrique (Fleet Street): “Tener un proyecto propio es ese empujoncito necesario para abrirte las puertas al mercado“"
 author: David Gozálvez
 categories:

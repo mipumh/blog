@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Las organizadoras de Media Party (Argentina): “Buscamos que la
   tecnología y el periodismo confluyan, se entiendan mejor y generen un idioma
   común”"
@@ -7,6 +7,8 @@ author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/media-party-grande.jpeg
+tags:
+  - latinoamerica
 ---
 Hace más de una década nació **[Media Party](https://mediaparty.org/)** , un encuentro de tres días que reúne a más de 2.000 periodistas, diseñadores, programadores y emprendedores con el objetivo de *revolucionar* el periodismo a través de la tecnología. Media Party en Argentina, y desde hace dos años en Estados Unidos, es un punto de encuentro donde confluyen las especialidades de la industria de medios. La diversidad se refleja en sus actividades: historias con formatos innovadores, mejores productos periodísticos, cómo conectar con las audiencias y diversificar las líneas de financiamiento. Esta *fiesta de la innovación* culmina en una hackaton donde los equipos elaboran prototipo. “Estamos en contacto con lo que está sucediendo en las redacciones y en el ecosistema de medios. Creemos que un ecosistema de medios saludable mejora la calidad de la información y, por lo tanto, cómo las sociedades se informan y aspiran a mejorar sus democracias”, afirman sus promotoras. Conversamos con **Mariana Berruezo**, productora ejecutiva de Media Party, Head of Learning Strategy en [Crezco.io](http://crezco.io/), con sede en México; y **Florencia Figar,** coordinadora de comunicación de Media Party, productora de contenidos y apasionada de la fotografía documental.
 

@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: article
 title: El retorno de la pirámide invertida en el periodismo online
-excerpt: "He escuchado a varios expertos y periodistas que reniegan de la pirámide invertida. La tachan de algo obsoleto sin cabida en el periodismo actual. Por ello, he creído conveniente rescatar algunas ideas del informe “Cómo escribir para la web” de Guillermo Franco pues, a pesar de que ya han pasado unos años desde su publicación, continúa siendo uno de los manuales más completos para redactar en la web."
+excerpt: He escuchado a varios expertos y periodistas que reniegan de la pirámide
+  invertida. La tachan de algo obsoleto sin cabida en el periodismo actual. Por ello,
+  he creído conveniente rescatar algunas ideas del informe “Cómo escribir para la
+  web” de Guillermo Franco pues, a pesar de que ya han pasado unos años desde su publicación,
+  continúa siendo uno de los manuales más completos para redactar en la web.
 author: de-lara
 categories:
-  - tecnologia
+- tecnologia
+image: /images/wordclouds/2015-01-31-internet-piramide-invertida.png
 ---
 He escuchado a **varios expertos y periodistas que reniegan de la pirámide invertida**. La tachan de algo obsoleto sin cabida en el periodismo actual. Por ello, he creído conveniente rescatar algunas ideas del informe [“Cómo escribir para la web” de Guillermo Franco](https://knightcenter.utexas.edu/Como_escribir_para_la_WEB.pdf) pues,  a pesar de que ya han pasado unos años desde su publicación, continúa siendo **uno de los manuales más completos para redactar en la web**.
 

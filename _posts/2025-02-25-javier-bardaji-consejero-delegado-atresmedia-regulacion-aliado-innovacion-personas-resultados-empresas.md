@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Javier Bardají, consejero delegado de Atresmedia: “La regulación es un aliado de la innovación al servicio de las personas, no simplemente al servicio de las cuentas de resultados de las empresas”"
 author: garcia-aviles
 categories:

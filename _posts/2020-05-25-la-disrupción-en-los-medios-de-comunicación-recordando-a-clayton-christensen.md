@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "La disrupción en los medios de comunicación: recordando a Clayton Christensen"
 author: garcia-aviles
 categories:

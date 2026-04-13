@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Eva Belmonte (Civio): “Cuando cuento qué pasa con las ayudas públicas
   destinadas a la gente que más lo necesita, me siento útil como periodista”"
 author: garcia-aviles

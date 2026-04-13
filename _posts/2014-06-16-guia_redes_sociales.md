@@ -1,12 +1,15 @@
 ---
 published: true
-layout: post
+layout: article
 title: Guía rápida para manejar las redes sociales de tu negocio
 excerpt: "OK, ya (casi) tienes tu empresa en marcha, ¿verdad? Claro tu plan de negocio, terminando tu web corporativa y creadas tus cuentas sociales. ¡Ha sido duro pero lo has conseguido! Ahora debes conseguir que te conozcan y te recomienden."
 author: Fátima Navarro
 categories:
   - industria
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - redes-sociales
+  - libros-recursos
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

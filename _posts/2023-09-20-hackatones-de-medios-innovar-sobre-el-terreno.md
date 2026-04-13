@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Hackatones de medios: innovar sobre el terreno"
 author: garcia-aviles
 categories:

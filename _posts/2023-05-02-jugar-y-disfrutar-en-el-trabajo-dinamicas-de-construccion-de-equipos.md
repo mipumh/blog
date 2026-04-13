@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Jugar y disfrutar en el trabajo: dinámicas de construcción de equipos"
 author: garcia-aviles
 categories:

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "El periodismo-cómic, una fórmula creativa para contar historias "
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/periodismo-cómic-.jpg
+tags:
+  - storytelling
 ---
 La búsqueda de nuevos lenguajes y la experimentación con narrativas es una constante en el desarrollo del periodismo profesional, en su afán por innovar y conectar con todo tipo de usuarios. En este sentido, numerosos medios apuestan por formatos poco convencionales para narrar la actualidad, como las viñetas y las ilustraciones. En este artículo seleccionamos una serie de casos destacados del periodismo cómic, que aúna la creatividad con los estándares periodísticos para contar historias basadas en hechos reales.
 

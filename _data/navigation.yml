@@ -2,36 +2,80 @@ sections:
   - title: Narrativas
     slug: narrativas
     url: /narrativas/
-    color: "#00C853"
+    tags:
+      - Storytelling
+      - Narrativas interactivas
+      - Periodismo datos
+      - Video
+      - Podcast audio
 
   - title: Industria
     slug: industria
     url: /industria/
-    color: "#AA00FF"
+    tags:
+      - Modelo negocio
+      - Suscripciones
+      - Newsletters
+      - Emprendimiento
 
   - title: Tecnología
     slug: tecnologia
     url: /tecnologia/
-    color: "#2979FF"
+    tags:
+      - Inteligencia artificial
+      - Herramientas IA
+      - Desinformacion
+      - Tendencias
 
   - title: Redacción
     slug: redaccion
     url: /redaccion/
-    color: "#00B8D4"
+    tags:
+      - Organizacion redacciones
+      - Perfiles profesionales
+      - Liderazgo
 
   - title: Audiencias
     slug: audiencias
     url: /audiencias/
-    color: "#FF6D00"
+    tags:
+      - Engagement
+      - Redes sociales
+      - Periodismo deportivo
+      - TikTok Twitch
+
+  - title: Innovadores
+    slug: innovadores
+    url: /innovadores/
+    tags:
+      - Entrevista
+      - Divulgacion cientifica
+      - Latinoamerica
 
 secondary:
-  - title: Innovadores
-    url: /innovadores/
   - title: El Máster
     url: /el-master/
+
+about:
   - title: Quiénes somos
     url: /about/
   - title: Autores
-    url: /authors/
+    url: /autores/
   - title: Archivo
     url: /archivo/
+  - title: Contacto
+    url: /contacto/
+
+social:
+  - title: Twitter
+    url: https://twitter.com/mipumh
+    icon: twitter
+  - title: LinkedIn
+    url: https://linkedin.com/school/maborperiodismo
+    icon: linkedin
+  - title: YouTube
+    url: https://youtube.com/@maborperiodismo
+    icon: youtube
+  - title: RSS
+    url: /feed.xml
+    icon: rss

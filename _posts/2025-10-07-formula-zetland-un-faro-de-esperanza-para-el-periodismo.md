@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "La ‘fórmula Zetland’: Un faro de esperanza para el periodismo"
 author: garcia-aviles
 categories:

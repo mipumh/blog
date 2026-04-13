@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 10 recomendaciones sobre cómo ha cambiado el periodismo en 2016
 excerpt: "El periodismo cambia constantemente. En un solo año podemos encontrar infinidad de hitos tecnológicos, empresariales y profesionales que muestran que el nuestro es un oficio tan mutante como apasionante. 2016 podría considerarse el año del streaming de vídeo en redes sociales, de los bots informativos o del aprovechamiento mediático de los drones, entre otras tendencias."
 author: valero

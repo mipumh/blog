@@ -1,10 +1,18 @@
 ---
-layout: post
+layout: article
 title: Nueve razones para matricularte en el Máster en Innovación en Periodismo
-excerpt: "La Universidad Miguel Hernández ha abierto el primer plazo de preinscripción al Máster en Innovación en Periodismo para el curso 2016/17. Si nos sueles leer o nos sigues en Twitter, sabes bien a qué nos dedicamos. Si te planteas ampliar tu formación universitaria o conoces a alguien que lo desea, te ofrecemos aquí nueve razones para elegir nuestro máster. Y recuerda, ahora con la edición online no hay límites, puedes hacerlo desde Madrid, Barcelona, Buenos Aires, Quito o Bogotá."
+excerpt: La Universidad Miguel Hernández ha abierto el primer plazo de preinscripción
+  al Máster en Innovación en Periodismo para el curso 2016/17. Si nos sueles leer
+  o nos sigues en Twitter, sabes bien a qué nos dedicamos. Si te planteas ampliar
+  tu formación universitaria o conoces a alguien que lo desea, te ofrecemos aquí nueve
+  razones para elegir nuestro máster. Y recuerda, ahora con la edición online no hay
+  límites, puedes hacerlo desde Madrid, Barcelona, Buenos Aires, Quito o Bogotá.
 author: carvajal
 categories:
-  - el-master
+- el-master
+tags:
+- innovacion-periodistica
+image: /images/wordclouds/2016-04-15-nueve-razones-estudiar-master-innovacion-periodismo.png
 ---
 La Universidad Miguel Hernández [ha abierto el primer plazo de preinscripción](http://mip.umh.es/preinscripcion.html) al Máster en Innovación en Periodismo para el curso 2016/17. Si nos sueles leer o nos sigues en Twitter, sabes bien a qué nos dedicamos. Si te planteas ampliar tu formación universitaria o conoces a alguien que lo desea, te ofrecemos aquí **nueve razones para elegir nuestro máster**. Y recuerda, ahora **con la edición online no hay límites**, puedes hacerlo desde Madrid, Barcelona, Buenos Aires, Quito o Bogotá. 
  

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Ideas y proyectos nacidos en un máster
 excerpt: "Los másteres suelen ser incubadoras de ideas, sobre todo aquellos con un perfil creativo. Uno de los motores del programa del Máster en Innovación en Periodismo (MIP) es el diseño, desarrollo y lanzamiento de proyectos de comunicación innovadores que sinteticen de manera práctica los conocimientos y habilidades adquiridos a lo largo del curso. Os los presentaremos a medida que sus impulsores e impulsoras los defiendan como trabajo final."
 author: Lorena Escandell

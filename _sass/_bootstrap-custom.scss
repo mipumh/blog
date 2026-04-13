@@ -21,22 +21,14 @@
 // Layout essentials
 // --------------------------------------------------------------------------
 @import "bootstrap/scss/reboot";
-@import "bootstrap/scss/type";
 @import "bootstrap/scss/containers";
 @import "bootstrap/scss/grid";
 
 // --------------------------------------------------------------------------
-// Navigation (desktop nav + mobile collapse)
+// Components
 // --------------------------------------------------------------------------
-@import "bootstrap/scss/nav";
-@import "bootstrap/scss/navbar";
-@import "bootstrap/scss/transitions";
-
-// --------------------------------------------------------------------------
-// Components used in the editorial design
-// --------------------------------------------------------------------------
-@import "bootstrap/scss/buttons";
 @import "bootstrap/scss/pagination";
+@import "bootstrap/scss/transitions";
 
 // --------------------------------------------------------------------------
 // Generate only needed utility classes

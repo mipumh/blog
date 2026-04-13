@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Soluciones a los anglicismos más cool del periodismo digital (y II)
 excerpt: "En la primera parte de este artículo hablamos sobre la existencia de una moda cool imparable a la hora de tratar los conceptos clave del periodismo en internet. En este ámbito es obligado referirse al llamado universo 2.0, que se construye a partir de la participación de los usuarios. Por eso, ahora buscamos soluciones en castellano a los anglicismos que hacen referencia a los usuarios que integran el mundo digital."
 author: José R. Narejos
 categories:
   - tecnologia
 image: /images/shots/cool2.jpg
+tags:
+  - engagement
 ---
 [En la primera parte de este artículo](http://mip.umh.es/blog/2016/09/11/soluciones-anglicismos-periodismo-digital/) hablamos sobre la existencia de una moda _cool_ imparable a la hora de tratar los conceptos clave del periodismo en internet. En este ámbito es obligado referirse al llamado "universo 2.0", que se construye a partir de la participación de los usuarios. Por eso, ahora buscamos soluciones en castellano a los anglicismos que hacen referencia a los usuarios que integran el mundo digital. 
 

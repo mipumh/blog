@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Bajando la barrera del código en la redacción: programación asistida con IA para un mejor periodismo"
 author: arias
 categories:
   - tecnologia
 image: /images/001/vibecoding-1.png
+tags:
+  - inteligencia-artificial
+  - organizacion-redacciones
 ---
 El impacto de la Inteligencia Artificial (IA) en la generación de imágenes, vídeo y texto para la producción periodística está acaparando casi toda nuestra atención. ¿Pero y si la verdadera revolución estuviera en aplicar esta tecnología a la programación informática? ¿No tiene más sentido centrar los esfuerzos en lo que todavía es una carencia en la profesión y dejar en segundo plano lo que siempre ha sido su especialidad?
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: La pandemia, las urgencias del periodismo deportivo y el crecimiento
   disruptivo de The Athletic
 periscopio: si
@@ -8,6 +8,9 @@ author: rojas
 categories:
   - industria
 image: /images/shots/the-athletic-new-york.jpg
+tags:
+  - periodismo-deportivo
+  - innovacion-periodistica
 ---
 La crisis del COVID-19 se cebó muy especialmente con los medios deportivos al despojarlos de su sustancia (las competiciones), desmontó de súbito toda una planificación editorial y obligó a sus responsables a buscar soluciones a corto plazo para mantener vivo el interés de sus audiencias en un escenario inédito. En estos meses de confinamiento [ha habido propuestas muy diversas](https://periodismodeportivodecalidad.blogspot.com/2020/03/soluciones-editoriales-de-un-periodismo.html), en una alta proporción basadas en la nostalgia y en el aprovechamiento del archivo, pero sobre todo, el parón ha brindado una extraordinaria oportunidad para pensar en nuevas estrategias de producto y de negocio para un sector periodístico que, necesariamente, ha de innovar para fortalecerse.
 

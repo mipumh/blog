@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Gonzalo del Prado (Antena 3 Noticias)&#58 'El éxito de los medios reside en su credibilidad y en ser referencia'"
 excerpt: "Gonzalo del Prado (Sevilla, 1975) es uno de las caras más conocidas de Antena 3 Noticias. El periodista terminó la doble licenciatura de Periodismo y Comunicación Audiovisual en la Universidad de Navarra en 1997 y compaginó sus estudios con las primeras prácticas. Tras pasar por la radio universitaria y por El Periódico de Aragón, comenzó a formar parte de la plantilla de Antena 3 Aragón cubriendo el trágico suceso de la riada en el camping de Biescas. Después trabajó para el Canal Internacional de Antena 3, en la sección de deportes durante dos años. Del Prado nunca fue un apasionado del deporte, pero sí tenía claro que trabajar en esta sección sería lo que le hiciese dar el salto para conseguir su sueño, el periodismo sobre cine. Ha participado en varias Jornadas de Periodismo en la Universidad Miguel Hernández y fue padrino de la VI Promoción de periodistas de esta Universidad."
 author: Jesús Lucerón

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Medios que producen noticias para niños: Info-k (CMMA), Hetklokhuis
   (NTR) y Časoris "
 author: garcia-aviles

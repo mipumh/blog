@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: El Máster en Innovación en Periodismo cumple 10 años
 author: garcia-aviles
 categories:
   - el-master
 image: /images/shots/pexels-pixabay-355948.jpg
+tags:
+  - innovacion-periodistica
 ---
 El [Máster en Innovación en Periodismo](http://mip.umh.es/) (MIP) de la Universidad Miguel Hernández nació en septiembre de 2013 y este curso celebra su primera década. Por sus aulas virtuales han pasado más de 180 estudiantes, una combinación de periodistas jóvenes y experimentados, profesionales que desean incorporar nuevas ideas en sus medios y otros que buscan mejorar su formación, reciclarse o emprender una iniciativa periodística. En este artículo explicamos la filosofía del MIP, cuya misión es formar profesionales capaces de idear, planificar y desarrollar sus propios proyectos.
 

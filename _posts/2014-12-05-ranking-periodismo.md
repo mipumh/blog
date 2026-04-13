@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title:  El periodismo más innovador nace fuera de la industria mediática tradicional  
 excerpt: "La Fundación Civio, El Confidencial, la revista Vis-à-Vis, eldiario.es y Acuerdo constituyen las cinco iniciativas periodísticas más innovadoras del año 2014 en España. Estos resultados, incluidos en el Ranking de Innovación Periodística 2014 elaborado por el Grupo de Investigación de la Comunicación (GICOV) de la Universidad Miguel Hernández (UMH) de Elche, confirman que el caldo de cultivo de la innovación y la experimentación en el panorama periodístico nacional se cuece fuera de la industria mediática tradicional."
 author: de-lara
 categories:
   - narrativas
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - innovacion-periodistica
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

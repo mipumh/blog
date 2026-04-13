@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Cómo comunicar con eficacia en una presentación
 excerpt: "La periodista y experta en oratoria Marisa Picó explica que, ante una presentación en público, resulta normal ponerse nervioso, pero que lo importante es “saber gestionar ese miedo para convertirlo en energía” y captar así la atención del público. La mayoría hemos sufrido cierto pánico escénico ante este tipo de situaciones pero lo cierto es que, con la práctica, se consigue ganar confianza y puede que, algún día, hasta lleguemos a disfrutar del momento."
 author: de-lara

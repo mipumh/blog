@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Radiografía de la evolución de los medios deportivos nacidos tras la crisis de 2008
 periscopio: si
 cover_image: periscopio.webp
@@ -7,6 +7,9 @@ author: rojas
 categories:
   - industria
 image: /images/shots/boleyn-sound-podcast-de-panenka.jpg
+tags:
+  - podcast-audio
+  - periodismo-deportivo
 ---
 La estructura de los medios vuelve a afrontar momentos de zozobra e incertidumbre, acelerados por la incidencia de una pandemia que amenaza con alargarse por un tiempo indefinido y que hace retrotraernos al contexto de cambio estructural y de búsqueda de soluciones que el sector vivió como consecuencia de la anterior gran crisis, la de los años posteriores a 2008. En la actualidad siguen activos 28 de los 65 proyectos sobre información deportiva creados desde entonces, lo que representa el 43% del total, mientras que el 51% son medios que cerraron o dejaron de tener actividad. Este artículo analiza la evolución de los medios deportivos creados en la última década.
 

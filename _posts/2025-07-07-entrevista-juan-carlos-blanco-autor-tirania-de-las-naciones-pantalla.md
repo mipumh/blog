@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Juan Carlos Blanco, autor de ‘La tiranía de las naciones pantalla’:
   “Todas aquellas sociedades donde la industria de los medios está muy
   debilitada, se están precipitando hacia un desfiladero muy peligroso”"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Alfredo Casares (Instituto de Periodismo Constructivo): “Hay que cambiar las preguntas y las perspectivas con las que miramos, hay que salirse del carril”"
 author: garcia-aviles
 categories:

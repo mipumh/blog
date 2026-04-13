@@ -1,10 +1,19 @@
 ---
-layout: post
+layout: article
 title: YouTube, ¿red social o escaparate publicitario?
-excerpt: "Podrá acceder al contenido cuando finalice el anuncio. Este mensaje, que en ocasiones paraliza el vídeo que deseamos reproducir en YouTube, desvela al impaciente espectador que esta red social, aunque de acceso gratuito, vive de la publicidad. Las marcas han encontrado un magnífico escaparate en esta red social. De hecho, en el año 2012, YouTube ingresó un 50% más por publicidad, según Nikesh Arora, vicepresidente y director de negocio de Google, quien reveló que sus principales 25 anunciantes gastaron  de media 150 millones de dólares anuales."
+excerpt: Podrá acceder al contenido cuando finalice el anuncio. Este mensaje, que
+  en ocasiones paraliza el vídeo que deseamos reproducir en YouTube, desvela al impaciente
+  espectador que esta red social, aunque de acceso gratuito, vive de la publicidad.
+  Las marcas han encontrado un magnífico escaparate en esta red social. De hecho,
+  en el año 2012, YouTube ingresó un 50% más por publicidad, según Nikesh Arora, vicepresidente
+  y director de negocio de Google, quien reveló que sus principales 25 anunciantes
+  gastaron  de media 150 millones de dólares anuales.
 author: de-lara
 categories:
-  - industria
+- industria
+tags:
+- video
+image: /images/wordclouds/2015-04-30-youtube-escaparate-publicitario.png
 ---
 **"Podrá acceder al contenido cuando finalice el anuncio"**. Este mensaje, que en ocasiones paraliza el vídeo que deseamos reproducir en [**YouTube**](http://www.youtube.es), desvela al impaciente espectador que esta red social, aunque de acceso gratuito, **vive de la publicidad**. Las marcas han encontrado un magnífico escaparate en esta red social. De hecho, en el año 2012, [**YouTube ingresó un 50% más por publicidad,**](http://www.marketingdirecto.com/actualidad/publicidad/youtube-ingreso-un-50-mas-por-publicidad-en-2012/) [**según Nikesh Arora, vicepresidente y director de negocio de Google**](http://www.marketingdirecto.com/actualidad/publicidad/youtube-ingreso-un-50-mas-por-publicidad-en-2012/), quien reveló que **sus principales 25 anunciantes gastaron  de media 150 millones de dólares anuales.**
 

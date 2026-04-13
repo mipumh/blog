@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: Seis libros sobre innovación y periodismo para estas vacaciones
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/libros-sobre-innovación-y-periodismo-para-leer-estas.jpg
+tags:
+  - innovacion-periodistica
+  - libros-recursos
 ---
 ![]({{ site.baseurl }}/images/shots/libros-sobre-innovación-y-periodismo-para-leer-estas.jpg)
 

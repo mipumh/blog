@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: ¿De qué hablamos cuando hablamos de innovación? 20 periodistas responden
 excerpt: "La innovación en la industria mediática está de moda en España. Raro es el medio que no incluye la innovación como uno de sus atributos o destaca los rasgos innovadores como parte de su ADN. Pero a menudo se confunde lo innovador con lo nuevo o lo creativo, y se difumina la verdadera naturaleza de la innovación periodística. Para abordar esta cuestión, hemos entrevistado a una veintena de profesionales que trabajan en medios innovadores."
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/shots/concept.jpg
+tags:
+  - innovacion-periodistica
 ---
 La innovación en la industria mediática está de moda en España. Raro es el medio que no incluye la innovación como uno de sus atributos o destaca los rasgos innovadores como parte de su ADN. Pero a menudo se confunde lo innovador con lo nuevo o lo creativo, y se difumina [la verdadera naturaleza de la innovación periodística]( http://mip.umh.es/blog/2014/05/22/radiografia-innovacion/). Para abordar esta cuestión, hemos entrevistado a una veintena de profesionales que trabajan en medios innovadores. 
 

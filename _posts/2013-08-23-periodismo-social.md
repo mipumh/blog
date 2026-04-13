@@ -1,20 +1,21 @@
 ---
 published: true
-layout: post
+layout: article
 title: La revolución del periodismo socializado
 subtitle: "Facebook y Twitter transforman la comunicación entre las empresas y sus públicos de forma radical"
 excerpt: "Hace tiempo que no estar en la red significa no existir. Pero ese mundo conectado que descubríamos hace una década ha virado hacia un ecosistema más social. Plataformas como Facebook y Twitter han revolucionado no sólo la sociedad, la cultura o el periodismo, sino también nuestra forma de consultar información y crear conocimiento."
 
 author: Fátima Navarro
-tags: 
-  - asignaturas
-  - redes sociales
-  - profesores
-  - periodismo
 type: text
 categories:
   - tecnologia
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - asignaturas
+  - redes sociales
+  - profesores
+  - periodismo
+  - redes-sociales
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

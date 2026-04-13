@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Story Data, del dato a la historia"
 author: Viriato Monterde
 categories:

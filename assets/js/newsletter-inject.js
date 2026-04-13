@@ -2,7 +2,7 @@
  * Newsletter CTA injection for article pages
  *
  * Looks for a <template id="newsletter-tpl"> (rendered by article.html)
- * and clones it after the 3rd paragraph inside `.article-body__inner`.
+ * and clones it after the 3rd paragraph inside `.article-post`.
  * If the article has fewer than 4 paragraphs, or the template is missing,
  * the script does nothing.
  *
@@ -12,7 +12,7 @@
 (function () {
   'use strict';
 
-  var body = document.querySelector('.article-body__inner');
+  var body = document.querySelector('.article-post');
   if (!body) return;
 
   var tpl = document.getElementById('newsletter-tpl');

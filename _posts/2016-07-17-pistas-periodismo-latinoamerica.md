@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Pistas para seguir la expansión del periodismo en Latinoamérica (I)
 excerpt: "Desde hace un lustro, el periodismo en Latinoamérica ha experimentado un crecimiento imparable, con iniciativas que han renovado el sector.  Desde Barranquilla a Lima, desde Guayaquil a Guadalajara, han surgido numerosos proyectos para denunciar el narcotráfico o la corrupción, incentivar la solidaridad en zonas desfavorecidas o chequear la actuación de gobiernos e instituciones. Se trata de una nueva generación de medios y profesionales con una perspectiva diferente, que insuflan aire fresco con iniciativas de periodismo social, investigación, nichos especializados o colaboración ciudadana."
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/Hangouts.jpg
+tags:
+  - latinoamerica
+  - redes-sociales
 ---
 Desde hace un lustro, el periodismo en Latinoamérica ha experimentado un crecimiento imparable, con iniciativas que [han renovado el sector](http://sociedad.elpais.com/sociedad/2013/03/01/actualidad/1362165444_533165.html).  Desde Barranquilla a Lima, desde Guayaquil a Guadalajara, han surgido numerosos proyectos para denunciar el narcotráfico o la corrupción, incentivar la solidaridad en zonas desfavorecidas o chequear la actuación de gobiernos e instituciones. Se trata de una nueva generación de medios y profesionales con una perspectiva diferente, que insuflan aire fresco con iniciativas de periodismo social, investigación, nichos especializados o colaboración ciudadana.
 

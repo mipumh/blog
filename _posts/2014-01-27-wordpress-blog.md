@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: WordPress, no solo un blog 
 subtitle: "Una herramienta basada en código abierto que permite desarrollar múltiples sitios orientados a la gestión de contenidos"
 excerpt: "Cuando se habla de WordPress, normalmente se piensa en un blog, pero como señala el profesor del Máster de Innovación en Periodismo *Miguel Onofre*, esta herramienta es mucho más que eso. Wordpress es la plataforma para la gestión de contenidos web más usada en el mundo. Además, su desarrollo se basa en código abierto, es decir, es gratis y puede ser usada sin ningún tipo de restricción. ."

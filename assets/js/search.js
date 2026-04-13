@@ -1,44 +1,29 @@
 /**
- * Pagefind search overlay
+ * Simple Jekyll Search — client-side substring matching
  *
- * On-demand: Pagefind JS is loaded only when the user opens the search
- * overlay for the first time. Subsequent opens reuse the cached instance.
- *
- * Expected HTML structure (add to your layout):
- *
- *   <div id="search-overlay" class="search-overlay" hidden>
- *     <div class="search-overlay__inner">
- *       <button class="search-overlay__close" aria-label="Cerrar busqueda">&times;</button>
- *       <input type="search" id="search-input" class="search-input"
- *              placeholder="Buscar articulos..." autocomplete="off">
- *       <div id="search-results" class="search-results" role="listbox"></div>
- *     </div>
- *   </div>
- *
- * Any element with [data-search-open] will trigger the overlay open.
- * ~0.5 KB unminified (plus Pagefind is loaded lazily)
+ * Loads search.json and matches queries against title, author, tags, category, content.
+ * No external dependencies — vanilla JS with a tiny fuzzy-free search engine.
  */
 (function () {
   'use strict';
 
-  var overlay   = document.getElementById('search-overlay');
-  var input     = document.getElementById('search-input');
-  var results   = document.getElementById('search-results');
+  var overlay = document.getElementById('search-overlay');
+  var input   = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
 
-  // If the overlay markup is not present, bail silently.
   if (!overlay || !input || !results) return;
 
-  var pagefind  = null;       // Pagefind instance, loaded once
-  var loading   = false;
+  var searchData = null;
+  var loading    = false;
   var debounceTimer = null;
 
-  // ---- Open / Close -------------------------------------------------------
+  // ---- Open / Close ---------------------------------------------------------
 
   function open() {
     overlay.hidden = false;
     document.body.classList.add('search-open');
     input.focus();
-    loadPagefind();
+    loadData();
   }
 
   function close() {
@@ -48,7 +33,6 @@
     results.innerHTML = '';
   }
 
-  // Bind every [data-search-open] trigger (buttons, links, etc.)
   var triggers = document.querySelectorAll('[data-search-open]');
   for (var i = 0; i < triggers.length; i++) {
     triggers[i].addEventListener('click', function (e) {
@@ -57,86 +41,117 @@
     });
   }
 
-  // Close button inside the overlay
   var closeBtn = overlay.querySelector('.search-overlay__close');
-  if (closeBtn) {
-    closeBtn.addEventListener('click', close);
-  }
+  if (closeBtn) closeBtn.addEventListener('click', close);
 
-  // Close on backdrop click (click on the overlay itself, not its children)
   overlay.addEventListener('click', function (e) {
     if (e.target === overlay) close();
   });
 
-  // Close on Escape
   document.addEventListener('keydown', function (e) {
     if (e.key === 'Escape' && !overlay.hidden) close();
   });
 
-  // Open on Ctrl/Cmd + K (common convention)
   document.addEventListener('keydown', function (e) {
     if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
       e.preventDefault();
-      if (overlay.hidden) {
-        open();
-      } else {
-        close();
-      }
+      overlay.hidden ? open() : close();
     }
   });
 
-  // ---- Pagefind lazy load --------------------------------------------------
+  // ---- Load data ------------------------------------------------------------
 
-  function loadPagefind() {
-    if (pagefind || loading) return;
+  function loadData() {
+    if (searchData || loading) return;
     loading = true;
 
-    var basePath = document.querySelector('meta[name="pagefind-base"]');
-    var base = basePath ? basePath.content : '/pagefind/';
+    var base = overlay.getAttribute('data-baseurl') || '/blog';
 
-    import(base + 'pagefind.js')
-      .then(function (pf) {
-        pagefind = pf;
-        return pagefind.init();
-      })
-      .then(function () {
+    fetch(base + '/search.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        // Pre-build a lowercase searchable string for each item
+        searchData = data.map(function (item) {
+          item._searchable = [
+            item.title || '',
+            item.author || '',
+            item.category || '',
+            item.tags || '',
+            item.content || ''
+          ].join(' ').toLowerCase();
+          return item;
+        });
         loading = false;
-        // If the user already typed while loading, run the query now
         if (input.value.trim()) search(input.value.trim());
       })
-      .catch(function (err) {
+      .catch(function () {
         loading = false;
-        results.innerHTML = '<p class="search-results__empty">Error al cargar la busqueda.</p>';
-        console.error('Pagefind load error:', err);
+        results.innerHTML = '<p class="search-results__empty">Error al cargar el índice de búsqueda.</p>';
       });
   }
 
-  // ---- Search & render -----------------------------------------------------
+  // ---- Search & render ------------------------------------------------------
 
   function search(query) {
-    if (!pagefind) return;
+    if (!searchData) return;
 
-    pagefind.search(query).then(function (searchResult) {
-      if (!searchResult.results.length) {
-        results.innerHTML = '<p class="search-results__empty">Sin resultados para &ldquo;' +
-          escapeHtml(query) + '&rdquo;</p>';
-        return;
+    var terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!terms.length) { results.innerHTML = ''; return; }
+
+    // Score each item: all terms must be present (AND logic)
+    var scored = [];
+    for (var i = 0; i < searchData.length; i++) {
+      var item = searchData[i];
+      var allMatch = true;
+      var score = 0;
+
+      for (var t = 0; t < terms.length; t++) {
+        var term = terms[t];
+        if (item._searchable.indexOf(term) === -1) {
+          allMatch = false;
+          break;
+        }
+        // Boost: title match worth more
+        var titleLower = (item.title || '').toLowerCase();
+        if (titleLower.indexOf(term) !== -1) score += 10;
+        // Boost: author match
+        var authorLower = (item.author || '').toLowerCase();
+        if (authorLower.indexOf(term) !== -1) score += 8;
+        // Boost: tag match
+        var tagsLower = (item.tags || '').toLowerCase();
+        if (tagsLower.indexOf(term) !== -1) score += 5;
+        // Boost: category match
+        var catLower = (item.category || '').toLowerCase();
+        if (catLower.indexOf(term) !== -1) score += 5;
+        // Base content match
+        score += 1;
       }
 
-      // Load the first 8 result details in parallel
-      Promise.all(
-        searchResult.results.slice(0, 8).map(function (r) { return r.data(); })
-      ).then(renderResults);
-    });
-  }
+      if (allMatch) {
+        scored.push({ item: item, score: score });
+      }
+    }
 
-  function renderResults(items) {
+    // Sort by score descending
+    scored.sort(function (a, b) { return b.score - a.score; });
+
+    if (!scored.length) {
+      results.innerHTML = '<p class="search-results__empty">Sin resultados para \u201c' +
+        escapeHtml(query) + '\u201d</p>';
+      return;
+    }
+
     var html = '';
-    for (var i = 0; i < items.length; i++) {
-      var item = items[i];
-      html += '<a href="' + escapeHtml(item.url) + '" class="search-result" role="option">' +
-        '<span class="search-result__title">' + escapeHtml(item.meta.title || '') + '</span>' +
-        '<span class="search-result__excerpt">' + (item.excerpt || '') + '</span>' +
+    var max = Math.min(scored.length, 12);
+    for (var j = 0; j < max; j++) {
+      var item = scored[j].item;
+      html += '<a href="' + escapeHtml(item.url) + '" class="search-result">' +
+        '<span class="search-result__title">' + escapeHtml(item.title) + '</span>' +
+        '<span class="search-result__meta">' +
+          escapeHtml(item.category || '') +
+          (item.author ? ' &middot; ' + escapeHtml(item.author) : '') +
+          (item.date ? ' &middot; ' + escapeHtml(item.date) : '') +
+        '</span>' +
         '</a>';
     }
     results.innerHTML = html;
@@ -148,7 +163,6 @@
     return div.innerHTML;
   }
 
-  // Debounced input handler (250ms)
   input.addEventListener('input', function () {
     var query = input.value.trim();
     clearTimeout(debounceTimer);
@@ -160,6 +174,6 @@
 
     debounceTimer = setTimeout(function () {
       search(query);
-    }, 250);
+    }, 150);
   });
 })();

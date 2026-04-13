@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Innovar en la organización periodística&#58 conexiones entre iniciativas
 excerpt: "La estampa de las grandes redacciones, pobladas de mesas rebosantes de papeles y en las que los periodistas proponen sus temas a un categórico redactor jefe se desdibuja. La forma de trabajar de muchas iniciativas que han surgido en los últimos años es más virtual. A través del ordenador, la tableta o el teléfono móvil, con las herramientas apropiadas, se organizan las reuniones para distribuir las tareas y se crean los contenidos de forma colaborativa. Incluso la dirección en la toma de decisiones está virando hacia un flujo mucho más horizontal."
 author: de-lara

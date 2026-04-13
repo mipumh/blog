@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Ocho gráficos que explican la transformación del periodismo
 excerpt: "La interpretación de los datos contrastados arroja luz sobre los factores que desencadenan los cambios que atraviesan los medios en general y el periodismo en particular.  Para tener una perspectiva amplia sobre el alcance de dichos cambios, presentamos ocho gráficos que muestran aspectos clave, como el uso de las redes sociales como fuente informativa, la evolución de los ingresos publicitarios o la preferencia del móvil para acceder a los contenidos."
 author: garcia-aviles
 categories:
   - industria
 image: /images/shots/grafi1.jpg
+tags:
+  - innovacion-periodistica
+  - redes-sociales
 ---
 La interpretación de los datos contrastados arroja luz sobre los factores que desencadenan los cambios que atraviesan los medios en general y el periodismo en particular.  Para tener una perspectiva amplia sobre el alcance de dichos cambios, presentamos ocho gráficos que muestran aspectos clave, como el uso de las redes sociales como fuente informativa, la evolución de los ingresos publicitarios o la preferencia del móvil para acceder a los contenidos. 
 

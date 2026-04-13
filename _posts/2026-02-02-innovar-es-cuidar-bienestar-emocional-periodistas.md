@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Innovar también es cuidar: el bienestar emocional de los periodistas en
   un contexto de cambio"
 author: valero

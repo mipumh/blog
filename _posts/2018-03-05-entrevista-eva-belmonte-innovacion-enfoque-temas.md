@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Eva Belmonte (Fundación Civio)&#58 "La innovación está en el enfoque de los temas y no tanto en las herramientas"
 excerpt: "La Fundación Ciudadana Civio es una organización independiente que trabaja para lograr el libre acceso a la información que deriva de las instituciones. Entre sus funciones destacan: la de Cuarto Poder, como medio que vigila a los organismos públicos; ser garantes del derecho de la información; y servir de herramienta democrática para lograr una transparencia real y eficaz de las instituciones."
 author: martinez
 categories:
   - tecnologia
 image: /images/shots/civ_0.jpg
+tags:
+  - herramientas-ia
+  - entrevista
 ---
 La [Fundación Ciudadana Civio](https://civio.es/) es una organización independiente que trabaja para lograr el libre acceso a la información que deriva de las instituciones. Entre sus funciones destacan: la de Cuarto Poder, como medio que vigila a los organismos públicos; ser garantes del derecho de la información; y servir de herramienta democrática para lograr una transparencia real y eficaz de las instituciones.
 

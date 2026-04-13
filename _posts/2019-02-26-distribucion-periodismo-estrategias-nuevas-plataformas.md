@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Las empresas periodísticas y las nuevas plataformas de distribución, un tándem para la supervivencia
 subtitle: Desde la irrupción de las nuevas plataformas ‘streaming’, diversas cabeceras se han centrado en distribuir sus contenidos para que lleguen de forma más eficaz a los usuarios
 excerpt: "Ya han pasado cuatro años desde la creación de Maldita.es, el proyecto matriz de iniciativas como Maldito Bulo o Maldita Hemeroteca, entre otras. Julio Montes, cocreador de la plataforma junto a Clara Jiménez, llega de nuevo al MIP de la UMH en un momento de crecimiento para Maldita: nuevas vías de financiación (acaban de lanzar un crowdfunding), aumento de la plantilla y proyectos tecnológicos avalados por compañías como Google o Twitter. La desinformación sigue estando de moda, con Facebook envuelta en escándalos y con más de un tercio de los usuarios españoles usando WhatsApp como fuente de noticias —según Montes, 'el lugar más difícil donde desmentir bulos'—. Para potenciar un periodismo veraz y transparente, proyectos como Maldita.es cada vez tienen más importancia."
@@ -7,6 +7,8 @@ author: mondejar
 categories:
   - narrativas
 image: /images/shots/perdis_0.jpg
+tags:
+  - podcast-audio
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/perdis_0.jpg)
 <sup>FOTO: **[Pexels](https://www.pexels.com/photo/apps-cellphone-communication-computer-340103/)**

@@ -1,12 +1,15 @@
 ---
 published: true
-layout: post
+layout: article
 title: Nuevos perfiles y realidades profesionales, un soplo de aire fresco en las aulas de Atzavares 
 excerpt: "Una de las asignaturas pendientes de la Universidad española, en lo que respecta a los estudios de Periodismo, es tener la capacidad suficiente para no verse superada por los acontecimientos derivados del momento de transformación de nuestra profesión."
 author: José L. González
 categories:
   - el-master
 image: /images/shots/innovacion_periodismo.jpeg
+tags:
+  - perfiles-profesionales
+  - redes-sociales
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/innovacion_periodismo.jpeg)
 

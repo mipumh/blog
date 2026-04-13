@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: El impacto del COVID-19 en la economía del periodismo
 subtitle: Desplome publicitario, incremento de audiencias, tele-precarización, repunte de las suscripciones y la letanía del rescate a la prensa
 author: carvajal

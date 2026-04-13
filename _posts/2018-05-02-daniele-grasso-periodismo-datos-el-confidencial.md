@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Daniele Grasso (El Confidencial)&#58 'Llegará un momento en el que si una historia no está basada en datos, no tendrá credibilidad'
 excerpt: "Solicitud y acceso a la información, extracción de datos, análisis y visualización de los mismos de una forma atractiva y precisa. Estos son algunos de los pasos que sigue un periodista de datos para contar historias mediante diversas herramientas tecnológicas. Daniele Grasso, coordinador de la Unidad de Datos de El Confidencial, ha impartido una sesión en el Máster en Innovación en Periodismo de la Universidad Miguel Hernández."
 author: martinez

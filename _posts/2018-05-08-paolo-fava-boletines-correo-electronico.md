@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Paolo Fava (El Español)&#58 "En España, los que tratamos de hacer ‘nuevo periodismo’, trabajamos en las newsletters"
 excerpt: "Solo tienes que introducir tu email para recibir en el buzón de correo electrónico las noticias que mejor marcan la actualidad. El Español en su página web te invita así a inscribirte en sus newsletters. El profesional que está detrás de este producto informativo es Paolo Fava, quien además ha impartido una clase en el Máster de Innovación en Periodismo de la Universidad Miguel Hernández de Elche."
 author: martinez
 categories:
   - industria
 image: /images/shots/bole_0.jpg
+tags:
+  - newsletters
+  - entrevista
 ---
 "Solo tienes que introducir tu email para recibir en el buzón de correo electrónico las noticias que mejor marcan la actualidad". [El Español](https://www.elespanol.com/) en su página web te invita así a inscribirte en sus [newsletters](https://www.elespanol.com/newsletter/). El profesional que está detrás de este producto informativo es [Paolo Fava](https://twitter.com/paolo_fabio), quien además ha impartido una clase en el Máster de Innovación en Periodismo de la Universidad Miguel Hernández de Elche. 
 

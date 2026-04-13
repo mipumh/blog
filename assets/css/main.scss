@@ -43,6 +43,7 @@ $baseurl: "{{ site.baseurl }}";
 @import "article";       // Article body, header, hero image, author bio, related
 @import "newsletter";    // Banner, compact (sidebar), inline (article body)
 @import "footer";        // 4-column editorial footer
+@import "search";        // Search overlay (Pagefind)
 
 // --------------------------------------------------------------------------
 // 5. Dark Mode Overrides

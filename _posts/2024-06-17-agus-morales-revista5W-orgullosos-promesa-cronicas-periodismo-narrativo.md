@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Agus Morales: “Estamos orgullosos de mantener intacta la promesa de Revista 5W. La hemos radicalizado alargando aún más las crónicas, hasta llegar a límites antieconómicos”"
 author: carvajal
 categories:

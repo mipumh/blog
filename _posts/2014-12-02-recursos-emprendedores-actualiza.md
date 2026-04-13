@@ -1,12 +1,18 @@
 ---
 published: true
-layout: post
-title: Recursos para periodistas emprendedores (III)&#58 Dónde obtener fotografías libres de derechos
-excerpt: "Hemos actualizado la lista de recursos, libros y materiales útiles para periodistas emprendedores."
+layout: article
+title: Recursos para periodistas emprendedores (III)&#58 Dónde obtener fotografías
+  libres de derechos
+excerpt: Hemos actualizado la lista de recursos, libros y materiales útiles para periodistas
+  emprendedores.
 author: Sergio M. Mahugo
 type: text
 categories:
-  - narrativas
+- narrativas
+tags:
+- emprendimiento
+- libros-recursos
+image: /images/wordclouds/2014-12-02-recursos-emprendedores-actualiza.png
 ---
 Hemos actualizado la lista de [recursos, libros y materiales útiles para periodistas emprendedores](http://mip.umh.es/blog/2014/03/02/recursos-emprendedores-2/):
 

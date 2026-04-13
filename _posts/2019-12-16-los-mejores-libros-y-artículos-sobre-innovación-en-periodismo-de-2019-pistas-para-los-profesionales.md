@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: >-
   Los mejores libros y artículos sobre innovación en periodismo de 2019: pistas
   para los profesionales
@@ -7,6 +7,10 @@ author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/modelos-de-suscripcion.jpg
+tags:
+  - innovacion-periodistica
+  - libros-recursos
+  - desinformacion
 ---
 2019 ha sido un año muy fructífero en las investigaciones sobre la innovación en los medios. Destacan los temas conectados con las innovaciones que permitan lograr un periodismo más sostenible y de mayor calidad: nuevas vías de ingresos, automatización en las redacciones, herramientas para combatir la desinformación, podcasting y mucho más. Ofrecemos una selección, necesariamente sintética, de los libros y artículos más destacados, con aportaciones muy útiles para profesionales e investigadores. 
 

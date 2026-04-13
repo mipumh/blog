@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: ¿Quién dijo que el papel estaba muerto? La expansión tranquila del
   ‘periodismo lento’
 author: garcia-aviles

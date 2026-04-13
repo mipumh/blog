@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Por qué los medios deberían elaborar más formatos gamificados&#58 10 casos de éxito
 excerpt: "Los newsgames están de moda. Los expertos consideran que si se emplea adecuadamente, la gamificación puede fidelizar a los usuarios, especialmente a los más jóvenes. Los niveles de gamificación varían en función de su complejidad, con formatos cada vez más versátiles. ¿Cómo están utilizando los medios la gamificación? Presentamos diez newsgames de diverso tipo que han sido exitosos."
 author: garcia-aviles

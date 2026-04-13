@@ -6,34 +6,36 @@ layout: default
 <div class="author-page">
   <div class="container-xl">
 
-    <header class="author-page__header">
+    <!-- Centered header like RoW -->
+    <header class="author-profile">
       {% if author.avatar %}
-      <img src="{{ site.baseurl }}{{ author.avatar }}" alt="{{ author.name }}"
-           class="avatar avatar--lg" width="64" height="64">
-      {% endif %}
-      <div class="author-page__info">
-        <h1 class="author-page__name">{{ author.name }}</h1>
-        {% if author.role %}
-        <p class="author-page__role">{{ author.role }}</p>
-        {% endif %}
-        {% if author.bio %}
-        <p class="author-page__bio">{{ author.bio }}</p>
-        {% endif %}
-        {% if author.twitter %}
-        <div class="author-page__social">
-          <a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener"
-             aria-label="Twitter de {{ author.name }}">
-            @{{ author.twitter }}
-          </a>
-        </div>
-        {% endif %}
+      <div class="author-profile__avatar-wrap">
+        <img src="{{ site.baseurl }}{{ author.avatar }}" alt="{{ author.name }}"
+             class="author-profile__avatar" width="120" height="120">
       </div>
+      {% endif %}
+      {% if author.role %}
+      <p class="author-profile__role">{{ author.role }}</p>
+      {% endif %}
+      <h1 class="author-profile__name">{{ author.name }}</h1>
+      {% if author.twitter %}
+      <div class="author-profile__social">
+        <a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        </a>
+      </div>
+      {% endif %}
     </header>
+
+    {% if author.bio %}
+    <div class="author-profile__bio">
+      <p>{{ author.bio }}</p>
+    </div>
+    {% endif %}
 
     {% assign author_posts = site.posts | where: "author", page.short_name %}
     {% if author_posts.size > 0 %}
-    <section aria-label="Articulos de {{ author.name }}">
-      <h2 class="block-label">Articulos de {{ author.name }}</h2>
+    <section class="author-posts" aria-label="Articulos de {{ author.name }}">
       <div class="row g-4">
         {% for post in author_posts %}
         <div class="col-12 col-sm-6 col-lg-4">

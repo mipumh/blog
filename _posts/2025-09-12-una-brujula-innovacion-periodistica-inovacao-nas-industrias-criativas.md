@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 'Una brújula para la innovación periodística: "Inovação nas Indústrias
   Criativas” '
 author: garcia-aviles

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Miriam Hernanz (Prisa Vídeo): “Vemos el vídeo como la palanca
   transformadora de los medios”"
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/001/miriam-hernanz-prisa-video.jpg
+tags:
+  - video
 ---
 [Miriam Hernanz](https://es.linkedin.com/in/miriam-hernanz-2714b018) es directora adjunta de Contenidos de Prisa Vídeo desde enero de 2024. En diciembre de 2021 se incorporó a Prisa Vídeo como directora de Nuevas narrativas y formatos audiovisuales. Se encarga de coordinar el trabajo de los equipos de vídeo para El País, la Ser, el Huffington Post, las emisoras musicales o el diario A. Previamente trabajó 14 años como periodista en RTVE.es, donde fue subdirectora del RTVE Lab y desarrolló innovadoras narrativas multimedia. En esta entrevista, Miriam Hernanz nos desvela cuáles son las líneas clave de la estrategia de vídeo del grupo, desde los nuevos formatos hasta el vídeo para redes sociales o los documentales.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: La apuesta creciente de las plataformas por el deporte premium y sus
   efectos en el negocio de televisiones y el periodismo deportivo
 periscopio: si
@@ -8,6 +8,9 @@ author: rojas
 categories:
   - tecnologia
 image: /images/001/1.-servicios-de-streaming-de-vídeo-en-el-mundo.jpg
+tags:
+  - periodismo-deportivo
+  - video
 ---
 El consumo del deporte crece en vídeo, cada vez más accesible y mejor editado, y en streaming a través de todo tipo de soportes y plataformas. La competencia para los medios, sobre todo televisivos, es creciente por este motivo y, especialmente, por la incursión progresiva de las plataformas como Amazon, Google o Apple en el mercado de los derechos para retransmitir grandes eventos deportivos. Analizamos junto a Carles González, director adjunto de Deportes de TVE y director de Teledeporte, cómo esta ‘plataformización’ creciente de los contenidos deportivos está repercutiendo en la línea de negocio de los medios televisivos tradicionales e incluso en la práctica profesional del periodismo deportivo actual.
 

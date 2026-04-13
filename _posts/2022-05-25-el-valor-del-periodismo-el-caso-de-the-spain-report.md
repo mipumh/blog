@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "El valor del periodismo: el caso de The Spain Report"
 periscopio: si
 cover_image: periscopio.webp

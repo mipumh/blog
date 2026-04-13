@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 80">
+  <defs>
+    <style>
+      .logo { cursor: pointer; }
+      .logo * { transition: all 0.3s ease; }
+      .t { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 80px; fill: #1a1a1a; }
+      .logo:hover .t {
+        fill: #a5f990;
+      }
+    </style>
+  </defs>
+  <g class="logo">
+    <text class="t" x="50%" y="68" text-anchor="middle">ctrl reset</text>
+  </g>
+</svg>

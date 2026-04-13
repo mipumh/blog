@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Fidelizar audiencias a través de la curación de contenidos: así lo hizo mixx.io"
 subtitle: Análisis de caso de la iniciativa profesional de Álex Barredo, el podcast para mantenerse al tanto del mundo tecnológico de forma amena, clara y concisa 
 author: Christian Rodriguez
 categories:
   - industria
 image: /images/shots/image_0.jpg
+tags:
+  - engagement
+  - newsletters
 ---
 A Álex Barredo le picó el gusanillo del podcast allá por 2016 cuando produce los primeros episodios de [mixx.io](https://mixx.io/). Creó sin saberlo un proyecto profesional a partir de una sencilla base, recopilar y sintetizar las novedades del panorama tecnológico mundial. La apuesta por el binomio newsletter-podcast y la ampliación de la familia con programas temáticos —Kernel, Cupertino y ELON— terminarían por configurar esta fórmula, que tras el despido de su promotor de La Vanguardia, la catapultaría definitivamente al éxito. "En el momento que crece la audiencia y también las horas de trabajo invertidas, vi interesante monetizar este proyecto", expone [Barredo](https://twitter.com/somospostpc) sobre su actual medio de vida.
 

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Publicaciones destacadas de 2025 sobre innovación periodística que pueden
   inspirar a los profesionales
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/001/innovation-1.jpg
+tags:
+  - libros-recursos
 ---
 El año 2025 ha sido un punto de inflexión para el periodismo. Las investigaciones más recientes revelan que innovar ya no se trata solo de usar la última herramienta tecnológica, sino de encontrar un equilibrio saludable entre la **tecnología**, la **sostenibilidad económica** y el **bienestar de los periodistas**. En este artículo resumimos diez de los artículos sobre innovación periodística más relevantes para la práctica de la profesión.
 

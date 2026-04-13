@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Innovación y periodismo bajo palmeras en Elche: publicamos el libro de acceso abierto “Innovations in Journalism”"
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/001/join-demos-elche.jpg
+tags:
+  - innovacion-periodistica
+  - libros-recursos
 ---
 La visión del periodismo cambia bajo las palmeras. En Elche hay más de 250.000 ejemplares de la "Phoenix dactylifera" y cientos de ellas se hallan en nuestro campus de la Universidad Miguel Hernández (UMH). En 2018, un grupo de investigadores de periodismo de Eichstätt (Alemania), Viena, Londres y Zúrich se reunieron con el equipo de la UMH para explorar la evolución de los medios de comunicación. Bajo las palmeras, sin una agenda, sin un programa ni un protocolo concreto, queríamos compartir experiencias: relatar la situación del periodismo en cada país, comparar los ecosistemas mediáticos y los proyectos más actuales. Las sesiones informales de *brainstorming* y los debates distendidos bajo las palmeras se convirtieron en un proyecto de investigación conjunto que arrancó en octubre de 2020 con el título ["Journalism Innovation in Democratic Societies"](https://innovations-in-journalism.com/nuestro-proyecto). Un total de 24 investigadores de cinco países (Austria, Alemania, España, Suiza y Reino Unido), durante tres años nos hemos hecho preguntas sistemáticas: ¿Qué es una innovación? ¿Cómo surge la innovación en el mundo del periodismo? ¿Qué impacto tiene en los sistemas de medios y en las democracias?
 

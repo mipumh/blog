@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: El método de escucha a los lectores “Better listening” aumenta su disposición a pagar por los contenidos periodísticos o hacer donaciones al medio
 author: garcia-aviles
 categories:

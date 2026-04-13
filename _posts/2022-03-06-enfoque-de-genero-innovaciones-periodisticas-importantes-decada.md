@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: La apuesta por el enfoque de género, entre las innovaciones periodísticas más importantes de la década
 author: de-lara
 categories:
   - tecnologia
 image: /images/shots/pikara-1-.jpg
+tags:
+  - redes-sociales
 ---
 [El auge de los temas con enfoque de género se postula como una tendencia periodística importante](https://revistas.ucm.es/index.php/INFE/article/view/54975). En los últimos años han visto la luz diversos proyectos de éxito que apuestan por **visibilizar el papel de las mujeres en los diferentes ámbitos de la vida**, así como reivindicar **la igualdad**. Según un estudio internacional del [grupo de investigación Join Demos](https://innovations-in-journalism.com/)*,* la diversidad y el enfoque de género en el periodismo se encuentra entre las principales innovaciones de la década. Este artículo muestra algunas de las iniciativas desarrolladas en España.
 

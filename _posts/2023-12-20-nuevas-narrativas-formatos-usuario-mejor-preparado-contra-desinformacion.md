@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Las nuevas narrativas y formatos pueden contribuir a que el usuario esté
   mejor preparado para enfrentarse a las estrategias de desinformación
 author: garcia-ortega
 categories:
   - narrativas
 image: /images/001/nuevas-narrativas-1.jpg
+tags:
+  - storytelling
+  - desinformacion
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *Nuevas narrativas y formatos*.
 

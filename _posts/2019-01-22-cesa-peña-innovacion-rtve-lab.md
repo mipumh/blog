@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: César Peña (RTVE Lab)&#58 "El mayor reto es aprender qué formato le va mejor a cada historia"
 excerpt: "Después de trabajar en Radio3, Radio Nacional de España y 20minutos, César Peña se incorporó al Lab de RTVE, un departamento que consigue informar y entretener sobre la actualidad, la cultura y el entretenimiento mediante una variedad de formatos (webdocs, reportajes, documentales…). 'Trabajamos para no tener que ceñir los contenidos a un texto, a un vídeo o a un audio; podemos usar todos esos recursos y muchos más para contar las historias', afirma César. Esa es la principal labor de su equipo: convertir al usuario en protagonista directo de las historias. Peña ha impartido una sesión sobre formatos innovadores en el Máster en Innovación en Periodismo."
 author: Armando Manzano
 categories:
   - narrativas
 image: /images/shots/cpena_1.jpg
+tags:
+  - entrevista
 ---
 Después de trabajar en Radio3, Radio Nacional de España y 20minutos,[ César Peña](https://twitter.com/cesartuit) se incorporó al[ Lab de RTVE](http://www.rtve.es/lab/), un departamento que consigue informar y entretener sobre la actualidad, la cultura y el entretenimiento mediante una variedad de formatos: webdocs, reportajes, documentales… "Trabajamos para no tener que ceñir los contenidos a un texto, a un vídeo o a un audio; podemos usar todos esos recursos y muchos más para contar las historias", afirma Peña. Esa es la principal labor de su equipo: convertir al usuario en protagonista directo de las historias. Ha impartido una sesión sobre formatos innovadores en el Máster en Innovación en Periodismo.
 

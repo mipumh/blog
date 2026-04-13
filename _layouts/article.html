@@ -11,7 +11,6 @@ layout: default
       <div class="article-header__inner">
         {% if cat_slug %}
         <a href="{{ site.baseurl }}/{{ cat_slug }}/" class="category-pill"
-           style="--pill-color: {% if section %}{{ section.color }}{% else %}var(--color-brand){% endif %}"
            data-pagefind-filter="category">
           {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
         </a>
@@ -22,32 +21,12 @@ layout: default
         {% if page.subtitle %}
         <p class="article-header__deck">{{ page.subtitle }}</p>
         {% endif %}
-        <div class="article-header__meta">
-          {% if author %}
-          <a href="{{ site.baseurl }}/authors/{{ page.author }}/" class="meta-author">
-            {% if author.avatar %}
-            <img src="{{ site.baseurl }}{{ author.avatar }}" alt="" class="avatar avatar--md">
-            {% endif %}
-            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">{{ author.name }}</span>
-            </span>
-          </a>
-          {% endif %}
-          <time datetime="{{ page.date | date_to_xmlschema }}"
-                itemprop="datePublished">
-            {{ page.date | date: "%d %B %Y" }}
-          </time>
-          {% assign words = content | number_of_words %}
-          {% assign mins = words | divided_by: 200 %}
-          {% if mins < 1 %}{% assign mins = 1 %}{% endif %}
-          <span>· {{ mins }} min</span>
-        </div>
       </div>
     </div>
   </header>
 
   {% if page.image %}
-  <figure class="article-hero">
+  <figure class="article-hero" data-hero-src="{{ site.baseurl }}{{ page.image }}">
     <div class="container-xl">
       <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}"
            loading="eager" fetchpriority="high" itemprop="image"
@@ -57,25 +36,65 @@ layout: default
       {% endif %}
     </div>
   </figure>
+  {% else %}
+  <div class="article-hero-fallback" aria-hidden="true">
+    <div class="container-xl">
+      <div class="article-hero-fallback__inner">
+        {% assign first_words = content | strip_html | truncatewords: 20, "" %}
+        <span class="article-hero-fallback__words">{{ first_words }}</span>
+      </div>
+    </div>
+  </div>
   {% endif %}
 
-  <div class="article-body" data-pagefind-body>
-    <div class="container-xl">
-      <div class="article-body__inner" itemprop="articleBody">
+  <div class="container-xl">
+    <div class="article-body" data-pagefind-body>
+      <div class="article-byline">
+        {% if author %}
+        <a href="{{ site.baseurl }}/authors/{{ page.author }}/" class="meta-author">
+          {% if author.avatar %}
+          <img src="{{ site.baseurl }}{{ author.avatar }}" alt="" class="avatar avatar--sm" width="28" height="28" loading="eager">
+          {% endif %}
+          <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+            <span itemprop="name">{{ author.name }}</span>
+          </span>
+        </a>
+        {% endif %}
+        <span>&middot;</span>
+        <time datetime="{{ page.date | date_to_xmlschema }}"
+              itemprop="datePublished">
+          {{ page.date | date: "%d %B %Y" }}
+        </time>
+        {% assign words = content | number_of_words %}
+        {% assign mins = words | divided_by: 200 %}
+        {% if mins < 1 %}{% assign mins = 1 %}{% endif %}
+        <span>&middot; {{ mins }} min</span>
+        {% include share-buttons.html %}
+      </div>
+      <div class="article-post" itemprop="articleBody">
         {{ content }}
       </div>
     </div>
   </div>
 
-  {% if page.tags.size > 0 %}
+  <!-- Floating sidebar: most read + master CTA (desktop only) -->
+  <aside class="article-float-sidebar d-none d-lg-block">
+    {% include most-read-float.html %}
+    {% include master-cta.html %}
+  </aside>
+
   <div class="container-xl">
     <div class="article-tags">
+      {% if cat_slug %}
+      <a href="{{ site.baseurl }}/{{ cat_slug }}/" class="tag-pill">
+        {% if section %}{{ section.title }}{% else %}{{ cat_slug | capitalize }}{% endif %}
+      </a>
+      {% endif %}
       {% for tag in page.tags %}
       <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="tag-pill">{{ tag }}</a>
       {% endfor %}
     </div>
   </div>
-  {% endif %}
 
   {% if author %}
   <div class="container-xl">
@@ -87,21 +106,45 @@ layout: default
     {% include related-posts.html %}
   </div>
 
-  <!-- Newsletter template for injection after paragraph 3 -->
   <template id="newsletter-tpl">
     {% include newsletter-inline.html %}
   </template>
 
-  <!-- Schema.org structured data -->
+  {% if page.image %}
+  <script>
+  // Remove duplicate hero image from article body
+  (function() {
+    var hero = document.querySelector('.article-hero');
+    if (!hero) return;
+    var heroSrc = hero.getAttribute('data-hero-src');
+    if (!heroSrc) return;
+    // Normalize: extract filename
+    var heroFile = heroSrc.split('/').pop();
+    var firstImg = document.querySelector('.article-post img');
+    if (firstImg) {
+      var imgFile = (firstImg.getAttribute('src') || '').split('/').pop();
+      if (imgFile === heroFile) {
+        firstImg.remove();
+      }
+    }
+  })();
+  </script>
+  {% endif %}
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": {{ page.title | jsonify }},
-    {% if page.subtitle %}"description": {{ page.subtitle | jsonify }},{% endif %}
+    "description": {{ page.subtitle | default: page.excerpt | strip_html | truncatewords: 30 | jsonify }},
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-    {% if page.image %}"image": "{{ site.url }}{{ site.baseurl }}{{ page.image }}",{% endif %}
+    {% if page.image %}"image": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ page.image }}",
+      "width": 900,
+      "height": 506
+    },{% endif %}
     "author": {
       "@type": "Person"{% if author %},
       "name": {{ author.name | jsonify }}{% if author.link %},
@@ -110,12 +153,20 @@ layout: default
     "publisher": {
       "@type": "Organization",
       "name": {{ site.title | jsonify }},
-      "url": "{{ site.url }}{{ site.baseurl }}/"
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.baseurl }}/images/logo.webp"
+      }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-    }
+    }{% if cat_slug %},
+    "articleSection": {% if section %}{{ section.title | jsonify }}{% else %}{{ cat_slug | jsonify }}{% endif %}{% endif %}{% if page.tags.size > 0 %},
+    "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %},
+    "wordCount": {{ words }},
+    "inLanguage": "es"
   }
   </script>
 </article>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Al periodismo hay que amarlo
 author: Jose A González Alba
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: El metaverso pierde fuerza y gana relevancia la Realidad Amplificada
 author: garcia-aviles
 categories:

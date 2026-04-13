@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Descarga gratis el libro “Innovar en Periodismo” de la Universidad Miguel Hernández
 excerpt: "La innovación es el foco de las X Jornadas Internacionales de Periodismo celebradas el 24 y 25 de marzo de 2015 en la Universidad Miguel Hernández. Un grupo de profesionales y académicos nos dedicamos a recabar experiencias, analizar casos y plantear retos a varios profesionales de los medios más innovadores en nuestro país. El libro “Innovar en Periodismo” es el resultado de esas reflexiones."
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/shots/portada_libro_innovar.jpg
+tags:
+  - libros-recursos
+  - innovacion-periodistica
 ---
 La innovación es el foco de las X Jornadas Internacionales de Periodismo celebradas el 24 y 25 de marzo de 2015 en la Universidad Miguel Hernández. Un grupo de profesionales y académicos nos dedicamos a recabar experiencias, analizar casos y plantear retos a varios profesionales de los medios más innovadores en nuestro país. El libro “Innovar en Periodismo” es el resultado de esas reflexiones.
 

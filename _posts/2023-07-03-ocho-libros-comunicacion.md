@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: Ocho libros que te ayudarán a llevar tu comunicación a otro nivel
 author: garcia-aviles
 categories:
   - narrativas
 image: /images/shots/comunicacion-blog.jpg
+tags:
+  - libros-recursos
+  - storytelling
 ---
 El dominio de la comunicación oral, escrita, audiovisual y no verbal es, junto con la creatividad, la habilidad más importante para el desarrollo personal y profesional en el periodismo. Conocer y practicar las diferentes formas de comunicación nos permitirá transmitir con eficacia y llegar a una audiencia más amplia. En este artículo te recomendamos ocho libros que te ayudarán a mejorar radicalmente tu comunicación. Son lecturas ideales para estas vacaciones. ¡Feliz verano!
 

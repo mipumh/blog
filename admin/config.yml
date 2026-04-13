@@ -22,7 +22,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sortable_fields: ["title", "date"]
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "article" }
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Subtítulo", name: "subtitle", widget: "string", required: false }
       - label: "Autor"

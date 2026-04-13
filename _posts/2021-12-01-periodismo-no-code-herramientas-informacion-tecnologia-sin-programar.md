@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Periodismo y no-code: herramientas e ideas para potenciar la información con tecnología sin necesidad de programar"
 author: marin
 categories:
   - tecnologia
 image: /images/shots/periodismo-no-code-herramientas.jpg
+tags:
+  - tiktok-twitch
+  - herramientas-ia
+  - tendencias
 ---
 ![]({{ site.baseurl }}/images/shots/periodismo-no-code-herramientas.jpg)
 

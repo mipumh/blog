@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 cover_image: portadalatam.webp
 title: Seminario Online sobre Periodismo Innovador en Latinoamérica
 subtitle: "Apúntate a este encuentro virtual que se celebrará el próximo 14 de noviembre a las 18:00 (hora española, UTC+2)"
@@ -8,6 +8,10 @@ author: carvajal
 categories:
   - el-master
 image: /images/shots/latam.jpg
+tags:
+  - latinoamerica
+  - innovacion-periodistica
+  - redes-sociales
 ---
 El Máster en Innovación en Periodismo ofrece un seminario a distancia para analizar el desarrollo de la innovación en el periodismo latinoamericano, con objeto de intercambiar experiencias y conocer más de cerca la realidad periodística en los distintos países. La sesión tendrá lugar durante la [5ª edición del Máster de Innovación en Periodismo de la Universidad Miguel Hernández](http://mip.umh.es/master-oficial-a-distancia-periodismo-online.html). 
 

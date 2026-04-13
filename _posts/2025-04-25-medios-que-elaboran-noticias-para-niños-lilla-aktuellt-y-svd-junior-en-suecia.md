@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Medios que elaboran noticias para niños: Lilla Aktuellt y SvD Junior en
   Suecia"
 author: garcia-aviles

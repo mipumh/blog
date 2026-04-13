@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Paolo Fava (El Español)&#58 "En España, las newsletters te reenvían lo más visto. En EE.UU., la especialización es enorme"
 excerpt: "Las noticias no descansan. No se dan un respiro ni siquiera por las noches. Por eso, Paolo Fava se encarga de recopilar la información noctámbula para ofrecer a los usuarios este menú informativo en ‘Mientras Dormías’, una de sus newsletters en El Español. Este periodista trabajó en Yahoo! durante ocho años como gestor de contenidos, y confiesa que cuando le propusieron ocuparse de una newsletter se preguntó: '¿Qué pinto yo en eso?', ya que su idea se acercaba más al formato boletín. Fava ha impartido un taller en el Máster de Innovación en Periodismo."
 author: Thais Peñalver
 categories:
   - industria
 image: /images/shots/fava.jpg
+tags:
+  - newsletters
+  - entrevista
 ---
 Las noticias no descansan. No se dan un respiro ni siquiera por las noches. Por eso, [Paolo Fava](https://twitter.com/paolo_fabio) se encarga de recopilar la información noctámbula para ofrecer a los usuarios este menú informativo en ‘Mientras Dormías’, una de sus *newsletters* en [El Español](http://www.elespanol.com/). Este periodista trabajó en *Yahoo!* durante ocho años como gestor de contenidos, y confiesa que cuando le propusieron ocuparse de una *newsletter* se preguntó: "¿Qué pinto yo en eso?", ya que su idea se acercaba más al formato boletín. Fava ha impartido un taller en el Máster de Innovación en Periodismo.
 

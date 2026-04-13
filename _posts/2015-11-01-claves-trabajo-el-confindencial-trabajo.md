@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Las claves del trabajo en el Laboratorio de El Confidencial
 excerpt: "El periodista Alejandro Laso ha vuelto a pisar las aulas del Máster en Innovación en Periodismo (MIP) de la Universidad Miguel Hernández. El responsable del área de Innovación y Estrategia de El Confidencialexplicó a los alumnos del MIP diversas claves que han convertido a este medio en uno de los digitales más reconocidos e innovadores. Los seis puntos que presentamos a continuación son algunas de las estrategias que destaca Laso."
 author: Maria Comín
 categories:
   - redaccion
 image: /images/shots/alaso.jpg
+tags:
+  - organizacion-redacciones
 ---
 El periodista [Alejandro Laso](https://twitter.com/alejandrolaso) ha vuelto a pisar las aulas del [Máster en Innovación en Periodismo (MIP)]( http://mip.umh.es/) de la [Universidad Miguel Hernández](http://www.umh.es). El responsable del área de Innovación y Estrategia de [El Confidencial](http://www.elconfidencial.com) explicó a los alumnos del MIP diversas claves que han convertido a este medio en uno de los digitales más reconocidos e innovadores. Los seis puntos que presentamos a continuación son algunas de las estrategias que destaca Laso:
 

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Check Wars: el juego para aprender sobre desinformación creado en la
   Universidad Miguel Hernández"
 author: garcia-ortega
 categories:
   - tecnologia
 image: /images/001/checkwars.png
+tags:
+  - desinformacion
 ---
 Imagina un futuro no muy lejano en el que la información se ha convertido en un arma de doble filo, omnipresente en la sociedad. Los bulos están a la orden del día y cada vez resulta más difícil distinguir la verdad de la mentira. En ese contexto, surgen dos equipos enfrentados: por un lado, los “Verificadores”, guardianes de lo auténtico y lo veraz; por otro, los “Desinformadores”, maestros de la mentira y la manipulación. Llega el momento de decidir de qué lado estás. ¿Serás capaz de frenar el avance de la desinformación o crearás un imperio basado en la mentira y el engaño? Así comienza Check Wars, un juego de cartas sobre desinformación que hemos diseñado para la revista [UMH Sapiens](https://umhsapiens.com/) con el apoyo del observatorio [IBERIFIER](https://mip.umh.es/blog/2022/05/11/iberifier-observatorio-contra-la-desinformacion-espana-portugal/), un proyecto financiado por la Comisión Europea. 
 

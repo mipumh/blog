@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Un proyecto nacido en el MIP: “Repítemelo otra vez”, atizar el estigma
   de la pérdida auditiva a través del video social"
 author: Silvia Cobo
 categories:
   - narrativas
 image: /images/001/logo_horizontal.png
+tags:
+  - video
 ---
 ![]({{ site.baseurl }}/images/001/logo_horizontal.png)
 

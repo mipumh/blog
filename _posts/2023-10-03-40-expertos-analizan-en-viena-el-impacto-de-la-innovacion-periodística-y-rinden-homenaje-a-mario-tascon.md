@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 40 expertos analizan en Viena el impacto de la innovación periodística y
   rinden homenaje a Mario Tascón
 author: garcia-aviles

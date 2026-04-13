@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Nueve propuestas para llevar la alfabetización mediática a otro nivel
 author: garcia-aviles
 categories:

@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: Derek Bowler, director de Social Newsgathering, (European Broadcasting Union)&#58 "Las fake news no existen. Si una noticia es falsa, entonces no es noticia"
 excerpt: "Derek Bowler es el encargado de recopilar información proveniente de redes sociales para la European Broadcasting Union (EBU), la mayor alianza de información pública del mundo. Dirige la red Eurovision Social Newswire, un proyecto exclusivo de la EBU en el que trabajan en tiempo real unos 450 periodistas de todo el mundo. Su fin es sacar algo en claro del océano que pueden suponer las redes sociales y esquivar la creciente desinformación originada, en gran parte, por 'testigos' que dicen haber presenciado un evento noticioso. Especializado en la recopilación de datos y en el proceso de verificación de hechos en zonas de conflicto, Bowler ha contribuido en diversos proyectos del New York Times y del Washington Post, además de haber trabajado también con el Google News Lab en la búsqueda de métodos innovadores para verificar lo que ocurre en el mundo.  Ha participado en las XIV Jornadas Internacionales de Innovación en Periodismo en la UMH."
 author: mondejar
 categories:
   - tecnologia
 image: /images/shots/bowler_0.jpg
+tags:
+  - desinformacion
+  - entrevista
+  - video
 ---
 ![image alt text]({{ site.baseurl }}/images/shots/bowler_0.jpg)
 

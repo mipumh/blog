@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Nuevas voces y enfoques para informar sobre la violencia machista  
 excerpt: "Los medios de comunicación han contribuido a visibilizar la violencia contra las mujeres, situarla en el espacio público y crear un nuevo enfoque de problema social. El caso de Ana Orantes en 1997 introdujo nuevas formas de informar sobre la violencia machista, como han recogido algunos informes de seguimiento, entre ellos el del Consell de l'Audiovisual de Catalunya de 2011."
 author: Lorena Escandell

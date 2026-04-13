@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: article
 title: El misterio del MIP 
 excerpt: "Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos variables que en esta ciudad no siempre coinciden, por desgracia."
 author: Belén Torregrosa

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Nacho Cardero (director, El Confidencial): “Nuestra labor de información se ha visto atacada por el poder político; sufrimos un vacío desde la Moncloa por los casos de corrupción que afectan al ejecutivo”"
 author: garcia-aviles
 categories:

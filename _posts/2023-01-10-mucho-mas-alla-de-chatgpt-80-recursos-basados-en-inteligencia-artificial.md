@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: article
 title: "Mucho más allá de ChatGPT: 80 recursos basados en inteligencia artificial"
 author: arias
 categories:
   - tecnologia
 image: /images/shots/analog.png
+tags:
+  - inteligencia-artificial
+  - herramientas-ia
+  - redes-sociales
+  - libros-recursos
 ---
 Llevaba años alimentándose y unos cuantos meses engordando vertiginosamente. Pero [el 30 de noviembre de 2022](https://twitter.com/sama/status/1598038815599661056) se produjo una explosión. No será la última ni la más potente, pero esta primera gran onda expansiva de la IA ha tambaleado casi todo. 
 

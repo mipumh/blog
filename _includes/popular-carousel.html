@@ -1,0 +1,42 @@
+{% assign popular = site.posts | sort: "popular" | reverse | slice: 0, 6 %}
+{% assign has_popular = false %}
+{% for p in popular %}{% if p.popular and p.popular > 0 %}{% assign has_popular = true %}{% break %}{% endif %}{% endfor %}
+
+{% if has_popular %}
+<section class="popular-carousel hp-block" aria-label="Lo mas popular">
+  <div class="popular-carousel__inner">
+    <h2 class="popular-carousel__title">Lo más leído</h2>
+    <div class="popular-carousel__track">
+      {% assign rank = 0 %}
+      {% for post in popular %}
+      {% if post.popular and post.popular > 0 %}
+      {% assign rank = rank | plus: 1 %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="popular-carousel__card">
+        {% if post.image %}
+        <img src="{{ site.baseurl }}{{ post.image }}" alt="" class="popular-carousel__img"
+             loading="lazy" width="400" height="500">
+        {% endif %}
+        <div class="popular-carousel__overlay">
+          <span class="popular-carousel__rank">{{ rank }}</span>
+          {% assign cat_slug = post.categories | first %}
+          {% assign section = site.data.sections[cat_slug] %}
+          {% if section %}
+          <span class="popular-carousel__cat">{{ section.title }}</span>
+          {% endif %}
+          <span class="popular-carousel__card-title">{{ post.title }}</span>
+          {% assign author = site.data.authors[post.author] %}
+          {% if author %}
+          <span class="popular-carousel__author">{{ author.name }}</span>
+          {% endif %}
+        </div>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="popular-carousel__nav">
+      <button class="popular-carousel__prev" aria-label="Anterior">&lsaquo;</button>
+      <button class="popular-carousel__next" aria-label="Siguiente">&rsaquo;</button>
+    </div>
+  </div>
+</section>
+{% endif %}

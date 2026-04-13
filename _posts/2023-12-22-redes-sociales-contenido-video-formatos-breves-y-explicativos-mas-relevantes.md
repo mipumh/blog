@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: "Redes sociales: El contenido en vídeo y los formatos breves y
   explicativos serán cada vez más relevantes"
 author: garcia-ortega
 categories:
   - tecnologia
 image: /images/001/rrss-1.jpg
+tags:
+  - redes-sociales
+  - video
+  - tendencias
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *redes sociales*.
 

@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "El futuro del periodismo de servicio público con la Inteligencia Artificial: el caso de SVT"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/nyheter2-small.jpg
+tags:
+  - inteligencia-artificial
+  - tendencias
 ---
 La **Inteligencia Artificial Generativa** (IAG) ha pasado de ser una promesa tecnológica a una fuerza transformadora. Sin embargo, pocos medios están sabiendo integrar esta herramienta con la visión y estrategia que ha demostrado **SVT (Sveriges Television)**, la televisión pública de Suecia. Lejos de ver la IAG como una amenaza para el periodismo, SVT la ha adoptado como aliado estratégico para generar valor, fortalecer su conexión con las audiencias y reafirmar el rol único del periodismo. El modelo de SVT es una lección de liderazgo y adaptabilidad. No se trata de reemplazar a los periodistas con robots, sino de empoderarlos con herramientas que les permiten hacer un periodismo más relevante. Mediante la integración de la IAG en su flujo de trabajo, SVT revela que el futuro del periodismo exige preservar los valores y estándares al incorporar las innovaciones.
 

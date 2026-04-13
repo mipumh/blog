@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 periscopio: si
 cover_image: periscopio.webp
 title: >-
@@ -9,6 +9,9 @@ author: Raul Magallón
 categories:
   - tecnologia
 image: /images/shots/1maldito-bulo.png
+tags:
+  - redes-sociales
+  - desinformacion
 ---
 Uno de los grandes desafíos de las próximas semanas/meses es saber encontrar un equilibro entre la *comunicación del riesgo* y el*riesgo de la comunicación*. La información que consumimos en Internet y la proporcionada por los medios no sólo ha de estar bien ordenada y jerarquizada, sino que debe poder reenviar a fuentes oficiales y *documentación de confianza* para que los lectores puedan completar su propio recorrido informativo. Este artículo de [Raúl Magallón Rosa](https://twitter.com/raulmagallon), doctor en periodismo y autor de *[Unfaking News. Cómo combatir la desinformación](https://unfakingnews.com/)* aborda la responsabilidad del periodismo en la información sobre el COVID-19.
 

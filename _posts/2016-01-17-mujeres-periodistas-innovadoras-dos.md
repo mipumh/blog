@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: Las periodistas más innovadoras e influyentes en los medios digitales (II)  
 excerpt: "El post sobre periodistas más innovadoras e influyentes en los medios digitales figura entre los diez mejores artículos del blog del Máster en Innovación en Periodismo en 2015. En el post, cito a una serie de periodistas que han superado los estereotipos y prejuicios que aún persisten en la profesión y lideran la innovación y el cambio en periodismo. Entre ellas, se encuentran Mariana Santos, Idoia Sota, Miriam Hernanz, Marilín Gonzalo, Vanesa Jiménez y Silvia Cobo. Se trata de un ejercicio de visibilización y puesta en valor necesario que nos hemos propuesto ampliar con las sugerencias de nuestra comunidad en Twitter. La mayoría de ellas compagina la actividad profesional en medios con la investigación y la divulgación."
 author: Lorena Escandell
 categories:
   - tecnologia
 image: /images/shots/rios.jpg
+tags:
+  - redes-sociales
+  - perfiles-profesionales
+  - innovacion-periodistica
 ---
 _Las periodistas más innovadoras e influyentes en los medios digitales_ figura entre [los diez mejores artículos](http://mip.umh.es/blog/2015/12/28/diez-mejores-post-2015/) del Máster en Innovación en Periodismo de 2015. En el post, cito a una serie de periodistas que han superado los estereotipos y prejuicios que aún persisten en la profesión y lideran la innovación y el cambio en periodismo. Entre ellas, se encuentran [Mariana Santos](https://twitter.com/marysaints), [Idoia Sota](https://twitter.com/idoiasota), [Miriam Hernanz](https://twitter.com/miriamhernanz) [Marilín Gonzalo](https://twitter.com/marilink), [Vanesa Jiménez](https://es.linkedin.com/in/vanesajimenez) y [Silvia Cobo](https://twitter.com/silviacobo). Se trata de un ejercicio de visibilización y puesta en valor necesario que nos hemos propuesto ampliar con [las sugerencias de nuestra comunidad en Twitter](https://twitter.com/mipumh/status/666165500699873280). La mayoría de ellas compagina la actividad profesional en medios con la investigación y la divulgación. 
 

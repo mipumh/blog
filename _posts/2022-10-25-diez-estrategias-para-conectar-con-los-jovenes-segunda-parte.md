@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: Diez estrategias para conectar con los jóvenes (2ª parte)
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/gettyimages-karrastock-971413018.jpg
+tags:
+  - video
 ---
 [Tras la primera entrega](https://mip.umh.es/blog/2022/10/18/diez-estrategias-para-conectar-con-los-jovenes/), continuamos con las estrategias que algunos medios adoptan para llegar a la Generación Z y los Millenials:
 

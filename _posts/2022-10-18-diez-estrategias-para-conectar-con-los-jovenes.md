@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Diez estrategias para conectar con los jóvenes (1ª parte) Spoiler:
   contrata a periodistas menores de 26 años"
 author: garcia-aviles

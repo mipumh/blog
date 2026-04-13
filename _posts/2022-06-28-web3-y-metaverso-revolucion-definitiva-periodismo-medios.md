@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Web3 y metaverso, ¿la revolución definitiva para el periodismo y los medios?
 periscopio: si
 cover_image: periscopio.webp

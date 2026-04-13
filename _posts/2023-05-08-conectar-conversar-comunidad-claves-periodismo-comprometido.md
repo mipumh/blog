@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Conectar con tus lectores y conversar con la comunidad, claves para un
   periodismo comprometido
 author: garcia-aviles
 categories:
   - audiencias
 image: /images/shots/audiencias.jpg
+tags:
+  - engagement
 ---
 Los periodistas tienen una responsabilidad con los lectores y las comunidades a las que informan y sirven. Este compromiso con los lectores es fundamental para asegurarse de que su trabajo sea realmente importante y útil. Cultivar esta relación mutua no sólo generará confianza, sino que animará a los lectores a seguir informándose en el medio que les escucha y a valorar las aportaciones de sus profesionales. En este artículo, aportamos algunas claves para mejorar la relación de los periodistas con los lectores.
 

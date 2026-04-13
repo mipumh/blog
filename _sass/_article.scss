@@ -1,47 +1,56 @@
 // ==========================================================================
-// Article — Article Body, Header, Hero Image, Blockquotes, Tags, Author Bio
+// Article — Página de artículo
 // ==========================================================================
-// Single column, centered, no sidebar. The "reading sanctuary."
-// Maximum focus on text: 70ch max-width, 18px body, 1.65 line-height.
-// Reference: renove/layout-article.md
+// Titular y relacionados en caja ancha (60rem).
+// Cuerpo de texto centrado a 40rem.
+// Imágenes pueden desbordar la columna central.
 // ==========================================================================
 
+.article {}
+
 // --------------------------------------------------------------------------
-// Article Header
+// Header — caja ancha, texto alineado izquierda, centrado sobre la columna
 // --------------------------------------------------------------------------
 .article-header {
   padding: var(--space-2xl) 0 var(--space-lg);
 }
 
 .article-header__inner {
-  max-width: 70ch;
+  max-width: var(--article-width-wide);
+  margin: 0 auto;
 }
 
 .article-header__title {
-  font-family: var(--font-serif);
-  font-size: clamp(2rem, 5vw, 3.25rem);
-  font-weight: 900;
-  line-height: 1.12;
-  margin: var(--space-md) 0;
+  font-family: var(--font-sans);
+  font-size: var(--text-4xl);
+  font-weight: 700;
+  line-height: 1.05;
+  margin: var(--space-xs) 0 var(--space-sm);
 }
 
 .article-header__deck {
   font-family: var(--font-sans);
   font-size: var(--text-lg);
-  line-height: 1.5;
-  color: var(--color-text-muted);
-  max-width: 60ch;
+  line-height: 1.35;
+  color: var(--color-text-secondary);
   margin-bottom: var(--space-md);
+  max-width: var(--article-width);
 }
 
+// Meta — compacta
 .article-header__meta {
   display: flex;
   align-items: center;
-  gap: var(--space-xs);
-  font-family: var(--font-sans);
-  font-size: var(--text-sm);
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
   color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
   flex-wrap: wrap;
+  line-height: 1.2;
+  padding-top: var(--space-sm);
+  border-top: 1px solid var(--color-border);
 }
 
 .meta-author {
@@ -50,11 +59,17 @@
   gap: var(--space-xs);
   text-decoration: none;
   color: var(--color-text);
-  font-weight: 600;
+  font-weight: 700;
+
+  &:hover { color: var(--color-brand); }
+
+  .avatar {
+    flex-shrink: 0;
+  }
 }
 
 // --------------------------------------------------------------------------
-// Article Hero Image (wider than text, max 900px)
+// Hero image — puede desbordar la columna de texto
 // --------------------------------------------------------------------------
 .article-hero {
   margin-bottom: var(--space-xl);
@@ -62,75 +77,195 @@
 
 .article-hero img {
   width: 100%;
-  max-width: 900px;
-  aspect-ratio: 16/9;
+  max-width: var(--article-width-wide);
+  margin: 0 auto;
+  display: block;
   object-fit: cover;
-  border-radius: var(--radius-lg);
 }
 
 .article-hero figcaption {
-  font-family: var(--font-sans);
+  max-width: var(--article-width);
+  margin: var(--space-xs) auto 0;
+  font-family: var(--font-mono);
   font-size: var(--text-xs);
   color: var(--color-text-muted);
-  margin-top: var(--space-xs);
-  max-width: 900px;
+  letter-spacing: 0.01em;
+}
+
+// Fallback hero — green gradient with word cloud when no image
+.article-hero-fallback {
+  margin-bottom: var(--space-xl);
+}
+
+.article-hero-fallback__inner {
+  max-width: var(--article-width-wide);
+  margin: 0 auto;
+  background: linear-gradient(135deg, var(--color-brand) 0%, var(--color-brand-dark) 100%);
+  padding: var(--space-3xl) var(--space-2xl);
+  overflow: hidden;
+  position: relative;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.article-hero-fallback__words {
+  font-family: var(--font-sans);
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  font-weight: 900;
+  color: rgba(0, 0, 0, 0.08);
+  line-height: 1.1;
+  text-align: center;
+  word-break: break-word;
+  max-width: 80%;
 }
 
 // --------------------------------------------------------------------------
-// Article Body — The Reading Experience
+// Article byline — between hero and body text
 // --------------------------------------------------------------------------
-.article-body__inner {
-  max-width: 70ch;
+.article-byline {
+  max-width: var(--article-width);
+  margin: 0 auto var(--space-lg);
+  padding: var(--space-md) 0;
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  flex-wrap: wrap;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  letter-spacing: 0.01em;
+
+  .meta-author {
+    gap: var(--space-xs);
+  }
+
+  .avatar {
+    flex-shrink: 0;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Article body — PT Serif, 20px, centrado, max-width 40rem
+// --------------------------------------------------------------------------
+.article-post {
+  max-width: var(--article-width);
+  margin: 0 auto;
   font-family: var(--font-serif);
-  font-size: var(--text-md);
-  line-height: 1.65;
+  font-size: 1.05rem;
+  line-height: 1.5;
+
+  @media (min-width: 38rem) {
+    font-size: 20px;
+  }
 }
 
-.article-body__inner p {
-  margin-bottom: 1.5em;
+.article-post p {
+  margin: 0 0 1rem 0;
 }
 
-.article-body__inner h2 {
+.article-post > p:first-of-type::first-letter {
+  float: left;
+  font-family: var(--font-sans);
+  font-size: 3.5em;
+  font-weight: 700;
+  line-height: 0.8;
+  color: var(--color-brand);
+  padding-right: 0.08em;
+  margin-top: 0.05em;
+}
+
+.article-post h2 {
   font-family: var(--font-sans);
   font-size: var(--text-xl);
   font-weight: 700;
-  margin: 2em 0 0.75em;
+  margin: 2.5rem 0 1rem;
+  line-height: 1.1;
 }
 
-.article-body__inner h3 {
+.article-post h3 {
   font-family: var(--font-sans);
   font-size: var(--text-lg);
   font-weight: 700;
-  margin: 1.5em 0 0.5em;
+  margin: 2rem 0 0.75rem;
+  line-height: 1.15;
 }
 
-.article-body__inner blockquote {
-  border-left: 4px solid var(--color-brand);
+.article-post blockquote {
+  border-left: 3px solid var(--color-brand);
   padding-left: var(--space-lg);
-  margin: 1.5em 0;
+  margin: var(--space-lg) 0;
   font-style: italic;
   color: var(--color-text-muted);
 }
 
-.article-body__inner a {
-  color: var(--color-brand-dark);
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  text-decoration-thickness: 1px;
+// Pullquote — sumario elegante en bandera a la derecha
+.article-post .pullquote,
+.article-post blockquote.pullquote {
+  float: right;
+  width: 45%;
+  margin: 0 calc(-1 * var(--space-xl)) var(--space-lg) var(--space-xl);
+  padding: 0 0 0 var(--space-lg);
+  border-left: 3px solid var(--color-brand);
+  font-family: var(--font-sans);
+  font-size: var(--text-lg);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--color-text);
+
+  @media (max-width: 767.98px) {
+    float: none;
+    width: 100%;
+    margin: var(--space-lg) 0;
+  }
 }
 
-.article-body__inner img {
-  max-width: 100%;
-  border-radius: var(--radius-md);
-  margin: 1.5em 0;
+.article-post a {
+  color: var(--color-text);
+  text-decoration: underline;
+  text-decoration-color: var(--color-brand);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+
+  &:hover { color: var(--color-brand); }
+}
+
+// Imágenes — desbordan alineadas a ambos lados
+.article-post img {
+  max-width: calc(var(--article-width) + 10rem);
+  width: calc(100% + 5rem);
+  margin-left: -2.5rem;
+  margin-right: -2.5rem;
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  display: block;
+
+  @media (max-width: 767.98px) {
+    width: calc(100% + var(--space-md) * 2);
+    margin-left: calc(-1 * var(--space-md));
+    margin-right: calc(-1 * var(--space-md));
+    max-width: none;
+  }
+}
+
+.article-post ul,
+.article-post ol {
+  margin-bottom: 1.5rem;
+}
+
+.article-post li {
+  margin-bottom: 0.5rem;
 }
 
 // --------------------------------------------------------------------------
-// Article Tags
+// Tags — centrado en columna de texto
 // --------------------------------------------------------------------------
 .article-tags {
-  max-width: 70ch;
-  margin: var(--space-xl) 0;
+  max-width: var(--article-width);
+  margin: var(--space-xl) auto;
   padding-top: var(--space-lg);
   border-top: 1px solid var(--color-border);
   display: flex;
@@ -139,104 +274,93 @@
 }
 
 // --------------------------------------------------------------------------
-// Author Bio Card
+// Author bio — centrado en columna de texto
 // --------------------------------------------------------------------------
 .author-bio {
   display: flex;
-  gap: var(--space-lg);
-  padding: var(--space-xl);
-  background: var(--color-surface-alt);
-  border-radius: var(--radius-lg);
-  margin: var(--space-xl) 0;
-  max-width: 70ch;
+  align-items: flex-start;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  background: var(--color-surface);
+  max-width: var(--article-width);
+  margin: var(--space-xl) auto;
 }
 
-.author-bio__avatar {
-  flex-shrink: 0;
-}
+.author-bio__info { flex: 1; }
 
-.author-bio__info {
-  flex: 1;
-}
+.author-bio__name {
+  margin: 0;
 
-.author-bio__name a {
-  font-family: var(--font-sans);
-  font-weight: 700;
-  font-size: var(--text-md);
-  color: var(--color-text);
-  text-decoration: none;
-}
-
-.author-bio__name a:hover {
-  color: var(--color-brand);
+  a {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-base);
+    color: var(--color-text);
+    text-decoration: none;
+    &:hover { color: var(--color-brand); }
+  }
 }
 
 .author-bio__role {
-  font-size: var(--text-sm);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
   color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin: 2px 0 0;
 }
 
 .author-bio__text {
   font-family: var(--font-sans);
   font-size: var(--text-sm);
-  line-height: 1.5;
+  line-height: 1.4;
   color: var(--color-text-muted);
-  margin-top: var(--space-xs);
+  margin: var(--space-2xs) 0 0;
 }
 
-.author-bio__links {
-  display: flex;
-  gap: var(--space-sm);
-  margin-top: var(--space-sm);
+.author-bio__social {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--color-brand-dark);
+  text-decoration: none;
+  display: inline-block;
+  margin-top: var(--space-2xs);
 
-  a {
-    font-family: var(--font-sans);
-    font-size: var(--text-xs);
-    font-weight: 600;
-    color: var(--color-brand-dark);
-    text-decoration: none;
-
-    &:hover {
-      color: var(--color-brand);
-    }
-  }
+  &:hover { color: var(--color-brand); }
 }
 
 // --------------------------------------------------------------------------
-// Related Posts
+// Related posts — caja ancha como el titular
 // --------------------------------------------------------------------------
 .related-posts {
-  margin: var(--space-2xl) 0;
+  max-width: var(--article-width-wide);
+  margin: var(--space-2xl) auto;
   padding-top: var(--space-xl);
   border-top: 1px solid var(--color-border);
 }
 
 .related-posts__title {
-  font-family: var(--font-sans);
-  font-size: var(--text-sm);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   color: var(--color-text);
   margin-bottom: var(--space-lg);
 }
 
 // --------------------------------------------------------------------------
-// Mobile Overrides
+// Mobile
 // --------------------------------------------------------------------------
 @media (max-width: 767.98px) {
-  .article-body__inner {
-    font-size: 1.0625rem;
-  }
-
   .article-hero img {
-    border-radius: 0;
-    margin: 0 -1rem;
-    width: calc(100% + 2rem);
+    margin: 0 calc(-1 * var(--space-md));
+    width: calc(100% + var(--space-md) * 2);
     max-width: none;
   }
 
   .author-bio {
     flex-direction: column;
+    gap: var(--space-sm);
   }
 }

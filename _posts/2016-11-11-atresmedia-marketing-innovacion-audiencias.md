@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Javier Andrés&#58 'El branded content no va a matar a la publicidad en televisión'"
 subtitle: El director de marketing Atresmedia analiza los retos de la comercialización publicitaria televisiva en un escenario multipantalla 
 excerpt: "Javier Andrés Ortega dirige el departamento de Marketing de Atresmedia Publicidad desde 2006. Previamente trabajó en los servicios de marketing de Atres Advertising, en Sogecable, en G+J, en Antena3 y en Publiespaña. Es licenciado en empresariales y especialista en investigación de mercados. Imparte clases en el módulo de Audiencias del Máster de Innovación en Periodismo."
@@ -7,6 +7,8 @@ author: Mari Carmen Borrull
 categories:
   - tecnologia
 image: /images/shots/jjandres0.jpg
+tags:
+  - video
 ---
 Javier Andrés Ortega dirige el departamento de Marketing de Atresmedia Publicidad desde 2006. Previamente trabajó en los servicios de marketing de Atres Advertising, en Sogecable, en G+J, en Antena3 y en Publiespaña. Es licenciado en empresariales y especialista en investigación de mercados. Imparte clases en el módulo de Audiencias del Máster de Innovación en Periodismo.
 

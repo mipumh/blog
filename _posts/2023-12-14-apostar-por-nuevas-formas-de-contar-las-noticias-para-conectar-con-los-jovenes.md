@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Apostar por nuevas formas de contar las noticias para conectar con los jóvenes
 iberifier: si
 author: Dina Margato

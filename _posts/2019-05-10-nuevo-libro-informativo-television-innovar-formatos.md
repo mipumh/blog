@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Descarga el libro&#58 La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales
 subtitle: "Descarga gratis este libro editado por el Máster en Innovación en Periodismo"
 excerpt: "Publicamos el libro La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales que contiene las aportaciones y propuestas de una treintena de expertos -profesionales y académicos- sobre cómo transformar los informativos. Puedes descargarlo gratuitamente a través de esta página."
@@ -7,6 +7,9 @@ author: garcia-aviles
 categories:
   - narrativas
 image: /images/shots/crisis_libro.jpg
+tags:
+  - video
+  - libros-recursos
 ---
 Publicamos el libro **La crisis del informativo televisivo. Cómo innovar en los formatos audiovisuales** que contiene las aportaciones y propuestas de una treintena de expertos -profesionales y académicos- sobre cómo transformar los informativos. Puedes descargarlo gratuitamente a través de esta página.
 

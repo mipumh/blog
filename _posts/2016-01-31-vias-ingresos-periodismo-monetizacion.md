@@ -1,10 +1,21 @@
 ---
-layout: post
-title: ¿Quieres hacer el favor de pagarme, por favor? 32 vías de ingresos para el periodismo
-excerpt: "¿Cómo generar ingresos para sostener la actividad periodística?, la semana pasada planteamos esta pregunta como un ejercicio en la asignatura Nuevos Modelos de Negocio del Máster. Aquí recojo algunas propuestas de los estudiantes, añado otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes de los usuarios/lectores por el producto o servicio principal; b) ingresos procedentes de la publicidad o sucedáneos; c) ingresos procedentes por otros servicios o negocios secundarios."
+layout: article
+title: ¿Quieres hacer el favor de pagarme, por favor? 32 vías de ingresos para el
+  periodismo
+excerpt: '¿Cómo generar ingresos para sostener la actividad periodística?, la semana
+  pasada planteamos esta pregunta como un ejercicio en la asignatura Nuevos Modelos
+  de Negocio del Máster. Aquí recojo algunas propuestas de los estudiantes, añado
+  otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes
+  de los usuarios/lectores por el producto o servicio principal; b) ingresos procedentes
+  de la publicidad o sucedáneos; c) ingresos procedentes por otros servicios o negocios
+  secundarios.'
 author: carvajal
 categories:
-  - industria
+- industria
+tags:
+- modelo-negocio
+- suscripciones
+image: /images/wordclouds/2016-01-31-vias-ingresos-periodismo-monetizacion.png
 ---
 _¿Cómo generar ingresos para sostener la actividad periodística?_, la semana pasada planteamos esta pregunta como un ejercicio en la asignatura **Nuevos Modelos de Negocio** del [Máster online](http://mip.umh.es/online/). Aquí recojo algunas propuestas de los estudiantes, añado otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes de los **usuarios/lectores**; b) ingresos procedentes de la **publicidad** o sucedáneos; c) ingresos por **otros servicios o negocios** secundarios.
 

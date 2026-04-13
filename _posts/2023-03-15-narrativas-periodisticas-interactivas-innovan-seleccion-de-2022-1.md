@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Narrativas periodísticas interactivas que innovan: selección de 2022 (1)"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/how-are-you-doing.jpg
+tags:
+  - narrativas-interactivas
+  - storytelling
 ---
 La capacidad de los medios para innovar en los formatos narrativos guarda estrecha relación con su empeño por experimentar con diferentes lenguajes y tratar de satisfacer las necesidades de los usuarios. Se trata de buscar la mejor forma de contar cada acontecimiento, cada previsión informativa, cada historia. En definitiva, la excelencia consistiría “abrir en canal” el tema concreto ybuscarle la narrativa más adecuada mediante el talento de los equipos interdisciplinares. En dos entregas sucesivas, selecciono 20 narrativas interactivas publicadas en 2022 que sobresalen por su innovación. Se trata de trabajos excelentes que nos inspiran y muestran el talento y la creatividad para contar historias que merecen la pena.
 

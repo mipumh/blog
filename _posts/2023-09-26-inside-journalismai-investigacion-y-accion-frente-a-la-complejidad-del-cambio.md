@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Inside JournalismAI: investigación y acción frente a la complejidad del cambio"
 author: arias
 categories:
   - tecnologia
 image: /images/shots/journalismai-20.09.23-00094.jpg
+tags:
+  - redes-sociales
 ---
 JournalismAI ha vuelto a reflejar mejor que nadie el estado actual de la Inteligencia Artificial (IA) en el periodismo con el informe [Generating Change](https://www.journalismai.info/research/2023-generating-change). Pero más allá de la instantánea que tan bien retratan estos últimos datos y testimonios, la trayectoria de este think tank universitario permite entrever ilusionantes horizontes en la intersección entre investigación, transferencia y formación.
 

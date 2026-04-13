@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Claudio Cabrera: ”En The Athletic tenemos que publicar con más inmediatez. Pensamos en una nueva estrategia 'first read', porque sin esto es muy difícil crecer”"
 periscopio: si
 cover_image: periscopio.webp
@@ -7,6 +7,8 @@ author: rojas
 categories:
   - tecnologia
 image: /images/shots/cabrera.png
+tags:
+  - periodismo-deportivo
 ---
 Claudio Cabrera es uno de los referentes del mundo periodístico cuando hablamos de SEO y de estrategias digitales centradas en las audiencias. Después de casi seis años en *The New York Times*, donde ocupó diferentes puestos de responsabilidad decisivos que ayudaron a impulsar la transformación digital del periódico aumentando las visitas a la web en más de un 400% y liderando años sucesivos de récords en búsquedas y audiencia total del medio, fichó en marzo de 2022 por *The Athletic*. 
 

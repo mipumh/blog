@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Desintermediación, trazabilidad y comunidades. Los medios ante el
   internet del valor de Blockchain"
 iberifier: si
@@ -7,6 +7,8 @@ author: valero
 categories:
   - tecnologia
 image: /images/001/blockchain-1.png
+tags:
+  - engagement
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *Web3, Blockchain y NFT*. 
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: Seis libros sobre periodismo para este verano
 author: garcia-aviles
 categories:
   - industria
 image: /images/001/libros-para-leer-este-verano.jpg
+tags:
+  - libros-recursos
 ---
 Seleccionamos una serie de libros sobre periodismo, publicados a lo largo de 2025, que recomendamos durante las vacaciones estivales. Spoiler: he escrito uno de ellos.
 

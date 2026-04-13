@@ -21,6 +21,13 @@
   function onScroll() {
     var currentY = window.pageYOffset;
 
+    // Never hide header while mega menu is open
+    if (document.body.classList.contains('menu-open')) {
+      lastScrollY = currentY;
+      ticking = false;
+      return;
+    }
+
     // Always show header near the top of the page
     if (currentY <= THRESHOLD) {
       header.classList.remove('site-header--hidden');

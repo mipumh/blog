@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: Nueva publicación&#58 "Mediamorfosis&#58 Perspectivas sobre la innovación en periodismo"
 excerpt: "El libro de actas 'Mediamorfosis, perspectivas sobre la innovación en periodismo' recoge una selección de las comunicaciones presentadas en el XXIII Congreso Internacional de la Sociedad Española de Periodística, organizado por la Universidad Miguel Hernández de Elche el 9 y 10 de junio. Un resumen de las principales conclusiones del congreso puede leerse aquí. El periodismo atraviesa una fase de transformación, en el que el propio concepto de periodismo pasa por la reinvención e intenta adaptarse a los nuevos formatos y a las necesidades de una audiencia exigente. Esta obra analiza, desde diferentes perspectivas, la transformación que afrontan los medios de comunicación en el ecosistema actual, así como las claves para desarrollar un periodismo de calidad que sea viable e innovador."
 author: de-lara
 categories:
   - narrativas
 image: /images/shots/portada_sep.jpg
+tags:
+  - innovacion-periodistica
+  - entrevista
 ---
 El libro de actas "Mediamorfosis: Perspectivas sobre la innovación en periodismo" recoge una selección de las comunicaciones presentadas en el **[XXIII Congreso Internacional de la Sociedad Española de Periodística](http://sep2017.umh.es/)**, organizado por la Universidad Miguel Hernández de Elche (UMH) el 9 y 10 de junio. Un resumen de las principales conclusiones del congreso [puede leerse aquí](http://mip.umh.es/blog/2017/06/16/diez-claves-congreso-sep-umh/). El periodismo atraviesa una fase de transformación, en el que el propio concepto de periodismo pasa por la reinvención e intenta adaptarse a los nuevos formatos y a las necesidades de una audiencia exigente. Esta obra analiza, desde diferentes perspectivas, la transformación que afrontan los medios de comunicación en el ecosistema actual, así como **las claves para desarrollar un periodismo de calidad que sea viable e innovador**.
 

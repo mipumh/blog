@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Innovar en el modelo de negocio del periodismo deportivo: decálogo para mejorar el rendimiento de las empresas"
 author: marin
 categories:
   - industria
 image: /images/shots/untitled-5-.png
+tags:
+  - modelo-negocio
+  - periodismo-deportivo
 ---
 ![]({{ site.baseurl }}/images/shots/untitled-5-.png)
 

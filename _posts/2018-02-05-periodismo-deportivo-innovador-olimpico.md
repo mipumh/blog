@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 periscopio: si
 cover_image: periscopio.webp
 title: El músculo innovador del periodismo deportivo en un año olímpico y mundialista
@@ -8,6 +8,9 @@ author: rojas
 categories:
   - narrativas
 image: /images/shots/pdepor_0.jpg
+tags:
+  - periodismo-deportivo
+  - innovacion-periodistica
 ---
 Afirmar a estas alturas que el periodismo deportivo se comporta como una punta de lanza de la innovación narrativa digital no es ninguna novedad. Esta área informativa, siempre creativa y atrevida, **ha sido capaz de situarse a la vanguardia en la forma de presentar y contar las historias en la red**, porque por su naturaleza se anticipa en la exploración de nuevos caminos y sirve de laboratorio de pruebas para que otras secciones y medios habituados a informar de otras temáticas tomen nota y decidan también aplicar esa experiencia.
 

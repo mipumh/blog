@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: article
 title: Pere Rusiñol, una apuesta por el periodismo independiente
-excerpt: "Redactor de El País más de diez años. Adjunto a la dirección de Público otros cuatro. Colaborador actual de eldiario.es. Pere Rusiñol ha pasado por las aulas del Máster en Innovación en Periodismo de la Universidad Miguel Hernández de Elche para hablar de las revistas Mongolia y Alternativas Económicas y los nuevos modelos de comunicación creados y controlados por periodistas."
+excerpt: Redactor de El País más de diez años. Adjunto a la dirección de Público otros
+  cuatro. Colaborador actual de eldiario.es. Pere Rusiñol ha pasado por las aulas
+  del Máster en Innovación en Periodismo de la Universidad Miguel Hernández de Elche
+  para hablar de las revistas Mongolia y Alternativas Económicas y los nuevos modelos
+  de comunicación creados y controlados por periodistas.
 author: Lorena Escandell
 categories:
-  - el-master
+- el-master
+image: /images/wordclouds/2015-01-23-mongolia-pere-rusinol.png
 ---
 Redactor de [El País](http://elpais.com) más de diez años. Adjunto a la dirección de [Público](www.publico.es) otros cuatro. Colaborador actual de [eldiario.es](www.eldiario.es). [Pere Rusiñol](https://twitter.com/pererusi) ha pasado por las aulas del [Máster en Innovación en Periodismo](http://mip.umh.es) de la [Universidad Miguel Hernández de Elche](www.umh.es) para hablar de las revistas [Mongolia](www.revistamongolia.com) y [Alternativas Económicas](http://alternativaseconomicas.coop) y los nuevos modelos de comunicación creados y controlados por periodistas.
 

@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: article
 title: "Retos del fact-checking y la lucha contra la desinformación: amenazas y
   oportunidades de la inteligencia artificial generativa"
 author: Miguel Crespo
 categories:
   - tecnologia
 image: /images/001/desinf-.jpg
+tags:
+  - desinformacion
+  - inteligencia-artificial
 ---
 Publicamos un nuevo análisis sobre las tendencias que impactarán en el panorama mediático en España y Portugal durante el próximo quinquenio, un adelanto del informe del proyecto IBERIFIER que estamos recogiendo en esta [serie especial para final de año](https://mip.umh.es/blog/2023/12/09/especial-tendencias-innovaciones-ecosistema-mediatico-de-espana-y-portugal-2025-2030/): nos centramos en el área de *fact-checking y desinformación*.
 

@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: article
 title: "Julián Dueñas, periodista y creador de una newsletter local: “La
   alternativa era ponerte a llorar o ponerte a innovar y emprender”"
 author: garcia-aviles
 categories:
   - industria
 image: /images/001/yourhometown.jpg
+tags:
+  - newsletters
+  - emprendimiento
+  - periodismo-local
 ---
  **Julián Dueñas** es periodista, tiene 56 años y vive en Villanueva de la Cañada (Madrid). Ha dedicado su vida profesional —más de 27 años— al sector de las revistas. Durante 14 años dirigió la **revista GEO,** de viajes y naturaleza, y fue responsable de **BEEF!**, una publicación especializada en gastronomía. Es licenciado en Ciencias de la Información y Máster en Escritura Creativa por la UCM, Máster en Dirección de Comunicación y Publicidad por ESIC, y Diplomado en Análisis de Conflictos Internacionales por el Instituto de Estudios Políticos para África y América Latina. En 2021 lanzó [YOURHOMETOWN](https://yourhometown.es/), *startup* de información local en Villanueva de la Cañada con el propósito de informar al ciudadano y ofrecer un servicio público. Charlamos con Julián sobre su proyecto.
 

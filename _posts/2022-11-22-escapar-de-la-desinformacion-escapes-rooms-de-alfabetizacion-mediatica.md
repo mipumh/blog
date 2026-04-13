@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: ¿Crees que puedes escapar de la desinformación? Llegan los escapes rooms de alfabetización mediática
 author: garcia-ortega
 categories:
   - tecnologia
 image: /images/shots/escape_room2.png
+tags:
+  - desinformacion
 ---
 ![]({{ site.baseurl }}/images/shots/escape_room2.png)
 

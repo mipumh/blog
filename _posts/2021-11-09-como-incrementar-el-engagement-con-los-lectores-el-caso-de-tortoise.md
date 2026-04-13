@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: "Cómo incrementar el engagement con los lectores: el caso de Tortoise"
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/shots/tortoise-members.jpg
+tags:
+  - engagement
 ---
 El diálogo con los lectores no sólo permite presentar puntos de vista diferenciados y equilibrados, sino que también facilita salir de la propia "burbuja periodística".  La comunicación con los usuarios es muy valiosa para la redacción, ya que los periodistas reciben ideas, comentarios y críticas; también resulta enriquecedora para los usuarios, ya que perciben el periodismo como un servicio y una oportunidad para involucrarse. Analizamos el caso de Tortoise, el medio nativo digital británico que pretende ser un antídoto al ciclo constante de noticias, ofreciendo a los lectores un tipo de “periodismo reposado”, mediante valiosas iniciativas de participación.
 

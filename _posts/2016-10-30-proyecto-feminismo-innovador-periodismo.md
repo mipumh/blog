@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Aplicar la perspectiva de género también es innovar en periodismo
 excerpt: "IGUAL es una plataforma digital especializada en feminismo desarrollada por Laura Bellver en el Máster en Innovación en Periodismo. Ofrece una completa agenda de actividades, bases de datos y asesoramiento profesional, para dar cabida a las voces feministas del ámbito de la Comunidad Valenciana. 'Alcanzar la igualdad requiere de una labor pedagógica que puede y debe desarrollarse también desde los medios de comunicación, explica su promotora. Igual figura entre los medios que han incorporado la perspectiva de género en sus procesos para innovar a través de contenidos informativos especializados y originales, apenas tratados por los medios tradicionales, que pretenden acabar con los sesgos de género y aportar miradas más diversas."
 author: Lorena Escandell

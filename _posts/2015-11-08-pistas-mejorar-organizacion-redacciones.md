@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: article
 title: Pistas para mejorar la organización de las redacciones
 excerpt: "En la redacción de Bez, que se define como la opción de los lectores que toman decisiones, los periodistas comparten espacio con el arte. Según explica una de sus impulsoras, Idoia Sota, esta redacción está físicamente abierta al público, de manera que se puede acceder a contemplar las exposiciones temporales que acompañan a los redactores durante su jornada de trabajo."
 author: de-lara
 categories:
   - redaccion
 image: /images/shots/newsroom%20organization.jpg
+tags:
+  - organizacion-redacciones
 ---
 En la redacción de [**Bez**](http://www.bez.es/), que se define como **“la opción de los lectores que toman decisiones"**, los periodistas comparten espacio con el arte. Según explica una de sus impulsoras, [**Idoia Sota**](https://twitter.com/idoiasota?lang=es), esta redacción está físicamente abierta al público, de manera que **se puede acceder a contemplar las exposiciones temporales que acompañan a los redactores durante su jornada de trabajo**.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Antonio Delgado (Datadista, Weblogs SL)&#58 'Queremos centrarnos en lo importante y no generar ruido'"
 excerpt: "Antonio Delgado es referente de la prensa digital en español y pionero del periodismo de datos en nuestro país. Ha creado, junto a Ana Tudela, Datadista, un proyecto periodístico basado en la investigación, análisis y explicación de la actualidad. Además, Delgado forma parte de Weblogs SL, el principal grupo de medios digitales especializados en español. Imparte clases en el módulo de nuevas narrativas del Máster de Innovación en Periodismo."
 author: Mari Carmen Borrull

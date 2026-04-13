@@ -1,47 +1,18 @@
 // ==========================================================================
-// Newsletter — Banner, Compact, and Inline Variants
-// ==========================================================================
-// Three newsletter CTA variants:
-// 1. Banner (full main-col width, green tint) — homepage
-// 2. Compact (sidebar/footer) — sidebar and footer
-// 3. Inline (injected after paragraph 3) — article body
-// Reference: renove/layout-homepage.md, renove/layout-article.md
+// Newsletter — Banner, Compact, Inline
 // ==========================================================================
 
-// --------------------------------------------------------------------------
-// Shared Newsletter Styles
-// --------------------------------------------------------------------------
-.newsletter__title {
-  font-family: var(--font-serif);
-  font-size: var(--text-lg);
-  font-weight: 700;
-  color: var(--color-text);
-  margin: 0 0 var(--space-2xs);
-}
-
-.newsletter__desc {
-  font-family: var(--font-sans);
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
-  margin: 0 0 var(--space-md);
-  line-height: 1.4;
-}
-
-.newsletter__input {
-  font-family: var(--font-sans);
-  font-size: var(--text-sm);
-  padding: var(--space-xs) var(--space-md);
+.newsletter-input {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  padding: var(--space-xs) var(--space-sm);
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
   background: var(--color-bg);
   color: var(--color-text);
   flex: 1;
   min-width: 0;
 
-  &::placeholder {
-    color: var(--color-text-muted);
-  }
-
+  &::placeholder { color: var(--color-text-muted); }
   &:focus {
     outline: 2px solid var(--color-brand);
     outline-offset: -1px;
@@ -49,72 +20,71 @@
   }
 }
 
-.newsletter__btn {
-  font-family: var(--font-sans);
-  font-size: var(--text-sm);
-  font-weight: 600;
-  padding: var(--space-xs) var(--space-lg);
+.btn-newsletter {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: var(--space-xs) var(--space-md);
   background: var(--color-brand);
   color: var(--color-on-brand);
   border: none;
-  border-radius: var(--radius-sm);
   cursor: pointer;
   white-space: nowrap;
-  transition: background-color 0.15s, transform 0.1s;
+  transition: background-color 0.15s;
 
-  &:hover {
-    background: var(--color-brand-dark);
-    color: #fff;
-  }
-
-  &:active {
-    transform: scale(0.98);
-  }
+  &:hover { background: var(--color-brand-dark); }
+  &:active { transform: scale(0.98); }
 }
 
-.newsletter__privacy {
-  font-family: var(--font-sans);
-  font-size: var(--text-xs);
-  color: var(--color-text-muted);
-  margin-top: var(--space-xs);
-
-  a {
-    color: var(--color-text-muted);
-    text-decoration: underline;
-  }
-}
-
-// --------------------------------------------------------------------------
-// 1. Newsletter Banner (full main-col width, green tint)
-// --------------------------------------------------------------------------
+// Banner
 .newsletter-banner {
   background: var(--color-brand-tint);
-  border-radius: var(--radius-lg);
   padding: var(--space-xl);
   margin-bottom: var(--space-3xl);
   text-align: center;
 }
 
+.newsletter-banner__title {
+  font-family: var(--font-serif);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0 0 var(--space-2xs);
+}
+
+.newsletter-banner__desc {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-md);
+  line-height: 1.45;
+}
+
 .newsletter-banner__form {
   display: flex;
   gap: var(--space-xs);
-  max-width: 420px;
-  margin: var(--space-md) auto 0;
+  max-width: 400px;
+  margin: 0 auto;
 }
 
 @media (max-width: 575.98px) {
-  .newsletter-banner__form {
-    flex-direction: column;
-  }
+  .newsletter-banner__form { flex-direction: column; }
 }
 
-// --------------------------------------------------------------------------
-// 2. Newsletter Compact (sidebar / footer)
-// --------------------------------------------------------------------------
+// Compact
 .newsletter-compact {
-  padding: var(--space-lg);
+  padding: var(--space-md);
   background: var(--color-surface-alt);
-  border-radius: var(--radius-md);
+}
+
+.newsletter-compact__desc {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-sm);
+  line-height: 1.45;
 }
 
 .newsletter-compact__form {
@@ -123,34 +93,37 @@
   gap: var(--space-xs);
 }
 
-.newsletter-compact .newsletter__title {
-  font-size: var(--text-md);
-}
-
-// --------------------------------------------------------------------------
-// 3. Newsletter Inline (injected after paragraph 3 in articles)
-// --------------------------------------------------------------------------
+// Inline
 .newsletter-inline {
   background: var(--color-brand-tint);
-  border-left: 4px solid var(--color-brand);
-  border-radius: 0 var(--radius-md) var(--radius-md) 0;
-  padding: var(--space-lg);
-  margin: var(--space-xl) 0;
+  border-left: 3px solid var(--color-brand);
+  padding: var(--space-md);
+  margin: var(--space-lg) 0;
+}
+
+.newsletter-inline__title {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-text);
+  margin: 0 0 var(--space-2xs);
+}
+
+.newsletter-inline__desc {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-sm);
+  line-height: 1.45;
 }
 
 .newsletter-inline__form {
   display: flex;
   gap: var(--space-xs);
-  margin-top: var(--space-sm);
-}
-
-.newsletter-inline .newsletter__title {
-  font-size: var(--text-md);
-  font-family: var(--font-sans);
 }
 
 @media (max-width: 575.98px) {
-  .newsletter-inline__form {
-    flex-direction: column;
-  }
+  .newsletter-inline__form { flex-direction: column; }
 }

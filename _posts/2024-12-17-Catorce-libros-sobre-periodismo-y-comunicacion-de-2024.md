@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: article
 title: 14 libros sobre periodismo y comunicación de 2024
 author: garcia-aviles
 categories:
   - tecnologia
 image: /images/001/libros-sobre-periodismo-2024.jpg
+tags:
+  - libros-recursos
 ---
 Seleccionamos una serie de libros sobre periodismo y comunicación, publicados a lo largo de este año. Como es lógico, abundan las obras sobre inteligencia artificial e innovación, y también los trabajos sobre el metaverso, la radio, la infografía, las experiencias inmersivas y el periodismo digital. Esperamos que sean de vuestro agrado. Desde la Revista de Innovación del Máster os deseamos una Feliz Navidad y que 2025 sea un gran año.  
 
