@@ -8,35 +8,47 @@ on:
 
 jobs:
   optimize:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Instalar ImageMagick
         run: sudo apt-get install -y imagemagick
 
-      - name: Detectar imágenes nuevas del commit
+      - name: Detectar imágenes nuevas del push
         id: changed
         run: |
-          git diff --name-only HEAD~1 HEAD -- 'images/**' | \
-            grep -iE '\.(jpg|jpeg|png|webp)$' > /tmp/changed_images.txt || true
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+          # Si BEFORE es 0000... (primer push de la rama) usar HEAD solo
+          if [[ "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+            RANGE="$AFTER"
+            git show --name-only --diff-filter=AM --pretty=format: "$AFTER" -- 'images/**' | \
+              grep -iE '\.(jpg|jpeg|png|webp)$' > /tmp/changed_images.txt || true
+          else
+            git diff --name-only --diff-filter=AM "$BEFORE" "$AFTER" -- 'images/**' | \
+              grep -iE '\.(jpg|jpeg|png|webp)$' > /tmp/changed_images.txt || true
+          fi
           echo "Imágenes a optimizar:"
-          cat /tmp/changed_images.txt
+          cat /tmp/changed_images.txt || true
 
       - name: Optimizar JPG/JPEG
         run: |
           grep -iE '\.(jpg|jpeg)$' /tmp/changed_images.txt | \
-            xargs -d '\n' -P 4 -I {} mogrify -strip -quality 85 -interlace Plane -resize '1400x>' "{}" || true
+            xargs -r -d '\n' -P 4 -I {} mogrify -strip -quality 85 -interlace Plane -resize '1400x>' "{}" || true
 
       - name: Optimizar PNG
         run: |
           grep -iE '\.png$' /tmp/changed_images.txt | \
-            xargs -d '\n' -P 4 -I {} mogrify -strip "{}" || true
+            xargs -r -d '\n' -P 4 -I {} mogrify -strip "{}" || true
 
       - name: Optimizar WebP
         run: |
           grep -iE '\.webp$' /tmp/changed_images.txt | \
-            xargs -d '\n' -P 4 -I {} mogrify -strip -quality 85 -resize '1400x>' "{}" || true
+            xargs -r -d '\n' -P 4 -I {} mogrify -strip -quality 85 -resize '1400x>' "{}" || true
 
       - name: Commit si hay cambios
         run: |
