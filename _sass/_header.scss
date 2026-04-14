@@ -158,7 +158,7 @@
   &[aria-current="page"] { color: var(--color-brand); }
 }
 
-// Logo — inline SVG, centered above subtitle
+// Logo — raster mancheta, centered
 .site-nav__brand {
   display: flex;
   flex-direction: column;
@@ -173,29 +173,19 @@
   line-height: 0;
 }
 
-.site-nav__logo-svg {
+.site-nav__logo-img {
   height: 56px;
   width: auto;
+  display: block;
+  transition: opacity 0.25s ease;
 }
 
-.site-nav__logo-text {
-  fill: var(--color-brand);
-  transition: fill 0.25s ease, filter 0.25s ease;
+.site-nav__logo:hover .site-nav__logo-img {
+  opacity: 0.75;
 }
 
-.site-nav__logo:hover .site-nav__logo-text {
-  fill: var(--color-brand-dark);
-}
-
-// Subtitle below logo
-.site-nav__subtitle {
-  font-family: var(--font-mono);
-  font-size: 0.625rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--color-text-muted);
-  margin-top: 2px;
-  white-space: nowrap;
+[data-theme="dark"] .site-nav__logo-img {
+  filter: invert(1) brightness(1.1);
 }
 
 // Mobile: logo left-aligned, above filete
@@ -204,7 +194,7 @@
   justify-content: flex-start;
   padding: var(--space-2xs) 0 var(--space-xs);
 
-  .site-nav__logo-svg {
+  .site-nav__logo-img {
     height: 32px;
   }
 }

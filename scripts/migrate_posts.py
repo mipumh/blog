@@ -41,7 +41,7 @@ AUTHOR_MAP = {
     # Se les dejará el nombre completo como fallback
 }
 
-# ── Category mapping: ctrl_reset → nueva sección ─────────────────────────
+# ── Category mapping: categoría antigua → nueva sección ─────────────────
 CATEGORY_MAP = {
     "narrativas_formatos": "narrativas",
     "innovacion_periodismo": "narrativas",
