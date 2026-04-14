@@ -75,17 +75,21 @@ end
 def load_latest_post
   files = Dir.glob(File.join(POSTS_DIR, '*.md')).sort
   raise "sin posts en #{POSTS_DIR}" if files.empty?
-  path = files.last
-  raw = File.read(path, encoding: 'utf-8')
-  front, body = parse_front_matter(raw, path)
-  basename = File.basename(path, '.md')
-  date = basename[0, 10]
-  slug = basename[11..-1]
-  {
-    'title' => front['title'],
-    'url' => front['permalink'] || "/#{date.tr('-', '/')}/#{slug}/",
-    'excerpt' => extract_excerpt(body)
-  }
+  files.reverse_each do |path|
+    raw = File.read(path, encoding: 'utf-8')
+    front, body = parse_front_matter(raw, path)
+    next if front['published'] == false
+    next if front['draft'] == true
+    basename = File.basename(path, '.md')
+    date = basename[0, 10]
+    slug = basename[11..-1]
+    return {
+      'title' => front['title'],
+      'url' => front['permalink'] || "/#{date.tr('-', '/')}/#{slug}/",
+      'excerpt' => extract_excerpt(body)
+    }
+  end
+  raise "no hay posts publicados en #{POSTS_DIR} (todos están marcados published:false o draft:true)"
 end
 
 def extract_excerpt(body)

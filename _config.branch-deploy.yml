@@ -1,0 +1,6 @@
+baseurl: ""
+url: ""
+
+inc:
+  analytics:
+    google: false
