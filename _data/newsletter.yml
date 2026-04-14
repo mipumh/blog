@@ -1,3 +1,6 @@
 title: "Recibe lo mejor cada semana"
 description: "Análisis, casos y entrevistas sobre innovación en periodismo. Gratis."
-action_url: "https://umh.us5.list-manage.com/subscribe/post?u=75b8bda4a5f5eae9a009046a2&id=39c53c6c14"
+# action_url: URL del Apps Script Web App del newsletter (ver scripts/newsletter/README.md).
+# Rellenar tras desplegar el proyecto Apps Script y copiar la "Web app URL".
+# Placeholder actual apunta al antiguo endpoint Mailchimp mientras no se despliegue Apps Script.
+action_url: "https://script.google.com/macros/s/REEMPLAZAR_TRAS_DEPLOY/exec"

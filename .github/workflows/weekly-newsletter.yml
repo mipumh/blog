@@ -1,0 +1,56 @@
+name: Newsletter draft
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  build-draft:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: redesign
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install MJML
+        run: npm install --no-save mjml
+
+      - name: Build newsletter draft
+        run: ruby scripts/newsletter/build-draft.rb
+
+      - name: Detect output
+        id: draft
+        run: |
+          latest=$(ls -1 _drafts/newsletters/*.html 2>/dev/null | sort | tail -n1)
+          echo "file=$latest" >> "$GITHUB_OUTPUT"
+          echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: newsletter/draft-${{ steps.draft.outputs.date }}
+          base: redesign
+          title: "Newsletter draft ${{ steps.draft.outputs.date }}"
+          commit-message: "chore(newsletter): draft ${{ steps.draft.outputs.date }}"
+          body: |
+            Borrador automático del newsletter generado por `weekly-newsletter.yml`.
+
+            Revisa `${{ steps.draft.outputs.file }}`, ajusta copy si hace falta y mergea.
+            Después abre la Google Sheet → 📧 Newsletter → Cargar último borrador.
+          add-paths: |
+            _drafts/newsletters/**
+          delete-branch: true

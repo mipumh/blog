@@ -106,3 +106,4 @@ exclude:
   - vendor
   - renove
   - scripts
+  - _newsletters
