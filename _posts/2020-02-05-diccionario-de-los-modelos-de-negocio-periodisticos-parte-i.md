@@ -5,7 +5,7 @@ excerpt: "Los profesionales de la información están obligados a incrementar su
 author: marin
 categories:
   - industria
-image: /images/shots/screen_modelos.png "Lienzo de modelos de negocio de Osterwalder y Pigneur"
+image: /images/shots/screen_modelos.png
 tags:
   - modelo-negocio
 ---

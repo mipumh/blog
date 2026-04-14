@@ -4,7 +4,7 @@ title: "Del churnalism a la obsesión por el churn: la fidelidad como reto del p
 author: marin
 categories:
   - industria
-image: /images/shots/churn-periodismo.png "churn periodismo"
+image: /images/shots/churn-periodismo.png
 tags:
   - suscripciones
 ---

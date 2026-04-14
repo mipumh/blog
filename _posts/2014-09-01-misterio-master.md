@@ -5,7 +5,7 @@ excerpt: "Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos varia
 author: Belén Torregrosa
 categories:
   - narrativas
-image: /images/Perfiles_MIP/DSC_0608.jpeg "Guatemala, Julio 2012"
+image: /images/Perfiles_MIP/DSC_0608.jpeg
 ---
 Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos variables que en esta ciudad no siempre coinciden, por desgracia. 
 

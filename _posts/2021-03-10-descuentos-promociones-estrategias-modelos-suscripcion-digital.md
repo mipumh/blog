@@ -5,7 +5,7 @@ title: "Ofrecer un descuento al usuario y convencerle para quedarse: las
 author: marin
 categories:
   - industria
-image: /images/shots/promociones-descuentos-muros-pago-periodismo.jpg "descuentos-promociones-muros-pago-periodismo"
+image: /images/shots/promociones-descuentos-muros-pago-periodismo.jpg
 tags:
   - suscripciones
 ---

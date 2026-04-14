@@ -5,7 +5,7 @@ excerpt: "Era miércoles, hacía buena tarde. Agosto y buen tiempo son dos varia
 author: Lorena Escandell
 categories:
   - narrativas
-image: /images/Perfiles_MIP/extrarradio.jpg "Olga Ruiz y Mª Jesús Espinosa"
+image: /images/Perfiles_MIP/extrarradio.jpg
 tags:
   - podcast-audio
 ---

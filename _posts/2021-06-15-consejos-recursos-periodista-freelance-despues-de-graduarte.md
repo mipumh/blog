@@ -5,7 +5,7 @@ title: "¿Y ahora qué? Consejos y recursos para ejercer como periodista freelan
 author: marin
 categories:
   - industria
-image: /images/shots/freelance.jpeg "Consejos y recursos periodismo freelance"
+image: /images/shots/freelance.jpeg
 tags:
   - libros-recursos
 ---

@@ -4,7 +4,7 @@ title: El impacto de la Inteligencia Artificial en el periodismo
 author: garcia-aviles
 categories:
   - tecnologia
-image: /images/shots/gif-bbc-chat-bot.gif "Chatbot de la BBC, creado en 2017, para mantener conversaciones sobre informaciones políticas."
+image: /images/shots/gif-bbc-chat-bot.gif
 tags:
   - inteligencia-artificial
 ---

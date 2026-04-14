@@ -5,7 +5,7 @@ excerpt: "Innovar es dar una vuelta de tuerca a las formas de trabajar que ya es
 author: Lorena Escandell
 categories:
   - narrativas
-image: /images/Perfiles_MIP/Manuel%20Benito.jpg "Manuel Benito"
+image: /images/Perfiles_MIP/Manuel%20Benito.jpg
 tags:
   - emprendimiento
 ---
