@@ -65,7 +65,8 @@
     if (searchData || loading) return;
     loading = true;
 
-    var base = overlay.getAttribute('data-baseurl') || '/blog';
+    var base = overlay.getAttribute('data-baseurl');
+    if (base == null) base = '/blog';
 
     fetch(base + '/search.json')
       .then(function (r) { return r.json(); })
