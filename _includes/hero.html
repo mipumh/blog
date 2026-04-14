@@ -7,7 +7,7 @@
   <a href="{{ site.baseurl }}{{ post.url }}" class="hero__link">
     {% if post.image %}
     <div class="hero__img-wrap">
-      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}"
+      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title | escape }}"
            class="hero__img" loading="eager" fetchpriority="high"
            width="800" height="450">
     </div>

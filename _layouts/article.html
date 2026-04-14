@@ -28,7 +28,7 @@ layout: default
   {% if page.image %}
   <figure class="article-hero" data-hero-src="{{ site.baseurl }}{{ page.image }}">
     <div class="container-xl">
-      <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}"
+      <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title | escape }}"
            loading="eager" fetchpriority="high" itemprop="image"
            width="900" height="506">
       {% if page.image_caption %}
