@@ -6,7 +6,7 @@ title: >-
 author: Marina Cantó
 categories:
   - tecnologia
-image: /images/shots/marta-ferrero.jpg "Marta Ferrero, periodista en Onda Regional, durante las Jornadas de Innovación en Periodismo en la Universidad Miguel Hernández de Elche (Marina Cantó
+image: /images/shots/marta-ferrero.jpg
 tags:
   - podcast-audio
   - herramientas-ia

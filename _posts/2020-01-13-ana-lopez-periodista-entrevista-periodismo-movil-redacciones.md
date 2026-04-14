@@ -6,7 +6,7 @@ title: >-
 author: Laura Sánchez Benejama
 categories:
   - tecnologia
-image: /images/shots/Ana López.jpg
+image: /images/shots/Ana%20L%C3%B3pez.jpg
 tags:
   - organizacion-redacciones
 ---
