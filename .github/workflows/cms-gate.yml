@@ -1,0 +1,24 @@
+name: cms-gate
+
+on:
+  pull_request:
+    branches: [gh-pages]
+    types: [opened, reopened, synchronize, labeled, unlabeled]
+
+permissions:
+  pull-requests: read
+
+jobs:
+  approval:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require publish-approved label
+        env:
+          LABELS: ${{ toJson(github.event.pull_request.labels.*.name) }}
+        run: |
+          if echo "$LABELS" | grep -q '"publish-approved"'; then
+            echo "Label present — merge allowed."
+            exit 0
+          fi
+          echo "Missing 'publish-approved' label. Only miguelcarvajal can add it."
+          exit 1
