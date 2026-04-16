@@ -3,4 +3,4 @@ description: "Análisis, casos y entrevistas sobre innovación en periodismo. Gr
 # action_url: URL del Apps Script Web App del newsletter (ver scripts/newsletter/README.md).
 # Rellenar tras desplegar el proyecto Apps Script y copiar la "Web app URL".
 # Placeholder actual apunta al antiguo endpoint Mailchimp mientras no se despliegue Apps Script.
-action_url: "https://script.google.com/macros/s/AKfycbwmy_etBUZJ3ASEbM9krPfDQPGcsBGfTOb1LzhVNoDzHCqbuNDYHYvoHs_gd7kBqXMn/exec"
+action_url: "https://script.google.com/macros/s/AKfycbwi6LDBY-aZKWWyDB888BkfyVh3yM8IMOGqufFVo1J4B6XdnZezMnMUaWIACumEDQ0x/exec"
