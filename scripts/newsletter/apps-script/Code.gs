@@ -125,7 +125,8 @@ function menuSendBatch() {
     try {
       GmailApp.sendEmail(email, subject, htmlToText_(personalized), {
         htmlBody: personalized,
-        name: 'MIP — Máster en Innovación en Periodismo'
+        name: 'MIP — Máster en Innovación en Periodismo',
+        from: 'mip@umh.es'
       });
       sheet.getRange(absRow, col.lastSent).setValue(nowString_());
       sent++;
@@ -167,7 +168,8 @@ function menuSendTest() {
   var me = Session.getEffectiveUser().getEmail();
   GmailApp.sendEmail(me, '[PRUEBA] ' + subject, htmlToText_(personalized), {
     htmlBody: personalized,
-    name: 'MIP — Prueba'
+    name: 'MIP — Prueba',
+    from: 'mip@umh.es'
   });
   toast_('Email de prueba enviado a ' + me);
 }

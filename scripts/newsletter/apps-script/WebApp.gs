@@ -64,6 +64,8 @@ function doPost(e) {
     sheet.appendRow([email, now, 'web', 'active', token, '']);
     logEvent_('subscribe', email, 'web');
 
+    sendWelcomeEmail_(email, token);
+
     return jsonResponse_({ ok: true });
   } catch (err) {
     logEvent_('error', '', String(err));
@@ -157,6 +159,36 @@ function htmlResponse_(body) {
       '</html>'
     )
     .setTitle('MIP Newsletter');
+}
+
+function sendWelcomeEmail_(email, token) {
+  try {
+    var unsubUrl = webAppUrl_() + '?action=unsubscribe&token=' + encodeURIComponent(token);
+    var subject = 'Bienvenido/a al boletín de MIP';
+    var html =
+      '<div style="font-family:system-ui,sans-serif;max-width:36rem;margin:0 auto;color:#1a1a1a">' +
+        '<p style="margin-top:2rem">¡Hola!</p>' +
+        '<p>Gracias por suscribirte al boletín del <strong>Máster en Innovación en Periodismo</strong> (MIP) ' +
+        'de la Universidad Miguel Hernández.</p>' +
+        '<p>Cada semana recibirás una selección de análisis, casos y entrevistas sobre innovación en periodismo.</p>' +
+        '<p>Un saludo,<br>El equipo MIP</p>' +
+        '<hr style="border:none;border-top:1px solid #e0e0e0;margin:2rem 0">' +
+        '<p style="font-size:0.8rem;color:#888">Si no te has suscrito, puedes ' +
+        '<a href="' + unsubUrl + '" style="color:#888">darte de baja aquí</a>.</p>' +
+      '</div>';
+    var plain = 'Gracias por suscribirte al boletín del MIP.\n\n' +
+      'Cada semana recibirás una selección de análisis, casos y entrevistas sobre innovación en periodismo.\n\n' +
+      'Un saludo,\nEl equipo MIP\n\n' +
+      'Darse de baja: ' + unsubUrl;
+    GmailApp.sendEmail(email, subject, plain, {
+      htmlBody: html,
+      name: 'MIP — Máster en Innovación en Periodismo',
+      from: 'mip@umh.es'
+    });
+    logEvent_('welcome_sent', email, '');
+  } catch (err) {
+    logEvent_('welcome_error', email, String(err));
+  }
 }
 
 function logEvent_(action, email, detail) {
