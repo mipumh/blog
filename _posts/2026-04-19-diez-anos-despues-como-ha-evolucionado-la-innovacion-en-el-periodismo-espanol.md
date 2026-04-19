@@ -17,7 +17,7 @@ La investigación muestra que la innovación ha pasado de los márgenes al centr
 
 ![]({{site.baseurl}}/images/001/innovation-1.jpg)
 
-# Metodología: cómo se mide la innovación y qué cambia respecto a 2014
+## Metodología: cómo se mide la innovación y qué cambia respecto a 2014
 
 El estudio reciente mantiene la base metodológica del ranking original. La identificación de la muestra de **las 20 iniciativas periodísticas más innovadoras** parte de un panel de expertos que combina perfiles profesionales y académicos, cuyas aportaciones se cruzan con criterios de relevancia profesional y social. A partir de ahí, se desarrolla **un análisis de las innovaciones implementadas por cada medio**, complementado con entrevistas y revisión documental.
 
@@ -25,7 +25,7 @@ No obstante, se introducen ajustes para adaptarse al nuevo contexto. Por un lado
 
 En total, se identifican **más de 400 innovaciones, de las que finalmente se analizan 264**, clasificadas según su grado, el área en la que se producen y su relación con la tecnología. La cantidad y el grado de las innovaciones adoptadas determina la posición de los medios en el ranking final. Sin embargo, el objetivo no es tanto medir el impacto de cada caso como trazar una visión de conjunto que permita entender tendencias y cambios en el sector.
 
-# El grado de la innovación: predominio de lo incremental
+## El grado de la innovación: predominio de lo incremental
 
 Uno de los hallazgos más consistentes del estudio es el predominio de la innovación incremental. Cerca del 90% de las 264 innovaciones analizadas corresponden a este tipo, lo que indica que **el cambio en el periodismo no se produce, en general, a través de grandes rupturas**, sino mediante ajustes continuos que mejoran procesos, productos y estrategias.
 
@@ -37,7 +37,7 @@ Las innovaciones radicales tienden a concentrarse en ámbitos específicos como 
 
 En el extremo contrario se sitúa la organización, que es el área con menor presencia de innovaciones radicales. En este caso, los cambios tienen más que ver con la gestión de los equipos, la estructura de las redacciones o la incorporación de nuevos perfiles, lo que se traduce en transformaciones más graduales.
 
-# Las áreas de innovación: distribución y negocio como prioridades
+## Las áreas de innovación: distribución y negocio como prioridades
 
 El análisis por áreas revela las prioridades del sector. La distribución se sitúa como el ámbito con mayor número de innovaciones, seguida de la producción, la organización y, paradójicamente en último lugar, la comercialización. Este dato refleja que el reto principal del periodismo no es únicamente generar buen contenido, **sino lograr que llegue de manera eficaz a las audiencias**.
 
@@ -49,7 +49,7 @@ En paralelo, la producción también sigue siendo un espacio relevante, especial
 
 Aunque menos numerosos, la reorganización de equipos, la incorporación de perfiles tecnológicos o la creación de unidades específicas muestran cambios en la forma de trabajar, y la diversificación de las vías de ingresos evidencian los esfuerzos por repensar los modelos de negocio.  
 
-# Dependencia tecnológica: entre la innovación y la subordinación
+## Dependencia tecnológica: entre la innovación y la subordinación
 
 La tecnología desempeña un papel central en la innovación periodística, pero su peso no es absoluto. El estudio muestra que, pese a la asociación mental casi inevitable entre tecnología e innovación, el 40% de los cambios no tienen nada que ver con avances técnicos. Este equilibrio pone de manifiesto que **innovar no implica necesariamente introducir nuevas herramientas, sino también transformar procesos**, estructuras organizativas o enfoques editoriales.
 
@@ -59,7 +59,7 @@ Sin embargo, el análisis revela una cuestión clave: la dependencia tecnológic
 
 Solo algunos medios, como El Confidencial, Civio y Diari ARA, destacan por presentar más desarrollos propios que ajenos, aunque también resultan llamativas otras innovaciones de gran calado realizadas con tecnología propia, como los chatbots y las herramientas de búsqueda de narrativas desinformadoras de Maldita.  
 
-# Los medios: consolidación, dificultades y nuevos actores
+## Los medios: consolidación, dificultades y nuevos actores
 
 El ranking dibuja un ecosistema heterogéneo en el que conviven medios tradicionales, nativos digitales, proyectos especializados y nuevas iniciativas. Sin embargo, la principal diferencia con respecto a 2014 es el protagonismo de los medios consolidados, cuya presencia antes era mínima. Mientras que en la anterior edición la innovación procedía de los márgenes de la industria, ahora **los grandes han asumido la innovación como parte de su estrategia estructural.**
 
