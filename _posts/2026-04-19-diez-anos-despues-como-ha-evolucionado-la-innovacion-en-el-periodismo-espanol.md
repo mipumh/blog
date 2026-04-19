@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: "Diez años después: cómo ha evolucionado la innovación en el periodismo
   español"
 author:
