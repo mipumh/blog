@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: Las mejores narrativas de 2025 (III)
 author:
   name: Jose A. García Avilés
