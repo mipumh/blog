@@ -24,7 +24,7 @@ Esta narrativa analiza el impacto energético de los centros de datos de IA a tr
 
 Este mapa interactivo documenta las fosas de la Guerra Civil y el franquismo, integrando la memoria histórica con los datos geolocalizados. El trabajo posee una alta carga emocional y capacidad de personalización, mediante las búsquedas por nombres o lugares. Destacan el uso de archivos, de testimonios y múltiples formatos (vídeo, audio, fotos…). Es innovador al combinar una base de datos histórica con una narrativa humanizada, permitiendo explorar la memoria colectiva. Elaborado con el apoyo del archivo de RTVE, los centros territoriales y las asociaciones, familiares e instituciones. 
 
-**[Proyecto «Esclavizadores»: 33 autoridades brasileñas tienen antepasados vinculados a la esclavitud](<C:\Users\jagar\Documents\2026 narrativas\publica.org\2024\11\projeto-escravizadores-33-autoridades-brasileiras-tem-antepassados-ligados-a-escravidao\>)  Agencia Pública**
+**[Proyecto «Esclavizadores»: 33 autoridades brasileñas tienen antepasados vinculados a la esclavitud](https://apublica.org/especial/projeto-escravizadores-investigacoes-sobre-escravidao-no-brasil/) Agencia Pública**
 
 ![]({{site.baseurl}}/images/001/esclavizadores-agencia-publica.jpg)
 
