@@ -9,16 +9,19 @@ En esta última entrega de las mejores narrativas de 2025, [tras las tres anteri
 ![]({{site.baseurl}}/images/001/ai-data-bloomberg.jpg)
 
 **[AI Data Centers Are Sending Power Bills Soaring](https://www.bloomberg.com/graphics/2025-ai-data-centers-electricity-prices)   Bloomberg**
+
 Esta narrativa analiza el impacto energético de los centros de datos de IA a través del análisis comparativo de precios eléctricos, mostrando cómo su proliferación encarece la electricidad en determinadas zonas. Un equipo de Bloomberg hizo un seguimiento de los precios mayoristas de la electricidad para comprender el impacto de la proliferación de centros de datos de IA, comparando los precios de 2020 con los de 2025. En zonas cercanas a los centros de datos, los precios mayoristas de la electricidad aumentaron hasta un 267 % en un mes. La pieza conecta un asunto tecnológico abstracto con consecuencias directas y medibles en la vida cotidiana. Destaca el uso de datos longitudinales, el enfoque territorial y el contexto prospectivo. Elaborado por Josh Saul, Demetrios Pogkas, Dina Bass y Naureen Malik, con fotografía de Leonardo Nicoletti.
 
 ![]({{site.baseurl}}/images/001/the-guardian-game.jpg)
 
 **[Could you do better than Reeves as chancellor?](https://www.theguardian.com/politics/ng-interactive/2025/nov/20/you-be-the-chancellor-play-our-interactive-budget-game)  The Guardian**
+
 ¿Podrías mantener la calma en los mercados y contentar a sus parlamentarios mientras accionas las palancas económicas para aprobar un presupuesto? En esta narrativa interactiva en forma de simulador, el usuario toma decisiones presupuestarias como si fuera la ministra de Hacienda en Reino Unido. La narrativa convierte un tema complejo, la política fiscal, en una experiencia participativa con consecuencias inmediatas. Sus elementos clave son la gamificación, los indicadores dinámicos (déficit, mercados, cotizaciones…) y la tensión entre las variables. Traslada la toma de decisiones económicas a un formato jugable y educativo. Así, el usuario comprueba su capacidad para diseñar un presupuesto exitoso. ¿Podrás mantener contentos a los diputados de base sin desestabilizar los mercados de bonos? ¿Y podrás mantener las cuentas equilibradas?
 
 ![]({{site.baseurl}}/images/001/el-pais-de-las-mil-fosas-rtve.png)
 
 **[El país de las 6.000 fosas](https://www.rtve.es/noticias/fosas-guerra-civil-franquismo/) RTVE.es** 
+
 Este mapa interactivo documenta las fosas de la Guerra Civil y el franquismo, integrando la memoria histórica con los datos geolocalizados. El trabajo posee una alta carga emocional y capacidad de personalización, mediante las búsquedas por nombres o lugares. Destacan el uso de archivos, de testimonios y múltiples formatos (vídeo, audio, fotos…). Es innovador al combinar una base de datos histórica con una narrativa humanizada, permitiendo explorar la memoria colectiva. Elaborado con el apoyo del archivo de RTVE, los centros territoriales y las asociaciones, familiares e instituciones. 
 
 **[Proyecto «Esclavizadores»: 33 autoridades brasileñas tienen antepasados vinculados a la esclavitud](<C:\Users\jagar\Documents\2026 narrativas\publica.org\2024\11\projeto-escravizadores-33-autoridades-brasileiras-tem-antepassados-ligados-a-escravidao\>)  Agencia Pública**
