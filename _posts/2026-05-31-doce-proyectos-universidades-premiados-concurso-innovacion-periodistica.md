@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: Doce proyectos de siete universidades españolas, premiados en el concurso
   “Diseña tu proyecto de innovación periodística” del MIP
 author:
