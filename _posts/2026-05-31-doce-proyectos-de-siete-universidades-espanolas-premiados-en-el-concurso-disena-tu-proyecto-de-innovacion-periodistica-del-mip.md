@@ -6,6 +6,8 @@ title: Doce proyectos de siete universidades españolas, premiados en el concurs
 author:
   name: Cristian R. Marín
 ---
+![]({{site.baseurl}}/images/001/disena-tu-proyecto-de-innovacion-periodistica-1-.jpg)
+
 El concurso “Diseña tu proyecto de innovación periodística”, impulsado por el Máster en Innovación en Periodismo (MIP) de la Universidad Miguel Hernández de Elche, ha premiado doce propuestas de estudiantes de grado matriculados en siete universidades españolas. El jurado, formado por los profesores José Alberto García Avilés, Alba García Ortega y Cristian Ramón Marín Sanchiz, ha evaluado la calidad, la viabilidad y el grado de innovación de iniciativas que abarcan temáticas tan diferentes como el periodismo humano de proximidad y la divulgación en salud a través de podcasts, comunidades en Instagram y WhatsApp e incluso formatos en papel. El acta del jurado puede consultarse aquí. 
 
 Los proyectos ganadores reflejan el amplio espectro de problemas que los futuros periodistas identifican en el ecosistema mediático actual, además de evidenciar su capacidad para dar respuesta a las necesidades informativas de las nuevas audiencias. Cada uno recibirá un diploma acreditativo y un ejemplar de *Águilas y colibríes. Periodistas innovadores en Europa* (José Alberto García Avilés, Editorial Playhacks).
@@ -35,9 +37,7 @@ Estos son los proyectos galardonados, ordenados por orden alfabético:
 
 ![]({{site.baseurl}}/images/001/marti_diaz_final.jpg)
 
-
 **Hotel Spin Gahr** es un podcast de 30 minutos en el que reporteros y fotoperiodistas relatan en primera persona los conflictos internacionales y realidades que cubrieron sobre el terreno, con el tiempo y el espacio que la inmediatez mediática habitualmente les niega. El proyecto, de la Universitat Autònoma de Barcelona, es también un homenaje a quienes arriesgan su integridad al informar: su nombre hace referencia al último hotel donde se alojó Julio Fuentes, corresponsal de El Mundo asesinado en Afganistán en 2001.
-
 
 ![]({{site.baseurl}}/images/001/daniel_prado_final-1-.jpg)
 
@@ -56,7 +56,6 @@ Estos son los proyectos galardonados, ordenados por orden alfabético:
 **No Ser Espectador** es un pódcast grabado en los estudios de radio de la Universidad Miguel Hernández que dedica cada episodio a una profesión diferente, dando protagonismo a personas anónimas expertas en su oficio en lugar de a famosos. Con más de veinte episodios publicados en pocos meses en Spotify e iVoox, el proyecto combina la entrevista de fondo con una sección de actualidad desenfadada y un cierre reflexivo sobre la importancia social de la profesión o el oficio que se aborda.
 
 ![]({{site.baseurl}}/images/001/vania_sampedro_final.jpg)
-
 
 **PERSONICAS**  es un medio nacido en Instagram que publica cada día el retrato periodístico de un ciudadano corriente de Navarra, combinando fotoperiodismo con textos de 400 palabras escritos con estilo literario. El proyecto, impulsado por doce estudiantes de la Universidad de Navarra como trabajo de fin de grado, nace para combatir el doomscrolling y la soledad no deseada ofreciendo periodismo humano de proximidad; en su piloto de mes y medio publicó cien historias, superó los 1.200 seguidores y acumuló más de medio millón de visualizaciones.
 
