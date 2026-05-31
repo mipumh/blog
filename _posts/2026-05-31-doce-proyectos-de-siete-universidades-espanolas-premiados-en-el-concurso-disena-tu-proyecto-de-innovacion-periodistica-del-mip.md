@@ -29,7 +29,7 @@ Estos son los proyectos galardonados, ordenados por orden alfabético:
 
 ![]({{site.baseurl}}/images/001/itziar_orgaz_final.jpg)
 
-**El Fútbol Desde la Grada** es un podcast que cede el protagonismo a los aficionados del fútbol modesto de Castilla-La Mancha, con episodios dedicados a peñas, gradas de animación e historias del denominado "fútbol de barro". El proyecto, de la Universidad de Castilla-La Mancha, parte de una doble carencia detectada en los medios deportivos: la escasa atención a las categorías inferiores y el tratamiento casi siempre negativo de las aficiones, y propone revertirlo mostrando el sentimiento de comunidad y las historias humanas que nacen en los campos.
+**El Fútbol desde la Grada** es un podcast que cede el protagonismo a los aficionados del fútbol modesto de Castilla-La Mancha, con episodios dedicados a peñas, gradas de animación e historias del denominado "fútbol de barro". El proyecto, de la Universidad de Castilla-La Mancha, parte de una doble carencia detectada en los medios deportivos: la escasa atención a las categorías inferiores y el tratamiento casi siempre negativo de las aficiones, y propone revertirlo mostrando el sentimiento de comunidad y las historias humanas que nacen en los campos.
 
 ![]({{site.baseurl}}/images/001/sheyla_garrido_final.jpg)
 
@@ -59,6 +59,6 @@ Estos son los proyectos galardonados, ordenados por orden alfabético:
 
 **PERSONICAS**  es un medio nacido en Instagram que publica cada día el retrato periodístico de un ciudadano corriente de Navarra, combinando fotoperiodismo con textos de 400 palabras escritos con estilo literario. El proyecto, impulsado por doce estudiantes de la Universidad de Navarra como trabajo de fin de grado, nace para combatir el doomscrolling y la soledad no deseada ofreciendo periodismo humano de proximidad; en su piloto de mes y medio publicó cien historias, superó los 1.200 seguidores y acumuló más de medio millón de visualizaciones.
 
-![]()
+![]({{site.baseurl}}/images/001/pablo_uranga_final.jpg)
 
 **Sala de Máquinas** es un proyecto de periodismo de datos y servicio centrado en el coste de la vida en Bizkaia que recopila, ordena y explica con mapas interactivos y simuladores sencillos los precios del alquiler por barrio, las comparativas de supermercados y las opciones de transporte público. El proyecto, de la Universidad del País Vasco, se apoya en Open Data Bizkaia como fuente de referencia y traduce datos económicos dispersos en respuestas concretas a preguntas cotidianas de los jóvenes: dónde vivir, dónde comprar y cómo moverse sin destinar medio sueldo al trayecto.
