@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: "Andy Kaltenbrunner, director de un estudio sobre cómo financiar los
   medios: “El mercado debe convencer a la audiencia de por qué debería pagar por
   el periodismo. Y el sector público puede apoyar este esfuerzo”"
@@ -9,7 +8,7 @@ author:
 ---
 [Andy Kaltenbrunner](https://www.fjum-wien.at/menschen/andy-kaltenbrunner) es periodista y consultor de medios austriaco. Ha sido profesor en academias y universidades de Viena, Alemania e institutos de EE.UU. y dirigió el equipo de la Universidad de Ciencias Aplicadas de Periodismo y Administración de Medios en Viena hasta 2003. En 2005 fundó, junto a un grupo de profesionales, la consultora [Medienhaus Wien](https://www.mhw.at/). Desde 2016, dirige el proyecto de investigación “Periodismo en transición” de la Academia de Ciencias de Austria. Es Premio Estatal de Periodismo de Educación y Premio de Periodismo del Ministerio de Asuntos Familiares de Austria, y colaborador de la Universidad Miguel Hernández. Andy Kaltenbrunner ha dirigido el equipo de expertos austriacos e internacionales que ha elaborado el informe ["La financiación del periodismo en Austria: opciones para reformar la financiación de los medios"](https://www.mhw.at/aktuell-1.html). El 16 de abril de 2026 presentó este importante informe estratégico que propone cómo reestructurar la financiación de los medios de comunicación austriacos, con una propuesta independiente de financiación del periodismo. El resumen ejecutivo del informe en inglés [puede descargarse aquí](https://www.mhw.at/uploads/1/4/5/2/145228725/executive_summary_english_journalism_funding_in_austria.pdf). 
 
-![]({{site.baseurl}}/images/001/kaltenbrunner-fotocredit-cmc-oaw.jpg)
+![]({{site.baseurl}}/images/001/andy_kalte_3.jpg)
 
 **P. Usted propone pasar de "financiar a los medios" a "financiar el periodismo como infraestructura democrática". ¿Cómo se define el "periodismo de beneficio público" en términos prácticos?**
 
@@ -44,7 +43,7 @@ Creemos que este “oscuro” dinero publicitario del gobierno debería redirigi
 R. Nuestro análisis reveló una resistencia a la innovación en muchos medios tradicionales. Esto se ve agravado por los actuales sistemas de financiación: por ejemplo, cuando el dinero se gasta en tapar las brechas cada vez mayores en la producción impresa o en formatos anticuados, para los mayores de 65 años.
 Al mismo tiempo, también hay ideas inteligentes en las organizaciones de medios; en lo relativo a la creación de comunidades digitales, colaboraciones en el periodismo de investigación o el desarrollo de estrategias de IA. En Austria, esas buenas ideas y prototipos no tienen ninguna posibilidad de recibir financiación según los programas vigentes. La preferencia por subsidiar cadenas de valor obsoletas también distorsiona la competencia y hace que las empresas emergentes lo tengan el doble de difícil. Estas escasean sobre todo en el periodismo local, pero también en las corresponsalías en el extranjero. También hay un rápido declive en el periodismo científico. El escepticismo generalizado hacia la ciencia que medimos en las encuestas nacionales sin duda está vinculado a esto. Y hay excelentes redes de periodistas autónomos que apenas pueden ganarse la vida con su trabajo. Esta situación se debe contrarrestar.
 
-![]({{site.baseurl}}/images/001/kaltenbrunner-abschluss-join-demos-an-oaw-c-godany.jpg)
+![]({{site.baseurl}}/images/001/andy_kalte_1.jpg)
 
 **P. El informe sugiere dedicar 20 millones de euros para promover modelos de suscripción. ¿Debería el Estado "empujar" al público a pagar por las noticias, o debería el mercado resolver esto por sí mismo?**
 
@@ -59,7 +58,7 @@ R. Austria es uno de esos países. Grandes editoriales alemanas han tenido ampli
 R. El modelo es claro en este punto. Contratar a periodistas con contratos adecuados es un requisito previo para la financiación. Esto se puede verificar legalmente a través de convenios colectivos e informes de personal. Como estándar mínimo, se aplica la Ley de Periodistas de Austria, que tiene un siglo de antigüedad, al personal de todos los medios: históricamente sentó las bases de cómo debe garantizarse la independencia y salvaguardarse el secreto editorial.
 La financiación se concede en función del número verificado de periodistas que cumplen con estos criterios. Las nuevas normas también ayudarán a cientos de periodistas autónomos, que a menudo trabajan en condiciones muy precarias, a lograr una mayor seguridad laboral y unos niveles mínimos de ingresos. Nuestro modelo aumenta enormemente las posibilidades de crear más puestos permanentes tanto en los medios tradicionales como en los nuevos medios.
 
-![]({{site.baseurl}}/images/001/c-schedl_o-aw-andy-kaltenbrunner-oaw-lecture2024.jpg)
+![]({{site.baseurl}}/images/001/andy_kalte_2.jpg)
 
 **P. Ustedes evaluaron casos como los de Noruega, Dinamarca y Canadá. ¿Qué podrían aprender España o los países latinoamericanos de este modelo?**
 
