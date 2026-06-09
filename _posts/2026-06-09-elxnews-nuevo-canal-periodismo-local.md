@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Elxnews: un nuevo canal de periodismo local que entiende cómo quiere
   informarse la ciudadanía"
 author:
@@ -12,7 +13,7 @@ Lo que a primera vista podría parecer simplemente una newsletter cualquiera rep
 
 Desde su lanzamiento el 20 de abril de 2026, Elxnews ha comenzado a consolidar una comunidad de lectores que reciben información local de lunes a viernes directamente en WhatsApp. En apenas unas semanas, el proyecto ya cuenta con más de 2.000 suscriptores, cifra significativa para un producto hiperlocal de reciente creación. Lo más importante es la relación que está construyendo con su audiencia: una conversación abierta, directa y bidireccional.
 
-**Elche como laboratorio de innovación periodística**
+### **Elche como laboratorio de innovación periodística**
 
 La elección de Elche no fue casual. Según explica Juan Andrés Muñoz, el equipo buscaba una localidad concreta: “Hemos escogido Elche porque reúne tres factores que buscamos en cada ciudad: una identidad local muy fuerte, un ecosistema cultural y económico dinámico y una comunidad acostumbrada a informarse por canales digitales y móviles”, señala [en una entrevista concedida al periodista Ismael Nafría](https://tendencias.substack.com/p/tendencis-151-revive-el-festival).
 
@@ -20,7 +21,7 @@ Elche ofrece un entorno para experimentar con nuevas fórmulas de comunicación 
 
 Según Muñoz, el lanzamiento de Elxnews supone una forma de devolver a la ciudad la confianza depositada en el proyecto, que conecta con la filosofía del medio: el periodismo entendido como servicio público para fortalecer la comunidad.
 
-**El gran cambio: informar donde ya está la gente**
+### **El gran cambio: informar donde ya está la gente**
 
 Uno de los grandes aciertos de Elxnews es comprender algo fundamental: las rutinas de consumo de información han cambiado radicalmente. Durante años, numerosos medios intentaron atraer a los usuarios hacia sus propias plataformas. Sin embargo, la estrategia de Elxnews es justo la contraria: llevar la información al espacio donde la ciudadanía ya pasa buena parte de su tiempo, un canal como WhatsApp.
 
@@ -30,7 +31,7 @@ Ese enfoque conecta de manera directa con una transformación mucho más amplia 
 
 ![]({{site.baseurl}}/images/001/whatsapp-image-2026-06-09-at-09.26.10.jpeg)
 
-**Periodismo que ayuda a vivir la ciudad**
+### **Periodismo que ayuda a vivir la ciudad**
 
 Quizá la principal innovación de Elxnews no esté en la tecnología, sino en su manera de entender el periodismo. Mientras gran parte del ecosistema mediático gira alrededor de la rapidez, la polarización o la acumulación constante de contenidos, Elxnews apuesta por algo más simple y, al mismo tiempo, más difícil: ser útil. “Nuestra prioridad no es publicar mucho, sino resolver los problemas cotidianos”, resume Muñoz. Este planteamiento impulsa completamente la lógica editorial.
 
@@ -42,7 +43,7 @@ Uno de los aspectos más innovadores del modelo impulsado por Juan Andrés Muño
 
 En un entorno digital dominado muchas veces por algoritmos impersonales y dinámicas masivas, la cercanía se convierte en un valor diferencial. **El lector deja de sentirse un número dentro de una métrica y se convierte en alguien reconocido y escuchado.** Ese vínculo genera además un círculo virtuoso: cuanto más participa la comunidad, más relevante resulta la información; y cuanto más útil es el contenido, mayor es el compromiso de los lectores.
 
-**Un modelo ágil, innovador y sostenible**
+### **Un modelo ágil, innovador y sostenible**
 
 Otra de las claves del proyecto reside en su estructura. Frente a los modelos tradicionales con altos costes operativos, Elxnews funciona con un equipo compacto. El núcleo del proyecto está formado por solo tres personas, organizadas en tres áreas fundamentales: editorial, tecnológica y dirección de arte.
 
@@ -54,7 +55,7 @@ Todo ello demuestra que la innovación periodística no depende de inversiones m
 
 ![]({{site.baseurl}}/images/001/juan-andres-munoz.jpg)
 
-**La expansión de un modelo con vocación de servicio público**
+### **La expansión de un modelo con vocación de servicio público**
 
 Elxnews forma parte de una red de ediciones locales que comenzó con Pamplonews y que hoy ya está presente en Pamplona, Bilbao, Logroño, Tudela y Elche. Cada ciudad mantiene su propia identidad, pero todas comparten una misma metodología, lógica editorial y visión del periodismo de proximidad.
 
@@ -70,7 +71,7 @@ Esa intención se percibe en la selección de temas, el tono cercano, la escucha
 
 En un escenario donde muchos medios luchan contra la desconfianza, la saturación y la pérdida de relevancia, proyectos como Elxnews señalan un camino basado en la cercanía, en la utilidad y en la convicción de que **el periodismo puede desempeñar un papel fundamental en la vida diaria de las personas.**
 
-**Un posible anticipo del futuro**
+### **Un posible anticipo del futuro**
 
 Lo que hoy ocurre en Elche podría ser también un anticipo de hacia dónde evolucionará parte del ecosistema mediático en los próximos años. La fragmentación de audiencias, el cansancio informativo, la IA y el cambio de hábitos digitales están obligando a los medios a replantear su manera de conectar con el público. En ese escenario, los proyectos capaces de generar confianza, cercanía y utilidad tendrán una ventaja enorme.
 
