@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: "Daniele Grasso, periodista de datos en El País: «La IA aplicada a la
   programación me ha dado superpoderes. Bien utilizada, sirve para hacer mejor
   periodismo»"
