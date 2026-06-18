@@ -6,9 +6,10 @@ title: "Daniele Grasso, periodista de datos en El País: «La IA aplicada a la
 author:
   name: Félix Arias
 ---
-![]({{site.baseurl}}/images/001/imagen1.png)
-
 Daniele Grasso (Milán, 1987) lleva más de una década en la intersección entre investigación, datos y tecnología. En EL PAÍS, coordina la sección de Narrativas Visuales y Datos, liderada por [Kiko Llaneras](https://elpais.com/autor/francisco-llaneras-estrada/). Ahí ha explotado grandes volúmenes de información para explicar conflictos, claves económicas, movimientos poblacionales o avances tecnológicos. Miembro del Consorcio Internacional de Periodistas de Investigación (ICIJ), ha participado en investigaciones internacionales como los Panama Papers, Pandora Papers, Uber Files o Implant Files. 
+
+![]({{site.baseurl}}/images/001/imagen1.png)
+<sup> Imagen retocada con IA a partir de fotografía original
 
 Conversamos ya con él en esta revista [sobre innovación](https://mip.umh.es/blog/2017/03/12/daniele-grasso-periodismo-datos-el-confidencial/) y [la importancia de los datos para la credibilidad](https://mip.umh.es/blog/2018/05/02/daniele-grasso-periodismo-datos-el-confidencial/) cuando todavía era coordinador de la unidad de datos de El Confidencial. Ahora, mientras piensa en los nuevos contenidos para nuestro máster, analiza la aplicación de la Inteligencia Artificial (IA) generativa a la programación de código informático. Porque concibe esta tecnología no como atajo para publicar más, sino como una forma de explorar bases de datos, prototipar visualizaciones, extraer información y revisar errores. Considera que la programación asistida, bien desde el denominado *vibe coding* (con más supervisión del código) o IA agéntica (más automatizada), le ha abierto nuevas posibilidades. Es consciente de los límites que exige su uso, pero sobre todo está convencido de que bien empleada, esta tecnología puede ayudar a hacer mejor periodismo sin sustituir la parte más importante: el pensamiento crítico.
 
@@ -81,6 +82,7 @@ Esto conecta también con el concepto del *AI slop* (basura generada con IA). Ah
 **R.** Saber escribir el prompt creo que ya no es la clave. Hubo mucho *hype* al principio con eso, pero hoy en día la IA te entiende perfectamente si aprendes a razonar con ella. Para proyectos grandes, la clave es saber ordenar bien un proyecto y tener la capacidad de decidir hasta dónde dejas trabajar a la IA sola y en qué punto intervienes tú. Es fundamental tener muy clara la infraestructura del proyecto. Ahí es donde aportamos más valor. También es vital saber qué preguntarle y determinar cuándo te puedes fiar del resultado y cuándo no. Esa capacidad de análisis me parece un valor tremendo y es el mismo criterio que aplicaba antes a las bases de datos. El punto de partida es el mismo, solo que ahora tengo en medio este superpoder que me lo hace todo mucho más rápido.
 
 ![]({{site.baseurl}}/images/001/chatgpt-image-17-jun-2026-21_15_18.png)
+<sup> Imagen retocada con IA a partir de fotografía original
 
 **P. Entonces, ¿consideras que tener conocimientos previos de programación no es un requisito indispensable?**
 
