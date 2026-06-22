@@ -24,6 +24,8 @@ Mientras gran parte de los medios digitales compiten por la viralidad emocional 
 
 **Konbini: cultura digital y conexión con las nuevas generaciones**
 
+![]({{site.baseurl}}/images/001/konbini.jpg)
+
 [Konbini](https://www.konbini.com/) se ha consolidado como uno de los medios digitales más influyentes entre los jóvenes en Francia. David Creuzot y Lucie Beudet, sus directores fundadores, entienden que las nuevas audiencias no consumen información de la misma manera que las generaciones anteriores. Ofrecen un espacio híbrido entre periodismo, cultura pop, entretenimiento y conversación social, utilizando las plataformas digitales como entorno principal de interacción.
 El contenido combina entrevistas audiovisuales, reportajes breves, cobertura cultural y piezas centradas en tendencias sociales contemporáneas. La estética visual, el lenguaje cercano y la producción adaptada a redes sociales constituyen elementos esenciales de su identidad. El medio ha logrado conectar especialmente con públicos de entre 15 y 35 años gracias a un enfoque editorial que evita la rigidez de los formatos periodísticos tradicionales y apuesta por narrativas dinámicas, emocionales y visualmente atractivas. Sus directivos han decidido reducir la cantidad de contenido; “actualmente producimos un 30 % menos que el año pasado. Nuestro objetivo es conseguir más visualizaciones por vídeo, así que nos centramos en la calidad. Creo que la fuerza de Konbini reside en reflejar la diversidad de la sociedad. No se trata solo de un pequeño segmento de jóvenes”, afirma David Creuzot.
 
@@ -35,6 +37,8 @@ Su éxito se explica por la capacidad para interpretar los códigos de internet 
 
 **Le Crayon: el debate como formato periodístico contemporáneo**
 
+![]({{site.baseurl}}/images/001/le-crayon.jpg)
+
 En un contexto caracterizado por la polarización ideológica y las discusiones fragmentadas en redes sociales, este medio apuesta por conversaciones extensas entre personas con posiciones distintas sobre temas políticos, culturales y sociales. Su propósito es recuperar el valor del intercambio argumentativo y revitalizar el debate público. Fundado por un emprendedor de 26 años, Wallerand Moullé-Berteaux, ha logrado una comunidad de más de un millón de seguidores en diversas plataformas digitales.
 
 
@@ -44,6 +48,8 @@ En un contexto caracterizado por la polarización ideológica y las discusiones 
 Le Crayon ha logrado convertir el desacuerdo en un recurso periodístico constructivo. Su éxito radica en responder a una necesidad contemporánea: comprender opiniones diferentes sin reducir el debate público a consignas simplificadas. Sus profesionales ejercen un periodismo moderado, capaz de contextualizar discusiones y promover la pluralidad de voces.
 
 **Les Jours: periodismo narrativo y profundidad investigativa**
+
+![]({{site.baseurl}}/images/001/les-jours.png)
 
 [Les Jours](https://lesjours.fr/) se diferencia por desarrollar historias complejas a través de series periodísticas publicadas en capítulos, una metodología que permite profundizar en asuntos políticos, económicos y sociales mediante la continuidad narrativa y el periodismo de largo formato. Fundado en 2016 por antiguos empleados de Libération, este medio digital celebra su décimo aniversario. Su redactor jefe y cofundador, Raphaël Garrigos, afirma ofrecer un "periodismo a medida" que "profundiza con gran seriedad" en los temas que trata.
 
@@ -55,6 +61,8 @@ La innovación de Les Jours reside en adaptar el periodismo de largo aliento al 
 
 **CIPER: investigación independiente y fiscalización del poder**
 
+![]({{site.baseurl}}/images/001/ciper-chile-.jpg)
+
 [CIPER ](https://www.ciperchile.cl/)(Centro de Investigación Periodística) es una fundación independiente y sin fines de lucro en Chile, reconocida por sus reportajes de investigación profunda sobre corrupción, poder y delincuencia. Es uno de los medios más creíbles y respetados del país y uno de los referentes del periodismo de investigación en América Latina. Su propósito principal es fiscalizar el poder político, económico y empresarial mediante investigaciones rigurosas. En un contexto regional donde la concentración mediática y las presiones políticas afectan la libertad informativa, CIPER ha construido una reputación basada en la credibilidad y la independencia.
 
 
@@ -65,6 +73,8 @@ CIPER demuestra que el periodismo investigativo puede sostenerse mediante el apo
 
 **Minuto 60: inmediatez y proximidad informativa**
 
+![]({{site.baseurl}}/images/001/minuto-60-colombia.jpg)
+
 [Minuto 60](https://www.minuto60.com/) apuesta por el periodismo digital enfocado en la actualidad inmediata y la conexión con comunidades locales en Colombia. El proyecto, liderado por el periodista Fernando Rojas, surgió en agosto de 2025 como respuesta a los cambios en el consumo de información. Su propósito consiste en ofrecer información rápida y accesible sobre hechos de interés ciudadano, utilizando plataformas digitales para mantener comunicación constante con las audiencias.
 
 
@@ -74,6 +84,8 @@ El medio incluye noticias de actualidad, información regional, cobertura polít
 La innovación de Minuto 60 radica en combinar la inmediatez con cercanía territorial, mediante la capacidad para construir relaciones directas con comunidades que buscan información útil y rápida sobre su entorno cotidiano. Se trata de un periodismo de proximidad donde la interacción constante con usuarios es fundamental para mantener relevancia en el ecosistema digital.
 
 **La Voz de Guanacaste: periodismo comunitario y participación ciudadana**
+
+![]({{site.baseurl}}/images/001/la-voz-de-guanacaste.jpg)
 
 [La Voz de Guanacaste](https://vozdeguanacaste.com/) es un ejemplo sobresaliente de periodismo comunitario. Este medio costarricense fue fundado en 2002 con el propósito informar a las comunidades locales, centrado en las necesidades ciudadanas y los problemas territoriales. Su trabajo demuestra que la innovación periodística también puede surgir desde lo local. La pandemia supuso un fuerte golpe económico para La Voz de Guanacaste. Debido a la falta de ingresos, el medio dejó de imprimir y se volvió 100% digital. Tuvieron que cerrar su redacción, como una forma de ahorrar dinero y mantener a casi todo el equipo. Salir de la redacción fue “un bajón emocional fuerte”, como asegura María Fernanda Cruz, jefa de redacción. “Nuestra cercanía era muy importante y muchas de nuestras actividades giraban en torno a estar en la oficina”. La solución fue crear un espacio online donde pudieran mantenerse unidos.
 
