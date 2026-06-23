@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: Siete medios que apuestan por un periodismo híbrido, multiplataforma y
   participativo donde prima la calidad
 author:
