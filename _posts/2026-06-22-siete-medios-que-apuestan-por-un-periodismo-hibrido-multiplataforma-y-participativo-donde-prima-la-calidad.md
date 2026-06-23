@@ -18,7 +18,6 @@ En los últimos años han surgido medios nativos digitales capaces de conectar c
 
 El contenido se caracteriza por videos breves, análisis explicativos y piezas sobre política nacional, economía y actualidad internacional mediante formatos audiovisuales accesibles para usuarios jóvenes acostumbrados al consumo rápido de información. Además, el medio incorpora mecanismos de transparencia editorial para explicar cómo se construyen las noticias y qué criterios se utilizan para seleccionar fuentes y enfoques. En su web explican: “Exponemos sin miedo las crudas verdades sobre las noticias que más te importan. Sin manipulación. Sin sesgos. Sin intereses ocultos. Cada vez es más difícil distinguir la realidad de la ficción, y la desconfianza hacia los medios de comunicación ha alcanzado su máximo histórico. Nuestra misión es proporcionarte la información necesaria”. Su director de contenido, Derek Mead, afirma que dedican “muchísimo tiempo a analizarlo todo, desde cómo redactamos los titulares hasta cómo escribimos las noticias y cuáles son nuestras fuentes”. 
 
-
 Mientras gran parte de los medios digitales compiten por la viralidad emocional y la segmentación ideológica, Straight Arrow News se diferencia a través del equilibrio y la ecuanimidad. Los periodistas elaboran un periodismo basado en la contextualización, la claridad expositiva y el contraste sistemático de fuentes, priorizando la confianza como principal activo.
 
 **Konbini: cultura digital y conexión con las nuevas generaciones**
