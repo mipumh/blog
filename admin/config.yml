@@ -5,7 +5,7 @@ backend:
 publish_mode: editorial_workflow
 
 media_folder: "images/001"
-public_folder: "{{site.baseurl}}/images/001"
+public_folder: "/blog/images/001"
 
 locale: "es"
 
