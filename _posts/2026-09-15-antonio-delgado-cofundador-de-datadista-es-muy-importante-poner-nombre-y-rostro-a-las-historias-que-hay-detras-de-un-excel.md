@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: "Antonio Delgado, cofundador de DATADISTA: “Es muy importante poner
   nombre y rostro a las historias que hay detrás de un Excel”"
 author:
