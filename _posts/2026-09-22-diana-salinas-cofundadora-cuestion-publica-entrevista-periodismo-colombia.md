@@ -9,7 +9,7 @@ Diana Salinas (Cali, 1979) es cofundadora y directora de [Cuestión Pública](ht
 ![]({{site.baseurl}}/images/001/diana-salinas-retrato.jpeg)
 <sup>Diana Salinas, cofundadora y directora de Cuestión Pública.
 
-**P.** Junto a Claudia Báez y David Tarazona[^1], fundó Cuestión Pública con la idea de “deconstruir la misma idea” del periodismo. ¿Lo han logrado?
+**P.** Junto a Claudia Báez y David Tarazona[^1], fundó Cuestión Pública para “deconstruir la misma idea” del periodismo. ¿Lo han logrado?
 
 **R.** Creamos Cuestión Pública porque veíamos que los medios tradicionales no llegaban a lo más profundo en la investigación y no señalaban quién hizo qué en cada caso. En Colombia el 80% de esos medios está cooptado por banqueros, y eso hace que muchas investigaciones no tengan los dientes que deben tener. Por eso, lo primero que planteamos fue realizar una investigación libre de intereses, retomando la línea estadounidense del *follow the money*: quiénes son los socios del político, con quién ha hecho contratos bajo cuerda, qué dinero tiene y si se justifica. Eso, en 2018, cambió completamente la manera en que se veía en Colombia el periodismo de investigación. Y lo hicimos con método. En los medios tradicionales se llega de la universidad y se empieza con formatos, con la pirámide invertida, pero no había método. Yo nunca lo encontré, ni en La Nación, que fue mi primer y gran trabajo, ni en El Tiempo.
 
