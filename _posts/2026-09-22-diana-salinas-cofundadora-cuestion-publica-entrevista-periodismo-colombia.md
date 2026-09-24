@@ -9,7 +9,7 @@ Diana Salinas (Cali, 1979) es cofundadora y directora de [Cuestión Pública](ht
 ![]({{site.baseurl}}/images/001/diana-salinas-retrato.jpeg)
 <sup>Diana Salinas, cofundadora y directora de Cuestión Pública.
 
-**P.** Junto a Claudia Báez y David Tarazona[^1], fundó Cuestión Pública para “deconstruir la misma idea” del periodismo. ¿Lo han logrado?
+**P.** Junto a Claudia Báez y David Tarazona[^1], fundó Cuestión Pública para “deconstruir la misma idea” del periodismo. ¿Lo habéis logrado?
 
 **R.** Creamos Cuestión Pública porque veíamos que los medios tradicionales no llegaban a lo más profundo en la investigación y no señalaban quién hizo qué en cada caso. En Colombia el 80% de esos medios está cooptado por banqueros, y eso hace que muchas investigaciones no tengan los dientes que deben tener. Por eso, lo primero que planteamos fue realizar una investigación libre de intereses, retomando la línea estadounidense del *follow the money*: quiénes son los socios del político, con quién ha hecho contratos bajo cuerda, qué dinero tiene y si se justifica. Eso, en 2018, cambió completamente la manera en que se veía en Colombia el periodismo de investigación. Y lo hicimos con método. En los medios tradicionales se llega de la universidad y se empieza con formatos, con la pirámide invertida, pero no había método. Yo nunca lo encontré, ni en La Nación, que fue mi primer y gran trabajo, ni en El Tiempo.
 
@@ -53,7 +53,7 @@ Después hicimos dos o tres cosas que desde dentro se ven aburridas, pero que no
 ![]({{site.baseurl}}/images/001/cuestion-publica-equipo-gabo-2026.jpeg)
 <sup>El equipo de Cuestión Pública en el Festival Gabo 2026.
 
-**P.** Ahora parece que innovar es integrar la IA hasta el tuétano. ¿Qué parte de vuestro trabajo no dejarían nunca a la inteligencia artificial?
+**P.** Ahora parece que innovar es integrar la IA hasta el tuétano. ¿Qué parte de vuestro trabajo no dejaríais nunca a la inteligencia artificial?
 
 **R.** Hay datos y archivos que tenemos con candado. La inteligencia artificial es espectacular como herramienta de diseño y de edición. El periodista tiene que pasar su nota punto en blanco al editor y, si es una nota de actualidad, se le puede preguntar a la IA que corrija un punto, una coma, o preguntarle qué parte necesita contexto. Pero si son investigaciones grandes, no, porque no le vamos a dar a la IA la información antes de publicar. La usamos solo como herramienta interna, a través de MCP (*Model Context Protocol*), para que la información sea nuestra y no se le quede a la plataforma de IA. Así cada uno en la redacción tiene el archivo y le pregunta que arme una base de datos de nombres, cédulas, que cruce esto con aquello, y en cinco segundos genera la base de datos que un redactor hacía como una hormiga durante dos meses. O le pedimos el perfil de un político y que lo contraste con nuestras bases de datos. Cogemos esos hallazgos y hacemos la nota nosotros. Es un Ferrari. Yo les digo a los chicos: llegó la hora de montarnos en el Ferrari.
 
@@ -96,7 +96,7 @@ Después hicimos dos o tres cosas que desde dentro se ven aburridas, pero que no
 
 **R.** Por experiencia de usuario. El *scroll* de las redes lo dañó todo. Antes te tomabas el tiempo, ibas al tema por el ordenador de escritorio y allí entrabas por la puertita, como esos libros que se abren y tienes que mover cosas. Ya casi nadie lo hace.
 
-**P.** ¿Y no crees que esa innovación debería canalizarse ahora hacia el rostro, tener ahí a Diana contándolo en un *streaming*, con su voz, con su cara? Es un poco la ventana de escape ante la IA, porque la investigación propia enseguida va a ser reutilizada por cualquiera.
+**P.** ¿Y no cree que esa innovación debería canalizarse ahora hacia el rostro, tener ahí a Diana contándolo en un *streaming*, con su voz, con su cara? Es un poco la ventana de escape ante la IA, porque la investigación propia enseguida va a ser reutilizada por cualquiera.
 
 **R.** Totalmente. Son dos cambios de formato: el vídeo, el tipo *influencer* que da la noticia, y el *podcast*. Ahí es donde mutó la cosa y está dando resultados. Yo tengo una pelea personal con eso, porque me niego a ser la esclava de mi propia imagen, a tener que usufructuarla y salir con la gente todo el tiempo. Ya viví la fama en RCN, y soy medio *grinch* en eso. Ahora hago esas columnas que pueden verse en YouTube porque el equipo me dice “por favor, léelas”, y son inmediatamente los vídeos más vistos del canal. El último fue el análisis de la [declaración de renta de De la Espriella](https://cuestionpublica.com/declaraciones-de-un-cuarto-oscuro-las-dudas-sobre-patrimonio-de-de-la-espriella/){:target="_blank" rel="noopener"}, con un *engagement* tremendo. Ahí está la pregunta de si decido hacerlo, como una especie de sacrificio. Todavía lo estoy pensando. Pero sí lo ha hecho el equipo: a José Marulanda le dimos un programa propio, *Agúzate con Marulo*, de coyuntura, en directo, con invitados de primera mano. El canal de YouTube no tenía ni 5.000 seguidores porque no lo habíamos usufructuado. Hoy tiene 60.000 y ya recogemos por ahí entre 700 y 1.000 dólares al mes, que era plata que no teníamos.
 
