@@ -9,7 +9,7 @@ Diana Salinas (Cali, 1979) es cofundadora y directora de [Cuestión Pública](ht
 ![]({{site.baseurl}}/images/001/diana-salinas-retrato.jpeg)
 <sup>Diana Salinas, cofundadora y directora de Cuestión Pública.
 
-**P.** Junto a Claudia Báez y David Tarazona[^1], fundó Cuestión Pública para “deconstruir la misma idea” del periodismo. ¿Lo habéis logrado?
+**P.** Junto a Claudia Báez y David Tarazona[^1], fundó Cuestión Pública para “deconstruir la misma idea” del periodismo. ¿Lo han logrado?
 
 **R.** Creamos Cuestión Pública porque veíamos que los medios tradicionales no llegaban a lo más profundo en la investigación y no señalaban quién hizo qué en cada caso. En Colombia el 80% de esos medios está cooptado por banqueros, y eso hace que muchas investigaciones no tengan los dientes que deben tener. Por eso, lo primero que planteamos fue realizar una investigación libre de intereses, retomando la línea estadounidense del *follow the money*: quiénes son los socios del político, con quién ha hecho contratos bajo cuerda, qué dinero tiene y si se justifica. Eso, en 2018, cambió completamente la manera en que se veía en Colombia el periodismo de investigación. Y lo hicimos con método. En los medios tradicionales se llega de la universidad y se empieza con formatos, con la pirámide invertida, pero no había método. Yo nunca lo encontré, ni en La Nación, que fue mi primer y gran trabajo, ni en El Tiempo.
 
@@ -42,7 +42,7 @@ Después hicimos dos o tres cosas que desde dentro se ven aburridas, pero que no
 
 > “Desacralizar el periodismo clásico, un poco lo que hizo Andy Warhol con su lata de tomate, pero rindiéndole un altar a la investigación”
 
-**P.** ¿Cuál ha sido vuestro mayor desafío en estos ocho años?
+**P.** ¿Cuál ha sido su mayor desafío en estos ocho años?
 
 **R.** El gobierno de Petro. Fue el más fuerte, porque toda nuestra audiencia no era de izquierda, pero sí tenía ilusiones con la paz, con ser otro país. Hicimos las investigaciones que había que hacer. Y por línea editorial, y eso lo sostengo, no íbamos a tratar a Gustavo Petro como si fuera Álvaro Uribe, porque nunca había estado en el poder ni tenía tacha en términos de crímenes de Estado. Eso no significa que no hiciéramos la tarea, de hecho, nos divertimos mucho. ¿Quién dijo que en los desafíos se pasa mal el 100% del tiempo? Nosotras llegamos con todas las investigaciones necesarias: los nombramientos sin experiencia en cargos diplomáticos; dedicamos un trabajo mensual a “[el empleado del mes](https://cuestionpublica.com/empleado-del-mes4/){:target="_blank" rel="noopener"}”, en que le seguimos el tracker de nombramientos aceitados por la maquinaria política en cada uno de los ministerios y cargo a cargo; dedicamos una serie investigativa de podcast llamada [House of Nariño](https://cuestionpublica.com/house-of-narino/){:target="_blank" rel="noopener"}, en la que desnudamos las redes de poder en el mayor escándalo de corrupción de su gobierno y su implicancia. Y no menos importante: denunciamos a trabajadores públicos en su gobierno, que tenían este rol de ser súper amigos, que contaban con señalamientos por acoso sexual; así como otros casos en el Ministerio de la Igualdad. Mostramos los problemas de paz en los territorios en el balance anual; investigamos a su clan político preferido, tanto como a personajes criminales que estaban cooptando el Estado. Estoy segura de que hicimos un buen trabajo y, en un estudio de audiencia reciente, todos reconocieron que habíamos actuado como contrapoder. Eso nos tranquilizó, porque ese es nuestro papel.
 
@@ -53,11 +53,11 @@ Después hicimos dos o tres cosas que desde dentro se ven aburridas, pero que no
 ![]({{site.baseurl}}/images/001/cuestion-publica-equipo-gabo-2026.jpeg)
 <sup>El equipo de Cuestión Pública en el Festival Gabo 2026.
 
-**P.** Ahora parece que innovar es integrar la IA hasta el tuétano. ¿Qué parte de vuestro trabajo no dejaríais nunca a la inteligencia artificial?
+**P.** Ahora parece que innovar es integrar la IA hasta el tuétano. ¿Qué parte de su trabajo no dejarían nunca a la inteligencia artificial?
 
 **R.** Hay datos y archivos que tenemos con candado. La inteligencia artificial es espectacular como herramienta de diseño y de edición. El periodista tiene que pasar su nota punto en blanco al editor y, si es una nota de actualidad, se le puede preguntar a la IA que corrija un punto, una coma, o preguntarle qué parte necesita contexto. Pero si son investigaciones grandes, no, porque no le vamos a dar a la IA la información antes de publicar. La usamos solo como herramienta interna, a través de MCP (*Model Context Protocol*), para que la información sea nuestra y no se le quede a la plataforma de IA. Así cada uno en la redacción tiene el archivo y le pregunta que arme una base de datos de nombres, cédulas, que cruce esto con aquello, y en cinco segundos genera la base de datos que un redactor hacía como una hormiga durante dos meses. O le pedimos el perfil de un político y que lo contraste con nuestras bases de datos. Cogemos esos hallazgos y hacemos la nota nosotros. Es un Ferrari. Yo les digo a los chicos: llegó la hora de montarnos en el Ferrari.
 
-**P.** Es como si os hubierais anticipado. Con ese archivo sistematizado habéis creado el corazón de vuestra supervivencia para los próximos diez años.
+**P.** Es como si se hubieran anticipado. Con ese archivo sistematizado han creado el corazón de su supervivencia para los próximos diez años.
 
 **R.** Tal cual, y eso lo tienen muy pocos. Salió de lo neuróticos que éramos los tres con el rigor, de esa obsesión por el mínimo detalle cruzado y chequeado. El año pasado, en medio de la crisis, dijimos: la tecnología tiene que ser la columna vertebral de Cuestión. Si no automatizamos todo lo que hicimos de manera artesanal, nos quedamos atrás. Creamos Escarbatech y puse al líder, el tipo más espectacular en términos dateros, como director de tecnología, con un encargo: hacer archivo, cruzarlo y sacar nuestra pasta investigativa sin alucinaciones, con base en nuestro trabajo.
 
@@ -88,7 +88,7 @@ Después hicimos dos o tres cosas que desde dentro se ven aburridas, pero que no
 
 > “El criterio no se negocia. Te pudo haber gustado mucho la pelea entre dos personajes populares en tendencia, pero no es nuestra oferta informativa”
 
-**P.** ¿Qué innovación no ha funcionado y qué lección habéis aprendido?
+**P.** ¿Qué innovación no ha funcionado y qué lección han aprendido?
 
 **R.** Hay productos que parece que empezaban mal, que parecía no haber servido y, años después, cuando estallaba el escándalo, resulta que aquí estaban. Pero lo que sí murió son los formatos interactivos, y esa es la gran crisis que tenemos, porque nuestra propuesta era sobre esos formatos y caducaron.
 
