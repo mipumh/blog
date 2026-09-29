@@ -24,6 +24,9 @@ layout: base
                     <div>
                         <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
 
+      {% if post.share_image %}
+        <img src="{{ site.baseurl }}/images/{{ post.share_image }}" class="img-fluid img-rounded" alt="{{ post.title }}" loading="lazy" decoding="async" />
+      {% else %}
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -35,6 +38,7 @@ layout: base
             {% endif %}
         {% endif %}
       {% endfor %}
+      {% endif %}
 
                         <p>{{ post.excerpt | strip_html }}</p>
                         <div class="meta">
