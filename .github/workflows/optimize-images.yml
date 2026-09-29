@@ -16,7 +16,11 @@ jobs:
           fetch-depth: 0
 
       - name: Instalar ImageMagick
-        run: sudo apt-get install -y imagemagick
+        run: |
+          sudo rm -rf /var/lib/apt/lists/*
+          sudo apt-get clean
+          sudo apt-get update -o Acquire::Retries=3
+          sudo apt-get install -y --no-install-recommends imagemagick
 
       - name: Detectar imágenes nuevas del push
         id: changed
