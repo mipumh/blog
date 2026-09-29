@@ -7,7 +7,7 @@ author:
 ---
 La marea de la Inteligencia Artificial (IA) ya nos ha alcanzado. La ola trae consigo grandes cambios económicos, sociales y demográficos que nos obligan a revisar cómo y con quién compartimos conocimiento. Y aquí emerge [ComunIA, el Centro de Comunicación e Inteligencia Artificial de la Universidad Miguel Hernández](https://comunia.umh.es/){:target="_blank" rel="noopener"}. Se trata de un proyecto abierto, que emerge de una clara convicción: la universidad debe acompañar a las personas durante toda su vida laboral y aprender de los problemas que encuentran en el día a día.
 
-ComunIA nace con tres pilares básicos:
+ComunIA nace con tres pilares:
 
 1. **Formación** práctica, crítica y especializada. Tenemos ya [una oferta amplia de cursos](https://comunia.umh.es/#catalogo){:target="_blank" rel="noopener"}, que además se irá ampliando y definiendo. Pero el centro estará listo para organizar programas a medida para cualquier empresa o colectivo que quiera compartir sus necesidades.
 2. La organización de **eventos**. Tendremos grandes jornadas abiertas como la que ahora te detallamos, pero también muchos otros más específicos. Algunos serán en nuestras instalaciones, pero también saldremos a donde nos reclamen los profesionales.

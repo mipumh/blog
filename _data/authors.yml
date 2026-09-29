@@ -8,21 +8,21 @@ miguel_carvajal:
 jose_garcia_aviles:
   name: Jose A. García Avilés
   twitter: jagaraviles
-  bio: Coordinador Módulo Audiencias
+  bio: Profesor coordinador de Audiencias
   image: jga.webp
   link: https://twitter.com/jagaraviles
 
 felix_arias:
   name: Félix Arias
   twitter: cibermensaje
-  bio: Subdirector del Máster
+  bio: Profesor de IA aplicada
   image: flx.webp
   link: https://twitter.com/flxarias
 
 alicia_de_lara:
   name: Alicia de Lara
   twitter: porqueeeyo
-  bio: Profesora Titular en Periodismo UMH
+  bio: Profesora de Divulgación Científica
   image: alicia.webp
   link: https://twitter.com/porqueeeyo
 
@@ -36,7 +36,7 @@ cristian_marin:
 jose_luis_rojas:
   name: José Luis Rojas
   twitter: rojastorrijos
-  bio: Periodista y profesor de la Universidad de Sevilla
+  bio: Profesor de la Universidad de Sevilla
   image: rojas.webp
   link: https://twitter.com/rojastorrijos
 
@@ -64,6 +64,6 @@ itziar_martinez:
 chema_valero:
   name: Chema Valero
   twitter: josvap
-  bio: Profesor del Máster
+  bio: Subdirector del Máster
   image: chema.webp
   link: https://twitter.com/josvap
