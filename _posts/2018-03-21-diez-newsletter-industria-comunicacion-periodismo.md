@@ -53,7 +53,7 @@ Esta newsletter semanal analiza cómo evoluciona la industria del podcast, se en
 
 El servicio que realiza [José Manuel Rodríguez](https://twitter.com/josemanuelrodos) con su listado de ofertas de empleo y prácticas en comunicación es impagable. La rutina no está clara, pueden llegar varias alertas en la misma semana. Desde hace unos meses, las clasifica por provincias españolas. Si no para ti, seguro que esas pistas serán útiles para alguien de tu entorno. Aparte del correo electrónico, puedes recibirlas mediante notificaciones en Telegram, Twitter o Facebook Messenger. También recomiendo que le sigas en Twitter por sus breves y rápidos análisis de la industria y la economía de la atención. Tenemos la fortuna de tenerlo en nuestro claustro de profesores del Máster.
 
-![image alt text]({{ site.baseurl }}/images/shots/rodos.webp)
+![image alt text]({{ site.baseurl }}/images/rodos.webp)
 
 ### [Tendencias](http://www.ismaelnafria.com/boletin-tendencias/) 
 

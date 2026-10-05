@@ -20,7 +20,7 @@ Ofrecemos la tercera y última entrega de las narrativas digitales de 2021 (aqu�
 
 ¿Tienes poco dinero y ganas de aventura? Para los jóvenes occidentales en los años 60 y 70, “aventura” equivalía a subirse a una furgoneta destartalada y emprender un viaje a través de culturas exóticas. Este interactivo, elaborado por un equipo de doce profesionales de CNN, te invita a subirte a la furgoneta y explorar los recorridos hippies más célebres entre los años 50 y 70. Estos jóvenes nómadas viajaron en coches y furgonetas por lugares exóticos como Kabul, Katmandú o Goa. Muchos de ellos inspiraron las guías *Lonely Planet*, la fórmula creada por Tony y Maureen Wheeler que se convirtió en la piedra angular de su imperio editorial.
 
-![]({{ site.baseurl }}/images/shots/32-jacobs-track-nyt.webp)
+![]({{ site.baseurl }}/images/shots/32-jacobs-track-nyt.jpg)
 
 ### **[How the World’s Fastest Men Battled for Gold in 10 Seconds](https://www.nytimes.com/interactive/2021/08/01/sports/olympics/jacobs-track-100m-won-olympics.html) | The New York Times**
 

@@ -50,7 +50,7 @@ La diversificación de las vías de ingreso y fuentes de financiación fueron ot
 
 "Dejadnos que os investiguemos". Fue la petición del investigador **Javier Galán** (Universidad Carlos III de Madrid) durante la mesa redonda que reunió a profesionales de diferentes medios innovadores. La necesidad de salvar las distancias entre el ámbito académico y la industria fue una conclusión compartida por la mayoría de congresistas. Para ello, los académicos demandan una mayor transparencia a las empresas en la cesión de datos, a la vez que se comprometen a ofrecer resultados útiles y prácticos que contribuyan a la mejora del sector. 
 
-![image alt text]({{ site.baseurl }}/images/shots/rojas.webp)<sup>**José Luis Rojas, en la conferencia de clausura**
+![image alt text]({{ site.baseurl }}/images/rojas.webp)<sup>**José Luis Rojas, en la conferencia de clausura**
 
 ### 9.- Fomentar el pensamiento innovador desde las universidades
 

@@ -65,7 +65,7 @@ A partir de finales de febrero de 2020 y durante el confinamiento duro hasta ese
 
 Todo tenía que ser más visual, más real. A partir del verano, me centré más en Murcia para intentar llegar a alguna zona Covid aquí y para asistir a las ruedas de prensa del Gobierno regional, para hacer esas preguntas libres que en teoría debemos hacerles a los políticos. Ahí hubo resistencia y obstáculos por un tubo, burocrático y político. Fueron meses muy intensos, con muchas broncas. Pero con la ayuda de algunos médicos y enfermeras y auxiliares buenos, [lo logré al final](https://www.youtube.com/watch?v=0CYi095yT4Q). Tenemos esos documentos históricos. Pudimos hacer público, traer a la opinión pública, algo que la sociedad no había visto y algo que los políticos no querían que se viera. No tengo problemas con hacerles las preguntas difíciles a los políticos en directo, pero dudo que sean muy útiles como parte del todo, más allá del espectáculo democrático. Hay que hacerlas, pero ¿reflexionan los políticos? ¿Cambian algo?
 
-![]({{ site.baseurl }}/images/shots/pandemia-covid-desde-dentro.png)
+![]({{ site.baseurl }}/images/shots/pandemia-covid-desde-dentro.jpg)
 
 <sup> Un médico en la zona Covid de Urgencias en el Hospital Reina Sofía. Murcia, noviembre de 2020
 

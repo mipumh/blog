@@ -82,7 +82,7 @@ Esto conecta también con el concepto del *AI slop* (basura generada con IA). Ah
 
 **R.** Saber escribir el prompt creo que ya no es la clave. Hubo mucho *hype* al principio con eso, pero hoy en día la IA te entiende perfectamente si aprendes a razonar con ella. Para proyectos grandes, la clave es saber ordenar bien un proyecto y tener la capacidad de decidir hasta dónde dejas trabajar a la IA sola y en qué punto intervienes tú. Es fundamental tener muy clara la infraestructura del proyecto. Ahí es donde aportamos más valor. También es vital saber qué preguntarle y determinar cuándo te puedes fiar del resultado y cuándo no. Esa capacidad de análisis me parece un valor tremendo y es el mismo criterio que aplicaba antes a las bases de datos. El punto de partida es el mismo, solo que ahora tengo en medio este superpoder que me lo hace todo mucho más rápido.
 
-![]({{site.baseurl}}/images/001/chatgpt-image-17-jun-2026-21_15_18.png)
+![]({{site.baseurl}}/images/001/chatgpt-image-17-jun-2026-21_15_18.jpg)
 
 <sup> Imagen retocada con IA a partir de fotografía original
 

@@ -65,7 +65,7 @@ La mayoría son variaciones de los ingresos procedentes de los tres grandes pila
 
 **Cafeterías**. Los eventos han sido una de las grandes salvavidas en la cuenta de resultados de los medios. De modo parecido, Monocle, una revista internacional para viajeros con alto tren de vida, abrió en 2013 [cafeterías](https://monocle.com/about/contacts/monocle-cafe-london/) como parte de su estrategia para fortalecer la relación con sus lectores. Se trata de puntos de encuentro para disfrutar de la estética y el estilo que promueven, aparte de vender productos de la marca y ejemplares de la revista. Actualmente, tiene sedes en Londres, Zúrich y Tokio.
 
-![image alt text]({{ site.baseurl }}/images/001/monetiza_3.png)
+![image alt text]({{ site.baseurl }}/images/001/monetiza_3.jpg)
 
 La lista podría ampliarse con nuevas ofertas o estrategias de comercialización. Si se te ocurre alguna nueva o crees que he olvidado una importante, no dudes en compartirla conmigo (mcarvajal [at] umh.es).
 

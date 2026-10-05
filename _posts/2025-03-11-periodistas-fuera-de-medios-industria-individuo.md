@@ -61,7 +61,7 @@ Si la aclamada serie Succession pudiera transformarse en un boletín sería en e
 
 El periodista y crítico cultural Richard Rushfield (55) lanzó su aclamado boletín, The Ankler, en 2017. Había escrito para BuzzFeed, Los Angeles Times y Gawker, pero emprendió su camino solitario porque sintió que había espacio para una cobertura "más agresiva, más irreverente y más divertida que la que se publicaba", [dijo a The New York Times](https://www.nytimes.com/2021/12/14/business/media/ankler-janice-min-richard-rushfield.html). Sus piezas son el pecado y la penitencia del mundillo de Hollywood. Junto a la experimentada Janice Min, Rushfield ha demostrado que un proyecto periodístico especializado puede, a golpe de exclusivas, experiencia y trabajo de fuentes, desbancar a las clásicas revistas de cine angelinas. Cuenta con 130.000 suscriptores y se distribuye en Substack, plataforma desde la que ha multiplicado su aventura con una decena de boletines especializados.
 
-![image alt text]({{ site.baseurl }}/images/001/ankler.png)
+![image alt text]({{ site.baseurl }}/images/001/ankler.jpg)
 <sup> Martin Schoeller (Vanity Fair).
 
 ### **Anne Helen Petersen** · [Culture Study](https://annehelen.substack.com/)

@@ -37,7 +37,7 @@ La erupción volcánica de 2021en La Palma acaparó la atención mundial. El equ
 
 La erupción en La Palma llegó a su fin después de casi tres meses en los que alteró la vida de sus habitantes y el relieve de la isla. Para transmitir de primera mano cómo afectó el volcán a los palmeros, el Telediario de TVE se trasladó a la isla y RTVE.es ofreció una experiencia de Realidad Aumentada para visualizar la evolución del volcán de forma interactiva. Los usuarios pueden “instalar” el volcán en el salón de su casa a través del móvil ya que permite insertar una infografía en 3D de la isla usando la cámara del dispositivo. Al mismo tiempo, se muestra una cronología con seis momentos clave de los tres meses de erupción, incluyendo la locución de Ana Blanco y el sonido del tremor de fondo.
 
-![]({{ site.baseurl }}/images/shots/2-5-how-a-presidential-rally-turned-into-a-capitol-nyt.webp)
+![]({{ site.baseurl }}/images/shots/2-5-how-a-presidential-rally-turned-into-a-capitol-nyt.jpg)
 
 ### **[How a presidential rally turned into a Capitol rampage ](https://www.nytimes.com/interactive/2021/01/12/us/capitol-mob-timeline.html)**| **The New York Times**
 

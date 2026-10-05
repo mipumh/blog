@@ -22,7 +22,7 @@ Los ponentes que intervendrán son autoridades en el tema:
 
 <section class="index"><img src="{{ site.baseurl }}/images/shots/jaramillo.jpg" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/mauriciojaramil?lang=es" title="Mauricio Jaramillo" target="_blank">Mauricio Jaramillo (Hangouts Periodismo)</a></strong><br><span class="muted">Periodista, conferencista y consultor especializado en periodismo tecnológico y digital. Fundador y director de Impacto TIC+Hangouts de Periodismo.</span></p></div></section>
 
-<section class="index"><img src="{{ site.baseurl }}/images/shots/contreras.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/pfcontrerasv?lang=en" title="Patricio Contreras" target="_blank">Patricio Contreras (Puroperiodismo)</a></strong><br><span class="muted">Editor de 
+<section class="index"><img src="{{ site.baseurl }}/images/contreras.webp" class="avatar"><div><p style="display: inline-block;"><strong><a rel="author" href="https://twitter.com/pfcontrerasv?lang=en" title="Patricio Contreras" target="_blank">Patricio Contreras (Puroperiodismo)</a></strong><br><span class="muted">Editor de 
 Puroperiodismo de la Escuela de Periodismo de la Universidad Alberto Hurtado. Es cofundador de la plataforma Ojo en Tinta.</span></p></div></section>
 
 El encuentro estará moderado por [José Alberto García Avilés](https://twitter.com/jagaraviles), profesor del Máster de Innovación en Periodismo y editor del blog. 

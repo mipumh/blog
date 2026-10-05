@@ -28,7 +28,7 @@ Con casi cuatro años de existencia y una apuesta editorial que combina el largo
 
 La obra **"Mobile First, comunicación multipantalla"**, la tercera de una colección de publicaciones del Máster de Innovación en Periodismo, recoge las reflexiones de profesionales y académicos durante las [XI Jornadas Internacionales de Innovación en Periodismo de la UMH](http://periodismo.umh.es/2016/02/21/xi-jornadas-internacionales-de-innovacion-en-periodismo-mobile-first-comunicacion-multipantalla/). Los expertos analizan cómo la información se apodera de los soportes móviles. Los profesionales de algunas de [las iniciativas más innovadoras del panorama nacional](http://mip.umh.es/ranking/) debatieron sobre la creación de contenido dinámico, adaptable a cada formato y sobre los nuevos modelos de negocio y de publicidad capaces de soportar esta revolución tecnológica que transforma los hábitos de consumo.
 
-![]({{ site.baseurl }}/images/shots/portada-libro-jornadas.webp)
+![]({{ site.baseurl }}/images/shots/portada-libro-jornadas.jpg)
 
 ### [Daniele Grasso (El Confidencial): 'La clave para que un medio sea innovador es tener una mente abierta y buenos periodistas'](http://mip.umh.es/blog/2017/03/12/daniele-grasso-periodismo-datos-el-confidencial/)
 

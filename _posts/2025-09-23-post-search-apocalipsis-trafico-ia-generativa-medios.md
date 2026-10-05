@@ -10,7 +10,7 @@ author:
 ---
 Los cuatro jinetes del apocalipsis del tráfico mediático: Zero Click Search, guerra fratricida por licenciar el contenido a las IAs, sequía en Discover e irrelevancia social. Pero el verdadero monstruo de siete cabezas y diez cuernos, el innombrable, es el Zero News Value: cuando el producto periodístico pierde valor ante los ojos del público. El término Zero Click Search describe cómo Google y otras plataformas tratan de evitar que los resultados de búsqueda generen clics hacia las páginas web sugeridas. Ya podemos descontar ese tráfico, [según múltiples medidores y analistas](https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/how-google-ai-overviews-is-fuelling-zero-click-searches-for-top-publishers/). Lo que debe preocuparnos ahora (por fin) es el valor cero del producto que ofrecemos. ¿Por qué no vienen a nuestro medio? 
 
-![image alt text]({{ site.baseurl }}/images/001/traficalipse_0.png)
+![image alt text]({{ site.baseurl }}/images/001/traficalipse_0.jpg)
 <sup>Foto: Photo-Illustration: Intelligencer; Photo: Getty, Google
 
 ## **La losa editorial del tráfico de buscadores**
@@ -29,7 +29,7 @@ El medio domina la jerarquía informativa, ¿pero domina la jerarquía de necesi
 
 Lo que debe constituir la propuesta de valor de un medio periodístico sólido no es solo el contenido, sino su experiencia: facilidad de acceso y uso, atractivo, emoción, funcionalidad. Debemos hacer lo posible por dominar esa experiencia en nuestros canales y soportes, o en los de otras plataformas que nos den las garantías de recuperar el valor que estamos aportando, como [acaba de hacer The Economist en Substack](https://pressgazette.co.uk/news-leaders/why-the-economist-isnt-doing-ai-deals-but-has-launched-on-substack/?utm_source=substack&utm_medium=email).
 
-![image alt text]({{ site.baseurl }}/images/001/traficalipse_1.png)
+![image alt text]({{ site.baseurl }}/images/001/traficalipse_1.jpg)
 
 <sup>Foto: Illustration: Sarah Grillo/Axios
 

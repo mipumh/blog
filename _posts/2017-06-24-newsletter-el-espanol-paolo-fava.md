@@ -50,7 +50,7 @@ Las noticias no descansan. No se dan un respiro ni siquiera por las noches. Por 
 
 **R.** Porque es una manera de aumentar el alcance de un medio emergente, para contar con un modelo que se diferenciara de los ya existentes y para aplicar la hipertextualidad, es decir, seleccionar para los usuarios el contenido más importante independientemente de dónde venga. Una *newsletter* es importante para un medio que aspira –como aspira *El Español*– a tener suscriptores, porque es una puerta de entrada importante para la fidelización.
 
-![image alt text]({{ site.baseurl }}/images/shots/periscopio.webp)
+![image alt text]({{ site.baseurl }}/images/periscopio.webp)
 
 **P. ¿Cómo han conseguido que 25.000 lectores se suscriban a sus _newsletters_?**
 

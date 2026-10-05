@@ -65,7 +65,7 @@ Este documental interactivo es un impresionante trabajo colaborativo del canal p
 
 Este formato del Süddeutsche Zeitung, basado en el análisis de datos, revela que los libros infantiles están llenos de estereotipos de género. Palabras clave como “princesa, magia, arcoíris y unicornio” aparecían sobre todo en los libros para niñas, mientras que los libros para niños contenían “tesoro, capitán y aventura”. La mayoría de las veces, los protagonistas masculinos tenían relación con "viajar", mientras que las protagonistas femeninas estaban vinculadas a "enamorarse". Un trabajo elaborado por los periodistas [@cutterkom](https://twitter.com/cutterkom?ref_src=twsrc%5Etfw), [@sebitsch](https://twitter.com/sebitsch?ref_src=twsrc%5Etfw), [@MSchories](https://twitter.com/MSchories?ref_src=twsrc%5Etfw) y [@nachsichtgeraet](https://twitter.com/nachsichtgeraet?ref_src=twsrc%5Etfw), basado en una investigación de 50.000 libros infantiles editados en alemán.
 
-![]({{ site.baseurl }}/images/shots/nightwatch.png)
+![]({{ site.baseurl }}/images/shots/nightwatch.jpg)
 
 **[Night Watch](https://nightwatchexperience.com/en/) — NTR y el Rijksmuseum**
 

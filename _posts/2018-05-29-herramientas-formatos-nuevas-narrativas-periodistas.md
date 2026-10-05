@@ -22,11 +22,11 @@ Qué mejor forma que ilustrar estos cambios que con los trabajos realizados por 
 
 Un excelente ejemplo es el realizado por [Andrés Jiménez](http://preview.shorthand.com/zW1yDEh3IP) (Facterbot), en el que se demuestra la potencia que puede adquirir la imagen y cómo es posible desplegar una estética propia e integrar múltiples elementos multimedia. 
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF1.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF1.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 La fuerza visual de Shorthand, especialmente del vídeo, también se observa en este reportaje de Irene Corredor ([Formas parte](https://bit.ly/2Fw7h3t)).
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF2.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF2.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 **b) Atavist**
 
@@ -34,11 +34,11 @@ La fuerza visual de Shorthand, especialmente del vídeo, también se observa en 
 
 El trabajo de Tamara Espadas ([El Fullet](https://elfulletarteycultura.atavist.com/el-valor-de-lo-artesano)) refleja perfectamente el cuidado que esta herramienta permite imprimir a la fotografía y la tipografía, y la inclusión de recursos como el carrusel de imágenes. 
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF3.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF3.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 El trabajo de Asunción Niñoles ([Radio UMH Innovation Lab](https://su-3.atavist.com/extraas-en-el-paraso-del-podcasting)) constituye otra muestra de la versatilidad de Atavist, esta vez con el uso de la navegación horizontal y de múltiples imágenes a pantalla completa.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF4.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF4.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 **c) Readymag**
 
@@ -48,7 +48,7 @@ El trabajo de Asunción Niñoles ([Radio UMH Innovation Lab](https://su-3.atavis
 
 Irene Santoro ([The Taste of a Story](https://readymag.com/u70245198/utrecht-one-city-hundreds-worlds-within/)) se atrevió con esta plataforma y el resultado visual, con el movimiento de las imágenes, los iconos y la maquetación, no puede ser más vistoso.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF5.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF5.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### 2. Periodismo de datos
 
@@ -68,7 +68,7 @@ Una de sus principales utilidades, sobre todo por las posibilidades que ofrece f
 
 Pero Infogram también permite crear informes o tableros sumamente visuales y, en casos como éste de Tamara Espadas (El Fullet), tan efectivos.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF8.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF8.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### 3. Contenidos interactivos
 
@@ -78,45 +78,45 @@ La idea detrás de [Thinglink](https://www.thinglink.com/) es muy sencilla: enri
 
 Irene Corredor (Formas parte) lo aplica a la perfección. Sobre todo, gracias al trabajo que hay detrás de la foto base y la composición de los botones.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF9.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF9.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Lo mismo sucede con este ejemplo de Fran Murcia ([La mirilla de Almería](https://social.shorthand.com/MirillaAlmeria/nCYSfiLl4Yi/un-retrato-a-los-animales-decompania)), donde la interactividad se aplica de manera muy efectiva al vídeo.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF10.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF10.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 **b) Timeline JS**
 
 El [Timeline del Knight Lab](https://timeline.knightlab.com/) es una herramienta pensada para describir, de manera visual, una historia cronológica. La introducción de datos no se realiza directamente en su interfaz, sino mediante una hoja de cálculo enlazada, pero el esfuerzo suele merecer la pena. Así lo demuestra esta cronología realizada por Paola Lobato ([Conciencia UC](https://social.shorthand.com/conciencia_uc/n2nWWSpYgi/la-universidad-de-cantabria-45-anos-formando-profesionales)).
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF11.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF11.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 **c) Storymap**
 
 Si a la vertiente temporal le añadimos la espacial, la respuesta es [Storymap](https://storymap.knightlab.com/), otra herramienta del Knight Lab pensada para contar historias con mapas. Eso es lo que consigue Mercedes García ([Turistect Podcast](https://social.shorthand.com/Mercedes_gv/3yTOhc7WLYi/turistect-podcast)) con este recorrido por el tiempo y el espacio.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF12.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF12.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 **d) Apester**
 
 La gamificación de los contenidos, la introducción de elementos propios de los juegos a la información, constituye un recurso efectivos para retener al usuario. [Apester](https://apester.com/) es una de las herramientas más compactas y versátiles para crear estos quiz de preguntas, como demuestra el desarrollado por Esmeralda Serna ([Vidas corrientes](https://social.shorthand.com/CorrientesVidas/jCdfo3ae6t/campos-de-concentracion-albatera)).
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF13.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF13.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 **d) Playbuzz**
 
 [Playbuzz](https://www.playbuzz.com/) cumple una función similar, pero con la ventaja de tener más opciones y la limitación de contar con una estética algo menos compacta, como se muestra en este test de Fran Murcia (La mirilla de Almería).
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF14.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF14.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Además de recursos de visualización de datos y contenidos interactivos, estas plataformas de longform permiten integrar recursos con tanto potencial como listas de Spotify. Eso lo aprovecharon muy bien Yolanda Abellán y Sheila Vegara ([Runstyle](https://social.shorthand.com/RunstyleWoman/32nYduYSYi/la-industria-detras-de-la-fiebre-del-running)).
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF15.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF15.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Pero incluso en una recopilación de nuevas narrativas y herramientas es imposible olvidarse de la relevancia de las pequeñas historias. En este caso, hay que destacar el trabajo realizado por Fran Murcia (La mirilla de Almería), que visitó a una pintora que se ha especializado en realizar retratos de mascotas.
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF16.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF16.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Y también resulta esencial el trabajo de campo, tanto en frente a la pantalla, con métodos como el *scrapping* de datos, como en la calle, con entrevistas cara a cara. Y un gran ejemplo es este reportaje de Fran Otero (explicaRe) sobre la pérdida de vocaciones en la Iglesia española con una herramienta tan versátil y social como Medium. 
 
-![image alt text]({{ site.baseurl }}/images/shots/gifna/GIF17.gif)
+<video src="{{ site.baseurl }}/images/shots/gifna/GIF17.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 

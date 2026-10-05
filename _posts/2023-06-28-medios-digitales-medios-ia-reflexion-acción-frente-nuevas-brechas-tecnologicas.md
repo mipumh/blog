@@ -38,7 +38,7 @@ Hay que tener en cuenta otro factor clave: la asimilación de internet en el mom
 
 Y si hablamos de retroalimentación, hay que subrayar cómo la IA [afecta con particular fuerza a la programación](https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/). Eso lo va a acelerar aún más. Ya pasó antes con la web: creadores que además consumían y aprovechaban las peculiaridades de la red. Los que usan la IA, sobre todo al principio, pueden ser más efectivos y tener tiempo para otras tareas. Eso permitirá, por ejemplo, reinvertir recursos para generar círculos virtuosos (y viciosos).
 
-![]({{ site.baseurl }}/images/shots/yfo2oi5mzxirqqcyvawmtohwhimac8q18orz.gif)
+<video src="{{ site.baseurl }}/images/shots/yfo2oi5mzxirqqcyvawmtohwhimac8q18orz.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### Una decisión ineludible
 

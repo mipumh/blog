@@ -53,7 +53,7 @@ Desde el ataque del grupo terrorista Hamás el 7 de octubre de 2023, Israel ha l
 
 En los años noventa, los autores de este artículo eran niños y el Danubio estaba frío. Incluso en los calurosos días de verano, se metían en el agua sólo hasta las rodillas. En este interactivo, el equipo del diario digital Atlo (Hungría) muestra mediante una visualización cartográfica cómo la temperatura del Danubio se ha ido calentando de forma constante en las cinco últimas décadas, con efectos adversos tanto para la fauna como para la población. Con el análisis de los datos de temperatura de 34 estaciones de control a lo largo del río, el equipo revela cómo la temperatura media anual aumentó de un rango de 8,5 a 11,5 grados Celsius en 1965 a 11,4 a 14,2 grados Celsius en 2015. Un trabajo de Orsolya Fülöp, Attila Bátorfy y Krisztián Szabó.
 
-![]({{ site.baseurl }}/images/001/nikeei-accidente-aereo.png)
+![]({{ site.baseurl }}/images/001/nikeei-accidente-aereo.jpg)
 
 **[Tokyo runway collision: How JAL airliner crashes into Coast Guard plane](https://asia.nikkei.com/static/vdata/infographics/haneda-runway-collision/) Nikkei**
 
@@ -71,7 +71,7 @@ En este especial sobre la DANA en Valencia, las imágenes desde el aire muestran
 
 En formato cómic, el Globe narra esta historia sobre casos reales en cuidados intensivos, escrito por Ernesto Barbieri e ilustrado por Jess Ruliffson. Explora el impacto emocional de los cuidados paliativos en las enfermeras de la UCI y los empleados del hospital. Se trata de un artículo de opinión ilustrado que examina la porosa frontera entre la curación y el sufrimiento en la unidad de cuidados intensivos de un hospital.
 
-![]({{ site.baseurl }}/images/001/china-border-guardians-nyt.png)
+![]({{ site.baseurl }}/images/001/china-border-guardians-nyt.jpg)
 
 **[China’s Border Guardians](https://www.nytimes.com/interactive/2024/08/10/world/asia/china-border-villages.html)** **The New York Times**
 

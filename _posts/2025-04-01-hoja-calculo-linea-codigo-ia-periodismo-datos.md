@@ -10,7 +10,7 @@ author:
 ---
 Lejos del [debate sobre si todos los periodistas deben saber programar](https://mip.umh.es/blog/2021/02/11/debe-un-periodista-saber-programar/), los especializados en datos lo tienen bastante claro. Lenguajes como R o Python son recursos habituales entre estos profesionales para automatizar tareas, limpiar y analizar datos, y crear visualizaciones personalizadas. En 2021, los periodistas recurrían a la programación cuando tenían delante de ellos una gran cantidad de datos y los programas como Excel no permitían manejarlos. Sin embargo, en la actualidad, la mayoría de los profesionales utilizan lenguajes de programación para todo tipo de piezas, siendo la creación de visualizaciones especiales y la identificación de tendencias las motivaciones clave para ponerlos en práctica.
 
-![]({{ site.baseurl }}/images/001/datos-prog-mip-g.png)
+![]({{ site.baseurl }}/images/001/datos-prog-mip-g.jpg)
 
 Ésta es una de las principales conclusiones a las que se llega en el artículo “[Evolución del uso de lenguajes de programación y herramientas digitales en el periodismo de datos español](https://revistas.ucm.es/index.php/ESMP/article/view/96796)”, que acabamos de publicar Enrique Ribera y Félix Arias en la revista Estudios sobre el Mensaje Periodístico. Hablamos con 18 periodistas de datos de los principales medios de comunicación generalistas que cuentan con una sección dedicada a esta especialidad en España (RVE, El País, elDiario.es y El Confidencial), de medios digitales que apuestan por las nuevas narrativas innovadoras como Civio, Datadista, El Orden Mundial, StoryData o Relevo o los principales verificadores de noticias, Newtral y Maldita. Lo hicimos en dos etapas (2021 y 2024) para medir también la evolución de esta tendencia.
 

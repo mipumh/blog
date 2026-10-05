@@ -47,17 +47,33 @@ jobs:
       - name: Optimizar PNG
         run: |
           grep -iE '\.png$' /tmp/changed_images.txt | \
-            xargs -r -d '\n' -P 4 -I {} mogrify -strip "{}" || true
+            xargs -r -d '\n' -P 4 -I {} mogrify -strip -resize '1400x>' -define png:compression-level=9 "{}" || true
 
       - name: Optimizar WebP
         run: |
           grep -iE '\.webp$' /tmp/changed_images.txt | \
             xargs -r -d '\n' -P 4 -I {} mogrify -strip -quality 85 -resize '1400x>' "{}" || true
 
+      - name: Avisar de imágenes que siguen pesando más de 1 MB
+        run: |
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            size=$(stat -c%s "$f")
+            if [ "$size" -gt 1048576 ]; then
+              echo "::warning file=$f::Sigue pesando $((size/1024)) KB tras optimizar. Un PNG fotográfico conviene convertirlo a JPG a mano (y actualizar la referencia en el post)."
+            fi
+          done < /tmp/changed_images.txt
+
       - name: Commit si hay cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/
-          git diff --staged --quiet || git commit -m "Optimizar imágenes subidas"
-          git push || true
+          if git diff --staged --quiet; then
+            echo "No hay imágenes que optimizar."
+            exit 0
+          fi
+          git commit -m "Optimizar imágenes subidas"
+          # Sin '|| true': si el push falla (p. ej. protección de rama),
+          # el workflow debe ponerse en rojo en vez de perder la optimización.
+          git push

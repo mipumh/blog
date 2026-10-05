@@ -58,7 +58,7 @@ Una vez definidos los conceptos, es el turno de asignarles una regla a cada una 
 
 Encontrar la relación entre el concepto y la mecánica de juego resultó más complicado. El objetivo era diseñar un sistema de juego en el que **cada regla tuviese un efecto similar a la herramienta, técnica o trastorno de la información que representa**. En el caso de la carta “Búsqueda inversa”, su efecto permite comparar la mano del jugador con la de un miembro del equipo contrario. Si el número de la carta (situado en la esquina superior derecha) coincide, el desinformador queda eliminado de la ronda. Del mismo modo, la carta “Sátira o parodia” permite al equipo de desinformadores comparar su carta con la del equipo contrario. Quien tenga la carta con el número más bajo, queda eliminado. 
 
-![]({{ site.baseurl }}/images/001/captura-de-pantalla-2024-01-11-a-las-18.12.02.png)
+![]({{ site.baseurl }}/images/001/captura-de-pantalla-2024-01-11-a-las-18.12.02.jpg)
 
 Para añadirle más emoción, además de las cartas de defensa y ataque, diseñamos seis cartas tituladas “Misión secreta”. Se trata de objetivos grupales que cada bando debe conseguir antes de que finalice la ronda. Si lo logra, puede ganar un *check* de verificación o quitarselo al equipo contrario. Estas cartas permanecen ocultas durante la partida, lo que le otorga cierto misterio a la experiencia y permite que el marcador pueda dar un giro en cualquier momento. 
 

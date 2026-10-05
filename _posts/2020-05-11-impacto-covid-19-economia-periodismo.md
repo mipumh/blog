@@ -58,7 +58,7 @@ En España, los comités de empresa de Vocento, Prisa, Godó, Henneo, Unidad Edi
 
 Como dice **Pepe Cerezo**, esta crisis va a acelerar tendencias, como la transformación hacia **modelos organizativos en red**. "El mundo post COVID-19 será́ más digital y menos físico", indica. Pero **cabe la sospecha de que este nuevo acelerón al tele-trabajo esconda un sistema productivo más precario**, más estresante y con peores condiciones de empleo y temporalidad, como vacaciones obligadas o aumento de gastos no compensados.
 
-![]({{ site.baseurl }}/images/shots/teletrabajo.gif)
+<video src="{{ site.baseurl }}/images/shots/teletrabajo.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 <sup>Fuente: Sarah Grillo, Rebecca Zisser/Axios
 
 Los periodistas del New York Times, por ejemplo, no volverán a [pisar la redacción al menos hasta septiembre](https://twitter.com/mariaramirezNY/status/1257922913694552065). La medida inmediata, según la nota de los editores, se acompaña de una **apertura estratégica al trabajo a distancia**. Como señala **Ramón Salaverría**, "la implosión de las salas de redacción comenzó hace años con la conversión de muchos de sus periodistas en falsos autónomos. Temo que esta tendencia sea una nueva vuelta de tuerca en ese proceso".
@@ -73,7 +73,7 @@ En este tipo de situaciones **los medios se debaten entre alcanzar el mayor núm
 
 ¿Servirá este repunte **para neutralizar la caída de los ingresos publicitarios**? No. La transformación hacia el pago de los lectores ha llegado tarde en la gran mayoría, dadas las circunstancias. Eso no quiere decir que no haya esperanza, pero **a medio plazo es materialmente imposible crecer tanto vía lectores como para cubrir lo perdido vía anunciantes**. No queda más remedio que acelerar esa transición hacia el "reader revenue", aun a riesgo de cometer errores de proposición de venta que erosionan el capital de marca.   
 
-![]({{ site.baseurl }}/images/shots/teoria.gif)
+<video src="{{ site.baseurl }}/images/shots/teoria.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### Las ayudas a la prensa
 

@@ -63,8 +63,6 @@ La innovación es un proceso cuyo éxito depende de múltiples actores, más all
 
 El estilo de [liderazgo transformacional](https://www.tandfonline.com/doi/abs/10.1080/1461670X.2021.1927153), que busca la alineación de los trabajadores con las metas de la compañía mediante la motivación, y la promoción de [culturas organizacionales basadas en el aprendizaje continuo](https://www.researchgate.net/publication/319679154_Exploring_innovative_learning_culture_in_the_newsroom), se perciben como necesarias para evitar fricciones internas que dinamiten los procesos innovadores. **La percepción de que las iniciativas adoptadas resultan útiles para conseguir los objetivos** comunes resulta uno de los mayores factores facilitadores, de acuerdo con los [modelos de difusión de la innovación en medios](https://www.researchgate.net/publication/330448899_Journalists'_views_on_innovating_in_the_newsroom_Proposing_a_model_of_the_diffusion_of_innovations_in_media_outlets).
 
-![]({{ site.baseurl }}/images/shots/photo-1552664730-d307ca884978.avif)
-
 Por otro lado, los expertos señalan también a la madurez de la industria como un motivo para el fracaso de las ideas innovadoras. Para la periodista [Ana Ormaechea](https://twitter.com/aormaechea), los primeros **muros de pago** no solo fallaron porque la sociedad no estuviese preparada, sino porque **se introdujeron “sin que los medios de comunicación negociaran entre sí”.** Del mismo modo, otros proyecto innovadores, como el agregador de contenidos Punto diseñado por El Confidencial, han sido archivados por la falta de acuerdo entre organizaciones.
 
 ### **5- Ignorar el fracaso**

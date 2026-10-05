@@ -18,8 +18,6 @@ Combatir la desinformación es el gran desafío al que se enfrenta [Maldita.es](
 
 Es entonces cuando _Maldita Hemeroteca_ se consolida. Funcionamos muy bien en redes sociales, entramos en televisión y con este tema de la posverdad, un día se nos ocurre hacer un proyecto parecido en torno a los bulos. En esa iniciativa contamos con más compañeros periodistas, que de manera desinteresada participan con nosotros. En _Maldita.es_ la única persona que cobra es nuestro ingeniero, quien es absolutamente fundamental para el trabajo que hacemos. De esta manera empezamos a trabajar sobre la desinformación.
 
-![image alt text](/blog/images/shots/maldita_0.jpg)
-
 **P. Si os dedicáis a proporcionar información contrastada al ciudadano ¿qué os diferencia de un medio de comunicación?**
 
 **R.** No tenemos la pretensión de ser un medio de comunicación en sí, sino que pretendemos dotar a la ciudadanía de herramientas usando el periodismo. Periodismo es algo más que publicar noticias, va mucho más allá y tenemos una función social muy grande. Queremos decirles a los ciudadanos que lo que le están diciendo no es cierto, que el dato que le están dando no es verdad y mostrarles que si el político cambia de opinión le debe una respuesta al ciudadano. _Maldita.es_ se basa en las mismas variables que el periodismo tradicional: se trata de contrastar información, explicarle cosas a la sociedad y elaborar un proceso de control periodístico, que te sirve tanto para publicar una noticia como para decir que algo no es noticia. Al final el trabajo periodístico sirve tanto para una cosa como para otra.
@@ -34,8 +32,6 @@ Es entonces cuando _Maldita Hemeroteca_ se consolida. Funcionamos muy bien en re
 
 **R.** En muchas ocasiones **es el mismo proceso que el que se emplea para elaborar una noticia.** Cuando empiezas a desmentir un bulo no sabes el tiempo que vas a necesitar. Hay algunos que son fáciles y solo tienes que contactar con la fuente y confirmar una información. Otros son más complejos y a los que les dedicas más tiempo. Por ejemplo, en las elecciones catalanas se empezó a decir que había [tarjetas censales falsas](https://maldita.es/maldito-bulo/los-bulos-de-las-falsas-tarjetas-censales-en-las-elecciones-catalanas/) y que ciudadanos que no eran catalanes iban a votar. En este caso el proceso fue más complicado: tuvimos que buscar a las personas de cada tarjeta censal que se publicaba en Twitter como falsa, por distintos medios. Contactábamos con esa persona, contábamos su historia y explicábamos por qué esas tarjetas censales no eran falsas. Es por ello que hay bulos que tardas cinco minutos en resolver y otros una semana.
 
-![image alt text](/blog/images/shots/maldita_1.jpg)
-
 **P. ¿A qué fuentes acudís para verificar las mentiras difundidas?**
 
 **R.** Son variadas: partidos que te generan una vía para seguir investigando, la Policía, el Instituto Nacional de Estadística, la fuente directa. En general, las mismas fuentes que usa un periodista. Es otra manera de utilizar las herramientas periodísticas de toda la vida. Nosotros no hemos inventado nada, sino que empleamos de otro modo estas prácticas para resolver un problema social que hay ahora mismo: la desinformación. Hacemos periodismo para combatir esa desinformación.
@@ -49,8 +45,6 @@ Es entonces cuando _Maldita Hemeroteca_ se consolida. Funcionamos muy bien en re
 **P. ¿Puede contar algún caso de bulo que han detectado que haya resultado especialmente relevante por su impacto o sus consecuencias?**
 
 **R. Las elecciones catalanas nos han marcado a todos, tanto en el mundo del periodismo del día a día como en lo que hacemos nosotros.** Ha habido bulos desde los dos lados: tenemos el de las tarjetas censales que comentaba o una foto que se hizo muy famosa en la que aparecía una señora mayor entre dos policías. Se empezó a decir que era la misma mujer que aparecía en otra imagen con Otegi. ¿Qué hicimos nosotros? Logramos contactar con las dos mujeres. [Eran dos personas distintas](https://maldita.es/maldito-bulo/cataluna-objetivo-de-los-bulos-en-el-2017-del-referendum-a-las-elecciones/) y en los medios de comunicación se decía que era la misma. Nosotros hicimos un trabajo de investigación para demostrar que no era la misma. Por el otro lado también se difundieron bulos: se empezaron a mostrar niños pequeños sentados en una carretera y decían que esa vía en Cataluña había sido cortada por esos niños. No era cierto. Se había cortado cien metros antes y ellos no participaron en la paralización de la carretera. En realidad otro grupo de gente eran los responsables y los padres, más o menos acertados, hicieron esa fotografía. Otro caso más de que no tenía nada que ver una cosa con la otra.
-
-![image alt text](/blog/images/shots/maldita_2.jpg)
 
 **P. Maldita.es trata datos expuestos en discursos políticos o en Twitter, Facebook, etcétera. Al principio buscaban noticias falsas. Ahora ¿también cuentan con la ayuda de los usuarios de las redes sociales? ¿Puede explicar cómo se lleva a cabo esta colaboración?**
 
@@ -69,8 +63,6 @@ Es entonces cuando _Maldita Hemeroteca_ se consolida. Funcionamos muy bien en re
 **R.** A los ciudadanos les diría que no lo compartan porque entonces el problema aumenta. **Si no tienen claro algo que les ha llegado, que consulten en medios en los que confían para comprobar la información.** Es decir, si no lo ves publicado en medios de tu confianza, no lo compartas.
 
 En cuanto a los medios de comunicación, creo que hay un problema, pero soy muy optimista. Creo que esto nos va a servir para que los periodistas recuperemos prestigio. ¿Cómo? Demostrándoles a los usuarios que por redes sociales hay mucha desinformación pero que en los medios se cuentan hechos probados. Si hay medios que consiguen crear esa impresión a la ciudadanía, lo están haciendo bien y acudirán a ese medio a informarse. El problema que tenemos es si en la lucha contra la posverdad utilizamos el _clickbait_, el rumor que nos llega… **Claro que hay problemas en los medios, pero la comunidad creerá en ti si haces un modelo de periodismo serio**. Para mí, la posverdad o la desinformación, como queramos llamarlo, es un problema pero también una oportunidad.
-
-![image alt text](/blog/images/shots/maldita_3.jpg)
 
 > “Los bulos en Internet demuestran a los usuarios que por redes sociales hay mucha desinformación pero que en los medios se cuentan hechos probados”
 

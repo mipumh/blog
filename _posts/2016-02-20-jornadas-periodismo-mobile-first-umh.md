@@ -41,7 +41,7 @@ Este es un avance del programa:
 
 [Ángel Anaya](https://twitter.com/Angel_Anaya), Revista Vis-á-Vis
 
-![]({{ site.baseurl }}/images/shots/folleto_jornadas.webp)
+![]({{ site.baseurl }}/images/shots/folleto_jornadas.jpg)
 
 **Miércoles 27 de abril**
 

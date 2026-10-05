@@ -52,7 +52,7 @@ En este contexto de disrupción, planteamos algunas ideas básicas sobre las que
 
 6. Periodismo infantil en formato app. Del mismo modo que algunas startups como Lingokids están consiguiendo grandes cantidades de financiación para conectar con los niños a través del entretenimiento en entornos móviles, hay oportunidades para seguir la estela desde un punto de vista informativo. En este ámbito, destaca la evolución de productos muy necesarios para el ecosistema, [como Jot Down Kids](https://kids.jotdown.es/), en España, o [Lilla Aktuellt y SvD Junior en Suecia.](https://mip.umh.es/blog/2025/04/25/medios-que-elaboran-noticias-para-nin-os-lilla-aktuellt-y-svd-junior-en-suecia/)
 
-   ![]({{ site.baseurl }}/images/001/svd-junior.png)
+   ![]({{ site.baseurl }}/images/001/svd-junior.jpg)
 
 7. Pódcasts interactivos. Medios con una gran base de información, como The New York Times o El País, podrían crear modelos de voz propios que inviten al usuario no solo a recibir información, sino a conversar con ella. Este producto se adaptaría a determinados momentos de consumo muy particulares, como la conducción, y también cumpliría una función social hacia determinados públicos, como las personas mayores que viven solas.
 

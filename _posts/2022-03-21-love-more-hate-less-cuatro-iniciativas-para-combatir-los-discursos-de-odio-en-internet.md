@@ -21,7 +21,7 @@ Internet se ha convertido en un caldo de cultivo para los discursos de odio. El 
 
 Los minijuegos se basan en la premisa de que la **alfabetización digital y la visibilización de las injusticias resultan clave en la lucha contra el odio**. El [Rondo del odio](https://play.nomorehaters.es/rondo), inspirado en el rosco de Pasapalabra, reta al usuario a adivinar conceptos y conductas relacionadas con la discriminación, el acoso o el odio. El segundo minijuego, titulado [Verdad o bulo](https://play.nomorehaters.es/cards), se centra en los bulos, noticias y contenidos manipulados que circulan en la red. El jugador debe **adivinar si se trata de una noticia real o una estrategia de desinformación**. Cada una de las tarjetas interactivas en las que se estructura el juego, incluye un enlace al contenido verificado por Maldita.es. Por último, en [Quizzz](https://play.nomorehaters.es/quiz) el usuario debe **ponerse en la piel de una víctima o testigo de conductas de odio**. La premisa es muy sencilla: ¿cómo actuarías?
 
-![]({{ site.baseurl }}/images/shots/gif_api.gif)
+<video src="{{ site.baseurl }}/images/shots/gif_api.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### **Perspective: una API contra la toxicidad en internet**
 
@@ -47,7 +47,7 @@ Una de las iniciativas más aplaudidas por los usuarios es su nueva política de
 
 Otra iniciativa interesante es su apuesta por el “contenido amable”. Con el objetivo de crear un ambiente positivo, centrado en la creatividad y el apoyo entre los usuarios, TikTok ha lanzado dos nuevas prestaciones que fomentan los discursos amables. La primera se trata de un sistema de filtrado de comentarios que **permite a los creadores de contenido bloquear o eliminar los comentarios no deseados**, así como establecer un filtro automático basado en palabras clave. La segunda, tiene como objetivo **hacer reflexionar a los usuarios que van a realizar comentarios ofensivos**. Para ello, tras realizar un análisis de contenido basado en palabras clave “hostiles”, pide al usuario que reconsidere su contenido antes de publicarlo.
 
-![]({{ site.baseurl }}/images/shots/captura-de-pantalla-2022-03-17-a-las-18.50.32.jpeg)
+![]({{ site.baseurl }}/images/shots/captura-de-pantalla-2022-03-17-a-las-18.50.32.jpg)
 
 ### **El compromiso de los medios: la importancia de la ética periodística**
 

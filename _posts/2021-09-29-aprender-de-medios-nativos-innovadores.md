@@ -82,7 +82,7 @@ Los más de 3,2 millones de seguidores en Facebook, 1,7 millones en Twitter y 1,
 
 Pictoline se ha consolidado mediante un modelo distribuido nativo que no pretende acumular tráfico ni conseguir suscriptores, sino generar un contenido lo más viral posible que le permita llegar al mayor número de usuarios. La popularidad de Pictoline proviene de su capacidad para recortar el exceso información disponible en internet, según su co-fundador Eduardo Salles. “La ilustración tiende a ser concebida como un complemento del texto, como un agregado agradable. Para nosotros, las imágenes son más que eso: nuestras ilustraciones son el contenido mismo”, [afirma Salles en declaraciones a IJNET](https://ijnet.org/es/story/el-modelo-de-pictoline-para-viralizar-la-informaci%C3%B3n). Emplean formatos muy variados: carteles, caricaturas políticas, animaciones, tarjetas, viñetas de estilo comic, infografías, GIFs y contenidos habilitados para la plataforma, como los anuncios por secuencia de Instagram.
 
-![]({{ site.baseurl }}/images/shots/pictoline-gif.gif)
+<video src="{{ site.baseurl }}/images/shots/pictoline-gif.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Pictoline cuenta con un equipo de 13 profesionales, incluyendo ilustradores, editores, periodistas, expertos en redes, desarrolladores y comerciales. Sus planes de futuro se orientan a la internacionalización: crecer en el mercado estadounidense, especialmente entre la audiencia hispana, así como expandirse en Brasil, China e India.
 

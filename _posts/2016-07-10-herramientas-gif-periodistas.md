@@ -56,12 +56,12 @@ La manipulación de vídeos, principalmente de Youtube, constituye probablemente
 #### [imgflip](https://imgflip.com/)
 Permite subir un vídeo del ordenador o extraerlo de cualquier URL, aunque con limitaciones de tiempo y tamaño en la versión gratuita. Además, ofrece la opción de crear GIF a partir de imágenes y también de elaborar Memes y gráficos de tarta de manera sencilla.
 
-![]({{ site.baseurl }}/images/shots/GIF%207.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%207.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 #### [imgur](http://imgur.com/)
 Incluye exactamente lo mismo, pero le otorga más relevancia a un timeline con algunas de las imágenes más virales del momento y una interfaz algo más compacta.
 
-![]({{ site.baseurl }}/images/shots/GIF%208.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%208.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 #### [gifrun](https://gifrun.com/)
 La capa social también adquiere aquí un peso notable, pero además permite realizar la operación contraria: crear un vídeo a partir de un GIF.
@@ -71,7 +71,7 @@ La capa social también adquiere aquí un peso notable, pero además permite rea
 #### [makeagif](https://makeagif.com/)
 Complementa todas estas opciones con la posibilidad de crear GIF a partir de un vídeo grabado directamente desde una webcam. Quizás tenga la interfaz más intuitiva. Aunque, como la mayoría, requiere registrarse (gratuito) para subir vídeos de más de hasta 20 segundos y con cierta calidad. Es la que se ha utilizado para crear los GIF de vídeo de este post.
 
-![]({{ site.baseurl }}/images/shots/GIF%2010.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2010.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### 3. Transformación de un GIF
 A menudo nos conformamos con escoger uno de los GIF que preseleccionan redes como Twitter, pero siempre podemos ir un poco más allá. Aquí destacamos tres opciones para intentarlo:
@@ -79,17 +79,17 @@ A menudo nos conformamos con escoger uno de los GIF que preseleccionan redes com
 #### [giphy](http://giphy.com/)
 También permite crear GIF a partir de imágenes o vídeos, pero su fuerte es la capa social. De hecho, está pensada como un repositorio en el que los usuarios encuentren su imagen a través de un buscador y diversas categorías. 
 
-![]({{ site.baseurl }}/images/shots/GIF%2011.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2011.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 #### [gifed]( https://gifed.net/)
 Auspiciada por Giphy, esta herramienta simplifica al máximo la creación de GIF a partir de la transformación de otros existentes. Sólo hay que buscar el GIF, añadirle algo de texto de menos de 40 caracteres y, si se quiere, adornarlo con música.
 
-![]({{ site.baseurl }}/images/shots/GIF%2012.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2012.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 #### [ezgif](http://ezgif.com/)
 Es probablemente el editor más avanzado, así que permite hacer casi todo lo que se ha anotado hasta aquí. El funcionamiento no es el más intuitivo, pero si se dispone de tiempo y de ideas, puede servir para crear GIF bastante profesionales.
 
-![]({{ site.baseurl }}/images/shots/GIF%2013.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2013.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### 4. Animación en movimiento
 En realidad, se trata de una variante del segundo tipo, el de los vídeos, pero merece la pena separarlo por su trascendencia en capos como el periodístico. Sobre todo, por la labor que están realizando proyectos con tanto empuje como [Pictoline](https://twitter.com/pictoline) y otros más recientes como [Newloopgifs](https://twitter.com/newloopgifs).
@@ -103,17 +103,17 @@ Muy sencilla y limitada, pero muy útil para hacer algo rápido como, por ejempl
 #### [powtoon](https://www.powtoon.com/)
 Se ha convertido en un clásico de la creación de animaciones. La versión gratuita limita los recursos y obliga a mostrar su marca de agua, pero la profesional puede resultar perfectamente asumible para un proyecto especializado o un medio que apueste por este tipo de innovación. Cuenta con plantillas prediseñadas para editar, aunque quizás su punto fuerte sea la gran cantidad de consejos y tutoriales que ofrece.
 
-![]({{ site.baseurl }}/images/shots/GIF%2014.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2014.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 #### [wideo](http://www.wideo.co/es)
 La interfaz, los precios y las posibilidades creativas son muy similares. Existe un plan gratuito que permite crear videos de hasta 45 segundos y, de nuevo, modalidades especiales para educación y empresas. En cualquier caso, quizás su mayor diferencia es que quizás posea una estética un poco más seria. Cuestión de gustos.
 
-![]({{ site.baseurl }}/images/shots/GIF%2015.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2015.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 #### [moovly](https://www.moovly.com/)
 Con unas prestaciones similares, su versión gratuita ofrece videos ilimitados de hasta 10 minutos, pero con un almacenamiento de 100 megas que solo permite guardar aproximadamente 20 archivos.
 
-![]({{ site.baseurl }}/images/shots/GIF%2016.gif)
+<video src="{{ site.baseurl }}/images/shots/GIF%2016.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Estas herramientas -y algunas más- se mencionan y explican en entradas publicadas en sitios como [Hipertextual](https://hipertextual.com/2015/04/crear-gifs-animados), [Whatsnew](http://wwwhatsnew.com/2016/07/02/4-paginas-web-para-crear-gifs-animados-de-forma-sencilla/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+WwwhatsNew+%28Wwwhat%27s+new%3F+-+Aplicaciones+Web+gratuitas%29) o [Clases de Periodismo](http://www.clasesdeperiodismo.com/2013/05/21/los-3-mejores-sitios-para-crear-gif-animados-en-linea/).
 

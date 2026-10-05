@@ -44,7 +44,7 @@ En estos poco más de 100 días, éste es el balance del Local Data Lab:
 
 * Y lo último, recién salido del horno: [otro análisis, de nuevo por secciones](https://localdatalab.umh.es/bipartidismo-elche/), pero esta vez de las Elecciones Municipales de 2007, 2011 y 2015, acompañado de un histórico completo de los resultados electorales en Elche.
 
-![image alt text]({{ site.baseurl }}/images/shots/localdata.gif)
+<video src="{{ site.baseurl }}/images/shots/localdata.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 ### ¿Qué repercusión ha tenido?
 

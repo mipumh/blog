@@ -19,7 +19,7 @@ Esta segunda entrega sobre las mejores narrativas de 2020 se centra en los forma
 
 El 25 de mayo de 2020, George Floyd, residente en Minneapolis, fue inmovilizado en el suelo por un policía blanco que presionó la rodilla contra su cuello durante más de ocho minutos y falleció. Floyd, un hombre negro de 46 años, era sospechoso de haber pasado un billete falso de 20 dólares. El policía implicado fue despedido y acusado de asesinato en tercer grado. Utilizando las imágenes de las cámaras de seguridad, las grabaciones de los servicios de emergencia y los vídeos de los teléfonos móviles, The Washington Post crea una línea de tiempo sobre los acontecimientos que precedieron inmediatamente a la muerte de Floyd. La minuciosa investigación reconstruye los hechos de forma muy meticulosa y arroja luz sobre lo ocurrido.
 
-![]({{ site.baseurl }}/images/shots/comic-expediente-tóxico.png)
+![]({{ site.baseurl }}/images/shots/comic-expediente-tóxico.jpg)
 
 ### [Expendiente tóxico](https://convoca.pe/expedientetoxico) | Convoca Perú
 

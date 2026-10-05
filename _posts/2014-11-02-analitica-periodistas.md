@@ -7,7 +7,7 @@ author:
   twitter: mik1977
   gplus: +MiquelPellicer 
   bio: Profesor Módulo Audiencias
-  image: mqp.jpeg
+  image: mqp.webp
   link: https://twitter.com/mik1977
 ---
 A menudo no son pocos los que me intentan vender motos de redes sociales, crecepelos que hacen subir la audiencia o ungüentos que restablecen la reputación digital a límites de gurú 2.0. Las herramientas digitales deben ser una parte importante de nuestra estrategia digital.

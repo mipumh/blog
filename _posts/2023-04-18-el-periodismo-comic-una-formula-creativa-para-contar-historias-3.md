@@ -62,7 +62,7 @@ En diciembre de 2016, el nativo digital peruano Ojo Público publicó **[“La g
 
 La Fundación para el Nuevo Periodismo Iberoamericano concedió el premio Gabriel García Márquez a la Innovación al reportaje en forma de cómic elaborado por el ilustrador y reportero Germán Andino que narra la vida de algunos pandilleros en Honduras. Publicado en El País en 2016, **[El hábito de la mordaza](https://elpais.com/especiales/2016/el-habito-de-la-mordaza/)** relata la violencia en Tegucigalpa mediante el reporterismo aplicado al cómic. Es la primera entrega de un proyecto periodístico sobre las pandillas en Honduras a través de historias personales que cobran vida a través de las viñetas. Andino experimenta con innovadoras formas de lectura y control narrativo, utilizando una tira cómica de casi 100 metros de longitud.
 
-![]({{ site.baseurl }}/images/shots/comic-el-correo-narrativas.jfif)
+![]({{ site.baseurl }}/images/shots/comic-el-correo-narrativas.jpg)
 
 **[La proposición sexual que terminó en crimen en Santurtzi](https://www.elcorreo.com/bizkaia/margen-izquierda/proposicion-deshonesta-crimen-santurtzi-20211003165023-nt.html)** reconstruye el homicidio de un hombre de 51 años en el Puerto que fue obra de tres chicos, uno menor, a los que ofreció dinero por sexo durante las fiestas de Semana Santa. Este trabajo de Ainhoa de las Heras y Josemi Benítez fue publicado en El Correo en septiembre de 2021 y muestra cómo el periodismo cómic puede utilizarse para narrar eficazmente historias con enfoque local.
 

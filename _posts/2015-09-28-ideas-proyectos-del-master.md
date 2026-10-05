@@ -25,4 +25,3 @@ Los siguientes son los ocho proyectos periodísticos nacidos en el MIP en el cur
 
 ¡Buen trabajo! Enhorabuena, suerte, hasta siempre…
 
-![Imagen: Algunos trabajos]({{ site.baseurl }}/images/shots/2015_TFM%20%282%29.JPG)

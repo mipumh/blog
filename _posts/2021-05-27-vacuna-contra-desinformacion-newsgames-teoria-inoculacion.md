@@ -36,7 +36,7 @@ Otro magnífico newsgame coproducido por DROG y la Universidad de Cambridge. En 
 
 El newsgame se centra en los procesos de desinformación llevados a cabo durante los procesos electorales. A través de un sistema basado en la toma de decisiones, los jugadores deben difundir información falsa y fomentar las divisiones internas en el pacífico vecindario de *Harmony Square*. Estructuradas en cuatro niveles, se muestran las cinco técnicasmás habituales a la hora de **difundir bulos de carácter político**: el troleo, el lenguaje emocional, la polarización de las audiencias, la difusión de teorías conspirativas y el uso de bots.
 
-![]({{ site.baseurl }}/images/shots/gif1.gif)
+<video src="{{ site.baseurl }}/images/shots/gif1.mp4" autoplay loop muted playsinline style="max-width:100%;height:auto;"></video>
 
 Al igual que en *Bad News*, los escenarios y situaciones son totalmente ficticios, aunque se basan en acontecimientos reales e incluyen referencias sutiles a eventos de actualidad.
 

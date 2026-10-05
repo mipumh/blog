@@ -17,7 +17,7 @@ En un posible diccionario sobre periodismo, si buscáramos la entrada "hombre or
 
 Pepe Rodríguez, o Brasín, como le conocen desde su Asturias natal, comenzó en periodismo por impulso. Sin pasar por la universidad y por diversas circunstancias vitales se inició en este mundillo como  corresponsal de La Nueva España en la comarca de Cangas de Narcea. Desde entonces, Brasín nunca dejó de hacer un pequeño programa de radio sobre deporte estadounidense, llamado ‘Sillonbol’ (45 minutos semanales) que publicaba en su blog.
 
-![image alt text]({{ site.baseurl }}/images/shots/pepediario_1.png)
+![image alt text]({{ site.baseurl }}/images/shots/pepediario_1.jpg)
 
 Tras esa primera experiencia, Pepe se traslada a Madrid para formar un equipo especializado en la NBA y NFL en Diario As. Asegura que fue su etapa más feliz y un momento clave en la génesis y consolidación de su proyecto actual.   "La imagen de As me ayudó a dar a conocer mi programa y a entrar en una comunidad que luego fue fundamental para consolidar **Pepe Diario**. Sin ese paso previo no hubiera podido levantar **Pepe Diario** tan rápido como lo hice", reconoce.
 

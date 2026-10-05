@@ -42,7 +42,7 @@ R. Es una pregunta compleja. La IA generativa tiene cualidades que podrían ayud
 
 Un modelo como Chat GPT puede interpretar artículos científicos y convertirlos en resúmenes accesibles, lo cual es una ventaja importante. Sin embargo, el buen uso de la IA requiere un enfoque ético y responsable, algo que todavía está en construcción.
 
-![image alt text]({{ site.baseurl }}/images/001/salaver_2.png)
+![image alt text]({{ site.baseurl }}/images/001/salaver_2.jpg)
 
 <sup> Thinkers 360. Compañías líderes en IA 
 

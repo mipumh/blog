@@ -11,7 +11,7 @@ author:
 ---
 El panorama es muy complejo. Las preocupaciones que despierta el impacto de la inteligencia artificial (IA) en el consumo informativo son evidentes. Si los usuarios cada vez consultan más información de actualidad en plataformas como ChatGPT o en las "overviews" de Google, resulta lógico pensar que las visitas a las páginas de los medios se van a volver a resentir. Las consecuencias podrían variar desde [la transformación del artículo tal y como lo conocemos](https://www.niemanlab.org/2025/05/nordic-ai-in-media-summit-2025/) hasta [el resurgimiento de las grandes cabeceras](https://reportaro.substack.com/p/la-ia-esta-cambiando-el-statu-quo?utm_source=post-email-title&publication_id=350471&post_id=164998501&utm_campaign=email-post-title&isFreemail=true&r=i321q&triedRedirect=true&utm_medium=email). De eso, y de aspectos clave para la profesión como las encrucijadas ante los acuerdos de las cabeceras y los gigantes tecnológicos, espero hablar en algún momento con la profundidad que requiere. También seguiremos aportando claves sobre el uso de estas herramientas en la parte más visible del trabajo periodístico, como las imágenes o el vídeo. 
 
-![image alt text]({{ site.baseurl }}/images/001/ia_centro_0.png)
+![image alt text]({{ site.baseurl }}/images/001/ia_centro_0.jpg)
 
 <sup>Imagen generada con ChatGPT
 
@@ -60,7 +60,7 @@ Pero estos avances no se producen sólo en grandes redacciones, sino también po
 
 Y la IA también puede servir para mejorar la organización interna en las redacciones o incluso la colaboración entre medios. La Matriz DART —acrónimo de datos, algoritmos, recetas y formación—, otra vez de Big Local News, sirve para [conectar a las redacciones](https://www.newsroomrobots.com/p/how-ai-is-uncovering-hidden-stories) con los recursos más adecuados según sus capacidades existentes. 
 
-![image alt text]({{ site.baseurl }}/images/001/ia_centro_4.png)
+![image alt text]({{ site.baseurl }}/images/001/ia_centro_4.jpg)
 
 <sup>Imagen generada con ChatGPT
 

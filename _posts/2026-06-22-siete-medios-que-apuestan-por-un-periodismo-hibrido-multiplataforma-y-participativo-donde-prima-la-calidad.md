@@ -7,7 +7,7 @@ author:
 ---
 En los últimos años han surgido medios nativos digitales capaces de conectar con nuevas audiencias mediante el uso de narrativas visuales, formatos breves para redes sociales, periodismo de investigación y estrategias editoriales que apuestan por la explicación y el contexto. Sus periodistas han comprendido que las audiencias demandan información comprensible y relevante, en un lenguaje apropiado. Estas iniciativas, en distintas regiones del mundo, han logrado consolidarse gracias a modelos editoriales innovadores que combinan credibilidad, creatividad narrativa y cercanía con sus comunidades. Algunos priorizan el periodismo visual para públicos jóvenes; otros fortalecen el periodismo de investigación independiente; y varios han construido comunidades de lectores. Este artículo analiza siete medios innovadores de América y Europa: Straight Arrow News (Estados Unidos); Konbini, Le Crayon y Les Jours (Francia); CIPER (Chile); Minuto 60 (Colombia) y La Voz de Guanacaste (Costa Rica). A través de sus propuestas, buscan recuperar la confianza ciudadana, ampliar la participación pública y responder a las demandas informativas en la sociedad hiperconectada.
 
-![]({{site.baseurl}}/images/001/logos.png)
+![]({{site.baseurl}}/images/001/logos.jpg)
 
 **Straight Arrow News: buscar la imparcialidad en la era de la polarización**
 

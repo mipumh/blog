@@ -35,7 +35,7 @@ También crece el número de medios europeos que apuestan por la automatización
 
 La agencia estatal de noticias china **Xinhua** lanzó en 2018 un presentador de noticias robótico, "libre de ego y siempre listo para trabajar". Esta simulación se creó modelando informáticamente la identidad del robot, a partir de las voces, los movimientos de labios y las expresiones de los presentadores reales de la agencia de noticias. Las primeras versiones tienden a mostrar una falta de calidez y cierto automatismo, pero los ingenieros ya trabajan para dotarles de mayor humanidad y sentido del humor.
 
-![]({{ site.baseurl }}/images/shots/gif-presentador-chino.gif "Presentador virtual de la agencia estatal de noticias china Xinhua.")
+<video src="{{ site.baseurl }}/images/shots/gif-presentador-chino.mp4" autoplay loop muted playsinline title="Presentador virtual de la agencia estatal de noticias china Xinhua." style="max-width:100%;height:auto;"></video>
 
 Las investigaciones muestran que los procesos robotizados en la producción de noticias facilitan una mayor eficiencia en el trabajo mediante la automatización de las tareas rutinarias más monótonas y propensas a errores. Sin embargo, también generan nuevos retos de aprendizaje, ya que plantean formas de trabajo innovadoras, que requieren el uso del pensamiento computacional. En 2018, **el 72% de los editores dijeron que estaban experimentando con IA**. En 2019 asistimos un mayor despliegue en las redacciones, en tres ámbitos principales, [según el Reuters Digital News Report](http://www.digitalnewsreport.org/):
 
