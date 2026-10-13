@@ -1,11 +1,10 @@
 ---
 layout: post
-published: false
 title: La marca, un activo infrautilizado por el periodismo
 author:
   name: Cristian R. Marín
 ---
-![](/blog/images/001/crms74_imagen_a_massive_branding_campaign_for_a_newspaper_com_719ab30d-5bc1-4ab7-ac77-28e24882eae1_3.png)
+![](/blog/images/001/marca-periodismo-branding.jpg)
 
 ¿Te gusta conducir? Just do it. Bienvenido a la república independiente de tu casa. Be water, my friend. ¿Reconoces estas frases? Es probable que te hayan venido a la mente BMW, Nike e IKEA, empresas que suelen ser ejemplos de marcas muy reconocibles y duraderas. Y lo cierto es que, en esas campañas, ninguna de ellas habla de coches, zapatillas o muebles: construyen imaginarios que conectan a las empresas con su público. 
 
