@@ -57,6 +57,38 @@ jobs:
           grep -iE '\.png$' /tmp/changed_images.txt | \
             xargs -r -d '\n' -P 4 -I {} mogrify -strip -resize '1400x>' -define png:compression-level=9 "{}" || true
 
+      - name: Convertir a JPG los PNG que siguen pesando
+        run: |
+          # Un PNG fotográfico (los que genera el CMS, o los de IA) no adelgaza
+          # con -strip: hay que cambiar de formato. Se convierte solo si pesa
+          # más de 400 KB y no tiene transparencia, y se actualiza la
+          # referencia en los posts para no dejar la imagen rota.
+          while IFS= read -r f; do
+            case "$f" in *.png|*.PNG) ;; *) continue ;; esac
+            [ -f "$f" ] || continue
+            size=$(stat -c%s "$f")
+            [ "$size" -le 409600 ] && continue
+            if [ "$(identify -format '%[opaque]' "$f" 2>/dev/null)" != "True" ]; then
+              echo "::warning file=$f::Tiene transparencia: se deja en PNG."
+              continue
+            fi
+            dst="${f%.*}.jpg"
+            if [ -e "$dst" ]; then
+              echo "::warning file=$f::Ya existe $dst, no se convierte."
+              continue
+            fi
+            convert "$f" -strip -resize '1400x>' -quality 85 -interlace Plane "$dst"
+            base_png=$(basename "$f"); base_jpg=$(basename "$dst")
+            # Sustituye el nombre del fichero en los posts que lo referencian
+            grep -rl --include='*.md' "$base_png" _posts 2>/dev/null | while IFS= read -r post; do
+              sed -i "s|${base_png}|${base_jpg}|g" "$post"
+              echo "Referencia actualizada en $post"
+            done
+            git rm -q --cached "$f" >/dev/null 2>&1 || true
+            rm -f "$f"
+            echo "$f ($((size/1024)) KB) -> $dst ($(( $(stat -c%s "$dst") /1024)) KB)"
+          done < /tmp/changed_images.txt
+
       - name: Optimizar WebP
         run: |
           grep -iE '\.webp$' /tmp/changed_images.txt | \
@@ -94,7 +126,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/
+          git add images/ _posts/
           if git diff --staged --quiet; then
             echo "No hay imágenes que optimizar."
             exit 0
