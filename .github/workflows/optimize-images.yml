@@ -2,9 +2,17 @@ name: Optimizar imágenes
 
 on:
   push:
-    branches: [gh-pages]
+    # Las ramas cms/** son las que crea el CMS al preparar una entrada:
+    # ahí el bot sí puede escribir, así que la imagen llega ya optimizada
+    # al merge. gh-pages se mantiene para las subidas hechas a mano.
+    branches:
+      - gh-pages
+      - 'cms/**'
     paths:
       - 'images/**'
+
+permissions:
+  contents: write
 
 jobs:
   optimize:
@@ -74,6 +82,11 @@ jobs:
             exit 0
           fi
           git commit -m "Optimizar imágenes subidas"
-          # Sin '|| true': si el push falla (p. ej. protección de rama),
-          # el workflow debe ponerse en rojo en vez de perder la optimización.
-          git push
+          # Sin '|| true': si el push falla, el workflow se pone en rojo en
+          # vez de perder la optimización en silencio.
+          if ! git push origin "HEAD:refs/heads/${GITHUB_REF_NAME}"; then
+            if [ "${GITHUB_REF_NAME}" = "gh-pages" ]; then
+              echo "::error::gh-pages está protegida y el bot no puede escribir en ella. Las imágenes subidas por el CMS se optimizan solas en su rama cms/**; para una subida directa a gh-pages, optimiza en local u otorga bypass a github-actions[bot]."
+            fi
+            exit 1
+          fi
