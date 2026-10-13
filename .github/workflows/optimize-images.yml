@@ -62,6 +62,24 @@ jobs:
           grep -iE '\.webp$' /tmp/changed_images.txt | \
             xargs -r -d '\n' -P 4 -I {} mogrify -strip -quality 85 -resize '1400x>' "{}" || true
 
+      - name: Descartar reoptimizaciones que no ahorran nada
+        run: |
+          # mogrify reescribe el fichero aunque no haya nada que ganar, así que
+          # una imagen ya optimizada volvería a recomprimirse en cada pasada
+          # (pérdida generacional) y generaría commits vacíos. Si el ahorro no
+          # llega al 5%, se recupera la versión original.
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            git diff --quiet -- "$f" && continue
+            new_size=$(stat -c%s "$f")
+            old_size=$(git cat-file -s "$(git rev-parse HEAD:"$f")" 2>/dev/null || echo 0)
+            [ "$old_size" -eq 0 ] && continue
+            if [ "$new_size" -gt $((old_size * 95 / 100)) ]; then
+              echo "Sin ahorro apreciable en $f ($((old_size/1024)) KB -> $((new_size/1024)) KB): se deja como estaba."
+              git checkout -- "$f"
+            fi
+          done < /tmp/changed_images.txt
+
       - name: Avisar de imágenes que siguen pesando más de 1 MB
         run: |
           while IFS= read -r f; do
