@@ -68,16 +68,25 @@ jobs:
             [ -f "$f" ] || continue
             size=$(stat -c%s "$f")
             [ "$size" -le 409600 ] && continue
-            if [ "$(identify -format '%[opaque]' "$f" 2>/dev/null)" != "True" ]; then
-              echo "::warning file=$f::Tiene transparencia: se deja en PNG."
-              continue
+            # ImageMagick 6 (el del runner) responde en minúsculas y el 7 en
+            # mayúsculas, así que se normaliza; si la respuesta no es clara se
+            # mira el canal alfa antes de descartar la conversión.
+            opaque=$(identify -format '%[opaque]' "$f" 2>/dev/null | tr '[:upper:]' '[:lower:]')
+            if [ "$opaque" != "true" ]; then
+              channels=$(identify -format '%[channels]' "$f" 2>/dev/null | tr '[:upper:]' '[:lower:]')
+              case "$channels" in
+                *a)
+                  echo "::warning file=$f::Tiene transparencia: se deja en PNG."
+                  continue
+                  ;;
+              esac
             fi
             dst="${f%.*}.jpg"
             if [ -e "$dst" ]; then
               echo "::warning file=$f::Ya existe $dst, no se convierte."
               continue
             fi
-            convert "$f" -strip -resize '1400x>' -quality 85 -interlace Plane "$dst"
+            convert "$f" -background white -alpha remove -alpha off -strip -resize '1400x>' -quality 85 -interlace Plane "$dst"
             base_png=$(basename "$f"); base_jpg=$(basename "$dst")
             # Sustituye el nombre del fichero en los posts que lo referencian
             grep -rl --include='*.md' "$base_png" _posts 2>/dev/null | while IFS= read -r post; do
