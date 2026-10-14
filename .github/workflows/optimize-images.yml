@@ -14,6 +14,12 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  # El CMS hace varios push seguidos mientras se edita la entrada; basta con
+  # que se optimice el último estado de la rama.
+  group: optimizar-imagenes-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   optimize:
     if: github.actor != 'github-actions[bot]'
@@ -143,9 +149,24 @@ jobs:
           git commit -m "Optimizar imágenes subidas"
           # Sin '|| true': si el push falla, el workflow se pone en rojo en
           # vez de perder la optimización en silencio.
-          if ! git push origin "HEAD:refs/heads/${GITHUB_REF_NAME}"; then
+          # Si el CMS ha vuelto a escribir en la rama mientras optimizábamos,
+          # el push se rechaza: hay que reincorporar su trabajo y reintentar.
+          pushed=0
+          for intento in 1 2 3; do
+            if git push origin "HEAD:refs/heads/${GITHUB_REF_NAME}"; then
+              pushed=1
+              break
+            fi
+            echo "Push rechazado (intento $intento). Reincorporando los cambios de la rama..."
+            if ! git pull --rebase origin "${GITHUB_REF_NAME}"; then
+              git rebase --abort 2>/dev/null || true
+              echo "::error::No se pudo reincorporar el trabajo de la rama; la optimización se reintentará en el siguiente push."
+              break
+            fi
+          done
+          if [ "$pushed" -ne 1 ]; then
             if [ "${GITHUB_REF_NAME}" = "gh-pages" ]; then
-              echo "::error::gh-pages está protegida y el bot no puede escribir en ella. Las imágenes subidas por el CMS se optimizan solas en su rama cms/**; para una subida directa a gh-pages, optimiza en local u otorga bypass a github-actions[bot]."
+              echo "::error::gh-pages está protegida y el bot no puede escribir en ella. Las imágenes del CMS se optimizan en su rama cms/**; para una subida directa a gh-pages, optimiza en local u otorga bypass a github-actions[bot]."
             fi
             exit 1
           fi
