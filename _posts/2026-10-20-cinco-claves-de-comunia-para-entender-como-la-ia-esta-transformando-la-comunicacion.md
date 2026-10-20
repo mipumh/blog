@@ -15,7 +15,7 @@ La IA ha dejado de ser una promesa de futuro para integrarse en la forma en que 
 
 Para Jon Hernández, divulgador de IA, la pregunta no es  qué empleos desaparecerán, sino qué nuevas oportunidades laborales surgirán a partir de esta transformación. A lo largo de la historia, cada avance tecnológico ha eliminado determinadas tareas y generado otras nuevas. La IA  no es una excepción. A medida que se automatizan actividades cada vez más complejas, **ganan relevancia competencias como el criterio profesional, la capacidad de adaptación o el pensamiento crítico.** Más que competir con la tecnología, el desafío consiste en identificar dónde podemos seguir aportando valor. Y aquí es donde el ser humano siempre ha destacado: "Los humanos somos increíblemente buenos inventando nuevos trabajos que aporten valor", asegura Jon. 
 
-![](/blog/images/001/foto2.jpg "Jon Hernández durante su ponencia en Eureka! Música y Ciencia")
+![](/blog/images/001/foto2.jpg)
 
 Jon Hernández durante su ponencia en Eureka! Música y Ciencia
 
@@ -25,7 +25,7 @@ A medida que las herramientas de IA  se vuelven más accesibles, **la diferencia
 
 La tecnología, por sí sola, no garantiza mejores resultados. Una buena herramienta puede ayudar a desarrollar una idea brillante, pero también acelerar la producción de contenidos irrelevantes o decisiones poco acertadas. La diferencia sigue estando en las personas: **su experiencia, su conocimiento del contexto y su capacidad para formular las preguntas adecuadas**. Por ello, las organizaciones que obtengan mayor beneficio de la IA no serán necesariamente las que tengan acceso a más herramientas, sino aquellas capaces de combinarlas con estrategia, conocimiento y criterio profesional. Como explica José Luis Martínez, Responsable de Comunicación Digital en Veolia, "la IA puede automatizar tareas, identificar patrones o proponer soluciones, pero la supervisión y la creatividad continúan siendo responsabilidad de las personas".
 
-![](/blog/images/001/foto3.jpg "Raquel Martínez, José Luís Martínez, Andrés Karp y Esperanza Blanc (de izquierda a derecha), en su participación en la mesa redonda moderada por Itziar Martínez")
+![](/blog/images/001/foto3.jpg)
 
 Raquel Martínez, José Luís Martínez, Andrés Karp y Esperanza Blanc (de izquierda a derecha), en su participación en la mesa redonda moderada por Itziar Martínez
 
