@@ -46,5 +46,5 @@ collections:
           - { label: "Bio", name: "bio", widget: "string", required: false }
           - { label: "Imagen", name: "image", widget: "string", required: false }
           - { label: "Enlace", name: "link", widget: "string", required: false }
-      - { label: "Imagen de portada", name: "cover_image", widget: "string", required: false, hint: "Nombre del archivo (ej: portada.webp)" }
+      - { label: "Imagen de portada", name: "cover_image", widget: "string", required: false, hint: "Ruta dentro de images (ej: 001/portada.jpg). No olvides el 001/" }
       - { label: "Contenido", name: "body", widget: "markdown" }

@@ -57,6 +57,13 @@ a {
     
     .image {
         width: 100%;
+        // Sin altura propia la imagen crecía con el ancho y el contenedor la
+        // recortaba por abajo, dejando a la vista solo la franja superior.
+        // Con object-fit se recorta por igual arriba y abajo, centrada.
+        height: clamp(220px, 38vw, 460px);
+        object-fit: cover;
+        object-position: center center;
+        display: block;
         top: 0;
         position:relative;
     }

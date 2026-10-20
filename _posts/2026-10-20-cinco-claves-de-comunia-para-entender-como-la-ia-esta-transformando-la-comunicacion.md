@@ -1,11 +1,10 @@
 ---
 layout: post
-published: false
 title: Cinco claves de ComunIA para entender cómo la IA está transformando la
   comunicación
 author:
   name: Alba García Ortega
-cover_image: foto1.jpg
+cover_image: 001/foto1.jpg
 ---
 El 16 de octubre más de 500 profesionales y representantes de empresas participaron en la jornada de apertura de [ComunIA](https://comunia.umh.es/), el nuevo Centro de Comunicación e Inteligencia Artificial de la Universidad Miguel Hernández. Una jornada donde compartir experiencias, descubrir nuevas aplicaciones de IA y debatir sobre los retos que plantea para organizaciones y profesionales. Más allá de las herramientas, el encuentro dejó algo especialmente valioso: preguntas, reflexiones y nuevas formas de entender el trabajo, la creatividad y el aprendizaje. En este artículo recogemos algunas de las ideas que marcaron la conversación.
 
@@ -17,7 +16,7 @@ Para Jon Hernández, divulgador de IA, la pregunta no es  qué empleos desaparec
 
 ![](/blog/images/001/foto2.jpg)
 
-Jon Hernández durante su ponencia en Eureka! Música y Ciencia
+<sup>Jon Hernández durante su ponencia en Eureka! Música y Ciencia
 
 ### 2. La importancia del factor humano
 
@@ -27,7 +26,7 @@ La tecnología, por sí sola, no garantiza mejores resultados. Una buena herrami
 
 ![](/blog/images/001/foto3.jpg)
 
-Raquel Martínez, José Luís Martínez, Andrés Karp y Esperanza Blanc (de izquierda a derecha), en su participación en la mesa redonda moderada por Itziar Martínez
+<sup>Raquel Martínez, José Luís Martínez, Andrés Karp y Esperanza Blanc (de izquierda a derecha), en su participación en la mesa redonda moderada por Itziar Martínez
 
 En esta misma línea, Esperanza Blanc, presidenta de la Asociación 361º, advierte del riesgo que supone el uso generalizado de la inteligencia artificial en los procesos creativos. Si millones de personas utilizan las mismas herramientas, modelos y referentes, podemos caer en un estado de homogeneización creativa. Precisamente por eso, sostiene, **la creatividad es más importante que nunca**. Aunque nos apoyemos en herramientas de inteligencia artificial, elegir un enfoque, comprender a una comunidad o encontrar una idea original seguirán siendo tareas donde el factor humano tendrá un papel clave.
 

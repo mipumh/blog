@@ -1,6 +1,16 @@
 [build]
   publish = "admin"
 
+# El sitio de Netlify solo publica la carpeta admin, así que las rutas de las
+# imágenes (/blog/images/...) no existen aquí y la regla comodín de abajo les
+# devolvía el HTML del editor. Resultado: en la vista previa del CMS las
+# imágenes salían rotas. Esta regla las sirve desde el sitio real.
+[[redirects]]
+  from = "/blog/images/*"
+  to = "https://mip.umh.es/blog/images/:splat"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
