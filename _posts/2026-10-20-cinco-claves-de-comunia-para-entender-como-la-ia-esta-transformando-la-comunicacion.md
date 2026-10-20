@@ -43,7 +43,7 @@ Esta realidad también está modificando la relación de los profesionales con s
 
 Generar textos e imágenes con IA es cada vez más sencillo. Saber si los resultados son correctos, pertinentes o fiables, es otra cuestión. De acuerdo con Alicia de Lara, Directora del Departamento de Ciencias Sociales y Humanas (UMH), la expansión de la IA plantea una paradoja interesante: “Cuanto más avanza la IA , más se necesita esa capacidad humana de mantener el rigor”. Una situación que refuerza el papel de los profesionales como verificadores e intérpretes de la información. 
 
-![](/blog/images/001/foto4.png)
+![](/blog/images/001/foto4.jpg)
 
 Sin embargo, esta preocupación no se limita a los contenidos. También afecta a los datos con los que trabajan los modelos. José Luis Martínez insiste en que "la gobernanza del dato, que sea de calidad, seguro y que llegue en las condiciones adecuadas al usuario” es fundamental. A medida que la inteligencia artificial se integra en más procesos de trabajo, **las organizaciones deben comenzar a preguntarse qué información utilizan, cómo la procesan y quién mantiene el control sobre ella**. Se trata de garantizar que los datos sobre los que se construyen sean fiables y estén alineados con las necesidades de cada organización. 
 
