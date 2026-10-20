@@ -5,7 +5,7 @@ title: Cinco claves de ComunIA para entender cómo la IA está transformando la
   comunicación
 author:
   name: Alba García Ortega
-cover_image: foto1.jpg
+cover_image: ""
 ---
 El 16 de octubre más de 500 profesionales y representantes de empresas participaron en la jornada de apertura de [ComunIA](https://comunia.umh.es/), el nuevo Centro de Comunicación e Inteligencia Artificial de la Universidad Miguel Hernández. Una jornada donde compartir experiencias, descubrir nuevas aplicaciones de IA y debatir sobre los retos que plantea para organizaciones y profesionales. Más allá de las herramientas, el encuentro dejó algo especialmente valioso: preguntas, reflexiones y nuevas formas de entender el trabajo, la creatividad y el aprendizaje. En este artículo recogemos algunas de las ideas que marcaron la conversación.
 
@@ -43,7 +43,7 @@ Esta realidad también está modificando la relación de los profesionales con s
 
 Generar textos e imágenes con IA es cada vez más sencillo. Saber si los resultados son correctos, pertinentes o fiables, es otra cuestión. De acuerdo con Alicia de Lara, Directora del Departamento de Ciencias Sociales y Humanas (UMH), la expansión de la IA plantea una paradoja interesante: “Cuanto más avanza la IA , más se necesita esa capacidad humana de mantener el rigor”. Una situación que refuerza el papel de los profesionales como verificadores e intérpretes de la información. 
 
-![](/blog/images/001/foto4.jpg)
+![](/blog/images/001/foto4.png)
 
 Sin embargo, esta preocupación no se limita a los contenidos. También afecta a los datos con los que trabajan los modelos. José Luis Martínez insiste en que "la gobernanza del dato, que sea de calidad, seguro y que llegue en las condiciones adecuadas al usuario” es fundamental. A medida que la inteligencia artificial se integra en más procesos de trabajo, **las organizaciones deben comenzar a preguntarse qué información utilizan, cómo la procesan y quién mantiene el control sobre ella**. Se trata de garantizar que los datos sobre los que se construyen sean fiables y estén alineados con las necesidades de cada organización. 
 
