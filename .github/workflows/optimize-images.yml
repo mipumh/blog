@@ -137,7 +137,23 @@ jobs:
             fi
           done < /tmp/changed_images.txt
 
+      - name: En gh-pages solo avisar, no escribir
+        if: github.ref_name == 'gh-pages'
+        run: |
+          # El bot no puede escribir en gh-pages (rama protegida) y el CMS ya
+          # trae sus imágenes optimizadas desde la rama cms/**. Intentar el
+          # push aquí solo producía un fallo en rojo en cada merge, así que
+          # este paso informa de lo que quedaría por hacer y termina en verde.
+          if git diff --quiet; then
+            echo "Nada que optimizar: las imágenes llegaron ya ligeras."
+          else
+            echo "::notice::Estas imágenes admitirían algo más de optimización, pero llegaron por un push directo a gh-pages. Si quieres apurarlas, hazlo en local:"
+            git diff --name-only | sed 's/^/  /'
+          fi
+          git checkout -- . 2>/dev/null || true
+
       - name: Commit si hay cambios
+        if: github.ref_name != 'gh-pages'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

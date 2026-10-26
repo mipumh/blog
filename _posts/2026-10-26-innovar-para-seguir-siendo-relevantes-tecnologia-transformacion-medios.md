@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Innovar para seguir siendo relevantes. La tecnología como motor de
   transformación de los medios de comunicación
 author:
-  name: Jose A. García Avilés
+  name: David Corral
 ---
 La transformación tecnológica de los medios no comenzó con la inteligencia artificial ni terminará con ella. Desde el nacimiento de la imprenta hasta las tecnologías punteras de nuestros días, la innovación ha sido decisiva para adaptar los medios a la demanda de las audiencias, para ampliar el alcance de la información, mejorar su calidad y acercarla a la ciudadanía. El reto actual consiste en aprovechar todas esas posibilidades sin perder de vista lo esencial, el periodismo, las personas y el derecho a acceder a una información y contenidos fiables, plurales y de calidad.
 
