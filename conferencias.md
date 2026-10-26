@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferencias · Curso 2020-2021
+title: Conferencias · Archivo 2020-2021
 author:
   name: Máster
   twitter: mipumh
@@ -10,6 +10,8 @@ author:
   link: https://twitter.com/mipumh
 permalink: /conferencias/
 ---
+
+<p class="lead">Archivo de las conferencias de 2020/21. Todos los profesionales invitados al máster, por curso y asignatura, están en <a href="https://mip.umh.es/nos-visitan.html">Nos visitan</a>.</p>
 
 {% for conferencias in site.conferencias reversed %}
 

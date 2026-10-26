@@ -1,0 +1,19 @@
+# Menú común de mip.umh.es y de la revista (/blog). Mantener igual en ambos repos.
+- titulo: Inicio
+  url: /
+- titulo: Plan de estudios
+  url: /planestudios.html
+- titulo: Profesorado
+  url: /profesores.html
+- titulo: Nos visitan
+  url: /nos-visitan.html
+- titulo: Prácticas
+  url: /practicas.html
+- titulo: Egresados
+  url: /egresados.html
+- titulo: Admisión
+  url: /preinscripcion.html
+- titulo: Calidad
+  url: /calidad.html
+- titulo: Revista
+  url: /blog/
