@@ -2,8 +2,8 @@
 <html lang="es">
 
 <head>
+    <meta charset="utf-8">
     {% include _author-resolve.html %}
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% include _seo.html %}
     <meta name="theme-color" content="#0b0b0b">
@@ -16,32 +16,26 @@
 
     <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
 
-    <!-- Facebook Pixel Code -->
+    {%- comment -%}Píxeles de Facebook y X: solo con las cookies aceptadas (aviso de analytics.html){%- endcomment %}
     <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '1696018580661964');
-    fbq('track', "PageView");</script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=1696018580661964&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-
-    <!-- Twitter universal website tag code -->
-    <script>
-    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
-    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
-    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
-    s.parentNode.insertBefore(t,s))}(window,document,'script');
-    // Insert Twitter Pixel ID and Standard Event data below
-    twq('init','nv7bp');
-    twq('track','PageView');
+    (function () {
+      var ok = null; try { ok = localStorage.getItem('mip-cookies'); } catch (e) {}
+      if (ok !== 'si') return;
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1696018580661964');
+      fbq('track', 'PageView');
+      !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+      a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+      t.async=!0,t.src='https://static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+      s.parentNode.insertBefore(t,s))}(window,document,'script');
+      twq('init','nv7bp');
+      twq('track','PageView');
+    })();
     </script>
-    <!-- End Twitter universal website tag code -->
 
     {% include _jsonld.html %}
 </head>
