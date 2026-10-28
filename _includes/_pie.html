@@ -1,0 +1,41 @@
+{%- comment -%}Pie común con mip.umh.es (copia de su _includes/footer.html): pie negro en columnas, ISSN, logo UMH y «Configurar cookies».{%- endcomment -%}
+{%- assign web = site.inc.url -%}
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-lg-5">
+        <p class="footer-title">{{ site.inc.title }}</p>
+        <p class="small">ISSN 3020-383X · Edita: Área de Periodismo, departamento de Ciencias Sociales y Humanas, Universidad Miguel Hernández de Elche (España).</p>
+        <p class="small">Publicación del <a href="{{ web }}/">Máster Universitario en Innovación en Periodismo</a>.</p>
+      </div>
+      <div class="col-xs-6 col-lg-3">
+        <p class="footer-title">El máster</p>
+        <ul class="list-unstyled small">
+          {%- for item in site.data.navigation offset: 1 %}
+          {%- if item.url contains "://" %}{% assign href = item.url %}{% else %}{% capture href %}{{ web }}{{ item.url }}{% endcapture %}{% endif %}
+          <li><a href="{{ href }}">{{ item.titulo }}</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+      <div class="col-xs-6 col-lg-4">
+        <p class="footer-title">La revista</p>
+        <ul class="list-unstyled small">
+          <li><a href="{{ site.baseurl }}/about/">¿Quiénes somos?</a></li>
+          <li><a href="{{ site.baseurl }}/archivo.html">Archivo</a></li>
+          <li><a href="{{ site.baseurl }}/buscar/">Buscar en la revista</a></li>
+          <li><a href="{{ web }}/calidad/">Calidad y transparencia</a></li>
+        </ul>
+        <p class="small social">
+          <a href="https://twitter.com/{{ site.inc.twitter }}" aria-label="X / Twitter">{% include _icono.html n="x" s=20 %}</a>
+          <a href="https://www.facebook.com/{{ site.inc.facebook }}" aria-label="Facebook">{% include _icono.html n="facebook" s=20 %}</a>
+          <a href="{{ site.baseurl }}/feed.xml" aria-label="RSS de la revista">{% include _icono.html n="rss" s=20 %}</a>
+        </p>
+      </div>
+    </div>
+    <div class="footer-bottom small">
+      <a class="foot-umh" href="https://www.umh.es/"><img src="{{ site.baseurl }}/images/logo-umh.png" alt="Universidad Miguel Hernández" width="130" height="36" loading="lazy" decoding="async"></a>
+      <span>&copy; {{ site.time | date: "%Y" }} Universidad Miguel Hernández de Elche</span>
+      {% if site.inc.analytics.ga4 and site.inc.analytics.ga4 != "" %}<a href="#cookies" data-abrir-cookies>Configurar cookies</a>{% endif %}
+    </div>
+  </div>
+</footer>

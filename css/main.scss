@@ -21,24 +21,29 @@ category: nomap
 }
 
 
-// CONFIGURATION
+// CONFIGURACIÓN: colores y tipografías de mip.umh.es (../mipumh.github.io/css/main.scss)
+$ink: #0b0b0b;
+$paper: #ffffff;
+$mint: #3df0c4;
+$mint-soft: #e3fcf5;
+$gray-bg: #f5f6f5;
+$muted: #5f6672;
+$line: #e4e7e5;
 
-// Bodytext font
-$font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-// Font for headings
-$fontheadings: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Texto en Inter; titulares en Inter Tight
+$font: "Inter", "Helvetica Neue", Helvetica, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+$fontheadings: "Inter Tight", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 // Text colors
-$text: #21272d;
-$textmuted: #848484;
-$accent: #2077b2;
+$text: $ink;
+$textmuted: $muted;
+$accent: $ink;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "bootstrap",
         "base",
-	"nav",
 	"article",
 	"icons",
-	"responsive";
+	"responsive",
+	"mip";

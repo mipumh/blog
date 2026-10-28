@@ -1,0 +1,229 @@
+// Coherencia con mip.umh.es: colores, titulares, menú, pie y portada.
+// Referencia: ../mipumh.github.io/css/main.scss. Va al final para imponerse a las hojas antiguas.
+
+body {
+    background: $paper;
+    color: $ink;
+    font-family: $font;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $fontheadings;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    line-height: 1.08;
+    color: $ink;
+}
+h4, h5, h6 { font-weight: 700; letter-spacing: -0.01em; }
+
+// Enlaces en negro con subrayado menta: el menta nunca es color de texto
+a {
+    color: $ink;
+    text-decoration: underline;
+    text-decoration-color: $mint;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    &:hover, &:focus { color: $ink; text-decoration: underline; text-decoration-color: $ink; }
+}
+.btn, .card a, .list-group-item { text-decoration: none; }
+
+:focus-visible { outline: 3px solid $ink; outline-offset: 2px; }
+
+.muted, .text-muted { color: $muted !important; }
+
+.eyebrow {
+    font-size: .78rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: $muted; margin-bottom: .5rem;
+}
+
+// Botones: negro sobre blanco o menta con texto negro; bordes muy redondeados
+.btn {
+    font-family: $font;
+    text-transform: none;
+    border-radius: 999px;
+    font-weight: 600;
+    padding: .55rem 1.25rem;
+    background: $ink;
+    border: 1px solid $ink;
+    color: $paper;
+    &:hover, &:focus { background: #2a2a2a; border-color: #2a2a2a; color: $paper; text-decoration: none; }
+}
+.btn-outline {
+    background: $paper;
+    color: $ink;
+    border: 1px solid $ink;
+    font-size: .95rem;
+    &:hover, &:focus { background: $ink; border: 1px solid $ink; color: $paper; }
+}
+.btn-mint {
+    background: $mint; border-color: $mint; color: $ink;
+    &:hover, &:focus { background: $ink; border-color: $ink; color: $paper; }
+}
+
+// Cabecera
+.site-header {
+    position: sticky; top: 0; z-index: 1030;
+    background: $paper;
+    border-bottom: 1px solid $line;
+    a { text-decoration: none; }
+}
+.mip-barra { display: flex; align-items: center; min-height: 60px; padding-top: .6rem; padding-bottom: .6rem; }
+.mip-marca {
+    display: flex; align-items: center; gap: .5rem; color: $ink; font-size: 1rem; margin-right: auto; white-space: nowrap;
+    img { border-radius: 6px; }
+}
+.mip-abrir, .mip-cerrar {
+    background: none; border: 0; padding: .35rem; color: $ink; cursor: pointer; line-height: 0; border-radius: 6px;
+}
+.mip-panel-cabecera { display: none; }
+.mip-nav {
+    display: flex; list-style: none; margin: 0; padding: 0;
+    a {
+        display: block; color: $ink; font-weight: 500; font-size: .92rem; white-space: nowrap;
+        padding: .5rem .55rem; border-radius: 6px;
+        &:hover { background: $gray-bg; color: $ink; text-decoration: none; }
+        &.active { box-shadow: inset 0 -3px 0 $mint; border-radius: 0; }
+    }
+}
+.mip-hablamos { white-space: nowrap; margin-left: 1rem; }
+.umh-link { display: inline-flex; align-items: center; margin-left: 1rem; padding-left: 1rem; border-left: 1px solid $line; }
+.umh-logo { width: 104px; height: auto; filter: brightness(0); opacity: .75; transition: opacity .2s; }
+.umh-link:hover .umh-logo { opacity: 1; }
+.mip-panel-pie { display: none; }
+.menu-redes {
+    display: flex; gap: .4rem; margin: 0;
+    a { display: inline-flex; width: 40px; height: 40px; align-items: center; justify-content: center; border: 1px solid $line; border-radius: 50%; color: $ink; }
+    a:hover { border-color: $ink; }
+}
+.menu-umh { width: 108px; height: auto; filter: brightness(0); opacity: .75; display: block; }
+// Dentro de .site-header: el velo tapa la página y el panel queda encima
+.mip-velo { position: fixed; inset: 0; z-index: 1; background: rgba(0, 0, 0, .5); }
+
+@media (min-width: 1200px) {
+    .mip-abrir { display: none; }
+    .mip-panel { display: flex; align-items: center; }
+    .mip-velo { display: none; }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .mip-nav a { font-size: .88rem; padding: .5rem .45rem; }
+    .mip-hablamos { padding: .45rem .95rem; font-size: .92rem; }
+}
+// Móvil y tableta: panel lateral
+@media (max-width: 1199.98px) {
+    .mip-panel {
+        position: fixed; top: 0; right: 0; bottom: 0; z-index: 2; width: 360px; max-width: 88vw;
+        display: flex; flex-direction: column; gap: 1.25rem; padding: 0 1.25rem 1.25rem; overflow-y: auto;
+        background: $paper; box-shadow: -8px 0 24px rgba(0, 0, 0, .12);
+        transform: translateX(100%); visibility: hidden; transition: transform .3s ease, visibility .3s;
+        &.abierto { transform: none; visibility: visible; }
+    }
+    .mip-panel-cabecera {
+        display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+        margin: 0 -1.25rem; padding: 1rem 1.25rem; border-bottom: 1px solid $line; font-size: .95rem; line-height: 1.3;
+    }
+    .mip-nav {
+        flex-direction: column;
+        a { font-size: 1.15rem; font-weight: 600; padding: .85rem 0; border-bottom: 1px solid $line; border-radius: 0; }
+        a:hover { background: none; }
+        a.active { box-shadow: inset 4px 0 0 $mint; padding-left: .85rem; }
+    }
+    .mip-hablamos { margin: 0; padding: .75rem 1rem; text-align: center; }
+    .umh-link { display: none; }
+    .mip-panel-pie { display: flex; margin-top: auto; padding-top: 1rem; border-top: 1px solid $line; justify-content: space-between; align-items: center; }
+}
+// «· Innovación en Periodismo» solo en tableta, como en la web
+@media (max-width: 543.98px), (min-width: 1200px) {
+    .mip-marca-largo { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .mip-panel { transition: none; }
+}
+
+// Menú propio de la revista, bajo el del máster
+.revista-nav {
+    border-top: 1px solid $line;
+    font-size: .9rem;
+    .container { display: flex; align-items: center; gap: .25rem 1.5rem; flex-wrap: wrap; padding-top: .45rem; padding-bottom: .45rem; }
+    ul { display: flex; flex-wrap: wrap; gap: 0 1rem; list-style: none; margin: 0; padding: 0; }
+    a { color: $muted; }
+    a:hover, a[aria-current] { color: $ink; text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+    .revista-nombre { font-family: $fontheadings; font-weight: 800; letter-spacing: -0.01em; color: $ink; }
+}
+@media (max-width: 767.98px) {
+    .revista-nav ul { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; width: 100%; padding-bottom: 2px; }
+}
+
+// Pie negro
+.site-footer {
+    background: $ink; color: #d7dbe0; padding: 3.5rem 0 2rem; margin: 4rem 0 0; font-size: 1rem;
+    a:not(.btn) { color: $paper; }
+    .footer-title { color: $paper; font-weight: 700; margin-bottom: .75rem; }
+    .row > div { margin-bottom: 1.5rem; }
+    li { margin-bottom: .35rem; }
+    .social a { margin-right: .9rem; text-decoration: none; }
+    .footer-bottom { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; border-top: 1px solid #2b2f36; margin-top: 1rem; padding-top: 1.5rem; }
+    .foot-umh img { width: 130px; height: auto; filter: invert(1); mix-blend-mode: screen; opacity: .7; }
+    .foot-umh:hover img { opacity: .95; }
+}
+
+// Portada: bloque negro como el hero de mip.umh.es
+.blog-cover {
+    height: auto; max-height: none; background: $ink;
+    section { position: static; background: none; padding: 3.5rem 0 3rem; text-align: left; }
+    .eyebrow { color: $mint; }
+    h1 { color: $paper; font-family: $fontheadings; font-weight: 900; font-size: clamp(2.2rem, 6vw, 4.2rem); line-height: .95; letter-spacing: -0.035em; margin: 0 0 1rem; max-width: 14em; }
+    .lead { color: #d7dbe0; font-size: clamp(1.05rem, 2vw, 1.25rem); max-width: 34rem; margin-bottom: 1.25rem; }
+}
+.blog-cover-redes {
+    display: flex; gap: .4rem; margin: 0;
+    a { display: inline-flex; width: 40px; height: 40px; align-items: center; justify-content: center; margin: 0; padding: 0; border: 1px solid #2b2f36; border-radius: 50%; color: $paper; line-height: 1; }
+    a:hover { border-color: $mint; background: none; color: $paper; }
+}
+
+// Portada: entradas con imagen cuadrada en dúo-tono menta (como «Lo último en la revista»)
+.index.entrada {
+    display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 1.5rem; align-items: start;
+    padding: 1.75rem 0; border-bottom: 1px solid $line;
+    > div { display: block; }
+    > div:only-child { grid-column: 1 / -1; }
+    &:first-child { padding-top: 0; }
+    .title { font-size: 1.5rem; margin: 0 0 .6rem; a { color: $ink; text-decoration: none; } }
+    &:hover .title a { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 3px; text-underline-offset: 4px; }
+    p { font-size: 1rem; margin: 0; }
+}
+.revista-figura {
+    position: relative; display: block; aspect-ratio: 1 / 1; border-radius: 12px; overflow: hidden;
+    background: $mint; transition: transform .3s ease;
+    &::after {
+        content: ""; position: absolute; inset: 0; pointer-events: none; transition: opacity .3s ease;
+        background-image: radial-gradient(rgba(11, 11, 11, .16) 1px, transparent 1.4px); background-size: 5px 5px; mix-blend-mode: multiply;
+    }
+}
+article .revista-img, .revista-img {
+    width: 100%; height: 100%; object-fit: cover; display: block; margin: 0; max-width: none;
+    filter: grayscale(1) brightness(1.35) contrast(.95); mix-blend-mode: multiply; transition: filter .3s ease;
+}
+.entrada:hover .revista-figura { transform: translateY(-4px); }
+.entrada:hover .revista-img, .revista-figura:focus-visible .revista-img { filter: none; mix-blend-mode: normal; }
+.entrada:hover .revista-figura::after, .revista-figura:focus-visible::after { opacity: 0; }
+article p.revista-meta, .revista-meta {
+    display: flex; align-items: center; gap: .55rem; font-size: .85rem; color: $muted; margin: 0 0 .5rem; line-height: 1.3;
+    .autor { color: $ink; font-weight: 600; }
+}
+article .revista-avatar, .revista-avatar { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; flex-shrink: 0; margin: 0; }
+@media (max-width: 543.98px) {
+    .index.entrada { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .revista-figura, .revista-img { transition: none; }
+}
+
+// Artículos: solo color y tipografía; la plantilla no cambia
+article {
+    .meta { color: $muted; letter-spacing: .04em; a { color: $muted; } }
+    .subtitle { color: $muted; font-family: $font; font-weight: 400; letter-spacing: 0; line-height: 1.35; }
+    header::after { background: $mint; height: 4px; width: 2.5em; }
+    blockquote { border-left: 4px solid $mint; padding-left: 1rem; p { color: $ink; font-family: $fontheadings; font-weight: 700; letter-spacing: -0.02em; } }
+    .title a { text-decoration: none; }
+}
+.pagination { display: flex; justify-content: center; gap: .5rem; margin-top: 2rem; }

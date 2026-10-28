@@ -1,26 +1,12 @@
 body {
     margin:0;
     border:0;
-    padding:80px 0 0;
+    padding:0;
     font-family:$font;
     color:$text;
     -webkit-font-smoothing:antialiased;
     text-rendering:optimizelegibility;
     font-size:17px;
-}
-
-.is-visible {
-    
-    .site-nav {
-        top:100px;
-    }
-    
-    .top-nav {
-        opacity:1;
-        -webkit-transform: translate3d(0px, 0px, 0px);
-        transition:0.3s all ease;
-        top:-200px;
-    }
 }
 
 h1, h2, h3, h4, h5 {
@@ -255,60 +241,6 @@ a {
 
 .pagination {
     text-align:center;
-}
-
-.site-footer {
-    padding:5em 0;
-    margin:4em 0 0 0;
-    background:whitesmoke;;
-    color:#aaa;
-    font-size:0.8em;
-    
-    a {
-        color:#777;
-        border:0;
-        margin:0 0.5em;
-        
-        &:hover {
-            color:#222;
-        }
-    }
-    
-    p {
-        color:#999;
-        a {
-            margin:0;
-            color:#999;
-        }
-    }
-    
-    nav {
-       display:inline-block;
-    }
-    
-    .social {
-        float:right;
-        
-        a {
-            color:#000;
-            border:0;
-            width:36px;
-            height:36px;
-            border:2px solid rgba(0,0,0,1);
-            display:inline-block;
-            padding:10px 0;
-            border-radius:42px;
-            margin:0 1em 0em 0;
-            transition:0.2s all ease;
-            line-height:0;
-            text-align:center;
-            opacity:0.3;
-
-            &:hover {
-                opacity:0.9;
-            }
-        }
-    }
 }
 
 .muted {

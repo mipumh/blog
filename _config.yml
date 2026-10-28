@@ -14,7 +14,6 @@ inc:
   # Product Information
   product_link: https://mip.umh.es/?utm_source=blog&utm_campaign=blog
   tagline:      "Idea, diseña, emprende"
-  google_font: 'Droid+Sans:400,700'
 
 # Analytics     
   analytics:
