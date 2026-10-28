@@ -10,7 +10,7 @@ author:
   image: yo.webp
   link: https://twitter.com/mcarvajal_
 ---
-La Universidad Miguel Hernández [ha abierto el primer plazo de preinscripción](http://mip.umh.es/preinscripcion.html) al Máster en Innovación en Periodismo para el curso 2016/17. Si nos sueles leer o nos sigues en Twitter, sabes bien a qué nos dedicamos. Si te planteas ampliar tu formación universitaria o conoces a alguien que lo desea, te ofrecemos aquí **nueve razones para elegir nuestro máster**. Y recuerda, ahora **con la edición online no hay límites**, puedes hacerlo desde Madrid, Barcelona, Buenos Aires, Quito o Bogotá. 
+La Universidad Miguel Hernández [ha abierto el primer plazo de preinscripción](http://mip.umh.es/admision/) al Máster en Innovación en Periodismo para el curso 2016/17. Si nos sueles leer o nos sigues en Twitter, sabes bien a qué nos dedicamos. Si te planteas ampliar tu formación universitaria o conoces a alguien que lo desea, te ofrecemos aquí **nueve razones para elegir nuestro máster**. Y recuerda, ahora **con la edición online no hay límites**, puedes hacerlo desde Madrid, Barcelona, Buenos Aires, Quito o Bogotá. 
  
 ## 1. Para pilotar el cambio de una industria en transición
  
@@ -26,7 +26,7 @@ Los medios más importantes del mundo quieren en sus plantillas no solo buenos p
 
 ## 4. Mix de académicos y profesionales punteros
  
-En el máster hemos armonizado uno de los grandes retos de la formación periodística: teoría y práctica. [En nuestro claustro](http://mip.umh.es/profesores.html) combinamos **académicos prestigiosos** de la universidad española con **creadores, fundadores o líderes de los medios más innovadores en España**: El Confidencial, eldiario.es, Fundación Civio, Vice, El Español, El Desmarque, Vis-a-Vis o RTVE Lab, entre otros. 
+En el máster hemos armonizado uno de los grandes retos de la formación periodística: teoría y práctica. [En nuestro claustro](http://mip.umh.es/profesorado/) combinamos **académicos prestigiosos** de la universidad española con **creadores, fundadores o líderes de los medios más innovadores en España**: El Confidencial, eldiario.es, Fundación Civio, Vice, El Español, El Desmarque, Vis-a-Vis o RTVE Lab, entre otros. 
 
 ## 5. Apoyados en una sólida investigación 
  
@@ -48,4 +48,4 @@ El curso 2016/17 ofrecemos ya la **4ª edición presencial y la 2ª en la modali
  
 El 90% de los egresados de las dos primeras ediciones trabaja en periodismo, marketing y comunicación digital. En la modalidad online, contamos con periodistas de El Mundo, El País y Heraldo de Aragón, entre otros. Algunos proyectos de los egresados son ya una realidad: [**Salva**](https://twitter.com/salvaelx?lang=es) rediseñó [TeleElx.es](http://www.teleelx.es/), [**Concha**](https://twitter.com/conchamaestre?lang=es) fundó [eldato.es](http://eldato.es/), [**Ana**](https://twitter.com/TachasyMetal?lang=es) consolidó [TachasyMetal](http://www.tachasymetal.com/), [**Nacho**](https://twitter.com/nachoortiz?lang=es) preparó la renovación de [MeriStation](http://www.meristation.com/)... Y si esperas unos meses, te sorprenderán los proyectos de esta promoción: por ejemplo, [**Roberto**](https://twitter.com/PradaRoberto) está reforzando la comunicación digital de [Fundación Lucentum](http://www.fundacionlucentum.com/), [**Alba**](https://twitter.com/albagortega) revolucionará la [divulgación científica en redes sociales](https://twitter.com/newloopgifs) y [**Cristian**](https://twitter.com/Crms74) introduce el _longform_ en el [periodismo de motor](http://www.todocircuito.com/reportajes/slow-motion-gp)...
 
-Si quieres saber más sobre la modalidad online, el precio y el plan de estudios, **te recomendamos que eches un vistazo a esta lista de [preguntas esenciales](http://mip.umh.es/planestudios.html)**. 
+Si quieres saber más sobre la modalidad online, el precio y el plan de estudios, **te recomendamos que eches un vistazo a esta lista de [preguntas esenciales](http://mip.umh.es/plan-de-estudios/)**. 

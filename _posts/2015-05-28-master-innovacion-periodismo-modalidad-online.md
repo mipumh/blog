@@ -38,4 +38,4 @@ Además de la coordinación general, cada asignatura cuenta con un profesor resp
 
 Como en la edición presencial, el MIP cuenta con un claustro de profesores compuesto por una treintena de los profesionales y docentes más punteros en la innovación periodística. Sus clases maestras, talleres y sesiones elementales se incluyen dentro de ocho módulos sucesivos: audiencias, contenidos, tecnología, modelos de negocio, diseño web, nuevas narrativas, redes sociales y proyectos.
 
-El programa comienza el 28 de octubre de 2015, [la matrícula está abierta](http://mip.umh.es/preinscripcion.html) y el resto de condiciones (matrícula, verificación de ANECA...) son las mismas que en la edición presencial.
+El programa comienza el 28 de octubre de 2015, [la matrícula está abierta](http://mip.umh.es/admision/) y el resto de condiciones (matrícula, verificación de ANECA...) son las mismas que en la edición presencial.

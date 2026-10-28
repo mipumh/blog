@@ -18,7 +18,7 @@ inc:
 
 # Analytics     
   analytics:
-    google: true
+    ga4: "G-BEL40TFYNP"   # Flujo «MIP - GA4» (5619000511). Vacío = sin analítica
  
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: https://mip.umh.es/blog

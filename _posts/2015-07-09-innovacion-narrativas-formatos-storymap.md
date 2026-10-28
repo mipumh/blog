@@ -11,7 +11,7 @@ author:
   image: flx.webp
   link: https://twitter.com/flxarias
 ---
-Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que demostraron los alumnos del Máster en Innovación en Periodismo (MIP) en el taller sobre Webdocs, impartido por [Miriam Hernanz](https://twitter.com/miriamhernanz) (RTVE Lab), del módulo de [Nuevas Narrativas](http://mip.umh.es/planestudios.html).
+Crear contenidos originales, potentes y adaptados a las nuevas demandas del usuario ya es posible sin una gran inversión técnica ni económica. Sólo hace falta iniciativa, dominar algunas herramientas y conocer las claves de los nuevos mecanismos expresivos. Eso es lo que demostraron los alumnos del Máster en Innovación en Periodismo (MIP) en el taller sobre Webdocs, impartido por [Miriam Hernanz](https://twitter.com/miriamhernanz) (RTVE Lab), del módulo de [Nuevas Narrativas](http://mip.umh.es/plan-de-estudios/).
 
 Después de presentar algunos trabajos realizados con Inmmersive ([Parte 1](http://mip.umh.es/blog/2015/07/05/innovacion-narrativas-formatos/)) y antes de ver otros ejemplos hechos con Creatavist (Parte 3), aquí se muestran dos productos periodísticos creados con [Story Map](https://storymap.knightlab.com/). Esta herramienta del [Knight Lab](http://mip.umh.es/blog/2015/05/20/frontera-innovacion-knightlab/) permite confeccionar mapas interactivos con enlaces geolocalizados y slides.
 
