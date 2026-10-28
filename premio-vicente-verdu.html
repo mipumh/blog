@@ -1,0 +1,20 @@
+---
+layout: page
+title: Premio Vicente Verdú de Periodismo e Innovación
+permalink: /premio-vicente-verdu/
+---
+{%- comment -%}Mosaico de carteles. Datos en _data/premio_verdu.yml y carteles en images/premios/: iguales que en mip.umh.es.{%- endcomment -%}
+<p>Lo convoca la <a href="https://informadoreselche.com/">Asociación de Informadores de Elche</a> con el Ayuntamiento de Elche. El profesorado del máster organiza y coordina el jurado, y acoge los encuentros con los premiados.</p>
+
+<ul class="premios-mosaico">
+  {%- for p in site.data.premio_verdu %}
+  <li>
+    <a href="{{ p.url | remove: site.inc.url }}">
+      <img src="{{ site.baseurl }}/images/premios/vicente-verdu-{{ p.anyo }}.jpg" width="600" height="600" loading="lazy" decoding="async" alt="Cartel del premio {{ p.anyo }}: {{ p.ganadores }}, {{ p.medio }}">
+      <span class="premio-meta">{{ p.edicion }}.ª edición · {{ p.anyo }}</span>
+      <span class="premio-ganador">{{ p.ganadores }}</span>
+      <span class="premio-trabajo">{{ p.medio }} · {{ p.trabajo }}</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>

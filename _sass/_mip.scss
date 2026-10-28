@@ -222,3 +222,21 @@ article {
     .title a { text-decoration: none; }
 }
 .pagination { display: flex; justify-content: center; gap: .5rem; margin-top: 2rem; }
+
+// Premio Vicente Verdú: mosaico de carteles (los de mip.umh.es)
+article ul.premios-mosaico {
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.75rem 1.25rem;
+    @media (min-width: 768px) { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    list-style: none; margin: 2rem 0 0; padding: 0;
+    li { margin: 0; }
+    a { display: flex; flex-direction: column; gap: .3rem; color: $ink; text-decoration: none; }
+    img { width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin: 0 0 .6rem; transition: transform .35s ease, box-shadow .35s ease; }
+    a:hover img, a:focus-visible img { transform: translateY(-6px); box-shadow: 0 14px 30px rgba(61, 240, 196, .35); }
+    .premio-meta { font-size: .75rem; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: $muted; }
+    .premio-ganador { font-family: $fontheadings; font-weight: 800; font-size: 1.15rem; line-height: 1.2; letter-spacing: -0.015em; }
+    .premio-trabajo { font-size: .88rem; color: $muted; line-height: 1.35; }
+    a:hover .premio-ganador { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    article ul.premios-mosaico img { transition: none; }
+}
