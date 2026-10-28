@@ -1,0 +1,52 @@
+{%- comment -%}
+GA4 con Consent Mode v2. Sin ID en _config.yml (inc.analytics.ga4) no se carga nada.
+Por defecto todo denegado: GA4 no guarda cookies hasta que el visitante acepta en el aviso.
+{%- endcomment -%}
+{%- assign ga4 = site.inc.analytics.ga4 -%}
+{%- if ga4 and ga4 != "" %}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  var mipConsent = null;
+  try { mipConsent = localStorage.getItem('mip-cookies'); } catch (e) {}
+  gtag('consent', 'default', {
+    ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
+    analytics_storage: mipConsent === 'si' ? 'granted' : 'denied'
+  });
+  gtag('js', new Date());
+  gtag('config', '{{ ga4 }}', { anonymize_ip: true });
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ ga4 }}"></script>
+<style>
+  .cookies { position: fixed; z-index: 1080; left: 16px; right: 16px; bottom: 16px; max-width: 460px; background: #fff; color: #0b0b0b;
+    border: 1px solid #e4e7e5; border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,.15); padding: 1rem 1.1rem; font-size: .9rem; }
+  .cookies[hidden] { display: none; }
+  .cookies p { margin: 0 0 .75rem; line-height: 1.45; }
+  .cookies-botones { display: flex; gap: .5rem; justify-content: flex-end; }
+  .cookies button { font: inherit; font-weight: 600; border-radius: 999px; padding: .35rem .9rem; cursor: pointer; border: 1px solid #0b0b0b; background: #fff; color: #0b0b0b; }
+  .cookies button[data-cookies="si"] { background: #0b0b0b; color: #fff; }
+</style>
+<div class="cookies" id="cookies" role="dialog" aria-live="polite" aria-label="Aviso de cookies" hidden>
+  <p>Usamos cookies de analítica (Google Analytics) para saber qué contenidos son útiles. Solo se activan si las aceptas. <a href="https://www.umh.es/contenido/Universidad/:MasInfoCookies/datos_es.html">Más información</a></p>
+  <div class="cookies-botones">
+    <button type="button" class="btn btn-outline-dark btn-sm" data-cookies="no">Rechazar</button>
+    <button type="button" class="btn btn-dark btn-sm" data-cookies="si">Aceptar</button>
+  </div>
+</div>
+<script>
+  (function () {
+    var aviso = document.getElementById('cookies');
+    if (mipConsent === null) aviso.hidden = false;
+    aviso.addEventListener('click', function (e) {
+      var v = e.target.getAttribute('data-cookies');
+      if (!v) return;
+      try { localStorage.setItem('mip-cookies', v); } catch (err) {}
+      gtag('consent', 'update', { analytics_storage: v === 'si' ? 'granted' : 'denied' });
+      aviso.hidden = true;
+    });
+    document.querySelectorAll('[data-abrir-cookies]').forEach(function (a) {
+      a.addEventListener('click', function (e) { e.preventDefault(); aviso.hidden = false; });
+    });
+  })();
+</script>
+{%- endif %}

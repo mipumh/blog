@@ -32,6 +32,4 @@ $.getJSON("{{ site.baseurl }}/search.json", function(json){
         s.parentNode.insertBefore(g, s);
     }(document, 'script'));
 </script>{% endif %}
-{% if site.inc.analytics.google %}
-{% include _google-analytics.html %}
-{% endif %}
+{% include analytics.html %}
