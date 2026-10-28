@@ -34,16 +34,15 @@ layout: base
                     {% if _tras.size > 1 %}{% assign _img = _tras[1] | split: '"' | first %}{% endif %}
                   {% endif %}
                 {% endif %}
-                <section class="index entrada">
+                <section class="index entrada{% unless _img %} sin-imagen{% endunless %}">
+                    <p class="firma">
+                        {% if _author_image %}<img class="firma-foto" src="{{ site.baseurl }}/images/{{ _author_image }}" alt="" width="40" height="40" loading="lazy" decoding="async">{% endif %}
+                        <span><time class="firma-fecha" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+                        <span class="firma-autor">{{ _author_name }}</span></span>
+                    </p>
+                    <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
                     {% if _img %}<a class="revista-figura" href="{{ site.baseurl }}{{ post.url }}" tabindex="-1" aria-hidden="true"><img class="revista-img" src="{{ _img }}" alt="" width="600" height="600" loading="lazy" decoding="async"></a>{% endif %}
-                    <div>
-                        <p class="revista-meta">
-                            {% if _author_image %}<img class="revista-avatar" src="{{ site.baseurl }}/images/{{ _author_image }}" alt="" width="32" height="32" loading="lazy" decoding="async">{% endif %}
-                            <span><span class="autor">{{ _author_name }}</span> · <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d/%m/%Y" }}</time></span>
-                        </p>
-                        <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-                        <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
-                    </div>
+                    <p class="entrada-resumen">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
                 </section>
                 {% endunless %}
                 {% endfor %}
