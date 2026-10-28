@@ -1,10 +1,11 @@
-{%- comment -%}Menú común con mip.umh.es. Las URL de _data/navigation.yml son del dominio raíz.{%- endcomment -%}
+{%- comment -%}Menú común con mip.umh.es. Las URL de _data/navigation.yml son relativas al dominio raíz o absolutas.{%- endcomment -%}
 <nav class="menu-comun" aria-label="Máster en Innovación en Periodismo">
   <div class="container">
     <a class="menu-comun-marca" href="https://mip.umh.es/">Máster Universitario en Innovación en Periodismo · UMH</a>
     <ul>
       {%- for item in site.data.navigation %}
-      <li><a href="https://mip.umh.es{{ item.url }}"{% if item.url == "/blog/" %} aria-current="page"{% endif %}>{{ item.titulo }}</a></li>
+      {%- if item.url contains "://" %}{% assign href = item.url %}{% else %}{% capture href %}https://mip.umh.es{{ item.url }}{% endcapture %}{% endif %}
+      <li><a href="{{ href }}"{% if href contains "/blog/" %} aria-current="page"{% endif %}>{{ item.titulo }}</a></li>
       {%- endfor %}
     </ul>
   </div>
