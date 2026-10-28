@@ -69,7 +69,7 @@ a {
 }
 .mip-barra { display: flex; align-items: center; min-height: 60px; padding-top: .6rem; padding-bottom: .6rem; }
 .mip-marca {
-    display: flex; align-items: center; gap: .5rem; color: $ink; font-size: 1rem; margin-right: auto; white-space: nowrap;
+    display: flex; align-items: center; gap: .5rem; color: $ink; font-size: 1rem; margin-right: auto; padding-right: 1.25rem; white-space: nowrap;
     img { border-radius: 6px; }
 }
 .mip-abrir, .mip-cerrar {
@@ -91,7 +91,8 @@ a {
 .umh-link:hover .umh-logo { opacity: 1; }
 .mip-panel-pie { display: none; }
 .menu-redes {
-    display: flex; gap: .4rem; margin: 0;
+    display: flex; gap: .5rem; margin: 0;
+    .icono { display: block; }
     a { display: inline-flex; width: 40px; height: 40px; align-items: center; justify-content: center; border: 1px solid $line; border-radius: 50%; color: $ink; }
     a:hover { border-color: $ink; }
 }
@@ -104,9 +105,12 @@ a {
     .mip-panel { display: flex; align-items: center; }
     .mip-velo { display: none; }
 }
-@media (min-width: 1200px) and (max-width: 1399.98px) {
-    .mip-nav a { font-size: .88rem; padding: .5rem .45rem; }
-    .mip-hablamos { padding: .45rem .95rem; font-size: .92rem; }
+// El contenedor de Bootstrap 4 no pasa de 1140 px: tamaños compactos en todo el escritorio
+@media (min-width: 1200px) {
+    .mip-marca { font-size: .95rem; }
+    .mip-nav a { font-size: .88rem; padding: .5rem .4rem; }
+    .mip-hablamos { padding: .45rem .95rem; font-size: .92rem; margin-left: .75rem; }
+    .umh-link { margin-left: .75rem; padding-left: .75rem; }
 }
 // Móvil y tableta: panel lateral
 @media (max-width: 1199.98px) {
@@ -131,26 +135,11 @@ a {
     .umh-link { display: none; }
     .mip-panel-pie { display: flex; margin-top: auto; padding-top: 1rem; border-top: 1px solid $line; justify-content: space-between; align-items: center; }
 }
-// «· Innovación en Periodismo» solo en tableta, como en la web
-@media (max-width: 543.98px), (min-width: 1200px) {
+@media (max-width: 543.98px) {
     .mip-marca-largo { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {
     .mip-panel { transition: none; }
-}
-
-// Menú propio de la revista, bajo el del máster
-.revista-nav {
-    border-top: 1px solid $line;
-    font-size: .9rem;
-    .container { display: flex; align-items: center; gap: .25rem 1.5rem; flex-wrap: wrap; padding-top: .45rem; padding-bottom: .45rem; }
-    ul { display: flex; flex-wrap: wrap; gap: 0 1rem; list-style: none; margin: 0; padding: 0; }
-    a { color: $muted; }
-    a:hover, a[aria-current] { color: $ink; text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 2px; text-underline-offset: 3px; }
-    .revista-nombre { font-family: $fontheadings; font-weight: 800; letter-spacing: -0.01em; color: $ink; }
-}
-@media (max-width: 767.98px) {
-    .revista-nav ul { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; width: 100%; padding-bottom: 2px; }
 }
 
 // Pie negro
@@ -174,10 +163,16 @@ a {
     h1 { color: $paper; font-family: $fontheadings; font-weight: 900; font-size: clamp(2.2rem, 6vw, 4.2rem); line-height: .95; letter-spacing: -0.035em; margin: 0 0 1rem; max-width: 14em; }
     .lead { color: #d7dbe0; font-size: clamp(1.05rem, 2vw, 1.25rem); max-width: 34rem; margin-bottom: 1.25rem; }
 }
-.blog-cover-redes {
-    display: flex; gap: .4rem; margin: 0;
+// Iconos sociales en círculo (portada y barra lateral de los artículos)
+.blog-cover .blog-cover-redes, .redes-lateral {
+    display: flex; gap: .5rem; margin: 0;
     a { display: inline-flex; width: 40px; height: 40px; align-items: center; justify-content: center; margin: 0; padding: 0; border: 1px solid #2b2f36; border-radius: 50%; color: $paper; line-height: 1; }
     a:hover { border-color: $mint; background: none; color: $paper; }
+    .icono { display: block; }
+}
+.redes-lateral { margin: 0;
+    a { border-color: $line; color: $ink; }
+    a:hover { border-color: $ink; color: $ink; }
 }
 
 // Portada: entradas con imagen cuadrada en dúo-tono menta (como «Lo último en la revista»)
@@ -220,7 +215,7 @@ article .revista-avatar, .revista-avatar { width: 32px; height: 32px; border-rad
 
 // Artículos: solo color y tipografía; la plantilla no cambia
 article {
-    .meta { color: $muted; letter-spacing: .04em; a { color: $muted; } }
+    .meta { color: $muted; letter-spacing: .04em; a { color: $muted; text-decoration: none; } a:hover { color: $ink; } }
     .subtitle { color: $muted; font-family: $font; font-weight: 400; letter-spacing: 0; line-height: 1.35; }
     header::after { background: $mint; height: 4px; width: 2.5em; }
     blockquote { border-left: 4px solid $mint; padding-left: 1rem; p { color: $ink; font-family: $fontheadings; font-weight: 700; letter-spacing: -0.02em; } }

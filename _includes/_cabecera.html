@@ -1,52 +1,40 @@
 {%- comment -%}
-Cabecera común con mip.umh.es (copia de su _includes/navbar.html sin Bootstrap 5): menú del máster
-desde _data/navigation.yml (URL relativas al dominio raíz o absolutas) y, debajo, el menú propio de la revista.
+Cabecera con el estilo de mip.umh.es (su _includes/navbar.html, sin Bootstrap 5) y los enlaces propios de la revista.
 {%- endcomment -%}
 {%- assign web = site.inc.url -%}
 <header class="site-header">
   <div class="container mip-barra">
-    <a class="mip-marca" href="{{ web }}/">
+    <a class="mip-marca" href="{{ site.baseurl }}/">
       <img src="{{ site.baseurl }}/images/{{ site.inc.logo }}" alt="" width="36" height="36">
-      <span><strong>MIP</strong><span class="mip-marca-largo"> · Innovación en Periodismo</span></span>
+      <span><strong>Revista</strong><span class="mip-marca-largo"> de Innovación en Periodismo</span></span>
     </a>
     <button class="mip-abrir" type="button" aria-controls="menu" aria-expanded="false" aria-label="Abrir menú">{% include _icono.html n="menu" s=26 %}</button>
     <div class="mip-panel" id="menu" aria-label="Menú principal">
       <div class="mip-panel-cabecera">
-        <span><strong>MIP</strong> · Máster en Innovación en Periodismo</span>
+        <span><strong>Revista</strong> de Innovación en Periodismo</span>
         <button class="mip-cerrar" type="button" aria-label="Cerrar">{% include _icono.html n="cerrar" s=22 %}</button>
       </div>
-      <nav aria-label="Máster en Innovación en Periodismo">
+      <nav aria-label="Revista">
         <ul class="mip-nav">
-          {%- for item in site.data.navigation offset: 1 %}
-          {%- if item.url contains "://" %}{% assign href = item.url %}{% else %}{% capture href %}{{ web }}{{ item.url }}{% endcapture %}{% endif %}
-          <li><a href="{{ href }}"{% if href contains "/blog/" %} class="active" aria-current="page"{% endif %}>{{ item.titulo }}</a></li>
-          {%- endfor %}
+          <li><a href="{{ site.baseurl }}/"{% if page.url == "/" %} class="active" aria-current="page"{% endif %}>Portada</a></li>
+          <li><a href="{{ site.baseurl }}/about/"{% if page.url == "/about/" %} class="active" aria-current="page"{% endif %}>¿Quiénes somos?</a></li>
+          <li><a href="{{ site.baseurl }}/informacion-master.html"{% if page.url == "/informacion-master.html" %} class="active" aria-current="page"{% endif %}>Sobre nosotros</a></li>
+          <li><a href="{{ site.baseurl }}/archivo.html"{% if page.url == "/archivo.html" %} class="active" aria-current="page"{% endif %}>Archivo</a></li>
+          <li><a href="{{ site.baseurl }}/2025/03/28/pamplonews-premio-vicente-verdu-innovacion-periodismo/"{% if page.url contains "premio-vicente-verdu" %} class="active" aria-current="page"{% endif %}>Premio Vicente Verdú</a></li>
         </ul>
       </nav>
-      <a class="btn btn-mint mip-hablamos" href="{{ web }}/#solicita-informacion">¿Hablamos?</a>
+      <a class="btn btn-mint mip-hablamos" href="{{ web }}/">Ir al Máster</a>
       <a class="umh-link" href="https://www.umh.es" aria-label="Universidad Miguel Hernández de Elche"><img class="umh-logo" src="{{ site.baseurl }}/images/logo-umh.png" alt="UMH" width="126" height="35"></a>
       <div class="mip-panel-pie">
         <p class="menu-redes">
-          <a href="https://twitter.com/{{ site.inc.twitter }}" aria-label="X / Twitter">{% include _icono.html n="x" s=20 %}</a>
-          <a href="https://www.facebook.com/{{ site.inc.facebook }}" aria-label="Facebook">{% include _icono.html n="facebook" s=20 %}</a>
-          <a href="{{ site.baseurl }}/feed.xml" aria-label="RSS de la revista">{% include _icono.html n="rss" s=20 %}</a>
+          <a href="https://twitter.com/{{ site.inc.twitter }}" aria-label="X / Twitter">{% include _icono.html n="x" s=18 %}</a>
+          <a href="https://www.facebook.com/{{ site.inc.facebook }}" aria-label="Facebook">{% include _icono.html n="facebook" s=18 %}</a>
+          <a href="{{ site.baseurl }}/feed.xml" aria-label="RSS de la revista">{% include _icono.html n="rss" s=18 %}</a>
         </p>
         <a href="https://www.umh.es" aria-label="Universidad Miguel Hernández de Elche"><img class="menu-umh" src="{{ site.baseurl }}/images/logo-umh.png" alt="UMH" width="108" height="30" loading="lazy" decoding="async"></a>
       </div>
     </div>
   </div>
-  <nav class="revista-nav" aria-label="Revista">
-    <div class="container">
-      <a class="revista-nombre" href="{{ site.baseurl }}/">{{ site.inc.title }}</a>
-      <ul>
-        <li><a href="{{ site.baseurl }}/"{% if page.url == "/" %} aria-current="page"{% endif %}>Portada</a></li>
-        <li><a href="{{ site.baseurl }}/about/"{% if page.url == "/about/" %} aria-current="page"{% endif %}>¿Quiénes somos?</a></li>
-        <li><a href="{{ site.baseurl }}/informacion-master.html"{% if page.url == "/informacion-master.html" %} aria-current="page"{% endif %}>Sobre nosotros</a></li>
-        <li><a href="{{ site.baseurl }}/archivo.html"{% if page.url == "/archivo.html" %} aria-current="page"{% endif %}>Archivo</a></li>
-        <li><a href="{{ site.baseurl }}/2025/03/28/pamplonews-premio-vicente-verdu-innovacion-periodismo/">Premio Vicente Verdú</a></li>
-      </ul>
-    </div>
-  </nav>
   <div class="mip-velo" hidden></div>
 </header>
 <script>
