@@ -1,43 +1,44 @@
+# Fotos del claustro: las de mip.umh.es (images/profesorado), copiadas en images/autores/.
 miguel_carvajal:
   name: Miguel Carvajal
   twitter: mcarvajal_
   bio: Director del Máster
-  image: yo.webp
+  image: autores/miguel-carvajal.jpg
   link: https://twitter.com/mcarvajal_
 
 jose_garcia_aviles:
   name: Jose A. García Avilés
   twitter: jagaraviles
   bio: Profesor coordinador de Audiencias
-  image: jga.webp
+  image: autores/jose-garcia-aviles.jpg
   link: https://twitter.com/jagaraviles
 
 felix_arias:
   name: Félix Arias
   twitter: cibermensaje
   bio: Profesor de IA aplicada
-  image: flx.webp
+  image: autores/felix-arias.jpg
   link: https://twitter.com/flxarias
 
 alicia_de_lara:
   name: Alicia de Lara
   twitter: porqueeeyo
   bio: Profesora de Divulgación Científica
-  image: alicia.webp
+  image: autores/alicia-de-lara.jpg
   link: https://twitter.com/porqueeeyo
 
 cristian_marin:
   name: Cristian R. Marín
   twitter: crms74
   bio: Profesor coordinador de Proyectos
-  image: crms.webp
+  image: autores/cristian-marin.jpg
   link: https://twitter.com/crms74
 
 jose_luis_rojas:
   name: José Luis Rojas
   twitter: rojastorrijos
   bio: Profesor de la Universidad de Sevilla
-  image: rojas.webp
+  image: autores/jose-luis-rojas.jpg
   link: https://twitter.com/rojastorrijos
 
 damaso_mondejar:
@@ -51,7 +52,7 @@ alba_garcia_ortega:
   name: Alba García Ortega
   twitter: albagortega
   bio: Profesora de Nuevas Narrativas
-  image: alba.webp
+  image: autores/alba-garcia-ortega.jpg
   link: https://twitter.com/albagortega
 
 itziar_martinez:
@@ -65,7 +66,7 @@ chema_valero:
   name: Chema Valero
   twitter: josvap
   bio: Subdirector del Máster
-  image: chema.webp
+  image: autores/chema-valero.jpg
   link: https://twitter.com/josvap
 
 david_corral:

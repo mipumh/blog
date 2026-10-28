@@ -207,6 +207,8 @@ article .revista-img, .revista-img {
 .entrada:hover .revista-img, .revista-figura:focus-visible .revista-img { filter: none; mix-blend-mode: normal; }
 .entrada:hover .revista-figura::after, .revista-figura:focus-visible::after { opacity: 0; }
 article .firma-foto, .firma-foto { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; margin: 0; }
+// Fotos de autor: anillo menta separado por blanco (portada y firma al pie de los artículos)
+.firma-foto, article footer address img { box-shadow: 0 0 0 2px $paper, 0 0 0 4px $mint; }
 @media (max-width: 543.98px) {
     .index.entrada, .index.entrada.sin-imagen {
         grid-template-columns: 40px minmax(0, 1fr); column-gap: .9rem; grid-template-rows: none;
