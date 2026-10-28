@@ -1,60 +1,67 @@
-{% if page.author %}
-{% if page.image %}
-  {% if page.image contains '://' %}
-    {% assign jsonld_image = page.image %}
-  {% else %}
-    {% assign jsonld_image = page.image | prepend: site.url %}
-  {% endif %}
-{% elsif page.content contains '<img' %}
-  {% assign jsonld_img_parts = page.content | split: '<img' %}
-  {% assign jsonld_img_src = jsonld_img_parts[1] | split: 'src="' | last | split: '"' | first %}
-  {% if jsonld_img_src contains '://' %}
-    {% assign jsonld_image = jsonld_img_src %}
-  {% else %}
-    {% assign jsonld_image = jsonld_img_src | replace: site.baseurl, '' | prepend: site.url %}
-  {% endif %}
-{% else %}
-  {% assign jsonld_image = 'https://mip.umh.es/blog/images/shots/innovacion-medios-comunicaci%C3%B3n_ppal.jpg' %}
-{% endif %}
+{%- comment -%}
+Datos estructurados. La revista es una publicación periódica (ISSN) del Máster en Innovación en Periodismo de la UMH;
+cada entrada es un BlogPosting que forma parte de ella. Usa seo_desc, seo_img y seo_url de _seo.html.
+{%- endcomment -%}
+{%- capture jsonld_editor -%}
+{
+    "@type": "Organization",
+    "@id": "https://mip.umh.es/#master",
+    "name": "Máster Universitario en Innovación en Periodismo",
+    "url": "https://mip.umh.es/",
+    "logo": { "@type": "ImageObject", "url": "https://mip.umh.es/blog/images/logo.webp" },
+    "sameAs": ["https://twitter.com/{{ site.inc.twitter }}", "https://www.facebook.com/{{ site.inc.facebook }}"],
+    "parentOrganization": { "@type": "CollegeOrUniversity", "name": "Universidad Miguel Hernández de Elche", "url": "https://www.umh.es/" }
+  }
+{%- endcapture -%}
+{%- capture jsonld_revista -%}
+{
+    "@type": "Periodical",
+    "@id": "https://mip.umh.es/blog/#revista",
+    "name": {{ site.inc.title | jsonify }},
+    "issn": "3020-383X",
+    "url": "https://mip.umh.es/blog/",
+    "inLanguage": "es",
+    "description": {{ site.inc.subtitle | jsonify }},
+    "publisher": {{ jsonld_editor }}
+  }
+{%- endcapture -%}
 <script type="application/ld+json">
+{%- if page.layout == "post" %}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": {{ page.title | jsonify }},
+  "description": {{ seo_desc | jsonify }},
+  "image": {{ seo_img | jsonify }},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.date | date_to_xmlschema }}",
-  "image": {{ jsonld_image | jsonify }},
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "inLanguage": "es",
+  "url": "{{ seo_url }}",
+  "mainEntityOfPage": "{{ seo_url }}",
   "author": {
     "@type": "Person",
-    "name": {{ page.author.name | jsonify }}{% if page.author.link %},
-    "url": {{ page.author.link | jsonify }}{% endif %}
+    "name": {{ page.author.name | jsonify }}{% if author_bio and author_bio != "" %},
+    "description": {{ author_bio | jsonify }}{% endif %}{% if author_image %},
+    "image": "https://mip.umh.es{{ site.baseurl }}/images/{{ author_image }}"{% endif %}{% if author_link %},
+    "url": {{ author_link | jsonify }}{% endif %}
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Revista de Innovación en Periodismo",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://mip.umh.es/blog/images/logo.webp"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-  },
-  "description": {{ page.excerpt | strip_html | truncate: 160 | jsonify }}
+  "isPartOf": {{ jsonld_revista }},
+  "publisher": {{ jsonld_editor }}
 }
-</script>
-{% else %}
-<script type="application/ld+json">
+{%- else %}
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Revista de Innovación en Periodismo",
-  "url": "https://mip.umh.es/blog",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Máster en Innovación en Periodismo, UMH"
+  "@graph": [
+  {{ jsonld_revista }},
+  {
+    "@type": "WebPage",
+    "name": {{ page.title | default: site.inc.title | jsonify }},
+    "description": {{ seo_desc | jsonify }},
+    "url": "{{ seo_url }}",
+    "inLanguage": "es",
+    "isPartOf": { "@id": "https://mip.umh.es/blog/#revista" }
   }
+  ]
 }
+{%- endif %}
 </script>
-{% endif %}

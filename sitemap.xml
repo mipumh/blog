@@ -6,24 +6,27 @@ category: nomap
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    {%- comment -%}Páginas: sin las de paginación (/pageN/) ni las marcadas con category: nomap{%- endcomment -%}
     {% for page in site.pages %}
-     {% unless page.category == "nomap" %}
+     {% assign _pag = page.url | slice: 0, 5 %}
+     {% unless page.category == "nomap" or _pag == "/page" %}
     <url>
-        <loc>{{ site.url }}{{page.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>yearly</changefreq>
+        <loc>https://mip.umh.es{{ site.baseurl }}{{ page.url | replace: "index.html", "" }}</loc>
+        <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
       {% endunless %}
     {% endfor %}
 
     {% for post in site.posts %}
+    {% unless post.draft %}
     <url>
-        <loc>{{ site.url }}{{post.url}}</loc>
+        <loc>https://mip.umh.es{{ site.baseurl }}{{ post.url }}</loc>
         <lastmod>{{post.date | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    {% endunless %}
     {% endfor %}
 
 </urlset>

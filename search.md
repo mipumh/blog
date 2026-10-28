@@ -1,4 +1,5 @@
 ---
+category: nomap
 layout: page
 title: Búsqueda
 permalink: /buscar/

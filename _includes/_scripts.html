@@ -1,17 +1,25 @@
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-
-<script type="text/javascript">
-$.getJSON("{{ site.baseurl }}/search.json", function(json){
-  var sjs = SimpleJekyllSearch({
-     searchInput: document.getElementById('search-input'),
-     resultsContainer: document.getElementById('results-container'),
-     json: json,
-     searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action small" target="_blank" alt="{{ title }}">{title} — {date}</a>',
-     limit: 20
-  });
-});
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+<script>
+// El índice (search.json, ~500 KB) solo se descarga cuando alguien va a buscar
+(function () {
+  var campo = document.getElementById('search-input');
+  if (!campo) return;
+  function cargar() {
+    campo.removeEventListener('focus', cargar);
+    $.getJSON("{{ site.baseurl }}/search.json", function (json) {
+      SimpleJekyllSearch({
+        searchInput: campo,
+        resultsContainer: document.getElementById('results-container'),
+        json: json,
+        searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action small">{title} — {date}</a>',
+        limit: 20
+      });
+      if (campo.value) { campo.dispatchEvent(new Event('input')); campo.dispatchEvent(new Event('keyup')); }
+    });
+  }
+  campo.addEventListener('focus', cargar);
+})();
 </script>
 
 {% if site.inc.sharing.twitter %}<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>{% endif %}
