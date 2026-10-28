@@ -176,18 +176,18 @@ a {
     a:hover { border-color: $ink; color: $ink; }
 }
 
-// Portada: entradas con imagen cuadrada en dúo-tono menta (como «Lo último en la revista»)
-// Firma al estilo NYT arriba (foto redonda, fecha y autor); imagen a la derecha, lejos de la foto del autor
+// Foto del autor en su columna a la izquierda; autor y fecha al pie; imagen cuadrada a la derecha
 .index.entrada {
-    display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); column-gap: 1.75rem;
-    grid-template-rows: auto auto 1fr; grid-template-areas: "firma figura" "titulo figura" "resumen figura";
-    align-items: start; padding: 1.5rem 0 1.75rem; border-bottom: 1px solid $line;
+    display: grid; grid-template-columns: 48px minmax(0, 2fr) minmax(0, 1fr); column-gap: 1.25rem;
+    grid-template-rows: auto auto auto 1fr; grid-template-areas: "foto titulo figura" "foto resumen figura" "foto meta figura" "foto . figura";
+    align-items: start; padding: 1.75rem 0; border-bottom: 1px solid $line;
     &:first-child { padding-top: 0; }
-    &.sin-imagen { grid-template-columns: minmax(0, 1fr); grid-template-areas: "firma" "titulo" "resumen"; }
-    .firma { grid-area: firma; }
+    &.sin-imagen { grid-template-columns: 48px minmax(0, 1fr); grid-template-areas: "foto titulo" "foto resumen" "foto meta" "foto ."; }
+    .firma-foto { grid-area: foto; }
     .title { grid-area: titulo; font-size: 1.5rem; margin: 0 0 .6rem; a { color: $ink; text-decoration: none; } }
     .revista-figura { grid-area: figura; }
     .entrada-resumen { grid-area: resumen; }
+    .meta { grid-area: meta; margin-top: .75rem; }
     &:hover .title a { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 3px; text-underline-offset: 4px; }
     p { font-size: 1rem; margin: 0; }
 }
@@ -206,15 +206,13 @@ article .revista-img, .revista-img {
 .entrada:hover .revista-figura { transform: translateY(-4px); }
 .entrada:hover .revista-img, .revista-figura:focus-visible .revista-img { filter: none; mix-blend-mode: normal; }
 .entrada:hover .revista-figura::after, .revista-figura:focus-visible::after { opacity: 0; }
-article p.firma, .firma {
-    display: flex; align-items: center; gap: .6rem; margin: 0 0 .9rem; line-height: 1.25;
-    > span { display: flex; flex-direction: column; }
-    .firma-fecha { font-size: .8rem; font-weight: 700; color: $ink; }
-    .firma-autor { font-size: .8rem; color: $muted; }
-}
-article .firma-foto, .firma-foto { width: 40px; height: 40px; border-radius: 50%; object-fit: cover; flex-shrink: 0; margin: 0; }
+article .firma-foto, .firma-foto { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; margin: 0; }
 @media (max-width: 543.98px) {
-    .index.entrada { grid-template-columns: minmax(0, 1fr); grid-template-areas: "firma" "titulo" "figura" "resumen"; grid-template-rows: none; }
+    .index.entrada, .index.entrada.sin-imagen {
+        grid-template-columns: 40px minmax(0, 1fr); column-gap: .9rem; grid-template-rows: none;
+        grid-template-areas: "foto titulo" "foto figura" "foto resumen" "foto meta";
+    }
+    article .firma-foto, .firma-foto { width: 40px; height: 40px; }
     .index.entrada .revista-figura { margin: .4rem 0 1rem; }
 }
 @media (prefers-reduced-motion: reduce) {
