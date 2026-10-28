@@ -18,7 +18,7 @@ inc:
 
 # Analytics     
   analytics:
-    ga4: ""   # ID de medición de GA4 (G-…) de la propiedad 386593196. Vacío = sin analítica
+    ga4: "G-BEL40TFYNP"   # Flujo «MIP - GA4» (5619000511). Vacío = sin analítica
  
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: https://mip.umh.es/blog
