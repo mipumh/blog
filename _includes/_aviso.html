@@ -1,0 +1,15 @@
+{%- comment -%}Avisos de cabecera, como en mip.umh.es (_includes/aviso.html). Datos en _data/avisos.yml (copia del de la web); se ocultan solos al pasar fecha_fin.{%- endcomment -%}
+{%- for aviso in site.data.avisos %}
+<div class="aviso" data-fin="{{ aviso.fecha_fin | date_to_xmlschema }}" role="note">
+  <div class="container">
+    {% include _icono.html n="info" %}
+    <p>{{ aviso.texto }}{% if aviso.enlace %} · <a href="{{ aviso.enlace }}">Participa</a>{% endif %}</p>
+  </div>
+</div>
+{%- endfor %}
+<script>
+  // Oculta los avisos cuya fecha de fin ya ha pasado
+  document.querySelectorAll('.aviso[data-fin]').forEach(function (el) {
+    if (new Date(el.dataset.fin) < new Date()) el.remove();
+  });
+</script>

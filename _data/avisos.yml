@@ -1,0 +1,5 @@
+# Avisos de la cabecera. Se ocultan solos (JS) cuando pasa fecha_fin.
+- id: audiencia-avap-2026
+  fecha_fin: 2026-11-06T16:00:00+01:00
+  texto: "<strong>Audiencia abierta con la AVAP</strong> · viernes 6 de noviembre, 15:30–16:00, online"
+  enlace: https://calidad.umh.es/2026/10/26/visita-comite-reacreditacion-avap-master-universitario-en-innovacion-en-periodismo-y-master-universitario-en-estadistica-computacional-y-ciencia-de-datos-para-la-toma-de-decisiones/
