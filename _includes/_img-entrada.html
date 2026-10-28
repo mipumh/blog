@@ -1,0 +1,16 @@
+{%- comment -%}Asigna img_entrada para include.post: share_image, image o la primera imagen del texto (como search.json).{%- endcomment -%}
+{%- assign _p = include.post -%}
+{%- assign img_entrada = nil -%}
+{%- if _p.share_image -%}
+  {%- capture img_entrada %}{{ site.baseurl }}/images/{{ _p.share_image }}{% endcapture -%}
+{%- elsif _p.image -%}
+  {%- assign img_entrada = _p.image -%}
+  {%- assign _ini = img_entrada | slice: 0, 8 -%}
+  {%- if _ini == "/images/" -%}{%- assign img_entrada = img_entrada | prepend: site.baseurl -%}{%- endif -%}
+{%- else -%}
+  {%- assign _trozos = _p.content | split: '<img' -%}
+  {%- if _trozos.size > 1 -%}
+    {%- assign _tras = _trozos[1] | split: 'src="' -%}
+    {%- if _tras.size > 1 -%}{%- assign img_entrada = _tras[1] | split: '"' | first -%}{%- endif -%}
+  {%- endif -%}
+{%- endif -%}

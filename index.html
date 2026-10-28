@@ -3,12 +3,14 @@ layout: base
 ---
 
 {% include _oldcover.html %}
+{% if paginator.page == 1 %}{% include _destacados.html %}{% endif %}
 
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-sm-12 col-xs-12">
             <article>                
-            {% for post in paginator.posts %}
+            {% if paginator.page == 1 %}{% assign _desde = 5 %}{% else %}{% assign _desde = 0 %}{% endif %}
+            {% for post in paginator.posts offset: _desde %}
               {% unless post.draft %}
                 {% assign _post_author = nil %}
                 {% for _a in site.data.authors %}
@@ -19,21 +21,7 @@ layout: base
                 {% endfor %}
                 {% assign _author_image = _post_author.image | default: post.author.image %}
                 {% assign _author_name = post.author.name %}
-                {%- comment -%}Imagen: share_image, image o la primera del texto (como search.json){%- endcomment -%}
-                {% assign _img = nil %}
-                {% if post.share_image %}
-                  {% capture _img %}{{ site.baseurl }}/images/{{ post.share_image }}{% endcapture %}
-                {% elsif post.image %}
-                  {% assign _img = post.image %}
-                  {% assign _ini = _img | slice: 0, 8 %}
-                  {% if _ini == "/images/" %}{% assign _img = _img | prepend: site.baseurl %}{% endif %}
-                {% else %}
-                  {% assign _trozos = post.content | split: '<img' %}
-                  {% if _trozos.size > 1 %}
-                    {% assign _tras = _trozos[1] | split: 'src="' %}
-                    {% if _tras.size > 1 %}{% assign _img = _tras[1] | split: '"' | first %}{% endif %}
-                  {% endif %}
-                {% endif %}
+                {% include _img-entrada.html post=post %}{% assign _img = img_entrada %}
                 <section class="index entrada{% unless _img %} sin-imagen{% endunless %}">
                     {% if _author_image %}<img class="firma-foto" src="{{ site.baseurl }}/images/{{ _author_image }}" alt="" width="48" height="48" loading="lazy" decoding="async">{% endif %}
                     <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>

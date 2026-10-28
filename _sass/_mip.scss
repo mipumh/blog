@@ -185,6 +185,50 @@ a {
     a:hover { border-color: $ink; color: $ink; }
 }
 
+// Portada: últimas entradas bajo el hero (destacada + fila de cuatro)
+.destacados {
+    padding: 2.5rem 0 2.75rem; border-bottom: 1px solid $line; margin-bottom: 2.5rem;
+    h2 a, h3 a { color: $ink; text-decoration: none; }
+    .entrada:hover h2 a, .entrada:hover h3 a { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 3px; text-underline-offset: 4px; }
+}
+.destacado {
+    display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 2.5rem; align-items: center;
+    .revista-figura { aspect-ratio: 3 / 2; }
+}
+.destacado-texto {
+    text-align: center; padding: 0 1rem;
+    h2 { font-size: clamp(1.6rem, 3vw, 2.35rem); font-weight: 800; line-height: 1.05; letter-spacing: -0.03em; margin: 0 0 1.25rem; }
+}
+.destacado-firma {
+    display: inline-flex; align-items: center; gap: .65rem; margin: 0; font-size: .85rem; color: $muted;
+    .firma-foto { width: 40px; height: 40px; }
+    .autor { color: $ink; font-weight: 600; }
+}
+// Columnas iguales; el separador vertical va en medio del hueco
+.destacados-fila {
+    display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); column-gap: 2.5rem; margin-top: 2.25rem;
+}
+.destacados-tarjeta {
+    position: relative;
+    & + &::before { content: ""; position: absolute; top: 0; bottom: 0; left: -1.25rem; border-left: 1px solid $line; }
+    .revista-figura { margin-bottom: .9rem; }
+    h3 { font-size: 1.15rem; font-weight: 800; line-height: 1.2; letter-spacing: -0.015em; margin: 0 0 .4rem; }
+}
+.destacados-autor { font-size: .8rem; color: $muted; margin: 0; }
+@media (max-width: 991.98px) {
+    .destacado { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; }
+    .destacado .revista-figura { order: -1; }
+    .destacado-texto { padding: 0; }
+    .destacados-fila { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 1.75rem; }
+    .destacados-tarjeta:nth-child(odd)::before { display: none; }
+}
+@media (max-width: 543.98px) {
+    .destacados { padding-top: 1.5rem; }
+    .destacados-fila { column-gap: 1.5rem; }
+    .destacados-tarjeta + .destacados-tarjeta::before { left: -.75rem; }
+    .destacados-tarjeta h3 { font-size: 1rem; }
+}
+
 // Foto del autor en su columna a la izquierda; autor y fecha al pie; imagen cuadrada a la derecha
 .index.entrada {
     display: grid; grid-template-columns: 48px minmax(0, 2fr) minmax(0, 1fr); column-gap: 1.25rem;

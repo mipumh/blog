@@ -1,0 +1,31 @@
+{%- comment -%}Portada, bajo el hero: la última entrada destacada y las cuatro siguientes en fila. Mismo tratamiento de imagen que la lista (dúo-tono menta).{%- endcomment -%}
+<section class="destacados" aria-label="Últimas entradas">
+  <div class="container">
+  {%- for post in paginator.posts limit: 5 %}
+    {%- include _img-entrada.html post=post -%}
+    {%- assign _autor = nil -%}
+    {%- for _a in site.data.authors -%}{%- if _a[1].name == post.author.name -%}{%- assign _autor = _a[1] -%}{%- break -%}{%- endif -%}{%- endfor -%}
+    {%- assign _foto = _autor.image | default: post.author.image -%}
+    {%- if forloop.first %}
+    <article class="destacado entrada">
+      <div class="destacado-texto">
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="destacado-firma">
+          {% if _foto %}<img class="firma-foto" src="{{ site.baseurl }}/images/{{ _foto }}" alt="" width="40" height="40">{% endif %}
+          <span><span class="autor">{{ post.author.name }}</span> · <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d/%m/%Y" }}</time></span>
+        </p>
+      </div>
+      {% if img_entrada %}<a class="revista-figura" href="{{ site.baseurl }}{{ post.url }}" tabindex="-1" aria-hidden="true"><img class="revista-img" src="{{ img_entrada }}" alt="" width="900" height="600" fetchpriority="high" decoding="async"></a>{% endif %}
+    </article>
+    <div class="destacados-fila">
+    {%- else %}
+      <article class="destacados-tarjeta entrada">
+        {% if img_entrada %}<a class="revista-figura" href="{{ site.baseurl }}{{ post.url }}" tabindex="-1" aria-hidden="true"><img class="revista-img" src="{{ img_entrada }}" alt="" width="600" height="600" loading="lazy" decoding="async"></a>{% endif %}
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="destacados-autor">{{ post.author.name }}</p>
+      </article>
+    {%- endif %}
+  {%- endfor %}
+    </div>
+  </div>
+</section>
