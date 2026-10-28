@@ -10,4 +10,4 @@ Durante la visita habrá una **audiencia abierta**, de **15:30 a 16:00 (online)*
 
 La información sobre la sesión está publicada en la web del [Servicio de Calidad de la UMH](https://calidad.umh.es/2026/10/26/visita-comite-reacreditacion-avap-master-universitario-en-innovacion-en-periodismo-y-master-universitario-en-estadistica-computacional-y-ciencia-de-datos-para-la-toma-de-decisiones/).
 
-La documentación oficial del título (memoria verificada, informes de seguimiento y de acreditación, y resultados) está disponible en la página de [Calidad y transparencia](https://mip.umh.es/calidad.html) del máster.
+La documentación oficial del título (memoria verificada, informes de seguimiento y de acreditación, y resultados) está disponible en la página de [Calidad y transparencia](https://mip.umh.es/calidad/) del máster.

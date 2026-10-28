@@ -2,19 +2,19 @@
 - titulo: Inicio
   url: /
 - titulo: Plan de estudios
-  url: /planestudios.html
+  url: /plan-de-estudios/
 - titulo: Profesorado
-  url: /profesores.html
+  url: /profesorado/
 - titulo: Nos visitan
-  url: /nos-visitan.html
+  url: /nos-visitan/
 - titulo: Prácticas
-  url: /practicas.html
+  url: /practicas/
 # Oculto hasta revisar permisos de egresados
 # - titulo: Egresados
-#   url: /egresados.html
+#   url: /egresados/
 - titulo: Admisión
-  url: /preinscripcion.html
+  url: /admision/
 - titulo: Calidad
-  url: /calidad.html
+  url: /calidad/
 - titulo: Revista
   url: https://mip.umh.es/blog/
