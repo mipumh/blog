@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
 title: "Divergir y converger: un método abierto para estimular la creatividad en
   equipo en tiempos de IA"
+slug: divergir-converger-creatividad-equipo-ia
 description: Publicamos la metodología del hackatón de ComunIA, basada en el
   doble diamante, para estimular la creatividad en equipo y replicarla en un
   aula o redacción.
