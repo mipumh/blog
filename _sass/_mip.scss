@@ -109,7 +109,6 @@ a {
 // El contenedor de Bootstrap 4 no pasa de 1140 px: tamaños compactos en todo el escritorio
 @media (min-width: 1200px) {
     .mip-marca { font-size: .95rem; }
-    .mip-marca > span { white-space: normal; max-width: 11.5rem; line-height: 1.15; } // nombre en dos líneas: deja sitio a la lupa
     .mip-nav a { font-size: .88rem; padding: .5rem .4rem; }
     .mip-hablamos { padding: .45rem .95rem; font-size: .92rem; margin-left: .75rem; }
     .umh-link { margin-left: .75rem; padding-left: .75rem; }
