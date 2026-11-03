@@ -3,7 +3,7 @@ layout: post
 title: Cómo usar la Inteligencia Artificial para optimizar el negocio de los
   medios de comunicación
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Doctor en Periodismo UMH

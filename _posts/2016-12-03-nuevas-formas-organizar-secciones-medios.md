@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo organizar los contenidos en un medio digital? De las secciones a las "obsesiones"
 excerpt: "Casi todas las ediciones online de los diarios y muchos nativos digitales continúan utilizando las tradicionales secciones. Sin embargo, algunos medios están innovando en la organización de los contenidos mediante la jerarquización en torno a temas de interés."
 author:
-  name: Chema Valero
+  name: Jose María Valero
   twitter: josvap
   gplus: 105651624538664882557 
   bio: Doctorando UMH

@@ -42,7 +42,7 @@ collections:
               - "Alicia de Lara"
               - "Cristian R. Marín"
               - "Alba García Ortega"
-              - "Chema Valero"
+              - "Jose María Valero"
               - "Dámaso Mondéjar"
               - "David Corral"
           - { label: "Twitter", name: "twitter", widget: "string", required: false }

@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo se construye la innovación? 10 claves para la organización de
   medios digitales que buscan la sostenibilidad
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Investigador Periodismo UMH

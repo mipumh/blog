@@ -4,7 +4,7 @@ title: "Beatriz Lizarraga (Jefa de Proyectos Digitales, ABC): “No preveo grand
   desarrollos blockchain a corto plazo en medios establecidos. Sí pequeñas
   pruebas de concepto para investigar”"
 author:  
-  name: Chema Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Profesor del Máster

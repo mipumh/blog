@@ -4,7 +4,7 @@ title: >-
   2020 ya está aquí. Apuntes sobre la situación de los medios digitales en
   Estados Unidos
 author:
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   bio: Investigador Periodismo UMH
   image: chema.webp

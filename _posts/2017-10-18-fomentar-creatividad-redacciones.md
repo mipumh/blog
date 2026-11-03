@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo fomentar la creatividad en las redacciones? 5 principios básicos
 excerpt: "El editor de Quartz Gideon Lichfield, en un seminario web organizado por la Fundación Gabriel García Márquez para el Nuevo Periodismo Iberoamericano en mayo de 2017, explicaba que la innovación en este medio de comunicación se basa en fomentar la 'creatividad cotidiana a todos los niveles'. La literatura académica establece una relación similar, por la que la innovación se perfila como la implementación exitosa de ideas creativas en forma de procesos, productos y servicios."
 author:
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Investigador Periodismo UMH

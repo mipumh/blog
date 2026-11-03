@@ -3,7 +3,7 @@ layout: post
 title: "Innovar también es cuidar: el bienestar emocional de los periodistas en
   un contexto de cambio"
 author:  
-  name: Chema Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Profesor del Máster

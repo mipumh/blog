@@ -3,7 +3,7 @@ layout: post
 title: "Diez años después: cómo ha evolucionado la innovación en el periodismo
   español"
 author:
-  name: Chema Valero
+  name: Jose María Valero
   image: chema.webp
   bio: Profesor del Máster
   link: https://twitter.com/josvap

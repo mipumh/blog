@@ -3,7 +3,7 @@ layout: post
 title: "Escalando el mínimo producto viable. Tres casos de iniciativas
   periodísticas que empezaron en pequeño para crecer más fuertes "
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Profesor del Máster

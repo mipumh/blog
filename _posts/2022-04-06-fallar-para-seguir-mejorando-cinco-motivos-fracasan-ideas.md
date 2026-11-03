@@ -2,7 +2,7 @@
 layout: post
 title: Fallar para seguir mejorando. Cinco motivos por los que fracasan las ideas periodísticas con potencial de éxito
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Doctor en Periodismo UMH

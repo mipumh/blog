@@ -3,7 +3,7 @@ layout: post
 title: Follow the leader! Cinco consejos para liderar las redacciones hacia la
   innovación
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Doctor en Periodismo UMH

@@ -4,7 +4,7 @@ title: "Desintermediación, trazabilidad y comunidades. Los medios ante el
   internet del valor de Blockchain"
 iberifier: si
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Profesor del Máster

@@ -2,7 +2,7 @@
 layout: post
 title: Entre los muros de pago y el valor de compartir. Cómo los medios aprovechan la recomendación de noticias para aumentar sus suscripciones
 author:  
-  name: Jose María Valero 
+  name: Jose María Valero
   twitter: josvap
   gplus:  
   bio: Investigador Periodismo UMH

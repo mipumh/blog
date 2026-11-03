@@ -8,7 +8,7 @@ description: Publicamos la metodología del hackatón de ComunIA, basada en el
   doble diamante, para estimular la creatividad en equipo y replicarla en un
   aula o redacción.
 author:
-  name: Chema Valero
+  name: Jose María Valero
   twitter: "@josvap"
 ---
 Cuando se habla de inteligencia artificial en comunicación, la conversación suele girar en torno a las herramientas. Temas como qué modelo genera mejores textos o imágenes, qué aplicación automatiza qué tarea, o qué flujo de trabajo ahorra más tiempo. Esta mirada deja a menudo en segundo plano una cuestión previa importante en una organización, fundamental para innovar: **cómo se decide qué problema merece resolverse y qué solución se ajusta mejor a esa necesidad**.
