@@ -1,0 +1,125 @@
+{%- comment -%}
+Buscador de la revista (lupa de la cabecera, tecla / o enlaces con data-abrir-buscar), con el aspecto del de mip.umh.es.
+Busca solo en títulos y autores de search.json, que se descarga al abrirlo por primera vez.
+{%- endcomment -%}
+<dialog class="buscador" id="buscador" aria-labelledby="buscar-titulo">
+  <div class="buscador-caja">
+    <button type="button" class="buscador-cerrar" aria-label="Cerrar">{% include _icono.html n="cerrar" s=20 %}</button>
+    <div class="buscador-panel">
+      <p class="eyebrow">Revista de Innovación en Periodismo</p>
+      <h2 class="buscador-h" id="buscar-titulo">¿Qué buscas?</h2>
+      <p class="buscador-intro">Por título o por autor, en {{ site.posts.size }} artículos publicados desde 2013.</p>
+      <form class="buscador-form" role="search" action="#" onsubmit="return false">
+        {% include _icono.html n="buscar" s=22 %}
+        <input type="search" id="buscar-q" placeholder="Un tema, un medio, un autor…" aria-label="Buscar en la revista" autocomplete="off" spellcheck="false">
+      </form>
+      <div class="buscador-sugerencias" aria-label="Búsquedas frecuentes">
+        {%- assign sugerencias = "IA,Audiencias,Datos,Newsletter,Vicente Verdú,García Avilés" | split: "," -%}
+        {%- for s in sugerencias %}
+        <button type="button" class="tema">{{ s }}</button>
+        {%- endfor %}
+      </div>
+    </div>
+    <div class="buscador-resultados">
+      <div id="buscar-res" aria-live="polite"><p class="buscador-ayuda">Escribe al menos dos letras o elige una búsqueda frecuente. Atajo: tecla <kbd>/</kbd>.</p></div>
+    </div>
+  </div>
+</dialog>
+<script>
+  (function () {
+    var dlg = document.getElementById('buscador'), q = document.getElementById('buscar-q'), res = document.getElementById('buscar-res');
+    var entradas = [], autores = [], cargando = null;
+    var AYUDA = '<p class="buscador-ayuda">Escribe al menos dos letras o elige una búsqueda frecuente. Atajo: tecla <kbd>/</kbd>.</p>';
+    // Algunos títulos antiguos traen entidades HTML («&#58» por los dos puntos)
+    var dec = document.createElement('textarea');
+    function texto(s) { dec.innerHTML = s || ''; return dec.value; }
+    function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+    function trocear(s) { return norm(s).split(/[^a-z0-9ñ]+/).filter(Boolean); }
+    function cargar() {
+      if (cargando) return cargando;
+      cargando = fetch('{{ site.baseurl }}/search.json').then(function (r) { return r.json(); }).then(function (d) {
+        var cuenta = {};
+        entradas = d.map(function (e) {
+          if (e.author) cuenta[e.author] = (cuenta[e.author] || 0) + 1;
+          var t = texto(e.title);
+          return { t: t, u: e.url, k: e.date, au: texto(e.author), wt: trocear(t), wa: trocear(e.author) };
+        });
+        autores = Object.keys(cuenta).map(function (n) { return { n: n, c: cuenta[n], w: trocear(n) }; });
+      }).catch(function () { cargando = null; });
+      return cargando;
+    }
+    // Cada palabra buscada debe empezar alguna palabra del título o del autor («ia» no encuentra «media»)
+    function casa(palabras, w) { return palabras.every(function (p) { return w.some(function (x) { return x.indexOf(p) === 0; }); }); }
+    function puntos(palabras, e) {
+      var p = 0;
+      for (var i = 0; i < palabras.length; i++) {
+        var enT = e.wt.some(function (x) { return x.indexOf(palabras[i]) === 0; });
+        var enA = e.wa.some(function (x) { return x.indexOf(palabras[i]) === 0; });
+        if (!enT && !enA) return 0;
+        p += enT ? 2 : 1;
+      }
+      return p;
+    }
+    function lista(items, pinta) {
+      var ol = document.createElement('ol'); ol.className = 'buscador-lista';
+      items.forEach(function (it) { var li = document.createElement('li'); li.append(pinta(it)); ol.append(li); });
+      return ol;
+    }
+    function cabecera(texto) { var h = document.createElement('h3'); h.className = 'buscador-grupo'; h.textContent = texto; return h; }
+    function fila(el, titulo, chip) {
+      var t = document.createElement('span'), k = document.createElement('span');
+      t.className = 'buscador-titulo'; t.textContent = titulo; k.className = 'buscador-tipo'; k.textContent = chip;
+      el.append(t, k); return el;
+    }
+    function pintar() {
+      var texto = norm(q.value).trim();
+      res.textContent = '';
+      if (texto.length < 2) { res.innerHTML = AYUDA; return; }
+      var palabras = trocear(texto).map(function (p) { return p.length > 4 ? p.replace(/e?s$/, '') : p; });
+      var au = autores.filter(function (a) { return casa(palabras, a.w); }).sort(function (x, y) { return y.c - x.c; }).slice(0, 4);
+      var ar = entradas.map(function (e) { return { e: e, p: puntos(palabras, e) }; }).filter(function (r) { return r.p; })
+        .sort(function (x, y) { return y.p - x.p; }).slice(0, 25).map(function (r) { return r.e; });
+      if (!au.length && !ar.length) { res.innerHTML = '<p class="buscador-ayuda">Sin resultados en títulos ni autores. Prueba con otra palabra o consulta el <a href="{{ site.baseurl }}/archivo.html">archivo</a>.</p>'; return; }
+      if (au.length) res.append(cabecera('Autores'), lista(au, function (a) {
+        var b = document.createElement('button'); b.type = 'button';
+        b.addEventListener('click', function () { q.value = a.n; pintar(); q.focus(); });
+        return fila(b, a.n, a.c + (a.c === 1 ? ' artículo' : ' artículos'));
+      }));
+      if (ar.length) res.append(cabecera('Artículos'), lista(ar, function (e) {
+        // Título y autor en un bloque; el subrayado solo alcanza al título
+        var a = document.createElement('a'), caja = document.createElement('span'), t = document.createElement('span'), s = document.createElement('span'), k = document.createElement('span');
+        a.href = e.u; caja.className = 'buscador-texto';
+        t.className = 'buscador-titulo'; t.textContent = e.t;
+        s.className = 'buscador-autor'; s.textContent = e.au;
+        k.className = 'buscador-tipo'; k.textContent = e.k;
+        caja.append(t, s); a.append(caja, k);
+        return a;
+      }));
+    }
+    function abrir() {
+      if (dlg.open) return;
+      dlg.showModal(); document.body.style.overflow = 'hidden';
+      cargar().then(pintar);
+      if (window.matchMedia('(min-width: 768px)').matches) { q.focus(); q.select(); }
+    }
+    dlg.addEventListener('close', function () { document.body.style.overflow = ''; });
+    dlg.querySelector('.buscador-cerrar').addEventListener('click', function () { dlg.close(); });
+    dlg.addEventListener('click', function (ev) { if (ev.target === dlg) dlg.close(); });
+    q.addEventListener('input', function () { cargar().then(pintar); });
+    q.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Enter') { var a = res.querySelector('.buscador-lista a'); if (a) location.href = a.href; }
+      if (ev.key === 'Escape') { ev.preventDefault(); dlg.close(); } // en un campo de búsqueda, Esc solo borraría el texto
+    });
+    dlg.querySelectorAll('.buscador-sugerencias .tema').forEach(function (b) {
+      b.addEventListener('click', function () { q.value = b.textContent; cargar().then(pintar); });
+    });
+    document.querySelectorAll('[data-abrir-buscar]').forEach(function (el) {
+      el.addEventListener('click', function (ev) { ev.preventDefault(); abrir(); });
+    });
+    document.addEventListener('keydown', function (ev) {
+      var t = ev.target.tagName;
+      if (ev.key === '/' && !ev.ctrlKey && !ev.metaKey && t !== 'INPUT' && t !== 'TEXTAREA' && !ev.target.isContentEditable) { ev.preventDefault(); abrir(); }
+    });
+    if (location.hash === '#buscar') abrir();
+  })();
+</script>

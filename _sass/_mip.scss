@@ -109,6 +109,7 @@ a {
 // El contenedor de Bootstrap 4 no pasa de 1140 px: tamaños compactos en todo el escritorio
 @media (min-width: 1200px) {
     .mip-marca { font-size: .95rem; }
+    .mip-marca > span { white-space: normal; max-width: 11.5rem; line-height: 1.15; } // nombre en dos líneas: deja sitio a la lupa
     .mip-nav a { font-size: .88rem; padding: .5rem .4rem; }
     .mip-hablamos { padding: .45rem .95rem; font-size: .92rem; margin-left: .75rem; }
     .umh-link { margin-left: .75rem; padding-left: .75rem; }
@@ -142,6 +143,82 @@ a {
 @media (prefers-reduced-motion: reduce) {
     .mip-panel { transition: none; }
 }
+
+// Buscador (lupa de la cabecera), como en mip.umh.es: popup con panel menta y resultados
+.btn-icon {
+    display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; flex-shrink: 0;
+    border: 1px solid $line; border-radius: 50%; background: $paper; color: $ink; padding: 0; cursor: pointer; transition: background .2s, border-color .2s;
+    &:hover, &:focus-visible { background: $mint; border-color: $mint; }
+}
+.mip-lupa { margin-left: 1rem; }
+.mip-lupa-movil { margin-right: .5rem; }
+@media (min-width: 1200px) { .mip-lupa-movil { display: none; } }
+@media (max-width: 1199.98px) { .mip-lupa { display: none; } }
+.tema {
+    display: inline-block; cursor: pointer; border: 1px solid $line; border-radius: 999px; padding: .35rem .85rem;
+    font-family: $font; font-size: .88rem; font-weight: 600; background: $paper; color: $ink; transition: all .15s;
+    &:hover { border-color: $ink; }
+}
+.buscador {
+    width: calc(100% - 2rem); max-width: 1140px; max-height: calc(100% - 2rem); padding: 0; border: 0; border-radius: 16px;
+    overflow: hidden; color: $ink; background: $paper; box-shadow: 0 24px 60px rgba(0, 0, 0, .25);
+    &::backdrop { background: rgba(0, 0, 0, .5); }
+    &[open] { animation: buscador-entra .2s ease-out; }
+    .eyebrow { color: $ink; }
+}
+@keyframes buscador-entra { from { opacity: 0; transform: translateY(-12px); } to { opacity: 1; transform: none; } }
+.buscador-caja { position: relative; display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); }
+.buscador-cerrar {
+    position: absolute; top: 1rem; right: 1rem; z-index: 2; width: 2.5rem; height: 2.5rem; border: 0; border-radius: 50%;
+    background: transparent; color: $ink; cursor: pointer; display: inline-flex; align-items: center; justify-content: center;
+    &:hover, &:focus-visible { background: $gray-bg; }
+}
+.buscador-panel { background: $mint; padding: clamp(1.5rem, 4vw, 2.75rem); }
+.buscador-h { font-family: $fontheadings; font-weight: 900; font-size: clamp(2.4rem, 5vw, 3.4rem); line-height: .95; letter-spacing: -0.04em; margin: 0 0 1rem; }
+.buscador-intro { margin: 0 0 1.25rem; }
+.buscador-form {
+    display: flex; align-items: center; gap: .65rem; background: $paper; border-radius: 10px; padding: .7rem .9rem; margin: 0 0 1rem;
+    &:focus-within { box-shadow: 0 0 0 3px $ink; }
+    input { flex: 1; border: 0; outline: 0; font-family: $font; font-size: 1.1rem; background: transparent; color: $ink; min-width: 0; padding: 0; }
+    input::-webkit-search-cancel-button { display: none; }
+}
+.buscador-sugerencias {
+    display: flex; flex-wrap: wrap; gap: .4rem;
+    .tema { background: rgba(255, 255, 255, .55); border-color: transparent; }
+    .tema:hover { background: $paper; border-color: $ink; }
+}
+.buscador-resultados {
+    padding: clamp(1.5rem, 4vw, 2.75rem); padding-top: clamp(2.5rem, 5vw, 3rem); min-height: 22rem; max-height: 85vh; overflow-y: auto;
+    kbd { background: $gray-bg; color: $ink; border: 1px solid $line; border-radius: 4px; font-size: .8rem; padding: .05rem .4rem; box-shadow: none; }
+}
+.buscador-ayuda { color: $muted; margin: 0; }
+.buscador-grupo { font-family: $font; font-size: .75rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: $muted; margin: 1.5rem 0 .25rem; }
+.buscador-grupo:first-child { margin-top: 0; }
+.buscador-lista {
+    list-style: none; margin: 0; padding: 0;
+    a, button {
+        display: flex; width: 100%; justify-content: space-between; align-items: baseline; gap: 1rem; padding: .7rem 0;
+        border: 0; border-bottom: 1px solid $line; background: none; text-align: left; text-decoration: none; color: $ink; cursor: pointer; font: inherit;
+    }
+    a:hover .buscador-titulo, a:focus-visible .buscador-titulo, button:hover .buscador-titulo, button:focus-visible .buscador-titulo {
+        text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 3px; text-underline-offset: 4px;
+    }
+}
+.buscador-titulo { font-family: $fontheadings; font-weight: 700; font-size: 1.05rem; line-height: 1.3; letter-spacing: -0.01em; }
+.buscador-texto { display: flex; flex-direction: column; min-width: 0; }
+.buscador-autor { display: block; font-family: $font; font-weight: 400; font-size: .82rem; color: $muted; letter-spacing: 0; margin-top: .15rem; }
+.buscador-tipo { flex-shrink: 0; font-size: .75rem; font-weight: 600; color: $muted; background: $gray-bg; border-radius: 999px; padding: .15rem .6rem; }
+// Móvil: pantalla completa, como el modal-fullscreen-md-down de la web
+@media (max-width: 767.98px) {
+    .buscador { width: 100%; height: 100%; max-height: none; border-radius: 0; overflow-y: auto; overscroll-behavior: contain; }
+    .buscador-caja { grid-template-columns: minmax(0, 1fr); }
+    .buscador-cerrar { position: fixed; top: .75rem; right: .75rem; background: $paper; box-shadow: 0 2px 8px rgba(0, 0, 0, .12); }
+    .buscador-panel { padding-top: 1.75rem; padding-bottom: 1.25rem; }
+    .buscador-h { font-size: 2.2rem; }
+    .buscador-intro { display: none; }
+    .buscador-resultados { min-height: 0; max-height: none; overflow: visible; padding-top: 1.5rem; }
+}
+@media (prefers-reduced-motion: reduce) { .buscador[open] { animation: none; } }
 
 // Aviso bajo la cabecera, como en mip.umh.es
 .aviso {

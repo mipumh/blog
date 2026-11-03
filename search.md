@@ -1,14 +1,9 @@
 ---
 category: nomap
 layout: page
-title: Búsqueda
+title: Buscar en la revista
 permalink: /buscar/
 ---
-<h1>Resultados</h1>
-
-<div class="card">
-<div class="filter-parent" id="search">
-<input type="text" placeholder="Buscar" id="search-input" class="form-control input-lg" tabindex="1">
-</div>  
-<div class="list-group" id="results-container"></div>
-</div>
+<p>Busca por título o por autor entre todos los artículos de la revista.</p>
+<p><button type="button" class="btn" data-abrir-buscar>Abrir el buscador</button></p>
+<script>document.addEventListener('DOMContentLoaded', function () { var b = document.querySelector('main [data-abrir-buscar]'); if (b) b.click(); });</script>

@@ -8,6 +8,7 @@ Cabecera con el estilo de mip.umh.es (su _includes/navbar.html, sin Bootstrap 5)
       <img src="{{ site.baseurl }}/images/{{ site.inc.logo }}" alt="" width="36" height="36">
       <span><strong>Revista</strong><span class="mip-marca-largo"> de Innovación en Periodismo</span></span>
     </a>
+    <button type="button" class="btn-icon mip-lupa-movil" data-abrir-buscar aria-label="Buscar en la revista">{% include _icono.html n="buscar" s=20 %}</button>
     <button class="mip-abrir" type="button" aria-controls="menu" aria-expanded="false" aria-label="Abrir menú">{% include _icono.html n="menu" s=26 %}</button>
     <div class="mip-panel" id="menu" aria-label="Menú principal">
       <div class="mip-panel-cabecera">
@@ -23,6 +24,7 @@ Cabecera con el estilo de mip.umh.es (su _includes/navbar.html, sin Bootstrap 5)
           <li><a href="{{ site.baseurl }}/premio-vicente-verdu/"{% if page.url == "/premio-vicente-verdu/" %} class="active" aria-current="page"{% endif %}>Premio Vicente Verdú</a></li>
         </ul>
       </nav>
+      <button type="button" class="btn-icon mip-lupa" data-abrir-buscar aria-label="Buscar en la revista">{% include _icono.html n="buscar" s=20 %}</button>
       <a class="btn btn-mint mip-hablamos" href="{{ web }}/">Ir al Máster</a>
       <a class="umh-link" href="https://www.umh.es" aria-label="Universidad Miguel Hernández de Elche"><img class="umh-logo" src="{{ site.baseurl }}/images/logo-umh.png" alt="UMH" width="126" height="35"></a>
       <div class="mip-panel-pie">
