@@ -9,7 +9,7 @@ cada entrada es un BlogPosting que forma parte de ella. Usa seo_desc, seo_img y 
     "name": "Máster Universitario en Innovación en Periodismo",
     "url": "https://mip.umh.es/",
     "logo": { "@type": "ImageObject", "url": "https://mip.umh.es/blog/images/logo.webp" },
-    "sameAs": ["https://twitter.com/{{ site.inc.twitter }}", "https://www.facebook.com/{{ site.inc.facebook }}"],
+    "sameAs": ["https://twitter.com/{{ site.inc.twitter }}", {{ site.inc.linkedin | jsonify }}, "https://www.facebook.com/{{ site.inc.facebook }}"],
     "parentOrganization": { "@type": "CollegeOrUniversity", "name": "Universidad Miguel Hernández de Elche", "url": "https://www.umh.es/" }
   }
 {%- endcapture -%}
