@@ -3,10 +3,11 @@ layout: null
 category: nomap
 ---
 {%- comment -%}Índice de entradas: lo usan el buscador de la revista y la portada de mip.umh.es («Lo último en la revista»).
-image: campo image de la entrada o, si no lo tiene, la primera imagen del texto. author_image: foto del autor en _data/authors.yml.{%- endcomment -%}
+image: campo image de la entrada, si no share_image (imagen de portada) y si no la primera imagen del texto. author_image: foto del autor en _data/authors.yml.{%- endcomment -%}
 [
 {%- for post in site.posts %}
   {%- assign img = post.image -%}
+  {%- if img == nil and post.share_image -%}{%- assign img = post.share_image | prepend: "/images/" | prepend: site.baseurl -%}{%- endif -%}
   {%- unless img -%}
     {%- assign trozos = post.content | split: '<img' -%}
     {%- if trozos.size > 1 -%}
