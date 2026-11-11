@@ -26,7 +26,7 @@ collections:
       - { label: "Published", name: "published", widget: "hidden", default: false }
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Subtítulo", name: "subtitle", widget: "string", required: false }
-      - { label: "URL corta", name: "slug", widget: "string", required: false, pattern: ["^[a-z0-9]+(-[a-z0-9]+)*$", "Solo minúsculas sin tildes, números y guiones"], hint: "3 a 6 palabras clave separadas por guiones (ej.: divergir-converger-creatividad-equipo-ia). Si se deja vacía, la URL repite el título completo." }
+      - { label: "URL corta", name: "slug", widget: "string", required: true, pattern: ["^[a-z0-9]+(-[a-z0-9]+)*$", "Solo minúsculas sin tildes, números y guiones"], hint: "3 a 6 palabras clave separadas por guiones (ej.: divergir-converger-creatividad-equipo-ia). Si se deja vacía, la URL repite el título completo." }
       - { label: "Descripción para buscadores", name: "description", widget: "text", required: false, hint: "Una o dos frases (máx. 160 caracteres) con el tema y las palabras que buscaría el lector. Si se deja vacía se usa el primer párrafo." }
       - label: "Autor"
         name: "author"

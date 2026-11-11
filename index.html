@@ -42,11 +42,11 @@ layout: base
                     {% if paginator.previous_page == 1 %}
                     <a href="{{ site.baseurl }}/" class="btn btn-outline">‹ Recientes</a>
                     {% else %}
-                    <a href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Recientes</a>
+                    <a href="{{ site.baseurl }}/page{{ paginator.previous_page }}/" class="btn btn-outline">‹ Recientes</a>
                     {% endif %}
                   {% endif %}
                   {% if paginator.next_page %}
-                    <a href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="btn btn-outline">Anteriores ›</a>
+                    <a href="{{ site.baseurl }}/page{{ paginator.next_page }}/" class="btn btn-outline">Anteriores ›</a>
                   {% endif %}
                 </nav>
             </article>
