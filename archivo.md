@@ -11,7 +11,6 @@ permalink: archivo.html
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% assign meses = "ene,feb,mar,abr,may,jun,jul,ago,sep,oct,nov,dic" | split: "," %}
 
-<p class="archivo-intro">{{ site.posts | size }} artículos publicados desde {{ posts_by_year | last | map: "name" }}. Los años anteriores están plegados: pulsa en cada uno para desplegarlo.</p>
 
 <nav class="archivo-anios" aria-label="Ir a un año">
 {% for year in posts_by_year %}<a href="#a{{ year.name }}">{{ year.name }}</a>{% endfor %}

@@ -400,7 +400,6 @@ article ul.equipo {
 }
 
 // Archivo: acordeón por años (details/summary, sin JS) y listado fecha + título
-.archivo-intro { color: $muted; margin-bottom: 1rem; }
 .archivo-anios {
     display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.75rem;
     a { font-size: .8rem; font-weight: 600; color: $ink; text-decoration: none; border: 1px solid $line; border-radius: 999px; padding: .25rem .7rem; }
