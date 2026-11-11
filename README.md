@@ -1,24 +1,22 @@
-Esta es una publicación oficial del Master de Innovación en Periodismo (MIP), un espacio para informar sobre el programa y para dar noticias, sugerir ideas y hablar de las tendencias de una industria en transición. El [MIP](http://mip.umh.es) es un título oficial de postgrado de la Universidad Miguel Hernández (Elche,España) organizado por [Periodismo UMH](http://periodismo.umh/).
+# Revista de Innovación en Periodismo
 
-**El programa**
-	
-Dirigido a **periodistas o licenciados en Comunicación**, el programa pretende servir de plataforma para innovar, emprender y desarrollar proyectos en el ámbito del periodismo digital y la comunicación. Además, por estar avalado por el Ministerio, permite el acceso al **Doctorado**.
+Publicación del Máster Universitario en Innovación en Periodismo (UMH), ISSN 3020-383X. Jekyll servido por GitHub Pages en <https://mip.umh.es/blog/> (`baseurl: /blog`).
 
-[Más información »](http://bit.ly/XkRLxD)
+## Cómo funciona
 
-* **[Blog](http://mip.umh.es/blog)** - Dirección del blog.
-* **[Twitter](http://twitter.com/mipumh)** - Cuenta oficial de Twitter.
-* **[Facebook](http://www.facebook.com/mipumh)** - Página de noticias en Facebook.
+- **Se publica desde la rama `gh-pages`.** GitHub Pages la construye en cada push.
+- **Decap CMS** (`admin/`) es el gestor de contenidos: crea una rama `cms/posts/...` por entrada y la fusiona en `gh-pages` con un pull request. Antes de tocar nada en local: `git pull --rebase origin gh-pages`.
+- El workflow `.github/workflows/optimize-images.yml` optimiza las imágenes subidas.
+- `search.json` lo lee la portada de mip.umh.es («Lo último en la revista»): mantener sus campos `title`, `url`, `date`, `excerpt`, `author`, `image` y `author_image`.
+- Las fotos de autores están en `_data/authors.yml` y se resuelven con `_includes/_author-resolve.html`.
+- Toda entrada nueva lleva `slug` (campo «URL corta» de Decap). No se cambia la URL de nada ya publicado.
 
-**Contacto**
+## Compilar en local
 
-Avd. Universidad s/n, 03202  
-Edificio Torreblanca  
-Elche, Alicante  
-965 222 415  
-[Correo electrónico](mailto:mip@umh.es)
+```sh
+bundle install
+LC_ALL=en_US.UTF-8 bundle exec jekyll serve --port 4012   # http://localhost:4012/blog/
+LC_ALL=en_US.UTF-8 bundle exec jekyll build
+```
 
-**Diseño**
-
-El blog usa el tema [Incorporated](http://incorporated.sendtoinc.com/), diseñado por el equipo de Kippt Inc. bajo [la licencia MIT]({{ site.baseurl }}LICENSE).
-
+Sin `LC_ALL` falla la compilación de Sass por las tildes.

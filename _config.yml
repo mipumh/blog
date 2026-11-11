@@ -38,5 +38,4 @@ paginate: 10
 
 exclude:
   - admin
-  - netlify.toml
   - node_modules
