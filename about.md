@@ -35,17 +35,15 @@ La **Revista de Innovación en Periodismo** ofrece casos, estudios y pistas sobr
   </li>
 </ul>
 
-## ¿En qué consiste el Máster?
+## Un máster para quienes quieren cambiar el periodismo desde dentro
 
-El postgrado se dirige a **profesionales y graduados en Periodismo o Comunicación** con el fin de ayudarles a entender los conceptos, métodos y herramientas necesarios para **innovar en periodismo**. El título es especialmente útil para quienes quieren impulsar un producto o servicio propio o una innovación interna en sus organizaciones.
+El **Máster Universitario en Innovación en Periodismo** de la UMH forma, desde 2013, a periodistas y comunicadores que quieren lanzar un medio propio o liderar la innovación en su redacción. Es un título oficial, 100% online y pensado para compaginarlo con el trabajo.
 
-El plan de estudios consta de asignaturas con **seminarios y talleres prácticos** guiados por [periodistas emprendedores y editores de medios](http://mip.umh.es/profesores.html); **sesiones de planificación y creatividad** tuteladas por profesores; documentación para las **materias más técnicas**; tutorías para orientar el **desarrollo de un proyecto atractivo, realizable y viable**.
+**Aprendes haciendo.** Cada estudiante desarrolla a lo largo del curso un proyecto periodístico real, con tutorías personalizadas y talleres impartidos por quienes ya han fundado o dirigido medios. Modelos de negocio, audiencias, producto, narrativas, datos, inteligencia artificial y marketing: lo que hace falta para que una idea periodística sea viable.
 
-Con este Máster, el estudiante será capaz de **entender cómo está cambiando la industria** para **detectar oportunidades** y **diseñar productos y servicios** orientados al mercado. Además, recibirá formación para conocer en profundidad el **comportamiento de la audiencia**, nuevos **modelos de periodismo**, **cómo monetizar la actividad informativa**, así como otros asuntos clave para **emprender un proyecto**: marketing digital, diseño web y WordPress y posicionamiento en redes sociales.
+**Una comunidad que sigue contigo.** Más de una década de promociones en España y América Latina, una red de egresados activa y esta revista, donde publicamos lo que investigamos y lo que aprendemos de los protagonistas del sector.
 
-## Máster 100% a distancia en campus virtual
-
-Este postgrado se imparte 100% en modalidad online. Los estudiantes acceden a la plataforma virtual para asistir a las clases en vídeo, con foros y encuentros virtuales en directo con los profesores y compañeros.
+<p class="about-cta"><a class="btn" href="https://mip.umh.es/plan-de-estudios/">Conoce el plan de estudios</a> <a class="btn btn-mint" href="https://mip.umh.es/admision/">Solicita información</a></p>
 
 * **[Revista](http://mip.umh.es/blog)** - Dirección de la revista.
 * **[Twitter](https://twitter.com/mipumh)** - Cuenta oficial del Máster.

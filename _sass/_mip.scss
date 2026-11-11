@@ -429,3 +429,4 @@ article ol.archivo-lista {
     a:hover, a:focus-visible { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 2px; text-underline-offset: 3px; }
 }
 @media (prefers-reduced-motion: reduce) { .archivo-anio .archivo-flecha { transition: none; } }
+article p.about-cta { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.5rem 0 2rem; a { text-decoration: none; } }
