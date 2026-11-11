@@ -22,7 +22,7 @@ La **Revista de Innovación en Periodismo** ofrece casos, estudios y pistas sobr
     <div>
       <p class="equipo-cargo">Director · edición y desarrollo web</p>
       <p class="equipo-nombre"><a rel="author" href="https://twitter.com/mcarvajal_" title="Miguel Carvajal" target="_blank">Miguel Carvajal</a></p>
-      <p class="equipo-bio">Periodista y profesor titular de Periodismo en la Universidad Miguel Hernández. Lee y escribe sobre modelos de negocio y proyectos periodísticos. Doctor en Empresa Informativa por la Universidad de Navarra (2006).</p>
+      <p class="equipo-bio">Periodista y catedrático de Periodismo en la Universidad Miguel Hernández. Lee y escribe sobre modelos de negocio y proyectos periodísticos. Doctor en Empresa Informativa por la Universidad de Navarra (2006).</p>
     </div>
   </li>
   <li class="equipo-ficha">
