@@ -2,6 +2,7 @@
 layout: post
 title: Cinco claves de ComunIA para entender cómo la IA está transformando la
   comunicación
+description: "Cinco ideas de la jornada de apertura de ComunIA (UMH) sobre la IA en la comunicación: decidir más que hacer, factor humano, velocidad, datos y productividad."
 author:
   name: Alba García Ortega
 cover_image: 001/foto1.jpg

@@ -2,6 +2,7 @@
 layout: post
 title: "Abrimos la VI edición del Premio Vicente Verdú de Periodismo e Innovación"
 subtitle: El certamen, impulsado por la Asociación de Informadores de Elche, con el patrocinio del Ayuntamiento y la Universidad Miguel Hernández, está dotado con 6.000 euros y el plazo se cierra el 8 de marzo
+description: "Convocatoria del VI Premio Vicente Verdú de Periodismo e Innovación, dotado con 6.000 euros, para trabajos publicados en 2025. Plazo: 8 de marzo de 2026."
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_

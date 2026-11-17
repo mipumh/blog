@@ -3,6 +3,7 @@ layout: post
 title: ¿Cómo suenan los podcasts en España? Radiografía de la producción
   original en las plataformas de audio en 2023
 periscopio: si
+description: "Las plataformas de podcast en España estrenaron 209 títulos originales en 2023: el efecto Sonora, el auge del formato conversacional y el peso del pago."
 author:
   name: Luis Miguel Pedrero
   twitter: luismipedrero

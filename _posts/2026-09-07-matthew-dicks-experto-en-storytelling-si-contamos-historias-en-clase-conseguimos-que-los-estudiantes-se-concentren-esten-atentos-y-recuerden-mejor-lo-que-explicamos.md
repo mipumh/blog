@@ -3,6 +3,7 @@ layout: post
 title: "Matthew Dicks, experto en storytelling: “Si contamos historias en clase,
   conseguimos que los estudiantes se concentren, estén atentos y recuerden mejor
   lo que explicamos”"
+description: "Entrevista con Matthew Dicks, profesor y narrador, sobre cómo contar historias en clase ayuda a que los estudiantes atiendan y recuerden lo explicado."
 author:
   name: Jose A. García Avilés
 ---

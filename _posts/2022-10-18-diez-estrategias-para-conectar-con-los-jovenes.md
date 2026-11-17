@@ -2,6 +2,7 @@
 layout: post
 title: "Diez estrategias para conectar con los jóvenes (1ª parte) Spoiler:
   contrata a periodistas menores de 26 años"
+description: "Cómo pueden los medios conectar con la Generación Z: hablar con los jóvenes, contar sus temas, crear marcas por plataforma y fichar talento joven."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

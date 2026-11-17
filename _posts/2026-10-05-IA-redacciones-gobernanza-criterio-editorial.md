@@ -2,6 +2,7 @@
 layout: post
 title: "La IA no salvará las redacciones: lo hará la gobernanza y el criterio
   editorial"
+description: "Reseña de «IA, innovación y medios», de César Fieiras: siete principios para usar la IA en las redacciones con gobernanza, supervisión y transparencia."
 author:
   name: Jose A. García Avilés
 ---

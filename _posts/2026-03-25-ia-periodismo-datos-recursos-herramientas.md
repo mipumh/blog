@@ -2,6 +2,7 @@
 layout: post
 title: La IA al servicio del periodismo de datos. Recursos, casos y herramientas
   para buscar, extraer, procesar y visualizar información
+description: "Recursos, casos y herramientas de IA para el periodismo de datos: buscar ideas, obtener datos, procesar documentos y bases de datos y crear visualizaciones."
 author: 
   name: Félix Arias
   twitter: cibermensaje

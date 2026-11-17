@@ -4,9 +4,7 @@ title: "César Fieiras, investigador sobre IA y periodismo: «El criterio
   profesional es la principal capacidad que hemos de potenciar en el uso de la
   IA, junto con la adaptabilidad al cambio»"
 slug: cesar-fieiras-criterio-profesional-ia
-description: Entrevista con César Fieiras, autor de «IA, innovación y medios.
-  150 entrevistas para comprender el cambio», sobre gobernanza de la IA,
-  competencias periodísticas y su proyecto para medios pequeños y medianos.
+description: "Entrevista con César Fieiras, autor de «IA, innovación y medios», sobre gobernanza de la IA, competencias periodísticas y su proyecto XornalIA."
 author:
   name: Jose A. García Avilés
 ---

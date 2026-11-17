@@ -2,6 +2,7 @@
 layout: post
 title: Publicaciones destacadas de 2025 sobre innovación periodística que pueden
   inspirar a los profesionales
+description: "Diez artículos académicos de 2025 sobre innovación periodística, resumidos para la práctica: IA generativa, cultura de aprendizaje, colaboración y bienestar."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

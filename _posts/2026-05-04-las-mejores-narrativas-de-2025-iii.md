@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Las mejores narrativas de 2025 (III)
+description: "Tercera entrega de las mejores narrativas de 2025, centrada en datos: Reuters sobre Corea del Norte, los pisos turísticos de España y The Pudding."
 author:
   name: Jose A. García Avilés
 ---

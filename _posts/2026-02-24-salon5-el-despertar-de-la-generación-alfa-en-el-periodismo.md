@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Salon5: el despertar de la Generación Alfa en el periodismo "
+description: "Salon5, la redacción juvenil de Correctiv, forma a adolescentes alemanes para contar noticias a su generación en TikTok y podcasts."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

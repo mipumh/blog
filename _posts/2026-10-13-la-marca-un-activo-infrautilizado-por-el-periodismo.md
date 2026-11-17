@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La marca, un activo infrautilizado por el periodismo
+description: "Por qué los medios infrautilizan su marca y cómo trabajarla para ganar credibilidad y vínculo, con los casos de The Economist, The Atlantic y El País."
 author:
   name: Cristian R. Marín
 ---

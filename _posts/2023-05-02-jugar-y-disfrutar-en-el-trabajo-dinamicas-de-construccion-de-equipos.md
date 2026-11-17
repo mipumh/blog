@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jugar y disfrutar en el trabajo: dinámicas de construcción de equipos"
+description: "Siete dinámicas para aprender a trabajar en equipo jugando: ¿Me conoces?, la técnica 6.3.5, la isla desierta, el campo de minas o el puzle."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

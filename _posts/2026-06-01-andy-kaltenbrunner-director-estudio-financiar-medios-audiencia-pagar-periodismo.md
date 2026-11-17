@@ -3,6 +3,7 @@ layout: post
 title: "Andy Kaltenbrunner, director de un estudio sobre cómo financiar los
   medios: “El mercado debe convencer a la audiencia de por qué debería pagar por
   el periodismo. Y el sector público puede apoyar este esfuerzo”"
+description: "Entrevista con Andy Kaltenbrunner, autor del informe sobre la financiación del periodismo en Austria: ayudas públicas, transparencia y pago por noticias."
 author:
   name: Jose A. García Avilés
 ---

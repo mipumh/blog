@@ -2,6 +2,7 @@
 layout: post
 title: "María Sánchez Díez, editora senior de narrativas digitales y formación
   (The New York Times): “En los medios hemos de perder el miedo a equivocarnos”"
+description: "Entrevista con María Sánchez Díez, editora de narrativas digitales y formación en The New York Times: cómo trabaja la redacción, proyectos fallidos y consejos."
 author:
   name: Jose A. García Avilés
 ---

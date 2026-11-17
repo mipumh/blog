@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Qué podemos aprender de los medios más innovadores
+description: "Lo que enseñan Nexo Jornal, El Observador y Pictoline sobre innovar a partir de las necesidades de los lectores: formatos, flujos, distribución y estrategia."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

@@ -2,6 +2,7 @@
 layout: post
 title: "Antonio Delgado, cofundador de DATADISTA: “Es muy importante poner
   nombre y rostro a las historias que hay detrás de un Excel”"
+description: "Entrevista con Antonio Delgado en los diez años de DATADISTA: cómo investigan con datos, el uso de la IA y por qué poner nombre y rostro a las cifras."
 author:
   name: Jose A. García Avilés
 ---

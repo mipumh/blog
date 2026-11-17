@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Las mejores narrativas de 2025 (y IV)
+description: "Última entrega de las mejores narrativas de 2025: los centros de datos de IA en Bloomberg, las fosas de la Guerra Civil en RTVE y el mapa del calor en España."
 author:
   name: Jose A. García Avilés
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "El contenido ya no es el solista: 8 claves para analizar la experiencia
   de usuario de un proyecto periodístico"
+description: "Ocho claves para analizar la experiencia de usuario de un proyecto periodístico: recorrido, personalización, búsqueda, accesibilidad y voz del usuario."
 author:
   name: Cristian R. Marín
   twitter: crms74

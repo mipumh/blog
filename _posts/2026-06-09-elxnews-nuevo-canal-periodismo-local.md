@@ -2,6 +2,7 @@
 layout: post
 title: "Elxnews: un nuevo canal de periodismo local que entiende cómo quiere
   informarse la ciudadanía"
+description: "Elxnews informa a los vecinos de Elche por WhatsApp y supera los 2.000 suscriptores. Así funciona el medio hiperlocal del fundador de Pamplonews."
 author:
   name: Jose A. García Avilés
 ---

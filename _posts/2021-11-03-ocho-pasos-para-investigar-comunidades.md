@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ocho pasos para investigar comunidades"
+description: "Guía en ocho pasos para investigar una comunidad y sus necesidades antes de lanzar un proyecto periodístico, de los objetivos a la propuesta final."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

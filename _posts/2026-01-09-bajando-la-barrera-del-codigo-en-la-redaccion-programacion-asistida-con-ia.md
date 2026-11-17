@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bajando la barrera del código en la redacción: programación asistida con IA para un mejor periodismo"
+description: "Félix Arias explica cómo la programación asistida con IA, del vibe coding a los agentes, abre el código a periodistas que no son desarrolladores."
 author: 
   name: Félix Arias
   twitter: cibermensaje

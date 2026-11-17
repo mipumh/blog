@@ -2,6 +2,7 @@
 layout: post
 title: "José Antonio Cortés Quesada, experto en audiencias: “Vivimos una
   transición hacia métricas de atención y emoción”"
+description: "Entrevista con José Antonio Cortés Quesada (UNIR) sobre el paso de la televisión lineal a las plataformas y las métricas de atención y emoción."
 author:
   name: Alicia de Lara
   twitter: porqueeeyo

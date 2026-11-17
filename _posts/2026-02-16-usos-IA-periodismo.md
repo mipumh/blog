@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Trabajo pesado y trabajo pensado: ¿Cómo mantener el aura en el periodismo usando la IA?"
+description: "La IA acelera el trabajo pesado del periodismo, de transcribir a limpiar datos. Miguel Carvajal defiende que el valor está en el trabajo pensado."
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_

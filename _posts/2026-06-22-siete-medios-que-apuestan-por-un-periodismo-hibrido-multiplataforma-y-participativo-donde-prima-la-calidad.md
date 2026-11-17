@@ -2,6 +2,7 @@
 layout: post
 title: Siete medios que apuestan por un periodismo híbrido, multiplataforma y
   participativo donde prima la calidad
+description: "Siete medios nativos que innovan con formatos y comunidad: Straight Arrow News, Konbini, Le Crayon, Les Jours, CIPER, Minuto 60 y La Voz de Guanacaste."
 author:
   name: Jose A. García Avilés
 ---

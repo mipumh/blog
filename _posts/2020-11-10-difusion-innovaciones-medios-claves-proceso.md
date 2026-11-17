@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La difusión de las innovaciones en los medios de comunicación: claves de un proceso"
+description: "Qué es la teoría de la difusión de innovaciones de Everett Rogers y qué enseñan los estudios sobre cómo los medios adoptan cambios con éxito."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

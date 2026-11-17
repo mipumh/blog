@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Las mejores narrativas de 2025 (II)
+description: "Segunda entrega de las mejores narrativas de 2025: los aranceles de Trump en The Washington Post, el cónclave en La Vanguardia y piezas de The Pudding."
 author:
   name: Jose A. García Avilés
 ---

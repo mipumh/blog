@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Desinformación visual: cómo detectar imágenes falsas o manipuladas"
+description: "Cómo detectar imágenes falsas, manipuladas o descontextualizadas: búsqueda inversa con TinEye o Google Imágenes y pistas para reconocer deepfakes."
 author:
   name: Alba García Ortega
   twitter: albagortega

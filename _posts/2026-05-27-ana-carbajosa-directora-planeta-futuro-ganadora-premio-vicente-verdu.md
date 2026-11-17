@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ana Carbajosa, directora de Planeta Futuro (El País): “La innovación está en el proceso, en el cómo lo hacemos: al lector hay que ganárselo con el pico y la pala"
+description: "Entrevista con Ana Carbajosa, directora de Planeta Futuro (El País), sobre el reportaje de la ropa usada que ganó el Premio Vicente Verdú y su método."
 author:
   name: Miguel Carvajal
 ---

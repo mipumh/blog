@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Narrar para conectar: el futuro de las nuevas narrativas"
+description: "Sara I. Belled, Iker Barinaga, Sara Pérez-Seijo y Ana Sofía Paiva explican por qué las nuevas narrativas buscan conexión más que tecnología."
 author:
   name: Alba García Ortega
   twitter: albagortega

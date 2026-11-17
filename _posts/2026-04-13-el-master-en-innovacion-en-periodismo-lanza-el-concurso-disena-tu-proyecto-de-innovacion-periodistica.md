@@ -10,6 +10,7 @@ tags:
   - concurso
   - estudiantes
   - emprendimiento
+description: "Bases del concurso «Diseña tu proyecto de innovación periodística» del Máster en Innovación en Periodismo (UMH) para estudiantes de Periodismo de toda España."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

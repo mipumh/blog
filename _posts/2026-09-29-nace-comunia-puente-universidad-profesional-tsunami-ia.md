@@ -2,6 +2,7 @@
 layout: post
 share_image: 001/comunia-cartel-16-octubre.jpg
 title: "Nace ComunIA, un puente entre la universidad y el profesional ante el tsunami de la IA"
+description: "La Universidad Miguel Hernández abre ComunIA, centro de comunicación e inteligencia artificial: formación práctica, jornadas y una comunidad para profesionales."
 author:
   name: Félix Arias
 ---

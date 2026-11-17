@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Las mejores narrativas periodísticas de 2025 (I)
+description: "Primera entrega de las mejores narrativas periodísticas de 2025: reconstrucción 3D, sonido y gamificación en The New York Times, El Confidencial y Reuters."
 author:
   name: Jose A. García Avilés
 ---

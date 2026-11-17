@@ -2,6 +2,7 @@
 layout: post
 title: Doce proyectos de siete universidades españolas, premiados en el concurso
   “Diseña tu proyecto de innovación periodística” del MIP
+description: "Los doce proyectos de estudiantes de siete universidades premiados en el concurso «Diseña tu proyecto de innovación periodística» del MIP."
 author:
   name: Cristian R. Marín
 ---

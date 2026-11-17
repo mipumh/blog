@@ -2,6 +2,7 @@
 layout: post
 title: Huesca o la obstinación por contar el mundo
 subtitle: Crónica del congreso donde los periodistas se reúnen para preguntarse cómo seguir siendo relevantes
+description: "Crónica del XXVII Congreso de Periodismo de Huesca: el premio a María Sánchez Díez (The New York Times), la proximidad y el cuidado del periodista."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

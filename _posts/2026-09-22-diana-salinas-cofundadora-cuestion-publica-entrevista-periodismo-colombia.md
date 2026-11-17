@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diana Salinas, cofundadora de Cuestión Pública: “La IA es para el periodismo de investigación basado en datos como un Ferrari. Yo les digo a los míos: llegó la hora de montarnos en el Ferrari”"
+description: "Entrevista con Diana Salinas, cofundadora de Cuestión Pública: seguir el dinero con datos, el estilo pop del medio colombiano y la IA en la investigación."
 author:
   name: Miguel Carvajal
 ---

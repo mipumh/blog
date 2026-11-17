@@ -5,6 +5,7 @@ title: "Un reportaje sobre dónde va la ropa de los contenedores, publicado en
 subtitle: "Trabajos de ‘El Confidencial’ y ‘Datadista’ obtienen sendos accésits
   / El certamen convocado por la Asociación de Informadores de Elche ha recibido
   37 candidaturas de medios españoles y ‘The Washington Post’    "
+description: "Un reportaje de El País sobre el destino de la ropa usada gana el VI Premio Vicente Verdú. El Confidencial y DATADISTA logran los accésits."
 author:
   name: Miguel Carvajal
 ---

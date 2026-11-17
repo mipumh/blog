@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nacho Cardero (director, El Confidencial): “Nuestra labor de información se ha visto atacada por el poder político; sufrimos un vacío desde la Moncloa por los casos de corrupción que afectan al ejecutivo”"
+description: "Entrevista con Nacho Cardero, director de El Confidencial, sobre su modelo de suscripción y las presiones del Gobierno tras publicar casos de corrupción."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

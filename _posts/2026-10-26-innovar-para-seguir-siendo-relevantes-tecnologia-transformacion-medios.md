@@ -2,6 +2,7 @@
 layout: post
 title: Innovar para seguir siendo relevantes. La tecnología como motor de
   transformación de los medios de comunicación
+description: "David Corral repasa cómo la tecnología transforma los medios más allá de la IA: conectividad, audiencias, inversión, formación y alfabetización mediática."
 author:
   name: David Corral
 ---

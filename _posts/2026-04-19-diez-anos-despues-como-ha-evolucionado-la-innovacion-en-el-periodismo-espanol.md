@@ -2,6 +2,7 @@
 layout: post
 title: "Diez años después: cómo ha evolucionado la innovación en el periodismo
   español"
+description: "La reedición del Ranking de Innovación Periodística de la UMH (2015-2023): innovar ya es estrategia en los medios españoles, sobre todo en distribución."
 author:
   name: Jose María Valero
   image: chema.webp

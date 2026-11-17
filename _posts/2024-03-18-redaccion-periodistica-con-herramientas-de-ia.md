@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Redacción periodística con herramientas de IA: para qué sí y para qué no"
+description: "Para qué sirve y para qué no la IA en la redacción periodística: cuatro tareas en las que ayuda, sus límites actuales y ejemplos de medios que ya la utilizan."
 author:
   name: Alicia de Lara
   twitter: porqueeeyo

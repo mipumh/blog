@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Hacia dónde van los labs de medios? La alternativa es transformación o cierre
+description: "Una investigación en seis países sobre doce labs de medios europeos, entre ellos los de RTVE y El Confidencial: qué innovan, sus límites y su futuro."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

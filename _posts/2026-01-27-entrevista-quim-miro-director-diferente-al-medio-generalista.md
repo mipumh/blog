@@ -3,6 +3,7 @@ layout: post
 title: "Quim Miró, director editorial de Comunicació 21: “Si quieres crecer, encuentra una
   comunidad a la que ofrecerle un contenido diferente al de los medios
   generalistas”"
+description: "Entrevista con Quim Miró, director editorial de Comunicació 21, sobre especialización, periodismo local, vías de ingresos y la llegada de la IA."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

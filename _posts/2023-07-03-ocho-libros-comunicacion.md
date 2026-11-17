@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ocho libros que te ayudarán a llevar tu comunicación a otro nivel
+description: "Ocho libros para comunicar mejor, de Mario Tascón a Kiko Llaneras y Carmine Gallo: presentaciones, storytelling, escritura y comunicación no verbal."
 author:
   name: Jose A. García Avilés
   twitter: jagaraviles

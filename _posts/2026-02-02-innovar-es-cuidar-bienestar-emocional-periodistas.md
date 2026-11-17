@@ -2,6 +2,7 @@
 layout: post
 title: "Innovar también es cuidar: el bienestar emocional de los periodistas en
   un contexto de cambio"
+description: "Una revisión de 15 estudios sobre el bienestar emocional de los periodistas concluye que protegerlo es responsabilidad de los medios, no solo del profesional."
 author:  
   name: Jose María Valero
   twitter: josvap
