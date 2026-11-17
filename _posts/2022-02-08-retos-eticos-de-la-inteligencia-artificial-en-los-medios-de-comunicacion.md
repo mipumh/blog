@@ -83,7 +83,7 @@ Además de afirmar el compromiso periodístico con la verdad, la transparencia c
 
 ![]({{ site.baseurl }}/images/shots/foto_3alexa-steinbrück-_-better-images-of-ai-_-explainable-ai-_-cc-by-4.0-1-.jpeg)
 
-Alexa Steinbrück / Better Images of AI / Explainable AI / CC-BY 4.0
+*Alexa Steinbrück / Better Images of AI / Explainable AI / CC-BY 4.0*
 
 ### **Personalización que convive con la diversidad y promueve la salud de la esfera pública**
 

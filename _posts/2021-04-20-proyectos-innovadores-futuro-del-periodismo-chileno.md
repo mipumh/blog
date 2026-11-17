@@ -75,7 +75,7 @@ Dos hitos han marcado la trayectoria de algunos de estos proyectos:
 
 ![]({{ site.baseurl }}/images/shots/equipo-de-verificachile.jpg)
 
-Equipo de Verifica Chile.
+*Equipo de Verifica Chile.*
 
 **[Acheck.](https://acheck.cl/)** Algunos de los fact-checkers chilenos crearon la Asociación de Verificadoras y Verificadores de Chile, que busca fortalecer ese campo de trabajo periodístico, unir fuerzas contra la desinformación y desarrollar proyectos en función de que la ciudadanía cuente con información de calidad. La primera iniciativa de la Asociación es la [Guía Acheck](https://acheck.cl/wp-content/uploads/2021/04/Gui%CC%81a-Acheck.pdf), un documento que entrega de manera didáctica herramientas para que toda la ciudadanía pueda usar fuentes abiertas y conocer mejor a los candidatos para las próximas elecciones.
 

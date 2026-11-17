@@ -4,6 +4,7 @@ published: true
 title: The Kyiv Independent, la redacción que nació de un portazo y sobrevivió a
   una guerra
 slug: kyiv-ucrania-innovacion-periodismo
+description: "Periodistas despedidos por un oligarca fundaron The Kyiv Independent, hoy con 36.000 suscriptores: su modelo de membresía y cinco lecciones para emprender."
 author:
   name: Jose A. García Avilés
 ---
@@ -11,7 +12,7 @@ A las cuatro de la madrugada del 24 de febrero de 2022, cuando los primeros misi
 
 ![](/blog/images/001/daryna-y-olga.jpg)
 
-Daryna Shevchenko, CEO del Kyiv Independent, (izquierda) y Olga Rudenko, directora.
+*Daryna Shevchenko, CEO del Kyiv Independent, (izquierda) y Olga Rudenko, directora.*
 
 
 

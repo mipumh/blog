@@ -1,0 +1,17 @@
+{%- comment -%}
+Marca como pie de foto (class="pie-foto") los párrafos escritos enteros en cursiva:
+<p><em>…</em></p> o <p><em>…</em>.</p>. El CSS solo los reduce si van justo después de una imagen.
+Uso: {% include _pies-foto.html html=cuerpo %}
+{%- endcomment -%}
+{%- assign trozos = include.html | split: "<p><em>" -%}
+{%- for t in trozos -%}
+{%- if forloop.first -%}{{ t }}{%- continue -%}{%- endif -%}
+{%- assign dentro = t | split: "</p>" | first | strip -%}
+{%- assign partes = dentro | split: "</em>" -%}
+{%- assign fin = dentro | slice: -5, 5 -%}
+{%- assign resto = partes | last | strip -%}
+{%- if partes.size == 1 and fin == "</em>" -%}{%- assign entero = true -%}
+{%- elsif partes.size == 2 and resto == "." -%}{%- assign entero = true -%}
+{%- else -%}{%- assign entero = false -%}{%- endif -%}
+{%- if entero -%}<p class="pie-foto"><em>{%- else -%}<p><em>{%- endif -%}{{ t }}
+{%- endfor -%}

@@ -50,4 +50,4 @@ collections:
           - { label: "Imagen", name: "image", widget: "string", required: false }
           - { label: "Enlace", name: "link", widget: "string", required: false }
       - { label: "Imagen de portada", name: "cover_image", widget: "string", required: false, hint: "Ruta dentro de images (ej: 001/portada.jpg). No olvides el 001/" }
-      - { label: "Contenido", name: "body", widget: "markdown" }
+      - { label: "Contenido", name: "body", widget: "markdown", hint: "Pie de foto: escríbelo en cursiva, en el párrafo inmediatamente debajo de la imagen. Saldrá en letra pequeña." }

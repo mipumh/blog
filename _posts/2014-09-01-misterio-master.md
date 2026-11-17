@@ -32,4 +32,4 @@ No lo sé. Como tampoco sé en qué acabarán los míos. Pero quiero pensar que 
 
 ![]({{ site.baseurl }}/images/Perfiles_MIP/DSC_0608.jpeg "Guatemala, Julio 2012")
 
-Imagen: Guatemala, Julio 2012.
+*Imagen: Guatemala, Julio 2012.*

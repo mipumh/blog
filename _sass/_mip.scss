@@ -358,6 +358,14 @@ article {
     blockquote { border-left: 4px solid $mint; padding-left: 1rem; p { color: $ink; font-family: $fontheadings; font-weight: 700; letter-spacing: -0.02em; } }
     .title a { text-decoration: none; }
 }
+// Pies de foto: párrafo entero en cursiva justo debajo de una imagen (_includes/_pies-foto.html)
+// o cursiva pegada a la imagen en el mismo párrafo
+article section {
+    p:has(img) + p.pie-foto,
+    p > img + em, p > img + br + em, p > img + sup {
+        display: block; vertical-align: baseline; margin-top: -.6rem; font-size: .8em; line-height: 1.4; color: $muted;
+    }
+}
 .pagination { display: flex; justify-content: center; gap: .5rem; margin-top: 2rem; }
 
 // Premio Vicente Verdú: mosaico de carteles (los de mip.umh.es)

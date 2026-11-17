@@ -16,7 +16,7 @@ author:
 
 ![Imagen: Hipertexto]({{ site.baseurl }}/images/shots/hypertext_mip_umh.jpg)
 
-Imagen de [Doyle Parners](http://www.doylepartners.com/project/hypertext#about).
+*Imagen de [Doyle Parners](http://www.doylepartners.com/project/hypertext#about).*
 
 Este trabajo de investigación incluye un decálogo sobre el uso de los enlaces en los contenidos periodísticos. Contiene diez consejos. Son estos: 
 

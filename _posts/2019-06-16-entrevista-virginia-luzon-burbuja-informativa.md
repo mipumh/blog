@@ -55,7 +55,7 @@ R: Yo he llegado a decir que por Real Decreto se tendría que implementar que ca
 
 ![image alt text]({{ site.baseurl }}/images/shots/luzon_2.jpg) 
 
-Captura de pantalla de Montelab, newsgame producido por el RTVE Lab.
+*Captura de pantalla de Montelab, newsgame producido por el RTVE Lab.*
 
 **P:** Sin embargo, todavía existen muchas dudas respecto a este tipo de formatos. Hay quien piensa que el componente lúdico puede desviar la atención de la información.  
 

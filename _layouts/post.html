@@ -50,7 +50,7 @@ layout: basepost
                     {% endif %}
                     
                 <section>
-                    {{ content | lazy_load }}
+                    {% capture cuerpo %}{{ content | lazy_load }}{% endcapture %}{% include _pies-foto.html html=cuerpo %}
                     {% include _social.html %}
                 </section>
 

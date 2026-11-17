@@ -9,7 +9,7 @@ author:
 
 ![]({{site.baseurl}}/images/001/maria-sanchez-1.jpg)
 
-Imagen: Congreso de Periodismo de Huesca.
+*Imagen: Congreso de Periodismo de Huesca.*
 
 **P. Cuénteme cómo es el trabajo en el New York Times desde que surge una propuesta, una idea, hasta el resultado de una narrativa que conecta y busca la mejor manera de contar el asunto que se investiga.**
 
@@ -28,7 +28,7 @@ R. Hemos de plantearnos para qué sirve el periodismo, para qué valen los matic
 
 ![]({{site.baseurl}}/images/001/maria-sanchez-2-2-.jpg)
 
-Imagen: Congreso de Periodismo de Huesca.
+*Imagen: Congreso de Periodismo de Huesca.*
 
 **P. ¿Podría compartir un proyecto reciente del que se sienta más orgullosa y explicar por qué?**
 
@@ -49,7 +49,7 @@ Hay muchos experimentos que se abandonan, pero no pasa nada. En los medios hemos
 
 ![]({{site.baseurl}}/images/001/maria-sanchez-3.jpg)
 
-Imagen: Congreso de Periodismo de Huesca.
+*Imagen: Congreso de Periodismo de Huesca.*
 
 **P. ¿Qué medios o narrativas le llaman la atención y le inspiran?**
 

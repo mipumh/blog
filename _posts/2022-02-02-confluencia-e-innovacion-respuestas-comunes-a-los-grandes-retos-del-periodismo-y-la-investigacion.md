@@ -14,7 +14,7 @@ El periodista y quien lo investiga están más cerca que nunca. O eso me gustar�
 
 ![]({{ site.baseurl }}/images/shots/innovacon.png)
 
-Foto: Kathy Willens / AP ([The Atlantic](https://www.theatlantic.com/education/archive/2018/08/student-journalism-in-the-age-of-media-distrust/567089/))
+*Foto: Kathy Willens / AP ([The Atlantic](https://www.theatlantic.com/education/archive/2018/08/student-journalism-in-the-age-of-media-distrust/567089/))*
 
 Ambas partes tienen mucho que ganar, hay ya un buen camino recorrido y, sobre todo, se atisba un horizonte infinito. Además de extraer ideas de [las principales investigaciones científicas](https://mip.umh.es/blog/2022/01/25/que-podemos-aprender-de-las-investigaciones-internacionales-sobre-innovacion-periodi-stica-en-2021/) o de aprovechar las lecciones que nos dejan [los medios más punteros](https://mip.umh.es/blog/2021/09/29/aprender-de-medios-nativos-innovadores/), existen **grandes oportunidades y también exigencias para una mayor confluencia e innovación**.
 

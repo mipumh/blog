@@ -56,7 +56,7 @@ Recién leía hace poco [su artículo sobre los medios deportivos en su país](h
 
 ![]({{ site.baseurl }}/images/shots/janine-warner-foto-2-isoj.jpeg)
 
-Foto: International Symposium of Online Journalism (ISOJ).
+*Foto: International Symposium of Online Journalism (ISOJ).*
 
 \- **A menudo el principal obstáculo de un periodista emprendedor es lograr que una buena idea o un buen proyecto, aun contando con un diseño ajustado a unas necesidades informativas detectadas en el mercado, sea sustentable económicamente. ¿Encaminar el modelo de negocio hacia la diversificación de ingresos es quizá la clave a la hora de lograr este objetivo?**
 
