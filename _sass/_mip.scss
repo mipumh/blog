@@ -356,13 +356,13 @@ article {
     .meta {
         color: $muted; font-size: .85rem; text-transform: none; letter-spacing: 0; font-weight: 400;
         time, address { font-size: inherit; font-style: normal; margin: 0; }
+        time { font-weight: 500; }
         address, address a { color: $ink; font-weight: 600; text-decoration: none; }
         address a:hover { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 2px; text-underline-offset: 3px; }
     }
     // Igual que la firma del destacado de portada (.destacado-firma)
     .meta.firma { display: flex; align-items: center; gap: .65rem; }
     .meta.firma img.firma-foto { width: 40px; height: 40px; flex-shrink: 0; max-width: none; }
-    .lateral-entrada .meta.firma img.firma-foto { width: 32px; height: 32px; }
     .subtitle { color: $muted; font-family: $font; font-weight: 400; letter-spacing: 0; line-height: 1.35; }
     header::after { background: $mint; height: 4px; width: 2.5em; }
     blockquote { border-left: 4px solid $mint; padding-left: 1rem; p { color: $ink; font-family: $fontheadings; font-weight: 700; letter-spacing: -0.02em; } }

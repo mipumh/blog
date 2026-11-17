@@ -26,13 +26,9 @@ que viene -->
 <h2 class="lateral-etiqueta">Entradas recientes</h2>
 
 {% for post in site.posts limit: 6 %}
-{%- assign _lat_autor = nil -%}
-{%- for _a in site.data.authors -%}{%- if _a[1].name == post.author.name -%}{%- assign _lat_autor = _a[1] -%}{%- break -%}{%- endif -%}{%- endfor -%}
-{%- assign _lat_foto = _lat_autor.image | default: post.author.image -%}
 <div class="lateral-entrada">
 <h3 class="title"><a href="{{ site.baseurl }}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h3>
-            <div class="meta firma">
-                {% if _lat_foto %}<img class="firma-foto" src="{{ site.baseurl }}/images/{{ _lat_foto }}" alt="" width="32" height="32" loading="lazy" decoding="async">{% endif %}
+            <div class="meta">
                 <span><address>{{ post.author.name }}</address> · <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d/%m/%Y" }}</time></span>
             </div>
 </div>
