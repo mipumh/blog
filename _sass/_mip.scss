@@ -385,10 +385,21 @@ article section {
     color: $ink; margin: 1.5rem 0 1rem;
     &::after { content: ""; display: block; width: 2.5em; height: 3px; background: $mint; margin-top: .45rem; }
 }
-.lateral-entrada .title { font-size: 1.1rem; line-height: 1.25; margin: 0 0 .5rem; }
-// Firma del lateral como la de las tarjetas de portada (.destacados-autor): todo gris, pequeño y sin negrita
+// Entradas del lateral con las proporciones de las tarjetas de portada (.destacados-tarjeta):
+// titular compacto, firma pegada a él y filete fino entre entradas, con el aire repartido por igual
+.lateral-entrada {
+    padding: 1.1rem 0; border-top: 1px solid $line;
+    .lateral-etiqueta + & { border-top: 0; padding-top: 0; }
+}
+article .lateral-entrada .title {
+    font-size: 1.05rem; font-weight: 800; line-height: 1.22; letter-spacing: -0.015em;
+    margin: 0 0 .4rem; text-wrap: balance;
+    a { color: $ink; text-decoration: none; }
+    a:hover, a:focus-visible { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 3px; text-underline-offset: 4px; }
+}
+// Firma como la de las tarjetas de portada (.destacados-autor): todo gris, pequeño y sin negrita
 article .lateral-entrada .meta {
-    font-size: .8rem;
+    font-size: .8rem; line-height: 1.4; margin: 0;
     time, address, address a { color: $muted; font-weight: 400; }
 }
 .pagination { display: flex; justify-content: center; gap: .5rem; margin-top: 2rem; }
