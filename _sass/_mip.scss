@@ -352,20 +352,40 @@ article .firma-foto, .firma-foto { width: 48px; height: 48px; border-radius: 50%
 
 // Artículos: solo color y tipografía; la plantilla no cambia
 article {
-    .meta { color: $muted; letter-spacing: .04em; a { color: $muted; text-decoration: none; } a:hover { color: $ink; } }
+    // Firma: «Autor · fecha» sin mayúsculas, nombre en negro y fecha en gris
+    .meta {
+        color: $muted; font-size: .85rem; text-transform: none; letter-spacing: 0; font-weight: 400;
+        time, address { font-size: inherit; font-style: normal; margin: 0; }
+        address, address a { color: $ink; font-weight: 600; text-decoration: none; }
+        address a:hover { text-decoration: underline; text-decoration-color: $mint; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+    }
+    // Igual que la firma del destacado de portada (.destacado-firma)
+    .meta.firma { display: flex; align-items: center; gap: .65rem; }
+    .meta.firma img.firma-foto { width: 40px; height: 40px; flex-shrink: 0; max-width: none; }
+    .lateral-entrada .meta.firma img.firma-foto { width: 32px; height: 32px; }
     .subtitle { color: $muted; font-family: $font; font-weight: 400; letter-spacing: 0; line-height: 1.35; }
     header::after { background: $mint; height: 4px; width: 2.5em; }
     blockquote { border-left: 4px solid $mint; padding-left: 1rem; p { color: $ink; font-family: $fontheadings; font-weight: 700; letter-spacing: -0.02em; } }
     .title a { text-decoration: none; }
 }
 // Pies de foto: párrafo entero en cursiva justo debajo de una imagen (_includes/_pies-foto.html)
-// o cursiva pegada a la imagen en el mismo párrafo
+// o cursiva / <sup> pegados a la imagen en el mismo párrafo
 article section {
+    p:has(img):has(+ p.pie-foto) { margin-bottom: 0; }
+    p:has(img):has(+ p.pie-foto) img, p > img:has(+ em, + sup, + br + em) { display: block; margin-bottom: .5rem; }
     p:has(img) + p.pie-foto,
     p > img + em, p > img + br + em, p > img + sup {
-        display: block; vertical-align: baseline; margin-top: -.6rem; font-size: .8em; line-height: 1.4; color: $muted;
+        display: block; vertical-align: baseline; margin-top: 0; font-size: .75rem; line-height: 1.4; color: $muted;
     }
+    p > img + br { display: none; }
 }
+// Barra lateral: «Entradas recientes» como etiqueta, no como titular
+.lateral-etiqueta {
+    font-family: $font; font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em;
+    color: $ink; margin: 1.5rem 0 1rem;
+    &::after { content: ""; display: block; width: 2.5em; height: 3px; background: $mint; margin-top: .45rem; }
+}
+.lateral-entrada .title { font-size: 1.1rem; line-height: 1.25; margin: 0 0 .5rem; }
 .pagination { display: flex; justify-content: center; gap: .5rem; margin-top: 2rem; }
 
 // Premio Vicente Verdú: mosaico de carteles (los de mip.umh.es)

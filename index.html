@@ -31,7 +31,7 @@ layout: base
                     {% if _resumen == "" %}{% assign _resumen = post.content | strip_html | strip %}{% endif %}
                     <p class="entrada-resumen">{{ _resumen | truncatewords: 40 }}</p>
                     <div class="meta">
-                        <address>{{ _author_name }}</address> &mdash;
+                        <address>{{ _author_name }}</address> ·
                         <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d/%m/%Y" }}</time>
                     </div>
                 </section>

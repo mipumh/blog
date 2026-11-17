@@ -31,17 +31,12 @@ layout: basepost
                 <header>
                     <h1 class="title">{{ page.title }}</h1>
                     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-                    <div class="meta">
-                    {% if page.periscopio == "si" %}
-
-                        {% else %}
-
-                        <address><a rel="author" href="{{ author_link }}" title="{{ author_name }}" target="_blank">{{ author_name }}</a> &mdash;
-                        <time pubdate datetime="{{ page.date | date: "%d/%m/%Y" }}" title="{{ page.date | date: "%d/%m/%Y" }}">{{ page.date | date: "%d/%m/%Y" }}</time></address>
-
-                    {% endif %}
-
+                    {% unless page.periscopio == "si" %}
+                    <div class="meta firma">
+                        {% if author_image %}<img class="firma-foto" src="{{ site.baseurl }}/images/{{ author_image }}" alt="" width="40" height="40" decoding="async">{% endif %}
+                        <span><address>{% if author_link %}<a rel="author noopener" href="{{ author_link }}" target="_blank">{{ author_name }}</a>{% else %}{{ author_name }}{% endif %}</address> · <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%d/%m/%Y" }}</time></span>
                     </div>
+                    {% endunless %}
 
                 </header>
 
