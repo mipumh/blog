@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: The Kyiv Independent, la redacción que nació de un portazo y sobrevivió a
   una guerra
-slug: kyev-ucrania-innovacion-periodismo
+slug: kyiv-ucrania-innovacion-periodismo
 author:
   name: Jose A. García Avilés
 ---
@@ -11,17 +11,17 @@ A las cuatro de la madrugada del 24 de febrero de 2022, cuando los primeros misi
 
 ![](/blog/images/001/daryna-y-olga.jpg)
 
-Daryna Shevchenko, CEO del Kyev Independent, (izquierda) y Olga Rudenko, directora.
+Daryna Shevchenko, CEO del Kyiv Independent, (izquierda) y Olga Rudenko, directora.
 
 
 
-En 2025 tuve ocasión de entrevistar a **Daryna Shevchenko**, directora ejecutiva (CEO) del Kyev Independent, para mi libro “[Águilas y colibríes. Periodistas innovadores en Europa](https://aguilasycolibries.es/)”. Me sobrecogió su testimonio:
+En 2025 tuve ocasión de entrevistar a **Daryna Shevchenko**, directora ejecutiva (CEO) del Kyiv Independent, para mi libro “[Águilas y colibríes. Periodistas innovadores en Europa](https://aguilasycolibries.es/)”. Me sobrecogió su testimonio:
 “Cuando empezó la invasión, parecía que nunca más ibas a poder respirar. Es decir, te despiertas y ya está. No hay vida, no hay futuro, no hay nada. Fue aterrador. Me quedé en Kiev las dos primeras semanas de la invasión. Vivo en la parte norte de la ciudad, donde ocurría todo. Estoy a una estación de metro de mis padres, así que empaqueté mis cosas y a mi perro, y nos fuimos a casa de ellos para estar juntos. Me quedé allí dos semanas. Fue muy duro. Me di cuenta de que llevaba dos semanas sin hacer nada… sólo escuchando las explosiones. 
 
 Entonces decidí marcharme. Mis colegas también me convencieron para irme, pero mis padres no querían. Decían “nos quedamos y moriremos aquí”. Créeme, hice todo lo posible. Un par de exnovios llamaron a mis padres para intentar convencerles de que se fueran. Pero se quedaron. Gracias a Dios, soy muy resistente, así que no me derrumbo después de cada ataque aéreo. Sé que algunas personas lo hacen, pero no se puede saber cómo reaccionarás. Algunos pensaban que serían resistentes y que todo iría bien, pero no pueden soportarlo”. 
 Daryna explica cómo decidió probar cosas nuevas y arriesgar:
 
-“A los siete meses, vi que en el Kyev Independent era muy racional con los presupuestos. Me había vuelto muy exigente con lo que experimentábamos en la redacción y con lo que nos podíamos permitir. Me decía: debemos ahorrar para los peores días. Y me di cuenta de que no teníamos que hacer eso, que debíamos experimentar, usar diferentes plataformas, contratar a gente para nuestros proyectos y asociarnos con cualquier profesional del mundo para conseguir su experiencia. Me alegro de haberme dado cuenta entonces, porque si no podríamos haber perdido muchas oportunidades”.
+“A los siete meses, vi que en el Kyiv Independent era muy racional con los presupuestos. Me había vuelto muy exigente con lo que experimentábamos en la redacción y con lo que nos podíamos permitir. Me decía: debemos ahorrar para los peores días. Y me di cuenta de que no teníamos que hacer eso, que debíamos experimentar, usar diferentes plataformas, contratar a gente para nuestros proyectos y asociarnos con cualquier profesional del mundo para conseguir su experiencia. Me alegro de haberme dado cuenta entonces, porque si no podríamos haber perdido muchas oportunidades”.
 
 **De la rebelión contra un oligarca a la trinchera informativa**
 
