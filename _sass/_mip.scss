@@ -386,6 +386,11 @@ article section {
     &::after { content: ""; display: block; width: 2.5em; height: 3px; background: $mint; margin-top: .45rem; }
 }
 .lateral-entrada .title { font-size: 1.1rem; line-height: 1.25; margin: 0 0 .5rem; }
+// Firma del lateral como la de las tarjetas de portada (.destacados-autor): todo gris, pequeño y sin negrita
+article .lateral-entrada .meta {
+    font-size: .8rem;
+    time, address, address a { color: $muted; font-weight: 400; }
+}
 .pagination { display: flex; justify-content: center; gap: .5rem; margin-top: 2rem; }
 
 // Premio Vicente Verdú: mosaico de carteles (los de mip.umh.es)
