@@ -40,3 +40,8 @@ exclude:
   - admin
   - node_modules
   - CLAUDE.md
+  - README.md
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - vendor
